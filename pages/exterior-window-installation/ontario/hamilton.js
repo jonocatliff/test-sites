@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton exterior window installation | We'll Take Care Of Everything" 
-            desc="Hamilton exterior window installation: b e"
+            desc="Hamilton exterior window installation: t i"
             canonical={`${props.website}/hamilton-exterior-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton exterior window installation" //KW
-            subtitle="b e"
+            subtitle="t i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="a  "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="e l"
+            image="/window-installations.jpg"
             alt="Hamilton exterior window installation"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Hamilton exterior window installation" //KW
-            desc="s   n a"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="i   i r"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="e"
+            subtitle="Affordable Window Repair" //KW
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
+            cardDesc1=" "
             cardDesc2="e"
-            cardDesc3=" "
+            cardDesc3="e"
             />
             <Approach
             title="Hamilton exterior window installation" //KW
-            desc="u   u d"
+            desc="t s   n"
             />
             <Intro
             subtitle="Exceptional Hamilton exterior window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="i e"
-            cardDesc3=" "
+            cardDesc1="v"
+            cardDesc2="s h"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="w"
+            desc="v" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

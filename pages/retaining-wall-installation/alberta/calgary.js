@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary retaining wall installation | We'll Take Care Of Everything" 
-            desc="Calgary retaining wall installation:    "
+            desc="Calgary retaining wall installation: n  "
             canonical={`${props.website}/calgary-retaining-wall-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary retaining wall installation" //KW
-            subtitle="   "
+            subtitle="n  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="o i"
+            subtitle="High-Quality Window Cleaning"
+            desc="y i"
             image="/contractor.jpg"
             alt="Calgary retaining wall installation"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Calgary retaining wall installation" //KW
-            desc="n r e undefined"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="n t a undefined"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
-            cardDesc2="o"
-            cardDesc3="s"
+            cardDesc1="n"
+            cardDesc2="v"
+            cardDesc3="n"
             />
             <Approach
             title="Calgary retaining wall installation" //KW
-            desc="W n    "
+            desc="o e r i"
             />
             <Intro
             subtitle="Exceptional Calgary retaining wall installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
+            cardDesc1="s"
             cardDesc2="e undefined"
-            cardDesc3="l"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="i"
+            desc="l" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

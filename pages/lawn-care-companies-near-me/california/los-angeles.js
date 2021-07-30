@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles lawn care companies near me | We'll Take Care Of Everything" 
-            desc="Los Angeles lawn care companies near me: o  "
+            desc="Los Angeles lawn care companies near me: a c"
             canonical={`${props.website}/los-angeles-lawn-care-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles lawn care companies near me" //KW
-            subtitle="o  "
+            subtitle="a c"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="l t"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="P a"
+            image="/contractor.jpg"
             alt="Los Angeles lawn care companies near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles lawn care companies near me" //KW
-            desc="    s  "
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="r t e m"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc=" "
+            subtitle="Affordable Window Installations" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="v"
-            cardDesc3="t"
+            cardDesc1="l"
+            cardDesc2="c"
+            cardDesc3="n"
             />
             <Approach
             title="Los Angeles lawn care companies near me" //KW
-            desc="t   d v"
+            desc="o e   t"
             />
             <Intro
             subtitle="Exceptional Los Angeles lawn care companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="n e"
-            cardDesc3="l"
+            cardDesc1="c"
+            cardDesc2="i c"
+            cardDesc3="b"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="," //KW
-            desc2="r"
+            desc="t" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

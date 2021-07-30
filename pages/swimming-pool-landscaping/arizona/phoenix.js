@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix swimming pool landscaping | We'll Take Care Of Everything" 
-            desc="Phoenix swimming pool landscaping: d n"
+            desc="Phoenix swimming pool landscaping: i i"
             canonical={`${props.website}/phoenix-swimming-pool-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix swimming pool landscaping" //KW
-            subtitle="d n"
+            subtitle="i i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="r d"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="o p"
+            image="/window-washing.jpg"
             alt="Phoenix swimming pool landscaping"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Phoenix swimming pool landscaping" //KW
-            desc="f l i undefined"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="s r d undefined"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="g"
-            cardDesc2="r"
-            cardDesc3="n"
+            cardDesc1="o"
+            cardDesc2="o"
+            cardDesc3="r"
             />
             <Approach
             title="Phoenix swimming pool landscaping" //KW
-            desc="h i t e"
+            desc="l     s"
             />
             <Intro
             subtitle="Exceptional Phoenix swimming pool landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="y"
+            cardDesc1="r"
             cardDesc2="  undefined"
-            cardDesc3="s"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="u" //KW
-            desc2="s"
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

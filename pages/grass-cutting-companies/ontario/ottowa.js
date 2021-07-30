@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa grass cutting companies | We'll Take Care Of Everything" 
-            desc="Ottowa grass cutting companies: w s"
+            desc="Ottowa grass cutting companies: p y"
             canonical={`${props.website}/ottowa-grass-cutting-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa grass cutting companies" //KW
-            subtitle="w s"
+            subtitle="p y"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="n a"
-            image="/contractor.jpg"
+            desc="b e"
+            image="/window-installation.jpg"
             alt="Ottowa grass cutting companies"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Ottowa grass cutting companies" //KW
-            desc="e i r d"
+            desc="  o r  "
             image="/window-installations.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="i"
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="i"
             cardDesc2="d"
-            cardDesc3="c"
+            cardDesc3=" "
             />
             <Approach
             title="Ottowa grass cutting companies" //KW
-            desc="n o    "
+            desc="  r e a"
             />
             <Intro
             subtitle="Exceptional Ottowa grass cutting companies" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="n"
-            cardDesc2="  s"
-            cardDesc3="f"
+            cardDesc2="c w"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="n"
+            desc="e" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

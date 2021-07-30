@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston concrete curbing near me | We'll Take Care Of Everything" 
-            desc="Houston concrete curbing near me: i w"
+            desc="Houston concrete curbing near me: d l"
             canonical={`${props.website}/houston-concrete-curbing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston concrete curbing near me" //KW
-            subtitle="i w"
+            subtitle="d l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="o n"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="r e"
+            image="/window-washing.jpg"
             alt="Houston concrete curbing near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Houston concrete curbing near me" //KW
-            desc="n s z r"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="n l f o"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc=" "
+            subtitle="Affordable Window Services" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
+            cardDesc1=" "
             cardDesc2="i"
-            cardDesc3="J"
+            cardDesc3=" "
             />
             <Approach
             title="Houston concrete curbing near me" //KW
-            desc="e m h u"
+            desc="e o   h"
             />
             <Intro
             subtitle="Exceptional Houston concrete curbing near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="   "
-            cardDesc3="c"
+            cardDesc1="s"
+            cardDesc2="  e"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="I" //KW
-            desc2="y"
+            desc="a" //KW
+            desc2="b"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

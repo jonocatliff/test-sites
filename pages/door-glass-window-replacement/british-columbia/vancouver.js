@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver door glass window replacement | We'll Take Care Of Everything" 
-            desc="Vancouver door glass window replacement: i ’"
+            desc="Vancouver door glass window replacement: l a"
             canonical={`${props.website}/vancouver-door-glass-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver door glass window replacement" //KW
-            subtitle="i ’"
+            subtitle="l a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="e i"
+            subtitle="High-Quality Window Cleaning"
+            desc="w W"
             image="/window-installations.jpg"
             alt="Vancouver door glass window replacement"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Vancouver door glass window replacement" //KW
-            desc="r   r w"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="o o s k"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="v"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
-            cardDesc2="e"
-            cardDesc3=" "
+            cardDesc1="l"
+            cardDesc2="c"
+            cardDesc3="a"
             />
             <Approach
             title="Vancouver door glass window replacement" //KW
-            desc="    w i"
+            desc="    y r"
             />
             <Intro
             subtitle="Exceptional Vancouver door glass window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="v  "
-            cardDesc3="w"
+            cardDesc1=" "
+            cardDesc2="o k"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="i" //KW
-            desc2="g"
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

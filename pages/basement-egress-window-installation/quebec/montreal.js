@@ -33,9 +33,9 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
+            subtitle="High-Quality Window Replacement"
             desc="   "
-            image="/window-washing.jpg"
+            image="/window-installation.jpg"
             alt="Montreal basement egress window installation"
             />
             <About 
@@ -43,10 +43,10 @@
             title="Professional Montreal basement egress window installation" //KW
             desc="n l r r"
             image="/contractor.jpg"
-            alt="Window Repair"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"

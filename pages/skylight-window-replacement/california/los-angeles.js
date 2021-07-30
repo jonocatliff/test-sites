@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles skylight window replacement | We'll Take Care Of Everything" 
-            desc="Los Angeles skylight window replacement: o  "
+            desc="Los Angeles skylight window replacement: n  "
             canonical={`${props.website}/los-angeles-skylight-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles skylight window replacement" //KW
-            subtitle="o  "
+            subtitle="n  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="u u"
-            image="/contractor.jpg"
+            desc="n e"
+            image="/window-installations.jpg"
             alt="Los Angeles skylight window replacement"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Los Angeles skylight window replacement" //KW
-            desc="n l   o"
-            image="/window-washing.jpg"
+            desc="e   O r"
+            image="/contractor.jpg"
             alt="Window Services"
             />
             <Savings
             subtitle="Affordable Window Services" //KW
-            desc="a"
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="t"
-            cardDesc2="t"
-            cardDesc3="n"
+            cardDesc2="x"
+            cardDesc3="h"
             />
             <Approach
             title="Los Angeles skylight window replacement" //KW
-            desc="d o i i"
+            desc="h i   b"
             />
             <Intro
             subtitle="Exceptional Los Angeles skylight window replacement" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="e x"
-            cardDesc3="w"
+            cardDesc1=" "
+            cardDesc2="s l"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
-            desc2="r"
+            desc="c" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

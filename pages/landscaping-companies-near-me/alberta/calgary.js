@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary landscaping companies near me | We'll Take Care Of Everything" 
-            desc="Calgary landscaping companies near me: P e"
+            desc="Calgary landscaping companies near me: f  "
             canonical={`${props.website}/calgary-landscaping-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary landscaping companies near me" //KW
-            subtitle="P e"
+            subtitle="f  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="l e"
+            subtitle="High-Quality Window Installations"
+            desc="y a"
             image="/window-installation.jpg"
             alt="Calgary landscaping companies near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Calgary landscaping companies near me" //KW
-            desc="o     t"
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="o a a o"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="d"
+            subtitle="Affordable Window Installations" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="i"
-            cardDesc3="s"
+            cardDesc1="t"
+            cardDesc2="e"
+            cardDesc3="u"
             />
             <Approach
             title="Calgary landscaping companies near me" //KW
-            desc="c a d h"
+            desc="l a r w"
             />
             <Intro
             subtitle="Exceptional Calgary landscaping companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="p t"
-            cardDesc3="o"
+            cardDesc1="o"
+            cardDesc2="c  "
+            cardDesc3="u"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="i"
+            desc="h" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

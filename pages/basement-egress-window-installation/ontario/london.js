@@ -33,20 +33,20 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
+            subtitle="High-Quality Window Repair"
             desc="a t"
-            image="/contractor.jpg"
+            image="/window-installation.jpg"
             alt="London basement egress window installation"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional London basement egress window installation" //KW
             desc="o d i o"
-            image="/window-washing.jpg"
-            alt="Window Replacement"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Repair" //KW
             desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal garden landscaping | We'll Take Care Of Everything" 
-            desc="Montreal garden landscaping: e  "
+            desc="Montreal garden landscaping: e f"
             canonical={`${props.website}/montreal-garden-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal garden landscaping" //KW
-            subtitle="e  "
+            subtitle="e f"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="a e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="a p"
+            image="/window-installation.jpg"
             alt="Montreal garden landscaping"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Montreal garden landscaping" //KW
-            desc="e t m  "
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="y s r t"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="r"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="y"
-            cardDesc3=" "
+            cardDesc1="o"
+            cardDesc2="o"
+            cardDesc3="e"
             />
             <Approach
             title="Montreal garden landscaping" //KW
-            desc="a d p v"
+            desc="o   g e"
             />
             <Intro
             subtitle="Exceptional Montreal garden landscaping" //KW
@@ -66,13 +66,13 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="i i"
-            cardDesc3="a"
+            cardDesc2="c h"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="." //KW
-            desc2="y"
+            desc="r" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}

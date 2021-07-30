@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City hardscape | We'll Take Care Of Everything" 
-            desc="New York City hardscape:   o"
+            desc="New York City hardscape: c s"
             canonical={`${props.website}/new-york-city-hardscape`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City hardscape" //KW
-            subtitle="  o"
+            subtitle="c s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="n  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="n e"
+            image="/contractor.jpg"
             alt="New York City hardscape"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional New York City hardscape" //KW
-            desc="I w d o"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="e a t h"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="n"
+            subtitle="Affordable Window Replacement" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="m"
-            cardDesc3=","
+            cardDesc1="w"
+            cardDesc2="u"
+            cardDesc3="i"
             />
             <Approach
             title="New York City hardscape" //KW
-            desc="  r l  "
+            desc="  w e h"
             />
             <Intro
             subtitle="Exceptional New York City hardscape" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="t e"
-            cardDesc3="h"
+            cardDesc1="s"
+            cardDesc2="o  "
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="m"
+            desc="I" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

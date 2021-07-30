@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles weed control companies near me | We'll Take Care Of Everything" 
-            desc="Los Angeles weed control companies near me: o k"
+            desc="Los Angeles weed control companies near me:    "
             canonical={`${props.website}/los-angeles-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles weed control companies near me" //KW
-            subtitle="o k"
+            subtitle="   "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="a v"
+            subtitle="High-Quality Window Installations"
+            desc="  a"
             image="/window-installations.jpg"
             alt="Los Angeles weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles weed control companies near me" //KW
-            desc="u e e undefined"
-            image="/window-installation.jpg"
-            alt="Window Repair"
+            desc="u   b undefined"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="r"
-            cardDesc3="o"
+            cardDesc1="a"
+            cardDesc2="i"
+            cardDesc3="e"
             />
             <Approach
             title="Los Angeles weed control companies near me" //KW
-            desc="i o   f"
+            desc="      k"
             />
             <Intro
             subtitle="Exceptional Los Angeles weed control companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="i undefined"
-            cardDesc3="n"
+            cardDesc1="d"
+            cardDesc2="c undefined"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="I" //KW
-            desc2="t"
+            desc="v" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto retaining wall landscaping | We'll Take Care Of Everything" 
-            desc="Toronto retaining wall landscaping: n ,"
+            desc="Toronto retaining wall landscaping: r u"
             canonical={`${props.website}/toronto-retaining-wall-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto retaining wall landscaping" //KW
-            subtitle="n ,"
+            subtitle="r u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="r ."
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="r i"
+            image="/contractor.jpg"
             alt="Toronto retaining wall landscaping"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Toronto retaining wall landscaping" //KW
-            desc="n d f undefined"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="r u f undefined"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="c"
+            cardDesc1="i"
+            cardDesc2="r"
             cardDesc3=" "
             />
             <Approach
             title="Toronto retaining wall landscaping" //KW
-            desc="i f p e"
+            desc="h r e  "
             />
             <Intro
             subtitle="Exceptional Toronto retaining wall landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="u undefined"
-            cardDesc3="I"
+            cardDesc1="t"
+            cardDesc2="I undefined"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2=" "
+            desc="r" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

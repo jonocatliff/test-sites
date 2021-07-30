@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago landscape design services | We'll Take Care Of Everything" 
-            desc="Chicago landscape design services: e i"
+            desc="Chicago landscape design services: h e"
             canonical={`${props.website}/chicago-landscape-design-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago landscape design services" //KW
-            subtitle="e i"
+            subtitle="h e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="e o"
+            subtitle="High-Quality Window Installations"
+            desc="e w"
             image="/window-washing.jpg"
             alt="Chicago landscape design services"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Chicago landscape design services" //KW
-            desc=". r k m"
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="a e f o"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="s"
+            subtitle="Affordable Window Installations" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="x"
-            cardDesc3="t"
+            cardDesc1="o"
+            cardDesc2="c"
+            cardDesc3="f"
             />
             <Approach
             title="Chicago landscape design services" //KW
-            desc="f w n  "
+            desc="w o e h"
             />
             <Intro
             subtitle="Exceptional Chicago landscape design services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="  d"
-            cardDesc3="o"
+            cardDesc1=" "
+            cardDesc2="  u"
+            cardDesc3="I"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="W" //KW
-            desc2="e"
+            desc=" " //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -33,20 +33,20 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
+            subtitle="High-Quality Window Cleaning"
             desc="I  "
-            image="/contractor.jpg"
+            image="/window-installation.jpg"
             alt="Philadelphia basement egress window installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Philadelphia basement egress window installation" //KW
             desc="t a r o"
-            image="/window-installation.jpg"
-            alt="Window Repair"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

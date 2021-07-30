@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary basement egress window replacement | We'll Take Care Of Everything" 
-            desc="Calgary basement egress window replacement: n r"
+            desc="Calgary basement egress window replacement: y h"
             canonical={`${props.website}/calgary-basement-egress-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary basement egress window replacement" //KW
-            subtitle="n r"
+            subtitle="y h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="n  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="r i"
+            image="/contractor.jpg"
             alt="Calgary basement egress window replacement"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Calgary basement egress window replacement" //KW
-            desc="o s w x"
+            desc="n t t r"
             image="/window-washing.jpg"
-            alt="Window Repair"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="r"
+            subtitle="Affordable Window Replacement" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="d"
-            cardDesc2="n"
-            cardDesc3="n"
+            cardDesc1="e"
+            cardDesc2="r"
+            cardDesc3="a"
             />
             <Approach
             title="Calgary basement egress window replacement" //KW
-            desc="n x r t"
+            desc="v   , a"
             />
             <Intro
             subtitle="Exceptional Calgary basement egress window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="n ,"
-            cardDesc3="n"
+            cardDesc1="i"
+            cardDesc2="v f"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="n"
+            desc="i" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

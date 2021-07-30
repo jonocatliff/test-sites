@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London best landscape designers | We'll Take Care Of Everything" 
-            desc="London best landscape designers: r s"
+            desc="London best landscape designers: b n"
             canonical={`${props.website}/london-best-landscape-designers`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London best landscape designers" //KW
-            subtitle="r s"
+            subtitle="b n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="b t"
-            image="/contractor.jpg"
+            desc="r k"
+            image="/window-installations.jpg"
             alt="London best landscape designers"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional London best landscape designers" //KW
-            desc="  s o s"
-            image="/window-installations.jpg"
+            desc="s d    "
+            image="/window-installation.jpg"
             alt="Window Services"
             />
             <Savings
             subtitle="Affordable Window Services" //KW
-            desc="e"
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="o"
-            cardDesc3="n"
+            cardDesc1="y"
+            cardDesc2="c"
+            cardDesc3="i"
             />
             <Approach
             title="London best landscape designers" //KW
-            desc=". r e  "
+            desc="f u d e"
             />
             <Intro
             subtitle="Exceptional London best landscape designers" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="v"
-            cardDesc2="r s"
-            cardDesc3="l"
+            cardDesc1="o"
+            cardDesc2="e p"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
+            desc="n" //KW
             desc2="d"
             />
             <Footer 

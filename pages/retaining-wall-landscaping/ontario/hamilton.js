@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton retaining wall landscaping | We'll Take Care Of Everything" 
-            desc="Hamilton retaining wall landscaping: t w"
+            desc="Hamilton retaining wall landscaping: e v"
             canonical={`${props.website}/hamilton-retaining-wall-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton retaining wall landscaping" //KW
-            subtitle="t w"
+            subtitle="e v"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="o p"
+            subtitle="High-Quality Window Replacement"
+            desc="  e"
             image="/window-installations.jpg"
             alt="Hamilton retaining wall landscaping"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Hamilton retaining wall landscaping" //KW
-            desc="y o s undefined"
+            desc="r   s undefined"
             image="/contractor.jpg"
-            alt="Window Repair"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2=" "
-            cardDesc3="e"
+            cardDesc1="s"
+            cardDesc2="i"
+            cardDesc3="n"
             />
             <Approach
             title="Hamilton retaining wall landscaping" //KW
-            desc="a t j e"
+            desc="o o   h"
             />
             <Intro
             subtitle="Exceptional Hamilton retaining wall landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="m"
-            cardDesc2="l undefined"
-            cardDesc3="r"
+            cardDesc1="r"
+            cardDesc2="r undefined"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2="d"
+            desc="v" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

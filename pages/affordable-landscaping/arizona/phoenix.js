@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix affordable landscaping | We'll Take Care Of Everything" 
-            desc="Phoenix affordable landscaping: t  "
+            desc="Phoenix affordable landscaping: o d"
             canonical={`${props.website}/phoenix-affordable-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix affordable landscaping" //KW
-            subtitle="t  "
+            subtitle="o d"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="a t"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="o f"
+            image="/window-installation.jpg"
             alt="Phoenix affordable landscaping"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Phoenix affordable landscaping" //KW
-            desc="a   p  "
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="g e m  "
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc=" "
+            subtitle="Affordable Window Cleaning" //KW
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="o"
-            cardDesc3="a"
+            cardDesc1="a"
+            cardDesc2="e"
+            cardDesc3="c"
             />
             <Approach
             title="Phoenix affordable landscaping" //KW
-            desc="s i t e"
+            desc="e o n o"
             />
             <Intro
             subtitle="Exceptional Phoenix affordable landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="l w"
-            cardDesc3="h"
+            cardDesc1="m"
+            cardDesc2="O o"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2=" "
+            desc="u" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

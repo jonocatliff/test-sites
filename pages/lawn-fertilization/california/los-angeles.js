@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles lawn fertilization | We'll Take Care Of Everything" 
-            desc="Los Angeles lawn fertilization: a  "
+            desc="Los Angeles lawn fertilization: a r"
             canonical={`${props.website}/los-angeles-lawn-fertilization`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles lawn fertilization" //KW
-            subtitle="a  "
+            subtitle="a r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="v n"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="o e"
+            image="/contractor.jpg"
             alt="Los Angeles lawn fertilization"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles lawn fertilization" //KW
-            desc="e r n o"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="e d n o"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="r"
+            subtitle="Affordable Window Replacement" //KW
+            desc="k"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
-            cardDesc2="b"
-            cardDesc3="t"
+            cardDesc1="s"
+            cardDesc2="t"
+            cardDesc3="s"
             />
             <Approach
             title="Los Angeles lawn fertilization" //KW
-            desc="t   n a"
+            desc="g i    "
             />
             <Intro
             subtitle="Exceptional Los Angeles lawn fertilization" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="i o"
-            cardDesc3="f"
+            cardDesc1="t"
+            cardDesc2="t y"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="n"
+            desc="r" //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

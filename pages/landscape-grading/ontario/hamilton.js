@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton landscape grading | We'll Take Care Of Everything" 
-            desc="Hamilton landscape grading: d r"
+            desc="Hamilton landscape grading: l n"
             canonical={`${props.website}/hamilton-landscape-grading`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton landscape grading" //KW
-            subtitle="d r"
+            subtitle="l n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="w e"
+            subtitle="High-Quality Window Cleaning"
+            desc="  t"
             image="/window-installations.jpg"
             alt="Hamilton landscape grading"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Hamilton landscape grading" //KW
-            desc="c o f s"
+            desc="o o o g"
             image="/contractor.jpg"
-            alt="Window Repair"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="n"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="v"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
-            cardDesc2="c"
-            cardDesc3="n"
+            cardDesc2="d"
+            cardDesc3=" "
             />
             <Approach
             title="Hamilton landscape grading" //KW
-            desc="r   v O"
+            desc="r o y s"
             />
             <Intro
             subtitle="Exceptional Hamilton landscape grading" //KW
@@ -65,9 +65,9 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="p l"
-            cardDesc3="t"
+            cardDesc1="w"
+            cardDesc2="t  "
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

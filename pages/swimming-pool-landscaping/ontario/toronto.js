@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto swimming pool landscaping | We'll Take Care Of Everything" 
-            desc="Toronto swimming pool landscaping: n o"
+            desc="Toronto swimming pool landscaping: I o"
             canonical={`${props.website}/toronto-swimming-pool-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto swimming pool landscaping" //KW
-            subtitle="n o"
+            subtitle="I o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="l e"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="l l"
+            image="/window-washing.jpg"
             alt="Toronto swimming pool landscaping"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Toronto swimming pool landscaping" //KW
-            desc="e o t undefined"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="  a r undefined"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="n"
-            cardDesc3="s"
+            cardDesc1="l"
+            cardDesc2=" "
+            cardDesc3="l"
             />
             <Approach
             title="Toronto swimming pool landscaping" //KW
-            desc="o   n p"
+            desc="o f i  "
             />
             <Intro
             subtitle="Exceptional Toronto swimming pool landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="l"
-            cardDesc2="o undefined"
+            cardDesc1="n"
+            cardDesc2="l undefined"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="o"
+            desc="e" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

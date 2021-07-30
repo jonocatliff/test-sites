@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix lawn weed control service | We'll Take Care Of Everything" 
-            desc="Phoenix lawn weed control service: o  "
+            desc="Phoenix lawn weed control service: t d"
             canonical={`${props.website}/phoenix-lawn-weed-control-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix lawn weed control service" //KW
-            subtitle="o  "
+            subtitle="t d"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="d p"
+            subtitle="High-Quality Window Installations"
+            desc="  n"
             image="/contractor.jpg"
             alt="Phoenix lawn weed control service"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Phoenix lawn weed control service" //KW
-            desc="n t m  "
-            image="/window-installations.jpg"
-            alt="Window Repair"
+            desc="  v .  "
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="t"
+            subtitle="Affordable Window Installations" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="w"
-            cardDesc3="i"
+            cardDesc1="p"
+            cardDesc2="i"
+            cardDesc3="a"
             />
             <Approach
             title="Phoenix lawn weed control service" //KW
-            desc="d   e w"
+            desc="i   x a"
             />
             <Intro
             subtitle="Exceptional Phoenix lawn weed control service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="  n"
-            cardDesc3="o"
+            cardDesc1="s"
+            cardDesc2="   "
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2=" "
+            desc="y" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

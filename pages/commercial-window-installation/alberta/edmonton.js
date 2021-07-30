@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton commercial window installation | We'll Take Care Of Everything" 
-            desc="Edmonton commercial window installation: a n"
+            desc="Edmonton commercial window installation: o a"
             canonical={`${props.website}/edmonton-commercial-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton commercial window installation" //KW
-            subtitle="a n"
+            subtitle="o a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r v"
+            subtitle="High-Quality Window Services"
+            desc="p n"
             image="/window-installations.jpg"
             alt="Edmonton commercial window installation"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Edmonton commercial window installation" //KW
-            desc="r u   ."
+            desc="n s e y"
             image="/window-installation.jpg"
-            alt="Window Installations"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="u"
+            subtitle="Affordable Window Services" //KW
+            desc="p"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="i"
-            cardDesc3="n"
+            cardDesc1="i"
+            cardDesc2="p"
+            cardDesc3="e"
             />
             <Approach
             title="Edmonton commercial window installation" //KW
-            desc="p i o u"
+            desc="l o k b"
             />
             <Intro
             subtitle="Exceptional Edmonton commercial window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="r F"
-            cardDesc3="s"
+            cardDesc1="e"
+            cardDesc2="o a"
+            cardDesc3=","
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
-            desc2="n"
+            desc="P" //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

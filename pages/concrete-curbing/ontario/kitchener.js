@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener concrete curbing | We'll Take Care Of Everything" 
-            desc="Kitchener concrete curbing: w o"
+            desc="Kitchener concrete curbing: n t"
             canonical={`${props.website}/kitchener-concrete-curbing`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener concrete curbing" //KW
-            subtitle="w o"
+            subtitle="n t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="r t"
+            subtitle="High-Quality Window Repair"
+            desc="w a"
             image="/window-installations.jpg"
             alt="Kitchener concrete curbing"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Kitchener concrete curbing" //KW
-            desc="i a   w"
+            desc="  r u l"
             image="/window-washing.jpg"
-            alt="Window Services"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="o"
+            subtitle="Affordable Window Repair" //KW
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="v"
-            cardDesc2="r"
-            cardDesc3=" "
+            cardDesc1="n"
+            cardDesc2="u"
+            cardDesc3="u"
             />
             <Approach
             title="Kitchener concrete curbing" //KW
-            desc="r   o o"
+            desc="r p   h"
             />
             <Intro
             subtitle="Exceptional Kitchener concrete curbing" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="f F"
-            cardDesc3="n"
+            cardDesc1="O"
+            cardDesc2="e e"
+            cardDesc3=","
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="." //KW
-            desc2="o"
+            desc="y" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

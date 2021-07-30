@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver window installation contractor | We'll Take Care Of Everything" 
-            desc="Vancouver window installation contractor: o a"
+            desc="Vancouver window installation contractor:    "
             canonical={`${props.website}/vancouver-window-installation-contractor`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver window installation contractor" //KW
-            subtitle="o a"
+            subtitle="   "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="e  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="n  "
+            image="/window-washing.jpg"
             alt="Vancouver window installation contractor"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Vancouver window installation contractor" //KW
-            desc="a o . w"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="p i r u"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="r"
+            subtitle="Affordable Window Repair" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
-            cardDesc2="d"
-            cardDesc3=" "
+            cardDesc2=" "
+            cardDesc3="h"
             />
             <Approach
             title="Vancouver window installation contractor" //KW
-            desc="n r l e"
+            desc="i f k  "
             />
             <Intro
             subtitle="Exceptional Vancouver window installation contractor" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="s s"
-            cardDesc3="p"
+            cardDesc1="e"
+            cardDesc2="n o"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="v"
+            desc=" " //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

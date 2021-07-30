@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg house glass window replacement | We'll Take Care Of Everything" 
-            desc="Winnipeg house glass window replacement: o t"
+            desc="Winnipeg house glass window replacement: v e"
             canonical={`${props.website}/winnipeg-house-glass-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg house glass window replacement" //KW
-            subtitle="o t"
+            subtitle="v e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="  o"
-            image="/window-installation.jpg"
+            desc="h e"
+            image="/window-installations.jpg"
             alt="Winnipeg house glass window replacement"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Winnipeg house glass window replacement" //KW
-            desc="r a m r"
-            image="/window-washing.jpg"
+            desc="r o o i"
+            image="/contractor.jpg"
             alt="Window Cleaning"
             />
             <Savings
             subtitle="Affordable Window Cleaning" //KW
-            desc="i"
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="n"
-            cardDesc3=" "
+            cardDesc1="a"
+            cardDesc2="s"
+            cardDesc3="o"
             />
             <Approach
             title="Winnipeg house glass window replacement" //KW
-            desc="  o a t"
+            desc="l   f s"
             />
             <Intro
             subtitle="Exceptional Winnipeg house glass window replacement" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="o e"
-            cardDesc3="o"
+            cardDesc1="t"
+            cardDesc2="c ,"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
+            desc="h" //KW
             desc2="o"
             />
             <Footer 

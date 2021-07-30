@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg window installation contractor | We'll Take Care Of Everything" 
-            desc="Winnipeg window installation contractor: i ."
+            desc="Winnipeg window installation contractor: c w"
             canonical={`${props.website}/winnipeg-window-installation-contractor`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg window installation contractor" //KW
-            subtitle="i ."
+            subtitle="c w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="I t"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="o  "
+            image="/window-installations.jpg"
             alt="Winnipeg window installation contractor"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Winnipeg window installation contractor" //KW
-            desc="p n   l"
-            image="/window-washing.jpg"
-            alt="Window Replacement"
+            desc="p s z c"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="v"
+            subtitle="Affordable Window Repair" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="o"
-            cardDesc3=" "
+            cardDesc1="a"
+            cardDesc2="t"
+            cardDesc3="a"
             />
             <Approach
             title="Winnipeg window installation contractor" //KW
-            desc="e i   w"
+            desc="l e o i"
             />
             <Intro
             subtitle="Exceptional Winnipeg window installation contractor" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="g"
-            cardDesc2="r t"
-            cardDesc3="n"
+            cardDesc1="u"
+            cardDesc2="v o"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="r"
+            desc="a" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto basement window installation | We'll Take Care Of Everything" 
-            desc="Toronto basement window installation: i a"
+            desc="Toronto basement window installation:   u"
             canonical={`${props.website}/toronto-basement-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto basement window installation" //KW
-            subtitle="i a"
+            subtitle="  u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="i f"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="n e"
+            image="/window-installation.jpg"
             alt="Toronto basement window installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Toronto basement window installation" //KW
-            desc="  r e t"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="u o e n"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="a"
+            subtitle="Affordable Window Services" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="o"
-            cardDesc3="o"
+            cardDesc1="l"
+            cardDesc2="y"
+            cardDesc3="s"
             />
             <Approach
             title="Toronto basement window installation" //KW
-            desc="o p p e"
+            desc="v h e f"
             />
             <Intro
             subtitle="Exceptional Toronto basement window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="o f"
-            cardDesc3="i"
+            cardDesc1=" "
+            cardDesc2="s e"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc=" " //KW
-            desc2="i"
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

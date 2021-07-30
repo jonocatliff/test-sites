@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary window and door installation | We'll Take Care Of Everything" 
-            desc="Calgary window and door installation: i t"
+            desc="Calgary window and door installation: r i"
             canonical={`${props.website}/calgary-window-and-door-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary window and door installation" //KW
-            subtitle="i t"
+            subtitle="r i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="s t"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="e p"
+            image="/window-washing.jpg"
             alt="Calgary window and door installation"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Calgary window and door installation" //KW
-            desc="x t   y"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="d A r d"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Services" //KW
             desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="i"
-            cardDesc3="r"
+            cardDesc1="u"
+            cardDesc2="o"
+            cardDesc3="e"
             />
             <Approach
             title="Calgary window and door installation" //KW
-            desc="n o t e"
+            desc="a      "
             />
             <Intro
             subtitle="Exceptional Calgary window and door installation" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="g"
-            cardDesc2="   "
-            cardDesc3=" "
+            cardDesc1="r"
+            cardDesc2="a n"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
+            desc="P" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

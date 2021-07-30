@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London flower bed landscaping | We'll Take Care Of Everything" 
-            desc="London flower bed landscaping:   e"
+            desc="London flower bed landscaping: e  "
             canonical={`${props.website}/london-flower-bed-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London flower bed landscaping" //KW
-            subtitle="  e"
+            subtitle="e  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="e e"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="a b"
+            image="/contractor.jpg"
             alt="London flower bed landscaping"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional London flower bed landscaping" //KW
-            desc="  s   r"
+            desc="a w a  "
             image="/window-installation.jpg"
-            alt="Window Services"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="n"
+            subtitle="Affordable Window Installations" //KW
+            desc="k"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="c"
-            cardDesc2="t"
-            cardDesc3="r"
+            cardDesc1="t"
+            cardDesc2=" "
+            cardDesc3=" "
             />
             <Approach
             title="London flower bed landscaping" //KW
-            desc="h q e r"
+            desc="w   f l"
             />
             <Intro
             subtitle="Exceptional London flower bed landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="p s"
-            cardDesc3="h"
+            cardDesc1="d"
+            cardDesc2="e n"
+            cardDesc3="g"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="r"
+            desc="i" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

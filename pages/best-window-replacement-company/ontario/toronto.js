@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto best window replacement company | We'll Take Care Of Everything" 
-            desc="Toronto best window replacement company: w t"
+            desc="Toronto best window replacement company: s o"
             canonical={`${props.website}/toronto-best-window-replacement-company`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto best window replacement company" //KW
-            subtitle="w t"
+            subtitle="s o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="e y"
+            desc="m i"
             image="/window-washing.jpg"
             alt="Toronto best window replacement company"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Toronto best window replacement company" //KW
-            desc="s r d e"
+            desc="t l p  "
             image="/contractor.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="a"
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2=" "
-            cardDesc3="c"
+            cardDesc1="r"
+            cardDesc2="n"
+            cardDesc3="r"
             />
             <Approach
             title="Toronto best window replacement company" //KW
-            desc="  r p  "
+            desc="l r   n"
             />
             <Intro
             subtitle="Exceptional Toronto best window replacement company" //KW
@@ -66,13 +66,13 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="d"
-            cardDesc2="u s"
+            cardDesc2="x w"
             cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="o"
+            desc="y" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

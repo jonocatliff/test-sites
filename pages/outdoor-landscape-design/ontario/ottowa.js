@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa outdoor landscape design | We'll Take Care Of Everything" 
-            desc="Ottowa outdoor landscape design: t u"
+            desc="Ottowa outdoor landscape design: f y"
             canonical={`${props.website}/ottowa-outdoor-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa outdoor landscape design" //KW
-            subtitle="t u"
+            subtitle="f y"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="o t"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="  l"
+            image="/contractor.jpg"
             alt="Ottowa outdoor landscape design"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Ottowa outdoor landscape design" //KW
-            desc="d s u undefined"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="  d o undefined"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="c"
-            cardDesc2=" "
+            cardDesc1="n"
+            cardDesc2="l"
             cardDesc3=" "
             />
             <Approach
             title="Ottowa outdoor landscape design" //KW
-            desc="n v    "
+            desc="t e   i"
             />
             <Intro
             subtitle="Exceptional Ottowa outdoor landscape design" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="x undefined"
-            cardDesc3="n"
+            cardDesc1=" "
+            cardDesc2="o undefined"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="," //KW
+            desc="o" //KW
             desc2="o"
             />
             <Footer 

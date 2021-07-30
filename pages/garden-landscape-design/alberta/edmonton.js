@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton garden landscape design | We'll Take Care Of Everything" 
-            desc="Edmonton garden landscape design: e g"
+            desc="Edmonton garden landscape design: e m"
             canonical={`${props.website}/edmonton-garden-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton garden landscape design" //KW
-            subtitle="e g"
+            subtitle="e m"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="p  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="i a"
+            image="/window-washing.jpg"
             alt="Edmonton garden landscape design"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Edmonton garden landscape design" //KW
-            desc="m i e i"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc=". a   e"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="d"
-            cardDesc2="d"
-            cardDesc3="l"
+            cardDesc1="i"
+            cardDesc2="w"
+            cardDesc3=" "
             />
             <Approach
             title="Edmonton garden landscape design" //KW
-            desc="P T w o"
+            desc=". d , o"
             />
             <Intro
             subtitle="Exceptional Edmonton garden landscape design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="u o"
-            cardDesc3="i"
+            cardDesc1="o"
+            cardDesc2="n r"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2=" "
+            desc="c" //KW
+            desc2="b"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

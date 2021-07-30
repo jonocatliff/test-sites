@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary vinyl window installation | We'll Take Care Of Everything" 
-            desc="Calgary vinyl window installation:   e"
+            desc="Calgary vinyl window installation: w i"
             canonical={`${props.website}/calgary-vinyl-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary vinyl window installation" //KW
-            subtitle="  e"
+            subtitle="w i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="w n"
+            subtitle="High-Quality Window Installations"
+            desc="i i"
             image="/contractor.jpg"
             alt="Calgary vinyl window installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Calgary vinyl window installation" //KW
-            desc="y l p y"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="r   h t"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="n"
+            subtitle="Affordable Window Installations" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="u"
-            cardDesc2="l"
-            cardDesc3="o"
+            cardDesc1=" "
+            cardDesc2="t"
+            cardDesc3="r"
             />
             <Approach
             title="Calgary vinyl window installation" //KW
-            desc="W c u f"
+            desc="t     w"
             />
             <Intro
             subtitle="Exceptional Calgary vinyl window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="e  "
-            cardDesc3="i"
+            cardDesc1="t"
+            cardDesc2="h  "
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2=" "
+            desc="m" //KW
+            desc2=","
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

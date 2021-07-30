@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix lawn care near me | We'll Take Care Of Everything" 
-            desc="Phoenix lawn care near me: d i"
+            desc="Phoenix lawn care near me:   a"
             canonical={`${props.website}/phoenix-lawn-care-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix lawn care near me" //KW
-            subtitle="d i"
+            subtitle="  a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="  g"
+            subtitle="High-Quality Window Cleaning"
+            desc="  r"
             image="/contractor.jpg"
             alt="Phoenix lawn care near me"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Phoenix lawn care near me" //KW
-            desc="c t d m"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="e t    "
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="n"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2=" "
-            cardDesc3="e"
+            cardDesc1="w"
+            cardDesc2="r"
+            cardDesc3="o"
             />
             <Approach
             title="Phoenix lawn care near me" //KW
-            desc="h   y s"
+            desc="n   f o"
             />
             <Intro
             subtitle="Exceptional Phoenix lawn care near me" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="c o"
-            cardDesc3="r"
+            cardDesc1="y"
+            cardDesc2="r n"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
+            desc="a" //KW
             desc2=" "
             />
             <Footer 

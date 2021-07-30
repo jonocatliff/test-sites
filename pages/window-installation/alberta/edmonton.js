@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton window installation | We'll Take Care Of Everything" 
-            desc="Edmonton window installation: i  "
+            desc="Edmonton window installation: t v"
             canonical={`${props.website}/edmonton-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton window installation" //KW
-            subtitle="i  "
+            subtitle="t v"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="h  "
-            image="/window-installation.jpg"
+            desc="s n"
+            image="/window-washing.jpg"
             alt="Edmonton window installation"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Edmonton window installation" //KW
-            desc="n o p e"
-            image="/window-installations.jpg"
+            desc="a y t  "
+            image="/contractor.jpg"
             alt="Window Cleaning"
             />
             <Savings
             subtitle="Affordable Window Cleaning" //KW
-            desc="n"
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="n"
-            cardDesc3="p"
+            cardDesc1="t"
+            cardDesc2="d"
+            cardDesc3="r"
             />
             <Approach
             title="Edmonton window installation" //KW
-            desc="  a o e"
+            desc="n c r e"
             />
             <Intro
             subtitle="Exceptional Edmonton window installation" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="n i"
-            cardDesc3="I"
+            cardDesc1="w"
+            cardDesc2="a  "
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
+            desc="t" //KW
             desc2=" "
             />
             <Footer 

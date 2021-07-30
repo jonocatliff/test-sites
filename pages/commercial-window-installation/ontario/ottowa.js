@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa commercial window installation | We'll Take Care Of Everything" 
-            desc="Ottowa commercial window installation: n d"
+            desc="Ottowa commercial window installation: , l"
             canonical={`${props.website}/ottowa-commercial-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa commercial window installation" //KW
-            subtitle="n d"
+            subtitle=", l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="i o"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="r e"
+            image="/window-installations.jpg"
             alt="Ottowa commercial window installation"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Ottowa commercial window installation" //KW
-            desc="r o a s"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="e i v w"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="o"
+            subtitle="Affordable Window Replacement" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2=" "
-            cardDesc3="h"
+            cardDesc1="v"
+            cardDesc2="o"
+            cardDesc3=" "
             />
             <Approach
             title="Ottowa commercial window installation" //KW
-            desc="i e   u"
+            desc="w d e s"
             />
             <Intro
             subtitle="Exceptional Ottowa commercial window installation" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="c a"
-            cardDesc3=" "
+            cardDesc1="o"
+            cardDesc2="r e"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
+            desc="u" //KW
             desc2="l"
             />
             <Footer 

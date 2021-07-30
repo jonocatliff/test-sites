@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa landscaping bushes | We'll Take Care Of Everything" 
-            desc="Ottowa landscaping bushes: i t"
+            desc="Ottowa landscaping bushes: o l"
             canonical={`${props.website}/ottowa-landscaping-bushes`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa landscaping bushes" //KW
-            subtitle="i t"
+            subtitle="o l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="e i"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="a  "
+            image="/window-installation.jpg"
             alt="Ottowa landscaping bushes"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Ottowa landscaping bushes" //KW
-            desc="  l i o"
+            desc="  t   t"
             image="/window-washing.jpg"
-            alt="Window Services"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="q"
+            subtitle="Affordable Window Replacement" //KW
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="c"
-            cardDesc2="l"
-            cardDesc3="f"
+            cardDesc1="t"
+            cardDesc2="o"
+            cardDesc3="o"
             />
             <Approach
             title="Ottowa landscaping bushes" //KW
-            desc="s r h t"
+            desc="e   h  "
             />
             <Intro
             subtitle="Exceptional Ottowa landscaping bushes" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="  u"
-            cardDesc3="i"
+            cardDesc1="y"
+            cardDesc2="W  "
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
+            desc="w" //KW
             desc2="o"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

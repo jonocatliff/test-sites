@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton home window installation near me | We'll Take Care Of Everything" 
-            desc="Edmonton home window installation near me: w f"
+            desc="Edmonton home window installation near me: b  "
             canonical={`${props.website}/edmonton-home-window-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton home window installation near me" //KW
-            subtitle="w f"
+            subtitle="b  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Installations"
-            desc="n e"
-            image="/contractor.jpg"
+            desc="t n"
+            image="/window-installation.jpg"
             alt="Edmonton home window installation near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Edmonton home window installation near me" //KW
-            desc="o v    "
+            desc="  a T w"
             image="/window-installations.jpg"
             alt="Window Installations"
             />
             <Savings
             subtitle="Affordable Window Installations" //KW
-            desc="i"
+            desc="d"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="e"
-            cardDesc3="o"
+            cardDesc1="t"
+            cardDesc2="o"
+            cardDesc3="g"
             />
             <Approach
             title="Edmonton home window installation near me" //KW
-            desc="h i s r"
+            desc="i p n  "
             />
             <Intro
             subtitle="Exceptional Edmonton home window installation near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="a  "
-            cardDesc3="n"
+            cardDesc1=" "
+            cardDesc2="o s"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
-            desc2="o"
+            desc="i" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

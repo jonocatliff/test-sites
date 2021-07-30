@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles hedge cutting services | We'll Take Care Of Everything" 
-            desc="Los Angeles hedge cutting services: n h"
+            desc="Los Angeles hedge cutting services: e n"
             canonical={`${props.website}/los-angeles-hedge-cutting-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles hedge cutting services" //KW
-            subtitle="n h"
+            subtitle="e n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="r d"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="f e"
+            image="/window-installation.jpg"
             alt="Los Angeles hedge cutting services"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Los Angeles hedge cutting services" //KW
-            desc="h i   e"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="h y i e"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="k"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="y"
-            cardDesc3=" "
+            cardDesc1="e"
+            cardDesc2="o"
+            cardDesc3="o"
             />
             <Approach
             title="Los Angeles hedge cutting services" //KW
-            desc="o u n a"
+            desc="y d n s"
             />
             <Intro
             subtitle="Exceptional Los Angeles hedge cutting services" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="w o"
-            cardDesc3="l"
+            cardDesc2="  r"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="t"
+            desc="o" //KW
+            desc2="h"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston landscaping front of house | We'll Take Care Of Everything" 
-            desc="Houston landscaping front of house:   r"
+            desc="Houston landscaping front of house: s i"
             canonical={`${props.website}/houston-landscaping-front-of-house`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston landscaping front of house" //KW
-            subtitle="  r"
+            subtitle="s i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc=". t"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="w d"
+            image="/window-washing.jpg"
             alt="Houston landscaping front of house"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Houston landscaping front of house" //KW
-            desc="s d e o"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="a l e o"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="v"
+            subtitle="Affordable Window Installations" //KW
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="f"
-            cardDesc3="n"
+            cardDesc1="l"
+            cardDesc2="w"
+            cardDesc3="i"
             />
             <Approach
             title="Houston landscaping front of house" //KW
-            desc="i u i i"
+            desc="e u e r"
             />
             <Intro
             subtitle="Exceptional Houston landscaping front of house" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="o ."
-            cardDesc3="i"
+            cardDesc2="i  "
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="d"
+            desc="r" //KW
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

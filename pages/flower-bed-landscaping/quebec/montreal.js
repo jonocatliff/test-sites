@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal flower bed landscaping | We'll Take Care Of Everything" 
-            desc="Montreal flower bed landscaping:    "
+            desc="Montreal flower bed landscaping:   l"
             canonical={`${props.website}/montreal-flower-bed-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal flower bed landscaping" //KW
-            subtitle="   "
+            subtitle="  l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="  g"
+            subtitle="High-Quality Window Installations"
+            desc="  n"
             image="/window-washing.jpg"
             alt="Montreal flower bed landscaping"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Montreal flower bed landscaping" //KW
-            desc="  o o o"
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="l e o  "
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="d"
+            subtitle="Affordable Window Installations" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="g"
-            cardDesc2="s"
-            cardDesc3="w"
+            cardDesc1=" "
+            cardDesc2="b"
+            cardDesc3=" "
             />
             <Approach
             title="Montreal flower bed landscaping" //KW
-            desc="e r n e"
+            desc="r w x t"
             />
             <Intro
             subtitle="Exceptional Montreal flower bed landscaping" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="i"
-            cardDesc2="a e"
-            cardDesc3="y"
+            cardDesc2="t o"
+            cardDesc3="m"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2="l"
+            desc=" " //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

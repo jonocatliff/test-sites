@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto weed control companies near me | We'll Take Care Of Everything" 
-            desc="Toronto weed control companies near me: m l"
+            desc="Toronto weed control companies near me: a  "
             canonical={`${props.website}/toronto-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto weed control companies near me" //KW
-            subtitle="m l"
+            subtitle="a  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="s e"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="i m"
+            image="/contractor.jpg"
             alt="Toronto weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Toronto weed control companies near me" //KW
-            desc="l o u undefined"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="l e f undefined"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="t"
-            cardDesc3="d"
+            cardDesc1="g"
+            cardDesc2=" "
+            cardDesc3="o"
             />
             <Approach
             title="Toronto weed control companies near me" //KW
-            desc="w t   c"
+            desc="P p   o"
             />
             <Intro
             subtitle="Exceptional Toronto weed control companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2=". undefined"
-            cardDesc3="u"
+            cardDesc1="t"
+            cardDesc2="s undefined"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="m"
+            desc="r" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

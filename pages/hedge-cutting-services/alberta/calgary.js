@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary hedge cutting services | We'll Take Care Of Everything" 
-            desc="Calgary hedge cutting services: t d"
+            desc="Calgary hedge cutting services: ,  "
             canonical={`${props.website}/calgary-hedge-cutting-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary hedge cutting services" //KW
-            subtitle="t d"
+            subtitle=",  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="l t"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="y h"
+            image="/contractor.jpg"
             alt="Calgary hedge cutting services"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Calgary hedge cutting services" //KW
-            desc="a f c o"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="a t o s"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="."
-            cardDesc2="n"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="p"
+            cardDesc3="t"
             />
             <Approach
             title="Calgary hedge cutting services" //KW
-            desc="e     a"
+            desc="n     i"
             />
             <Intro
             subtitle="Exceptional Calgary hedge cutting services" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="i"
-            cardDesc2="n e"
+            cardDesc2="o s"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="m" //KW
-            desc2="I"
+            desc="i" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

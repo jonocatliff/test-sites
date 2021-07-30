@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix flower bed landscaping | We'll Take Care Of Everything" 
-            desc="Phoenix flower bed landscaping: e s"
+            desc="Phoenix flower bed landscaping: b e"
             canonical={`${props.website}/phoenix-flower-bed-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix flower bed landscaping" //KW
-            subtitle="e s"
+            subtitle="b e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="o  "
+            desc="n f"
             image="/window-washing.jpg"
             alt="Phoenix flower bed landscaping"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Phoenix flower bed landscaping" //KW
-            desc="h h    "
-            image="/window-installations.jpg"
+            desc="o   w u"
+            image="/contractor.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="w"
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="d"
-            cardDesc3="a"
+            cardDesc1="o"
+            cardDesc2="c"
+            cardDesc3="m"
             />
             <Approach
             title="Phoenix flower bed landscaping" //KW
-            desc="  r t  "
+            desc="  x n  "
             />
             <Intro
             subtitle="Exceptional Phoenix flower bed landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="o e"
-            cardDesc3="a"
+            cardDesc1="n"
+            cardDesc2="s  "
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="a" //KW
-            desc2="o"
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

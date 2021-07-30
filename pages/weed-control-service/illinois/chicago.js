@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago weed control service | We'll Take Care Of Everything" 
-            desc="Chicago weed control service: o i"
+            desc="Chicago weed control service: n o"
             canonical={`${props.website}/chicago-weed-control-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago weed control service" //KW
-            subtitle="o i"
+            subtitle="n o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="o e"
+            subtitle="High-Quality Window Replacement"
+            desc="e e"
             image="/window-washing.jpg"
             alt="Chicago weed control service"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Chicago weed control service" //KW
-            desc="  n o undefined"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="o   y undefined"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="r"
-            cardDesc3=" "
+            cardDesc1="i"
+            cardDesc2="d"
+            cardDesc3="o"
             />
             <Approach
             title="Chicago weed control service" //KW
-            desc="  w a w"
+            desc="e h s r"
             />
             <Intro
             subtitle="Exceptional Chicago weed control service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="r undefined"
-            cardDesc3="d"
+            cardDesc1="s"
+            cardDesc2="y undefined"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="l"
+            desc="p" //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

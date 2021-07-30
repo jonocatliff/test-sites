@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City basement egress window replacement | We'll Take Care Of Everything" 
-            desc="New York City basement egress window replacement: r v"
+            desc="New York City basement egress window replacement: u n"
             canonical={`${props.website}/new-york-city-basement-egress-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City basement egress window replacement" //KW
-            subtitle="r v"
+            subtitle="u n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="r f"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="v g"
+            image="/window-installations.jpg"
             alt="New York City basement egress window replacement"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional New York City basement egress window replacement" //KW
-            desc="  s c e"
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="  b i  "
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="v"
+            subtitle="Affordable Window Repair" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2="r"
-            cardDesc3="r"
+            cardDesc1="e"
+            cardDesc2=" "
+            cardDesc3="i"
             />
             <Approach
             title="New York City basement egress window replacement" //KW
-            desc="r e v i"
+            desc="c t a s"
             />
             <Intro
             subtitle="Exceptional New York City basement egress window replacement" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="v"
-            cardDesc2="r o"
-            cardDesc3="r"
+            cardDesc1="e"
+            cardDesc2="d e"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="r"
+            desc="d" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}

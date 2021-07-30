@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix professional landscaping | We'll Take Care Of Everything" 
-            desc="Phoenix professional landscaping: u t"
+            desc="Phoenix professional landscaping: i a"
             canonical={`${props.website}/phoenix-professional-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix professional landscaping" //KW
-            subtitle="u t"
+            subtitle="i a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r w"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="n p"
+            image="/contractor.jpg"
             alt="Phoenix professional landscaping"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Phoenix professional landscaping" //KW
-            desc="s r r undefined"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="m a w undefined"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Repair" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="s"
-            cardDesc3="r"
+            cardDesc1="r"
+            cardDesc2="t"
+            cardDesc3="e"
             />
             <Approach
             title="Phoenix professional landscaping" //KW
-            desc="    s e"
+            desc="o x e  "
             />
             <Intro
             subtitle="Exceptional Phoenix professional landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="r undefined"
-            cardDesc3="a"
+            cardDesc1="e"
+            cardDesc2="t undefined"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="p"
+            desc="o" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton hedge trimming near me | We'll Take Care Of Everything" 
-            desc="Edmonton hedge trimming near me:   r"
+            desc="Edmonton hedge trimming near me: w m"
             canonical={`${props.website}/edmonton-hedge-trimming-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton hedge trimming near me" //KW
-            subtitle="  r"
+            subtitle="w m"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="a t"
-            image="/contractor.jpg"
+            desc="m  "
+            image="/window-installations.jpg"
             alt="Edmonton hedge trimming near me"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Edmonton hedge trimming near me" //KW
-            desc="v n s w"
-            image="/window-installations.jpg"
+            desc="h   o m"
+            image="/window-installation.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="r"
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="t"
-            cardDesc3="I"
+            cardDesc1="r"
+            cardDesc2="w"
+            cardDesc3="h"
             />
             <Approach
             title="Edmonton hedge trimming near me" //KW
-            desc="y e d o"
+            desc="r y o n"
             />
             <Intro
             subtitle="Exceptional Edmonton hedge trimming near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2=". h"
-            cardDesc3="v"
+            cardDesc1=" "
+            cardDesc2="t  "
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="a"
+            desc="," //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}

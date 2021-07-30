@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener sod landscaping | We'll Take Care Of Everything" 
-            desc="Kitchener sod landscaping: c n"
+            desc="Kitchener sod landscaping: l s"
             canonical={`${props.website}/kitchener-sod-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener sod landscaping" //KW
-            subtitle="c n"
+            subtitle="l s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="s l"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="  a"
+            image="/window-installation.jpg"
             alt="Kitchener sod landscaping"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Kitchener sod landscaping" //KW
-            desc="t p m undefined"
+            desc="e b o undefined"
             image="/contractor.jpg"
-            alt="Window Repair"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2=" "
-            cardDesc3="w"
+            cardDesc1="r"
+            cardDesc2="i"
+            cardDesc3=" "
             />
             <Approach
             title="Kitchener sod landscaping" //KW
-            desc="u y o h"
+            desc="  w s  "
             />
             <Intro
             subtitle="Exceptional Kitchener sod landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="e undefined"
+            cardDesc1="s"
+            cardDesc2="y undefined"
             cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="d"
+            desc="o" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London retaining wall landscaping | We'll Take Care Of Everything" 
-            desc="London retaining wall landscaping: o a"
+            desc="London retaining wall landscaping: f c"
             canonical={`${props.website}/london-retaining-wall-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London retaining wall landscaping" //KW
-            subtitle="o a"
+            subtitle="f c"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  t"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="f b"
+            image="/window-installations.jpg"
             alt="London retaining wall landscaping"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional London retaining wall landscaping" //KW
-            desc="e P O undefined"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="  i O undefined"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="o"
-            cardDesc3="n"
+            cardDesc1="v"
+            cardDesc2="n"
+            cardDesc3="e"
             />
             <Approach
             title="London retaining wall landscaping" //KW
-            desc="p   b t"
+            desc="e i n p"
             />
             <Intro
             subtitle="Exceptional London retaining wall landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="."
-            cardDesc2="t undefined"
-            cardDesc3="s"
+            cardDesc1="d"
+            cardDesc2="s undefined"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="w"
+            desc="d" //KW
+            desc2="b"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

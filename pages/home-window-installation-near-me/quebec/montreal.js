@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal home window installation near me | We'll Take Care Of Everything" 
-            desc="Montreal home window installation near me: u  "
+            desc="Montreal home window installation near me: i n"
             canonical={`${props.website}/montreal-home-window-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal home window installation near me" //KW
-            subtitle="u  "
+            subtitle="i n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="   "
+            desc="e  "
             image="/window-installation.jpg"
             alt="Montreal home window installation near me"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Montreal home window installation near me" //KW
-            desc="n h h o"
-            image="/window-washing.jpg"
+            desc="n   . f"
+            image="/contractor.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="r"
+            desc="v"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="i"
-            cardDesc3="n"
+            cardDesc1="e"
+            cardDesc2=" "
+            cardDesc3="o"
             />
             <Approach
             title="Montreal home window installation near me" //KW
-            desc="a   e e"
+            desc="      a"
             />
             <Intro
             subtitle="Exceptional Montreal home window installation near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="c t"
+            cardDesc1="t"
+            cardDesc2="  n"
             cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="n"
+            desc="s" //KW
+            desc2=","
             />
             <Footer 
             companyName={props.companyName}

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener best landscape designers | We'll Take Care Of Everything" 
-            desc="Kitchener best landscape designers: e r"
+            desc="Kitchener best landscape designers: a i"
             canonical={`${props.website}/kitchener-best-landscape-designers`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener best landscape designers" //KW
-            subtitle="e r"
+            subtitle="a i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="a a"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="e i"
+            image="/contractor.jpg"
             alt="Kitchener best landscape designers"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Kitchener best landscape designers" //KW
-            desc="h o   w"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="o   t s"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="s"
+            subtitle="Affordable Window Installations" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="r"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="a"
+            cardDesc3="t"
             />
             <Approach
             title="Kitchener best landscape designers" //KW
-            desc="t p   h"
+            desc="o o i r"
             />
             <Intro
             subtitle="Exceptional Kitchener best landscape designers" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="p  "
-            cardDesc3="l"
+            cardDesc1="y"
+            cardDesc2="s x"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="m" //KW
+            desc="a" //KW
             desc2="n"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

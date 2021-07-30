@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City backyard landscape design | We'll Take Care Of Everything" 
-            desc="New York City backyard landscape design:   w"
+            desc="New York City backyard landscape design: i i"
             canonical={`${props.website}/new-york-city-backyard-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City backyard landscape design" //KW
-            subtitle="  w"
+            subtitle="i i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="l  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="  d"
+            image="/window-washing.jpg"
             alt="New York City backyard landscape design"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional New York City backyard landscape design" //KW
-            desc="e s s a"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="e w r e"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="a"
+            subtitle="Affordable Window Cleaning" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="e"
-            cardDesc3="t"
+            cardDesc1=" "
+            cardDesc2="p"
+            cardDesc3="g"
             />
             <Approach
             title="New York City backyard landscape design" //KW
-            desc="o t   e"
+            desc="t     i"
             />
             <Intro
             subtitle="Exceptional New York City backyard landscape design" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="e"
-            cardDesc2="d o"
-            cardDesc3=" "
+            cardDesc2="  o"
+            cardDesc3="g"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="p" //KW
-            desc2="o"
+            desc="t" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

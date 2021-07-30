@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia basement window installation | We'll Take Care Of Everything" 
-            desc="Philadelphia basement window installation: o  "
+            desc="Philadelphia basement window installation: a ,"
             canonical={`${props.website}/philadelphia-basement-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia basement window installation" //KW
-            subtitle="o  "
+            subtitle="a ,"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="i s"
+            subtitle="High-Quality Window Cleaning"
+            desc="o e"
             image="/contractor.jpg"
             alt="Philadelphia basement window installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Philadelphia basement window installation" //KW
-            desc="l o o a"
-            image="/window-installations.jpg"
-            alt="Window Repair"
+            desc="c n f r"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc=" "
+            subtitle="Affordable Window Cleaning" //KW
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="c"
-            cardDesc3="i"
+            cardDesc1="s"
+            cardDesc2=" "
+            cardDesc3="l"
             />
             <Approach
             title="Philadelphia basement window installation" //KW
-            desc="w y   v"
+            desc="f   T e"
             />
             <Intro
             subtitle="Exceptional Philadelphia basement window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="i  "
-            cardDesc3="i"
+            cardDesc1="r"
+            cardDesc2="e m"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="i"
+            desc="d" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

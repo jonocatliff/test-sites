@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles window replacement companies | We'll Take Care Of Everything" 
-            desc="Los Angeles window replacement companies:   ."
+            desc="Los Angeles window replacement companies: a n"
             canonical={`${props.website}/los-angeles-window-replacement-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles window replacement companies" //KW
-            subtitle="  ."
+            subtitle="a n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="e w"
+            subtitle="High-Quality Window Replacement"
+            desc="a  "
             image="/window-installation.jpg"
             alt="Los Angeles window replacement companies"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles window replacement companies" //KW
-            desc="a , o d"
+            desc="a w t  "
             image="/window-installations.jpg"
-            alt="Window Installations"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="a"
+            subtitle="Affordable Window Replacement" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="m"
-            cardDesc3="y"
+            cardDesc1="f"
+            cardDesc2="o"
+            cardDesc3="a"
             />
             <Approach
             title="Los Angeles window replacement companies" //KW
-            desc="s p   r"
+            desc="  r r l"
             />
             <Intro
             subtitle="Exceptional Los Angeles window replacement companies" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="c i"
-            cardDesc3="r"
+            cardDesc1="n"
+            cardDesc2="s  "
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
+            desc="n" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

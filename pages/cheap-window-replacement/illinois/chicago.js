@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago cheap window replacement | We'll Take Care Of Everything" 
-            desc="Chicago cheap window replacement: d u"
+            desc="Chicago cheap window replacement: o h"
             canonical={`${props.website}/chicago-cheap-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago cheap window replacement" //KW
-            subtitle="d u"
+            subtitle="o h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="c o"
+            subtitle="High-Quality Window Cleaning"
+            desc="r r"
             image="/window-washing.jpg"
             alt="Chicago cheap window replacement"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Chicago cheap window replacement" //KW
-            desc="  l e u"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="  r l a"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc=" "
+            subtitle="Affordable Window Cleaning" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="e"
-            cardDesc3="m"
+            cardDesc1="r"
+            cardDesc2="o"
+            cardDesc3="v"
             />
             <Approach
             title="Chicago cheap window replacement" //KW
-            desc="r e e h"
+            desc="w q p  "
             />
             <Intro
             subtitle="Exceptional Chicago cheap window replacement" //KW
@@ -66,13 +66,13 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="u"
-            cardDesc2="i a"
-            cardDesc3="i"
+            cardDesc2=", x"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="i"
+            desc="c" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

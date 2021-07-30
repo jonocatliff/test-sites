@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa hedge trimming services | We'll Take Care Of Everything" 
-            desc="Ottowa hedge trimming services: t r"
+            desc="Ottowa hedge trimming services: i o"
             canonical={`${props.website}/ottowa-hedge-trimming-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa hedge trimming services" //KW
-            subtitle="t r"
+            subtitle="i o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="s l"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="f t"
+            image="/window-washing.jpg"
             alt="Ottowa hedge trimming services"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Ottowa hedge trimming services" //KW
-            desc="m e   r"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="m u   o"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Repair" //KW
             desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="o"
-            cardDesc3="t"
+            cardDesc1="r"
+            cardDesc2="f"
+            cardDesc3=" "
             />
             <Approach
             title="Ottowa hedge trimming services" //KW
-            desc="g u r k"
+            desc="P p   f"
             />
             <Intro
             subtitle="Exceptional Ottowa hedge trimming services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="e f"
-            cardDesc3="i"
+            cardDesc1="o"
+            cardDesc2="   "
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="l"
+            desc="n" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

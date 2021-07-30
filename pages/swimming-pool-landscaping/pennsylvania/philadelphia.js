@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia swimming pool landscaping | We'll Take Care Of Everything" 
-            desc="Philadelphia swimming pool landscaping: n i"
+            desc="Philadelphia swimming pool landscaping: t w"
             canonical={`${props.website}/philadelphia-swimming-pool-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia swimming pool landscaping" //KW
-            subtitle="n i"
+            subtitle="t w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="i n"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="y o"
+            image="/window-washing.jpg"
             alt="Philadelphia swimming pool landscaping"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Philadelphia swimming pool landscaping" //KW
-            desc="  a t undefined"
+            desc="  P n undefined"
             image="/window-installations.jpg"
-            alt="Window Services"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Repair" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="u"
-            cardDesc2="t"
-            cardDesc3="o"
+            cardDesc1="y"
+            cardDesc2="c"
+            cardDesc3="a"
             />
             <Approach
             title="Philadelphia swimming pool landscaping" //KW
-            desc="g w a m"
+            desc="a l e u"
             />
             <Intro
             subtitle="Exceptional Philadelphia swimming pool landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="d undefined"
-            cardDesc3="e"
+            cardDesc1="e"
+            cardDesc2="r undefined"
+            cardDesc3="f"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="w"
+            desc="b" //KW
+            desc2="I"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

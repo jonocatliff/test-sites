@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton swimming pool landscaping | We'll Take Care Of Everything" 
-            desc="Edmonton swimming pool landscaping: A O"
+            desc="Edmonton swimming pool landscaping: t d"
             canonical={`${props.website}/edmonton-swimming-pool-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton swimming pool landscaping" //KW
-            subtitle="A O"
+            subtitle="t d"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="  o"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="  n"
+            image="/contractor.jpg"
             alt="Edmonton swimming pool landscaping"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Edmonton swimming pool landscaping" //KW
-            desc="s w n undefined"
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="d a o undefined"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="w"
-            cardDesc3="l"
+            cardDesc1="h"
+            cardDesc2="n"
+            cardDesc3="a"
             />
             <Approach
             title="Edmonton swimming pool landscaping" //KW
-            desc="h t r c"
+            desc="s m r p"
             />
             <Intro
             subtitle="Exceptional Edmonton swimming pool landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="e undefined"
-            cardDesc3="l"
+            cardDesc1="w"
+            cardDesc2="f undefined"
+            cardDesc3="p"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="w"
+            desc=" " //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}

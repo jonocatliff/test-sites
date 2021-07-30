@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago garden landscape design | We'll Take Care Of Everything" 
-            desc="Chicago garden landscape design: i r"
+            desc="Chicago garden landscape design: i e"
             canonical={`${props.website}/chicago-garden-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago garden landscape design" //KW
-            subtitle="i r"
+            subtitle="i e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="f g"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="o  "
+            image="/window-washing.jpg"
             alt="Chicago garden landscape design"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Chicago garden landscape design" //KW
-            desc="a P e o"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="n   u s"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="v"
+            subtitle="Affordable Window Replacement" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="s"
-            cardDesc3="t"
+            cardDesc1="o"
+            cardDesc2="e"
+            cardDesc3=" "
             />
             <Approach
             title="Chicago garden landscape design" //KW
-            desc="s y d  "
+            desc="  i n i"
             />
             <Intro
             subtitle="Exceptional Chicago garden landscape design" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="w s"
-            cardDesc3="s"
+            cardDesc1="l"
+            cardDesc2="o  "
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
+            desc="y" //KW
             desc2=" "
             />
             <Footer 

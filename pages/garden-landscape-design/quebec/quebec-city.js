@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City garden landscape design | We'll Take Care Of Everything" 
-            desc="Quebec City garden landscape design: h a"
+            desc="Quebec City garden landscape design: h d"
             canonical={`${props.website}/quebec-city-garden-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City garden landscape design" //KW
-            subtitle="h a"
+            subtitle="h d"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
-            desc="n n"
+            desc="o u"
             image="/contractor.jpg"
             alt="Quebec City garden landscape design"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Quebec City garden landscape design" //KW
-            desc="y o   r"
-            image="/window-installations.jpg"
+            desc="s   d  "
+            image="/window-washing.jpg"
             alt="Window Repair"
             />
             <Savings
             subtitle="Affordable Window Repair" //KW
-            desc="r"
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2=" "
-            cardDesc3="a"
+            cardDesc1="c"
+            cardDesc2="s"
+            cardDesc3="i"
             />
             <Approach
             title="Quebec City garden landscape design" //KW
-            desc="    r  "
+            desc="w t t t"
             />
             <Intro
             subtitle="Exceptional Quebec City garden landscape design" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="  t"
-            cardDesc3="o"
+            cardDesc1="t"
+            cardDesc2="r  "
+            cardDesc3="p"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2=" "
+            desc="e" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

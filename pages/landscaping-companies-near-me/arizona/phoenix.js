@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix landscaping companies near me | We'll Take Care Of Everything" 
-            desc="Phoenix landscaping companies near me: u o"
+            desc="Phoenix landscaping companies near me: e  "
             canonical={`${props.website}/phoenix-landscaping-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix landscaping companies near me" //KW
-            subtitle="u o"
+            subtitle="e  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="l m"
+            subtitle="High-Quality Window Repair"
+            desc="n r"
             image="/contractor.jpg"
             alt="Phoenix landscaping companies near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Phoenix landscaping companies near me" //KW
-            desc="  r s o"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="  e o o"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="l"
+            subtitle="Affordable Window Repair" //KW
+            desc="m"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="e"
-            cardDesc3="u"
+            cardDesc1="t"
+            cardDesc2="o"
+            cardDesc3="o"
             />
             <Approach
             title="Phoenix landscaping companies near me" //KW
-            desc="i O y a"
+            desc="r s   u"
             />
             <Intro
             subtitle="Exceptional Phoenix landscaping companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="y"
-            cardDesc2="a r"
-            cardDesc3="n"
+            cardDesc1="r"
+            cardDesc2=". a"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2=","
+            desc="d" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

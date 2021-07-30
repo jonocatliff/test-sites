@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver house glass window replacement | We'll Take Care Of Everything" 
-            desc="Vancouver house glass window replacement: p i"
+            desc="Vancouver house glass window replacement: t i"
             canonical={`${props.website}/vancouver-house-glass-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver house glass window replacement" //KW
-            subtitle="p i"
+            subtitle="t i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="o e"
+            subtitle="High-Quality Window Repair"
+            desc="  e"
             image="/window-washing.jpg"
             alt="Vancouver house glass window replacement"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Vancouver house glass window replacement" //KW
-            desc="u   e g"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="u o t u"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            subtitle="Affordable Window Repair" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="x"
+            cardDesc1=" "
             cardDesc2=" "
-            cardDesc3=" "
+            cardDesc3="w"
             />
             <Approach
             title="Vancouver house glass window replacement" //KW
-            desc=": p e  "
+            desc="  i e u"
             />
             <Intro
             subtitle="Exceptional Vancouver house glass window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="o  "
-            cardDesc3="s"
+            cardDesc1="e"
+            cardDesc2="i r"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="a" //KW
-            desc2="c"
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

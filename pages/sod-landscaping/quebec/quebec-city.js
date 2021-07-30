@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City sod landscaping | We'll Take Care Of Everything" 
-            desc="Quebec City sod landscaping: f i"
+            desc="Quebec City sod landscaping: a I"
             canonical={`${props.website}/quebec-city-sod-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City sod landscaping" //KW
-            subtitle="f i"
+            subtitle="a I"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="i e"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="l u"
+            image="/window-installations.jpg"
             alt="Quebec City sod landscaping"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Quebec City sod landscaping" //KW
-            desc="h e e undefined"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="  t r undefined"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="e"
-            cardDesc3="d"
+            cardDesc1="O"
+            cardDesc2="p"
+            cardDesc3="s"
             />
             <Approach
             title="Quebec City sod landscaping" //KW
-            desc="y e   a"
+            desc="w a e v"
             />
             <Intro
             subtitle="Exceptional Quebec City sod landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="m undefined"
-            cardDesc3="c"
+            cardDesc1="c"
+            cardDesc2="e undefined"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="a"
+            desc="n" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

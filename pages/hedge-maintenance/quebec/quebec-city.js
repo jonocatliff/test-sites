@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City hedge maintenance | We'll Take Care Of Everything" 
-            desc="Quebec City hedge maintenance:   e"
+            desc="Quebec City hedge maintenance: i y"
             canonical={`${props.website}/quebec-city-hedge-maintenance`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City hedge maintenance" //KW
-            subtitle="  e"
+            subtitle="i y"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  a"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="   "
+            image="/window-installations.jpg"
             alt="Quebec City hedge maintenance"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Quebec City hedge maintenance" //KW
-            desc="p     a"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc=". d o i"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="a"
+            subtitle="Affordable Window Repair" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="i"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="r"
+            cardDesc3="o"
             />
             <Approach
             title="Quebec City hedge maintenance" //KW
-            desc="s o r h"
+            desc="n y b w"
             />
             <Intro
             subtitle="Exceptional Quebec City hedge maintenance" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="n f"
-            cardDesc3="A"
+            cardDesc1="e"
+            cardDesc2="e  "
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="c"
+            desc="s" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

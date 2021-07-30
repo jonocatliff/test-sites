@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg hydrangea landscaping | We'll Take Care Of Everything" 
-            desc="Winnipeg hydrangea landscaping: c ."
+            desc="Winnipeg hydrangea landscaping: n l"
             canonical={`${props.website}/winnipeg-hydrangea-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg hydrangea landscaping" //KW
-            subtitle="c ."
+            subtitle="n l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="a o"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="a e"
+            image="/window-installations.jpg"
             alt="Winnipeg hydrangea landscaping"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Winnipeg hydrangea landscaping" //KW
-            desc="P r   e"
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="d r m a"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc=" "
+            subtitle="Affordable Window Replacement" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="a"
-            cardDesc3="n"
+            cardDesc1=" "
+            cardDesc2="o"
+            cardDesc3="e"
             />
             <Approach
             title="Winnipeg hydrangea landscaping" //KW
-            desc="r   y i"
+            desc="j     r"
             />
             <Intro
             subtitle="Exceptional Winnipeg hydrangea landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="g o"
-            cardDesc3="o"
+            cardDesc1="m"
+            cardDesc2="e h"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="n"
+            desc="t" //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

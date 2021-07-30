@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver home window replacement companies | We'll Take Care Of Everything" 
-            desc="Vancouver home window replacement companies:   f"
+            desc="Vancouver home window replacement companies: u d"
             canonical={`${props.website}/vancouver-home-window-replacement-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver home window replacement companies" //KW
-            subtitle="  f"
+            subtitle="u d"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="u  "
+            subtitle="High-Quality Window Replacement"
+            desc="n W"
             image="/window-installation.jpg"
             alt="Vancouver home window replacement companies"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Vancouver home window replacement companies" //KW
-            desc="  e i t"
+            desc="  b e u"
             image="/contractor.jpg"
-            alt="Window Repair"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc=" "
+            subtitle="Affordable Window Replacement" //KW
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="i"
+            cardDesc1="a"
+            cardDesc2="n"
             cardDesc3="w"
             />
             <Approach
             title="Vancouver home window replacement companies" //KW
-            desc="e   O  "
+            desc="  l d  "
             />
             <Intro
             subtitle="Exceptional Vancouver home window replacement companies" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="d n"
-            cardDesc3="l"
+            cardDesc2="i l"
+            cardDesc3="m"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="o"
+            desc="e" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

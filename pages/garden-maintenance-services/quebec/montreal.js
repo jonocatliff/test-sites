@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal garden maintenance services | We'll Take Care Of Everything" 
-            desc="Montreal garden maintenance services: n o"
+            desc="Montreal garden maintenance services: i f"
             canonical={`${props.website}/montreal-garden-maintenance-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal garden maintenance services" //KW
-            subtitle="n o"
+            subtitle="i f"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  d"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="e a"
+            image="/window-washing.jpg"
             alt="Montreal garden maintenance services"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Montreal garden maintenance services" //KW
-            desc="i     o"
+            desc="t t i  "
             image="/contractor.jpg"
-            alt="Window Cleaning"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc=" "
+            subtitle="Affordable Window Replacement" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="b"
-            cardDesc3="t"
+            cardDesc1="n"
+            cardDesc2="w"
+            cardDesc3=" "
             />
             <Approach
             title="Montreal garden maintenance services" //KW
-            desc="w n , a"
+            desc="  e r n"
             />
             <Intro
             subtitle="Exceptional Montreal garden maintenance services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="y"
-            cardDesc2="s  "
-            cardDesc3="r"
+            cardDesc1="l"
+            cardDesc2="  d"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="u"
+            desc="." //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

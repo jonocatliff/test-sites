@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton concrete curbing near me | We'll Take Care Of Everything" 
-            desc="Edmonton concrete curbing near me: l g"
+            desc="Edmonton concrete curbing near me: e n"
             canonical={`${props.website}/edmonton-concrete-curbing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton concrete curbing near me" //KW
-            subtitle="l g"
+            subtitle="e n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="  n"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="e n"
+            image="/contractor.jpg"
             alt="Edmonton concrete curbing near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Edmonton concrete curbing near me" //KW
-            desc="o n n s"
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="o s m a"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="v"
+            subtitle="Affordable Window Replacement" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="o"
-            cardDesc3="u"
+            cardDesc1="s"
+            cardDesc2="x"
+            cardDesc3="p"
             />
             <Approach
             title="Edmonton concrete curbing near me" //KW
-            desc="p s r  "
+            desc="c o w ’"
             />
             <Intro
             subtitle="Exceptional Edmonton concrete curbing near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="n t"
-            cardDesc3="e"
+            cardDesc1="a"
+            cardDesc2="i o"
+            cardDesc3="p"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="n" //KW
-            desc2="a"
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

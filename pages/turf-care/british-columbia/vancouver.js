@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver turf care | We'll Take Care Of Everything" 
-            desc="Vancouver turf care: a r"
+            desc="Vancouver turf care: i o"
             canonical={`${props.website}/vancouver-turf-care`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Vancouver turf care" //KW
-            subtitle="a r"
+            subtitle="i o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="l i"
-            image="/window-washing.jpg"
+            desc="  c"
+            image="/contractor.jpg"
             alt="Vancouver turf care"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Vancouver turf care" //KW
-            desc="n   d undefined"
-            image="/window-installations.jpg"
+            desc="    o undefined"
+            image="/window-washing.jpg"
             alt="Window Cleaning"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="."
-            cardDesc3="o"
+            cardDesc1="n"
+            cardDesc2="r"
+            cardDesc3=" "
             />
             <Approach
             title="Vancouver turf care" //KW
-            desc="i e e t"
+            desc="s o d s"
             />
             <Intro
             subtitle="Exceptional Vancouver turf care" //KW
@@ -67,12 +67,12 @@
             cardTitle3="All Types"
             cardDesc1="e"
             cardDesc2="  undefined"
-            cardDesc3="n"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="h"
+            desc="o" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}

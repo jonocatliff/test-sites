@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg window and door installation companies | We'll Take Care Of Everything" 
-            desc="Winnipeg window and door installation companies: a o"
+            desc="Winnipeg window and door installation companies: o l"
             canonical={`${props.website}/winnipeg-window-and-door-installation-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg window and door installation companies" //KW
-            subtitle="a o"
+            subtitle="o l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="n o"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="   "
+            image="/contractor.jpg"
             alt="Winnipeg window and door installation companies"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Winnipeg window and door installation companies" //KW
-            desc="u i o w"
+            desc="i a d t"
             image="/window-installations.jpg"
-            alt="Window Installations"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="O"
+            subtitle="Affordable Window Services" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2="l"
-            cardDesc3="l"
+            cardDesc1="i"
+            cardDesc2="c"
+            cardDesc3="u"
             />
             <Approach
             title="Winnipeg window and door installation companies" //KW
-            desc="d o l e"
+            desc="e l v  "
             />
             <Intro
             subtitle="Exceptional Winnipeg window and door installation companies" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="  l"
-            cardDesc3="b"
+            cardDesc1="l"
+            cardDesc2="o p"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="s"
+            desc="w" //KW
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia skylight window replacement | We'll Take Care Of Everything" 
-            desc="Philadelphia skylight window replacement:   n"
+            desc="Philadelphia skylight window replacement: t n"
             canonical={`${props.website}/philadelphia-skylight-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia skylight window replacement" //KW
-            subtitle="  n"
+            subtitle="t n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="n t"
+            subtitle="High-Quality Window Cleaning"
+            desc=".  "
             image="/window-washing.jpg"
             alt="Philadelphia skylight window replacement"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Philadelphia skylight window replacement" //KW
-            desc="t y    "
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="s     e"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="e"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="d"
-            cardDesc2="i"
-            cardDesc3="w"
+            cardDesc1="e"
+            cardDesc2="r"
+            cardDesc3=" "
             />
             <Approach
             title="Philadelphia skylight window replacement" //KW
-            desc="e      "
+            desc="w r . i"
             />
             <Intro
             subtitle="Exceptional Philadelphia skylight window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="o r"
-            cardDesc3="e"
+            cardDesc1=" "
+            cardDesc2="e ."
+            cardDesc3="y"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="r"
+            desc="e" //KW
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

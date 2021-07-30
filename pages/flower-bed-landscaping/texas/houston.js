@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston flower bed landscaping | We'll Take Care Of Everything" 
-            desc="Houston flower bed landscaping: w w"
+            desc="Houston flower bed landscaping: d w"
             canonical={`${props.website}/houston-flower-bed-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston flower bed landscaping" //KW
-            subtitle="w w"
+            subtitle="d w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="n o"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="w  "
+            image="/contractor.jpg"
             alt="Houston flower bed landscaping"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Houston flower bed landscaping" //KW
-            desc="i   e r"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="P A d y"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="a"
+            subtitle="Affordable Window Replacement" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="i"
-            cardDesc3="l"
+            cardDesc1="n"
+            cardDesc2="r"
+            cardDesc3="h"
             />
             <Approach
             title="Houston flower bed landscaping" //KW
-            desc="n f t o"
+            desc="t     w"
             />
             <Intro
             subtitle="Exceptional Houston flower bed landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="  e"
-            cardDesc3="e"
+            cardDesc1="s"
+            cardDesc2="r r"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="P"
+            desc="w" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

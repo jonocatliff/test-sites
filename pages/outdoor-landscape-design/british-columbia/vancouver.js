@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver outdoor landscape design | We'll Take Care Of Everything" 
-            desc="Vancouver outdoor landscape design:   t"
+            desc="Vancouver outdoor landscape design: i a"
             canonical={`${props.website}/vancouver-outdoor-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver outdoor landscape design" //KW
-            subtitle="  t"
+            subtitle="i a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="w h"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="s e"
+            image="/window-washing.jpg"
             alt="Vancouver outdoor landscape design"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Vancouver outdoor landscape design" //KW
-            desc="d r o undefined"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="O r o undefined"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="i"
-            cardDesc3="a"
+            cardDesc1="h"
+            cardDesc2="W"
+            cardDesc3="e"
             />
             <Approach
             title="Vancouver outdoor landscape design" //KW
-            desc="r e e i"
+            desc="e t e n"
             />
             <Intro
             subtitle="Exceptional Vancouver outdoor landscape design" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="o undefined"
-            cardDesc3="t"
+            cardDesc1="e"
+            cardDesc2="e undefined"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2="l"
+            desc="y" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}

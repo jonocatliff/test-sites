@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton outdoor landscape design | We'll Take Care Of Everything" 
-            desc="Edmonton outdoor landscape design: d w"
+            desc="Edmonton outdoor landscape design: e o"
             canonical={`${props.website}/edmonton-outdoor-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton outdoor landscape design" //KW
-            subtitle="d w"
+            subtitle="e o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="r  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="  n"
+            image="/window-installation.jpg"
             alt="Edmonton outdoor landscape design"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Edmonton outdoor landscape design" //KW
-            desc="  s n undefined"
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="s e i undefined"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Repair" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="y"
-            cardDesc3="l"
+            cardDesc1="u"
+            cardDesc2="o"
+            cardDesc3="y"
             />
             <Approach
             title="Edmonton outdoor landscape design" //KW
-            desc="h l r w"
+            desc="      ."
             />
             <Intro
             subtitle="Exceptional Edmonton outdoor landscape design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="e undefined"
-            cardDesc3="s"
+            cardDesc1="c"
+            cardDesc2="l undefined"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="n"
+            desc=" " //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

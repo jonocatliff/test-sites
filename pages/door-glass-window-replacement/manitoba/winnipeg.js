@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg door glass window replacement | We'll Take Care Of Everything" 
-            desc="Winnipeg door glass window replacement: e l"
+            desc="Winnipeg door glass window replacement:   r"
             canonical={`${props.website}/winnipeg-door-glass-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg door glass window replacement" //KW
-            subtitle="e l"
+            subtitle="  r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="a  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="O p"
+            image="/window-washing.jpg"
             alt="Winnipeg door glass window replacement"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Winnipeg door glass window replacement" //KW
-            desc="m e   t"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="a e k g"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="r"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="n"
-            cardDesc3="l"
+            cardDesc1="s"
+            cardDesc2="A"
+            cardDesc3="i"
             />
             <Approach
             title="Winnipeg door glass window replacement" //KW
-            desc="d t u i"
+            desc="  r w k"
             />
             <Intro
             subtitle="Exceptional Winnipeg door glass window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2="e  "
+            cardDesc1="t"
+            cardDesc2="r e"
             cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="v" //KW
-            desc2=" "
+            desc=" " //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

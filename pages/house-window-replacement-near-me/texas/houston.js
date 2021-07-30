@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston house window replacement near me | We'll Take Care Of Everything" 
-            desc="Houston house window replacement near me: o o"
+            desc="Houston house window replacement near me: o  "
             canonical={`${props.website}/houston-house-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston house window replacement near me" //KW
-            subtitle="o o"
+            subtitle="o  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="l o"
+            subtitle="High-Quality Window Installations"
+            desc="a d"
             image="/window-washing.jpg"
             alt="Houston house window replacement near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Houston house window replacement near me" //KW
-            desc="v   n m"
+            desc=",   n  "
             image="/window-installation.jpg"
-            alt="Window Repair"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="l"
+            subtitle="Affordable Window Installations" //KW
+            desc="y"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2=" "
-            cardDesc3="s"
+            cardDesc1="y"
+            cardDesc2="w"
+            cardDesc3="m"
             />
             <Approach
             title="Houston house window replacement near me" //KW
-            desc="i o n h"
+            desc="s l p ,"
             />
             <Intro
             subtitle="Exceptional Houston house window replacement near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="y"
-            cardDesc2="s  "
-            cardDesc3="c"
+            cardDesc1="e"
+            cardDesc2="i o"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="m" //KW
-            desc2="o"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

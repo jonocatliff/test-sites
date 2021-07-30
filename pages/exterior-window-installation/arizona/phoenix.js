@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix exterior window installation | We'll Take Care Of Everything" 
-            desc="Phoenix exterior window installation: e  "
+            desc="Phoenix exterior window installation: e r"
             canonical={`${props.website}/phoenix-exterior-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix exterior window installation" //KW
-            subtitle="e  "
+            subtitle="e r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="  d"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="d p"
+            image="/window-installation.jpg"
             alt="Phoenix exterior window installation"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Phoenix exterior window installation" //KW
-            desc="e h e r"
-            image="/window-installation.jpg"
-            alt="Window Repair"
+            desc="o r o  "
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="k"
+            subtitle="Affordable Window Services" //KW
+            desc="p"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
+            cardDesc1="y"
             cardDesc2="o"
-            cardDesc3=" "
+            cardDesc3="p"
             />
             <Approach
             title="Phoenix exterior window installation" //KW
-            desc="d   t r"
+            desc="a o w l"
             />
             <Intro
             subtitle="Exceptional Phoenix exterior window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="  d"
-            cardDesc3="e"
+            cardDesc1=" "
+            cardDesc2="g a"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="d"
+            desc=" " //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

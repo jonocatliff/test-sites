@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles best landscape designers | We'll Take Care Of Everything" 
-            desc="Los Angeles best landscape designers: i e"
+            desc="Los Angeles best landscape designers: b r"
             canonical={`${props.website}/los-angeles-best-landscape-designers`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles best landscape designers" //KW
-            subtitle="i e"
+            subtitle="b r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="a t"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="c  "
+            image="/contractor.jpg"
             alt="Los Angeles best landscape designers"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Los Angeles best landscape designers" //KW
-            desc="p l f n"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="l u f o"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="r"
+            subtitle="Affordable Window Services" //KW
+            desc="v"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="a"
-            cardDesc3="P"
+            cardDesc1="n"
+            cardDesc2="d"
+            cardDesc3="w"
             />
             <Approach
             title="Los Angeles best landscape designers" //KW
-            desc="d h i r"
+            desc="e i v a"
             />
             <Intro
             subtitle="Exceptional Los Angeles best landscape designers" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="x"
-            cardDesc2="h e"
-            cardDesc3="n"
+            cardDesc1="c"
+            cardDesc2="c  "
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="n"
+            desc="u" //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

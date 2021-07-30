@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg patio installation | We'll Take Care Of Everything" 
-            desc="Winnipeg patio installation:   u"
+            desc="Winnipeg patio installation: e v"
             canonical={`${props.website}/winnipeg-patio-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg patio installation" //KW
-            subtitle="  u"
+            subtitle="e v"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="t k"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="o t"
+            image="/window-installations.jpg"
             alt="Winnipeg patio installation"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Winnipeg patio installation" //KW
-            desc="p e t undefined"
-            image="/window-installations.jpg"
-            alt="Window Repair"
+            desc="s o s undefined"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="c"
-            cardDesc3="l"
+            cardDesc1=" "
+            cardDesc2="d"
+            cardDesc3="i"
             />
             <Approach
             title="Winnipeg patio installation" //KW
-            desc="  f e i"
+            desc="n t h  "
             />
             <Intro
             subtitle="Exceptional Winnipeg patio installation" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="P undefined"
-            cardDesc3="m"
+            cardDesc1="r"
+            cardDesc2="o undefined"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2="r"
+            desc="b" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}

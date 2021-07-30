@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles outdoor landscaping | We'll Take Care Of Everything" 
-            desc="Los Angeles outdoor landscaping: r n"
+            desc="Los Angeles outdoor landscaping: o o"
             canonical={`${props.website}/los-angeles-outdoor-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles outdoor landscaping" //KW
-            subtitle="r n"
+            subtitle="o o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="s i"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="a v"
+            image="/window-washing.jpg"
             alt="Los Angeles outdoor landscaping"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Los Angeles outdoor landscaping" //KW
-            desc="a y f undefined"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="a a o undefined"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="v"
-            cardDesc2=" "
-            cardDesc3="e"
+            cardDesc1="t"
+            cardDesc2="l"
+            cardDesc3="c"
             />
             <Approach
             title="Los Angeles outdoor landscaping" //KW
-            desc="s h   r"
+            desc="s i e n"
             />
             <Intro
             subtitle="Exceptional Los Angeles outdoor landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="  undefined"
-            cardDesc3="a"
+            cardDesc1="h"
+            cardDesc2="u undefined"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="e"
+            desc="e" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}

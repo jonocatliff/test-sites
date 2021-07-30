@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary window companies near me | We'll Take Care Of Everything" 
-            desc="Calgary window companies near me: a a"
+            desc="Calgary window companies near me: t  "
             canonical={`${props.website}/calgary-window-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary window companies near me" //KW
-            subtitle="a a"
+            subtitle="t  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="u s"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="  t"
+            image="/contractor.jpg"
             alt="Calgary window companies near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Calgary window companies near me" //KW
-            desc="v   r w"
-            image="/window-installation.jpg"
-            alt="Window Repair"
+            desc=", t c e"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="e"
+            subtitle="Affordable Window Replacement" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2=" "
-            cardDesc3=","
+            cardDesc1="s"
+            cardDesc2="w"
+            cardDesc3="o"
             />
             <Approach
             title="Calgary window companies near me" //KW
-            desc="e i c  "
+            desc="r     i"
             />
             <Intro
             subtitle="Exceptional Calgary window companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="   "
-            cardDesc3="o"
+            cardDesc1="e"
+            cardDesc2="e r"
+            cardDesc3="y"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="o"
+            desc="r" //KW
+            desc2="g"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

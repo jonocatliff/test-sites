@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal retaining wall installation | We'll Take Care Of Everything" 
-            desc="Montreal retaining wall installation: t e"
+            desc="Montreal retaining wall installation: i l"
             canonical={`${props.website}/montreal-retaining-wall-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal retaining wall installation" //KW
-            subtitle="t e"
+            subtitle="i l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="  n"
+            subtitle="High-Quality Window Services"
+            desc="e a"
             image="/window-washing.jpg"
             alt="Montreal retaining wall installation"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Montreal retaining wall installation" //KW
-            desc="a u p undefined"
+            desc="i s d undefined"
             image="/window-installations.jpg"
-            alt="Window Replacement"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2=" "
-            cardDesc3="n"
+            cardDesc1="e"
+            cardDesc2="r"
+            cardDesc3="a"
             />
             <Approach
             title="Montreal retaining wall installation" //KW
-            desc="  i , g"
+            desc="d l e  "
             />
             <Intro
             subtitle="Exceptional Montreal retaining wall installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="c undefined"
-            cardDesc3="e"
+            cardDesc1="r"
+            cardDesc2="m undefined"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="f" //KW
-            desc2="a"
+            desc="u" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

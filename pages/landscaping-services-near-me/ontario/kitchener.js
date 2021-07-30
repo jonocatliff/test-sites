@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener landscaping services near me | We'll Take Care Of Everything" 
-            desc="Kitchener landscaping services near me: f s"
+            desc="Kitchener landscaping services near me: i e"
             canonical={`${props.website}/kitchener-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener landscaping services near me" //KW
-            subtitle="f s"
+            subtitle="i e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="e n"
+            image="/contractor.jpg"
             alt="Kitchener landscaping services near me"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Kitchener landscaping services near me" //KW
-            desc="e i v o"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="m o v O"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="a"
+            subtitle="Affordable Window Replacement" //KW
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="i"
-            cardDesc3="r"
+            cardDesc1="l"
+            cardDesc2=" "
+            cardDesc3="h"
             />
             <Approach
             title="Kitchener landscaping services near me" //KW
-            desc="r d r e"
+            desc="y   a  "
             />
             <Intro
             subtitle="Exceptional Kitchener landscaping services near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="l"
-            cardDesc2="o  "
-            cardDesc3=" "
+            cardDesc1="e"
+            cardDesc2="h x"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="r"
+            desc="i" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}

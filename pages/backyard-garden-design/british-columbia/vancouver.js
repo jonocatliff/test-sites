@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver backyard garden design | We'll Take Care Of Everything" 
-            desc="Vancouver backyard garden design: w e"
+            desc="Vancouver backyard garden design: e r"
             canonical={`${props.website}/vancouver-backyard-garden-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver backyard garden design" //KW
-            subtitle="w e"
+            subtitle="e r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="a t"
-            image="/contractor.jpg"
+            desc="d n"
+            image="/window-installation.jpg"
             alt="Vancouver backyard garden design"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Vancouver backyard garden design" //KW
-            desc="o r l i"
-            image="/window-installations.jpg"
+            desc="o   e  "
+            image="/window-washing.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="l"
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="o"
-            cardDesc3="u"
+            cardDesc1="o"
+            cardDesc2="I"
+            cardDesc3="n"
             />
             <Approach
             title="Vancouver backyard garden design" //KW
-            desc="  x r b"
+            desc="n x r n"
             />
             <Intro
             subtitle="Exceptional Vancouver backyard garden design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="u e"
+            cardDesc1="s"
+            cardDesc2="t a"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="o"
+            desc="o" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

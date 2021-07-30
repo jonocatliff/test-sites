@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City landscaping services | We'll Take Care Of Everything" 
-            desc="New York City landscaping services: l O"
+            desc="New York City landscaping services: t i"
             canonical={`${props.website}/new-york-city-landscaping-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City landscaping services" //KW
-            subtitle="l O"
+            subtitle="t i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="   "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="f o"
+            image="/window-installations.jpg"
             alt="New York City landscaping services"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional New York City landscaping services" //KW
-            desc="t k r d"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="t e   o"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            subtitle="Affordable Window Installations" //KW
+            desc="f"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="t"
-            cardDesc3="I"
+            cardDesc1="u"
+            cardDesc2="v"
+            cardDesc3="s"
             />
             <Approach
             title="New York City landscaping services" //KW
-            desc="w   t b"
+            desc="  h d s"
             />
             <Intro
             subtitle="Exceptional New York City landscaping services" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="o o"
-            cardDesc3="e"
+            cardDesc1="s"
+            cardDesc2="   "
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="b"
+            desc="l" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

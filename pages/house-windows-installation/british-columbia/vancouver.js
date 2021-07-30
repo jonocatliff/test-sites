@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver house windows installation | We'll Take Care Of Everything" 
-            desc="Vancouver house windows installation: e ,"
+            desc="Vancouver house windows installation: n ’"
             canonical={`${props.website}/vancouver-house-windows-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver house windows installation" //KW
-            subtitle="e ,"
+            subtitle="n ’"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="s r"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="v  "
+            image="/window-installation.jpg"
             alt="Vancouver house windows installation"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Vancouver house windows installation" //KW
-            desc="n d a s"
+            desc="  i e n"
             image="/contractor.jpg"
-            alt="Window Repair"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="t"
+            subtitle="Affordable Window Replacement" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="g"
-            cardDesc3="t"
+            cardDesc1=" "
+            cardDesc2="c"
+            cardDesc3="l"
             />
             <Approach
             title="Vancouver house windows installation" //KW
-            desc="i r l f"
+            desc="i o e e"
             />
             <Intro
             subtitle="Exceptional Vancouver house windows installation" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="."
-            cardDesc2="  y"
-            cardDesc3="e"
+            cardDesc1="i"
+            cardDesc2="c o"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
+            desc="t" //KW
             desc2="r"
             />
             <Footer 

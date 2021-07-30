@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London sod landscaping | We'll Take Care Of Everything" 
-            desc="London sod landscaping: i P"
+            desc="London sod landscaping: e t"
             canonical={`${props.website}/london-sod-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London sod landscaping" //KW
-            subtitle="i P"
+            subtitle="e t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="t i"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="a t"
+            image="/window-washing.jpg"
             alt="London sod landscaping"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional London sod landscaping" //KW
-            desc="    o undefined"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="r e n undefined"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="w"
-            cardDesc3="I"
+            cardDesc1=" "
+            cardDesc2="c"
+            cardDesc3="o"
             />
             <Approach
             title="London sod landscaping" //KW
-            desc="  o   a"
+            desc="c i   l"
             />
             <Intro
             subtitle="Exceptional London sod landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
+            cardDesc1=" "
             cardDesc2="t undefined"
-            cardDesc3="a"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2=" "
+            desc="w" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}

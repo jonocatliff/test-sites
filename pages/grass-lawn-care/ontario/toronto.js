@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto grass lawn care | We'll Take Care Of Everything" 
-            desc="Toronto grass lawn care: t w"
+            desc="Toronto grass lawn care: I n"
             canonical={`${props.website}/toronto-grass-lawn-care`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto grass lawn care" //KW
-            subtitle="t w"
+            subtitle="I n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r e"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="P l"
+            image="/contractor.jpg"
             alt="Toronto grass lawn care"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Toronto grass lawn care" //KW
-            desc="  o f e"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="e e f  "
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="i"
+            subtitle="Affordable Window Replacement" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="W"
-            cardDesc3="l"
+            cardDesc1="w"
+            cardDesc2="r"
+            cardDesc3="o"
             />
             <Approach
             title="Toronto grass lawn care" //KW
-            desc="e u n i"
+            desc="r f . e"
             />
             <Intro
             subtitle="Exceptional Toronto grass lawn care" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="y w"
-            cardDesc3=" "
+            cardDesc1="e"
+            cardDesc2="b  "
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2=" "
+            desc="i" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}

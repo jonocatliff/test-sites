@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton lawn care weed control | We'll Take Care Of Everything" 
-            desc="Hamilton lawn care weed control:    "
+            desc="Hamilton lawn care weed control: d o"
             canonical={`${props.website}/hamilton-lawn-care-weed-control`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton lawn care weed control" //KW
-            subtitle="   "
+            subtitle="d o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="  i"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="r r"
+            image="/window-washing.jpg"
             alt="Hamilton lawn care weed control"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Hamilton lawn care weed control" //KW
-            desc="P o s n"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="i n t n"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="a"
+            subtitle="Affordable Window Installations" //KW
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="o"
-            cardDesc3="i"
+            cardDesc1=" "
+            cardDesc2="h"
+            cardDesc3=" "
             />
             <Approach
             title="Hamilton lawn care weed control" //KW
-            desc="u s   i"
+            desc="  o   o"
             />
             <Intro
             subtitle="Exceptional Hamilton lawn care weed control" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="l r"
-            cardDesc3="i"
+            cardDesc1="."
+            cardDesc2="u l"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="a"
+            desc="a" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg landscaping company | We'll Take Care Of Everything" 
-            desc="Winnipeg landscaping company: n ’"
+            desc="Winnipeg landscaping company:    "
             canonical={`${props.website}/winnipeg-landscaping-company`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg landscaping company" //KW
-            subtitle="n ’"
+            subtitle="   "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="t i"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="r p"
+            image="/window-washing.jpg"
             alt="Winnipeg landscaping company"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Winnipeg landscaping company" //KW
-            desc="h   a r"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="v e i l"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="o"
+            subtitle="Affordable Window Repair" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="o"
-            cardDesc3="f"
+            cardDesc1="f"
+            cardDesc2=" "
+            cardDesc3=","
             />
             <Approach
             title="Winnipeg landscaping company" //KW
-            desc="i e u s"
+            desc="o e    "
             />
             <Intro
             subtitle="Exceptional Winnipeg landscaping company" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="g e"
-            cardDesc3="o"
+            cardDesc1="e"
+            cardDesc2="c  "
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="l"
+            desc="l" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

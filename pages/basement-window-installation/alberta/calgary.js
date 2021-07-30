@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary basement window installation | We'll Take Care Of Everything" 
-            desc="Calgary basement window installation: n e"
+            desc="Calgary basement window installation: n  "
             canonical={`${props.website}/calgary-basement-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary basement window installation" //KW
-            subtitle="n e"
+            subtitle="n  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="e t"
+            desc="t p"
             image="/window-washing.jpg"
             alt="Calgary basement window installation"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Calgary basement window installation" //KW
-            desc="h i   e"
-            image="/window-installation.jpg"
+            desc="  , a o"
+            image="/window-installations.jpg"
             alt="Window Services"
             />
             <Savings
             subtitle="Affordable Window Services" //KW
-            desc="q"
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2=" "
-            cardDesc3="k"
+            cardDesc1="a"
+            cardDesc2="g"
+            cardDesc3=" "
             />
             <Approach
             title="Calgary basement window installation" //KW
-            desc="c q r r"
+            desc="c a s a"
             />
             <Intro
             subtitle="Exceptional Calgary basement window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="  w"
-            cardDesc3="e"
+            cardDesc1="i"
+            cardDesc2="  s"
+            cardDesc3="g"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="e"
+            desc="n" //KW
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

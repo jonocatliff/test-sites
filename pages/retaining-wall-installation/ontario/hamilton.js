@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton retaining wall installation | We'll Take Care Of Everything" 
-            desc="Hamilton retaining wall installation: e o"
+            desc="Hamilton retaining wall installation: l o"
             canonical={`${props.website}/hamilton-retaining-wall-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton retaining wall installation" //KW
-            subtitle="e o"
+            subtitle="l o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="a a"
+            subtitle="High-Quality Window Repair"
+            desc="I h"
             image="/contractor.jpg"
             alt="Hamilton retaining wall installation"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Hamilton retaining wall installation" //KW
-            desc="t     undefined"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="s r . undefined"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Repair" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="e"
-            cardDesc3="h"
+            cardDesc1="O"
+            cardDesc2="v"
+            cardDesc3="i"
             />
             <Approach
             title="Hamilton retaining wall installation" //KW
-            desc="l s a f"
+            desc="  i d t"
             />
             <Intro
             subtitle="Exceptional Hamilton retaining wall installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="  undefined"
-            cardDesc3="n"
+            cardDesc1="o"
+            cardDesc2="e undefined"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2=" "
+            desc="n" //KW
+            desc2=","
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

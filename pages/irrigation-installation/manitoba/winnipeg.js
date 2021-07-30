@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg irrigation installation | We'll Take Care Of Everything" 
-            desc="Winnipeg irrigation installation: s f"
+            desc="Winnipeg irrigation installation: d r"
             canonical={`${props.website}/winnipeg-irrigation-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg irrigation installation" //KW
-            subtitle="s f"
+            subtitle="d r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
-            desc="  d"
-            image="/window-installation.jpg"
+            desc="r f"
+            image="/window-washing.jpg"
             alt="Winnipeg irrigation installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Winnipeg irrigation installation" //KW
-            desc="    s e"
-            image="/contractor.jpg"
+            desc="n l o  "
+            image="/window-installations.jpg"
             alt="Window Repair"
             />
             <Savings
             subtitle="Affordable Window Repair" //KW
-            desc="p"
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="o"
-            cardDesc3="t"
+            cardDesc1="d"
+            cardDesc2=" "
+            cardDesc3="s"
             />
             <Approach
             title="Winnipeg irrigation installation" //KW
-            desc="d p w e"
+            desc="o r t y"
             />
             <Intro
             subtitle="Exceptional Winnipeg irrigation installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2="t n"
-            cardDesc3="e"
+            cardDesc1="r"
+            cardDesc2="i d"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="u"
+            desc="A" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City hydrangea landscaping | We'll Take Care Of Everything" 
-            desc="Quebec City hydrangea landscaping: i  "
+            desc="Quebec City hydrangea landscaping: e  "
             canonical={`${props.website}/quebec-city-hydrangea-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City hydrangea landscaping" //KW
-            subtitle="i  "
+            subtitle="e  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="l r"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="t  "
+            image="/contractor.jpg"
             alt="Quebec City hydrangea landscaping"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Quebec City hydrangea landscaping" //KW
-            desc="r   a  "
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="e o e r"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="t"
+            subtitle="Affordable Window Installations" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="v"
-            cardDesc3="g"
+            cardDesc1="t"
+            cardDesc2="u"
+            cardDesc3="m"
             />
             <Approach
             title="Quebec City hydrangea landscaping" //KW
-            desc="  e o n"
+            desc="o t d s"
             />
             <Intro
             subtitle="Exceptional Quebec City hydrangea landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="  f"
-            cardDesc3="w"
+            cardDesc1="e"
+            cardDesc2="x e"
+            cardDesc3="I"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
-            desc2="d"
+            desc="y" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

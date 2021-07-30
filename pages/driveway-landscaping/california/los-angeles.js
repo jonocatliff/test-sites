@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles driveway landscaping | We'll Take Care Of Everything" 
-            desc="Los Angeles driveway landscaping: c a"
+            desc="Los Angeles driveway landscaping:   n"
             canonical={`${props.website}/los-angeles-driveway-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles driveway landscaping" //KW
-            subtitle="c a"
+            subtitle="  n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc=". a"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="t a"
+            image="/window-installations.jpg"
             alt="Los Angeles driveway landscaping"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles driveway landscaping" //KW
-            desc="p h k  "
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="m c r i"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="l"
+            subtitle="Affordable Window Replacement" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="o"
-            cardDesc3="h"
+            cardDesc1="n"
+            cardDesc2="v"
+            cardDesc3="r"
             />
             <Approach
             title="Los Angeles driveway landscaping" //KW
-            desc="u f   e"
+            desc="  u   r"
             />
             <Intro
             subtitle="Exceptional Los Angeles driveway landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="e w"
+            cardDesc1="o"
+            cardDesc2="i v"
             cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2=" "
+            desc="d" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

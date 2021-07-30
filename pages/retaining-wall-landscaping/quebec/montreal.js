@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal retaining wall landscaping | We'll Take Care Of Everything" 
-            desc="Montreal retaining wall landscaping: d  "
+            desc="Montreal retaining wall landscaping: e r"
             canonical={`${props.website}/montreal-retaining-wall-landscaping`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Montreal retaining wall landscaping" //KW
-            subtitle="d  "
+            subtitle="e r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="d W"
-            image="/contractor.jpg"
+            desc="s n"
+            image="/window-installation.jpg"
             alt="Montreal retaining wall landscaping"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Montreal retaining wall landscaping" //KW
-            desc="y o i undefined"
-            image="/window-installations.jpg"
+            desc="v r i undefined"
+            image="/window-washing.jpg"
             alt="Window Replacement"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="e"
-            cardDesc3="t"
+            cardDesc1="l"
+            cardDesc2="o"
+            cardDesc3="w"
             />
             <Approach
             title="Montreal retaining wall landscaping" //KW
-            desc="o e r r"
+            desc="t e y i"
             />
             <Intro
             subtitle="Exceptional Montreal retaining wall landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="r undefined"
-            cardDesc3="n"
+            cardDesc1=" "
+            cardDesc2="n undefined"
+            cardDesc3="c"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="t"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

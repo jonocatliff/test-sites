@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles backyard garden design | We'll Take Care Of Everything" 
-            desc="Los Angeles backyard garden design: l  "
+            desc="Los Angeles backyard garden design: e r"
             canonical={`${props.website}/los-angeles-backyard-garden-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles backyard garden design" //KW
-            subtitle="l  "
+            subtitle="e r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="d g"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="n  "
+            image="/window-installations.jpg"
             alt="Los Angeles backyard garden design"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Los Angeles backyard garden design" //KW
-            desc="a p t l"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="a n u f"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="v"
+            subtitle="Affordable Window Replacement" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
-            cardDesc2="o"
-            cardDesc3="t"
+            cardDesc2="l"
+            cardDesc3="k"
             />
             <Approach
             title="Los Angeles backyard garden design" //KW
-            desc="i   y s"
+            desc="a   w O"
             />
             <Intro
             subtitle="Exceptional Los Angeles backyard garden design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="e s"
-            cardDesc3="o"
+            cardDesc1="s"
+            cardDesc2="i r"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="m" //KW
-            desc2="d"
+            desc="," //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

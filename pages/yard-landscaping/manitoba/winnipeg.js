@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg yard landscaping | We'll Take Care Of Everything" 
-            desc="Winnipeg yard landscaping: t  "
+            desc="Winnipeg yard landscaping: e f"
             canonical={`${props.website}/winnipeg-yard-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg yard landscaping" //KW
-            subtitle="t  "
+            subtitle="e f"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="a v"
+            subtitle="High-Quality Window Installations"
+            desc="o p"
             image="/window-installations.jpg"
             alt="Winnipeg yard landscaping"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Winnipeg yard landscaping" //KW
-            desc="  t o undefined"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="c n   undefined"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="c"
-            cardDesc3="h"
+            cardDesc1="e"
+            cardDesc2="y"
+            cardDesc3="l"
             />
             <Approach
             title="Winnipeg yard landscaping" //KW
-            desc="t r e u"
+            desc="n w r h"
             />
             <Intro
             subtitle="Exceptional Winnipeg yard landscaping" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
+            cardDesc1="a"
             cardDesc2="e undefined"
-            cardDesc3="r"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
+            desc="e" //KW
             desc2="a"
             />
             <Footer 

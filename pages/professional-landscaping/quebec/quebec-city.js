@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City professional landscaping | We'll Take Care Of Everything" 
-            desc="Quebec City professional landscaping: i o"
+            desc="Quebec City professional landscaping: o  "
             canonical={`${props.website}/quebec-city-professional-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City professional landscaping" //KW
-            subtitle="i o"
+            subtitle="o  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc=", r"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="l  "
+            image="/window-washing.jpg"
             alt="Quebec City professional landscaping"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Quebec City professional landscaping" //KW
-            desc="O i e undefined"
-            image="/window-washing.jpg"
-            alt="Window Replacement"
+            desc="d a o undefined"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
+            cardDesc1="r"
             cardDesc2="i"
-            cardDesc3="h"
+            cardDesc3="t"
             />
             <Approach
             title="Quebec City professional landscaping" //KW
-            desc="t r r  "
+            desc="a r i c"
             />
             <Intro
             subtitle="Exceptional Quebec City professional landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="y"
-            cardDesc2="h undefined"
-            cardDesc3=" "
+            cardDesc1="i"
+            cardDesc2="  undefined"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="v"
+            desc="t" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

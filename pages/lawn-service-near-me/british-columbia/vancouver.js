@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver lawn service near me | We'll Take Care Of Everything" 
-            desc="Vancouver lawn service near me: a u"
+            desc="Vancouver lawn service near me: s ’"
             canonical={`${props.website}/vancouver-lawn-service-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver lawn service near me" //KW
-            subtitle="a u"
+            subtitle="s ’"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="n e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="n d"
+            image="/window-installation.jpg"
             alt="Vancouver lawn service near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Vancouver lawn service near me" //KW
-            desc="g r f u"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="g   o l"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            subtitle="Affordable Window Installations" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="i"
-            cardDesc3="k"
+            cardDesc1="l"
+            cardDesc2="c"
+            cardDesc3=" "
             />
             <Approach
             title="Vancouver lawn service near me" //KW
-            desc=": , n  "
+            desc="t i y  "
             />
             <Intro
             subtitle="Exceptional Vancouver lawn service near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="  s"
-            cardDesc3="d"
+            cardDesc1="r"
+            cardDesc2="  l"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="s" //KW
-            desc2="i"
+            desc2="v"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

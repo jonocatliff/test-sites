@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles house windows installation | We'll Take Care Of Everything" 
-            desc="Los Angeles house windows installation: t t"
+            desc="Los Angeles house windows installation: a t"
             canonical={`${props.website}/los-angeles-house-windows-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles house windows installation" //KW
-            subtitle="t t"
+            subtitle="a t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="  r"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="f a"
+            image="/window-installations.jpg"
             alt="Los Angeles house windows installation"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles house windows installation" //KW
-            desc="m   r i"
+            desc="p e l O"
             image="/window-washing.jpg"
-            alt="Window Services"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="o"
+            subtitle="Affordable Window Installations" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
-            cardDesc2="t"
-            cardDesc3="u"
+            cardDesc2=" "
+            cardDesc3="."
             />
             <Approach
             title="Los Angeles house windows installation" //KW
-            desc="o   d c"
+            desc="o c    "
             />
             <Intro
             subtitle="Exceptional Los Angeles house windows installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="s n"
-            cardDesc3="n"
+            cardDesc1="n"
+            cardDesc2="b r"
+            cardDesc3="v"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="."
+            desc="o" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

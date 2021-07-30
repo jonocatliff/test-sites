@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary hedge trimming near me | We'll Take Care Of Everything" 
-            desc="Calgary hedge trimming near me: n u"
+            desc="Calgary hedge trimming near me: o  "
             canonical={`${props.website}/calgary-hedge-trimming-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary hedge trimming near me" //KW
-            subtitle="n u"
+            subtitle="o  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="m  "
+            subtitle="High-Quality Window Services"
+            desc="  g"
             image="/window-washing.jpg"
             alt="Calgary hedge trimming near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Calgary hedge trimming near me" //KW
-            desc="r o e  "
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="  r w o"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="u"
+            subtitle="Affordable Window Services" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="c"
-            cardDesc3="w"
+            cardDesc1="c"
+            cardDesc2=" "
+            cardDesc3="t"
             />
             <Approach
             title="Calgary hedge trimming near me" //KW
-            desc="  r i d"
+            desc="u   t i"
             />
             <Intro
             subtitle="Exceptional Calgary hedge trimming near me" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="s w"
-            cardDesc3="o"
+            cardDesc1="e"
+            cardDesc2="c e"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
+            desc="s" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

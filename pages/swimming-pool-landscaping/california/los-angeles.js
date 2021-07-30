@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles swimming pool landscaping | We'll Take Care Of Everything" 
-            desc="Los Angeles swimming pool landscaping:   r"
+            desc="Los Angeles swimming pool landscaping: l r"
             canonical={`${props.website}/los-angeles-swimming-pool-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles swimming pool landscaping" //KW
-            subtitle="  r"
+            subtitle="l r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="e  "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="o  "
+            image="/window-installation.jpg"
             alt="Los Angeles swimming pool landscaping"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Los Angeles swimming pool landscaping" //KW
-            desc="y t o undefined"
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="e i   undefined"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="c"
-            cardDesc3="a"
+            cardDesc1="l"
+            cardDesc2="o"
+            cardDesc3="e"
             />
             <Approach
             title="Los Angeles swimming pool landscaping" //KW
-            desc="      s"
+            desc="i     y"
             />
             <Intro
             subtitle="Exceptional Los Angeles swimming pool landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="c undefined"
-            cardDesc3="t"
+            cardDesc1="e"
+            cardDesc2="y undefined"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="n"
+            desc="o" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}

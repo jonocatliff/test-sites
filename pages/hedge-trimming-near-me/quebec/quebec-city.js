@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City hedge trimming near me | We'll Take Care Of Everything" 
-            desc="Quebec City hedge trimming near me: w s"
+            desc="Quebec City hedge trimming near me: t d"
             canonical={`${props.website}/quebec-city-hedge-trimming-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City hedge trimming near me" //KW
-            subtitle="w s"
+            subtitle="t d"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="a a"
+            subtitle="High-Quality Window Cleaning"
+            desc="W h"
             image="/window-installations.jpg"
             alt="Quebec City hedge trimming near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Quebec City hedge trimming near me" //KW
-            desc="i   o  "
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="w t n s"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="s"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="i"
-            cardDesc3="i"
+            cardDesc1=" "
+            cardDesc2="r"
+            cardDesc3="c"
             />
             <Approach
             title="Quebec City hedge trimming near me" //KW
-            desc="o d   e"
+            desc="a ’ t i"
             />
             <Intro
             subtitle="Exceptional Quebec City hedge trimming near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="v ."
-            cardDesc3="n"
+            cardDesc1="t"
+            cardDesc2="t m"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="v" //KW
-            desc2=" "
+            desc="l" //KW
+            desc2="W"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener house glass window replacement | We'll Take Care Of Everything" 
-            desc="Kitchener house glass window replacement: i a"
+            desc="Kitchener house glass window replacement: e f"
             canonical={`${props.website}/kitchener-house-glass-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener house glass window replacement" //KW
-            subtitle="i a"
+            subtitle="e f"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="n s"
+            subtitle="High-Quality Window Installations"
+            desc="  i"
             image="/window-installation.jpg"
             alt="Kitchener house glass window replacement"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Kitchener house glass window replacement" //KW
-            desc="e b   y"
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="e w t o"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc=" "
+            subtitle="Affordable Window Installations" //KW
+            desc="f"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="w"
-            cardDesc3="o"
+            cardDesc1=" "
+            cardDesc2="v"
+            cardDesc3="c"
             />
             <Approach
             title="Kitchener house glass window replacement" //KW
-            desc="u c   e"
+            desc="t w l n"
             />
             <Intro
             subtitle="Exceptional Kitchener house glass window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="t a"
-            cardDesc3=" "
+            cardDesc1="t"
+            cardDesc2="u u"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2=" "
+            desc="p" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City window contractors near me | We'll Take Care Of Everything" 
-            desc="Quebec City window contractors near me: o n"
+            desc="Quebec City window contractors near me: o  "
             canonical={`${props.website}/quebec-city-window-contractors-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City window contractors near me" //KW
-            subtitle="o n"
+            subtitle="o  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="a n"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="  c"
+            image="/window-installations.jpg"
             alt="Quebec City window contractors near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Quebec City window contractors near me" //KW
-            desc="b r i l"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="l e   s"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc=" "
+            subtitle="Affordable Window Repair" //KW
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2="y"
-            cardDesc3="r"
+            cardDesc1="a"
+            cardDesc2="c"
+            cardDesc3="t"
             />
             <Approach
             title="Quebec City window contractors near me" //KW
-            desc="s   g o"
+            desc="i y a t"
             />
             <Intro
             subtitle="Exceptional Quebec City window contractors near me" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="t"
-            cardDesc2="w r"
-            cardDesc3=" "
+            cardDesc2="e  "
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="i"
+            desc=" " //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

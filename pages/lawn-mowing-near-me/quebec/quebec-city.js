@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City lawn mowing near me | We'll Take Care Of Everything" 
-            desc="Quebec City lawn mowing near me: W c"
+            desc="Quebec City lawn mowing near me: s r"
             canonical={`${props.website}/quebec-city-lawn-mowing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City lawn mowing near me" //KW
-            subtitle="W c"
+            subtitle="s r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="f  "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="d c"
+            image="/window-washing.jpg"
             alt="Quebec City lawn mowing near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Quebec City lawn mowing near me" //KW
-            desc="t d n r"
-            image="/window-washing.jpg"
-            alt="Window Replacement"
+            desc="a   d a"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="d"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="u"
-            cardDesc3="o"
+            cardDesc1="l"
+            cardDesc2="t"
+            cardDesc3="d"
             />
             <Approach
             title="Quebec City lawn mowing near me" //KW
-            desc="o a i r"
+            desc="a ’   i"
             />
             <Intro
             subtitle="Exceptional Quebec City lawn mowing near me" //KW
@@ -65,9 +65,9 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="d s"
-            cardDesc3="r"
+            cardDesc1="c"
+            cardDesc2="c n"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -34,30 +34,30 @@
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="f t"
-            image="/window-installations.jpg"
+            desc="c e"
+            image="/contractor.jpg"
             alt="Toronto lawn fertilization"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Toronto lawn fertilization" //KW
-            desc="u i p i"
-            image="/contractor.jpg"
+            desc="a e p e"
+            image="/window-installations.jpg"
             alt="Window Services"
             />
             <Savings
             subtitle="Affordable Window Services" //KW
-            desc="i"
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="c"
-            cardDesc2="i"
-            cardDesc3="o"
+            cardDesc1="a"
+            cardDesc2="n"
+            cardDesc3="p"
             />
             <Approach
             title="Toronto lawn fertilization" //KW
-            desc="o , u  "
+            desc="n h h i"
             />
             <Intro
             subtitle="Exceptional Toronto lawn fertilization" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="  s"
-            cardDesc3="t"
+            cardDesc1="o"
+            cardDesc2="n n"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
-            desc2="t"
+            desc=" " //KW
+            desc2="m"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

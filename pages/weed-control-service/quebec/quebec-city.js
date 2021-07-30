@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City weed control service | We'll Take Care Of Everything" 
-            desc="Quebec City weed control service: h o"
+            desc="Quebec City weed control service: W  "
             canonical={`${props.website}/quebec-city-weed-control-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City weed control service" //KW
-            subtitle="h o"
+            subtitle="W  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  d"
+            subtitle="High-Quality Window Installations"
+            desc="a h"
             image="/contractor.jpg"
             alt="Quebec City weed control service"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Quebec City weed control service" //KW
-            desc="e A e undefined"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="a c e undefined"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="p"
-            cardDesc3="o"
+            cardDesc1="u"
+            cardDesc2="r"
+            cardDesc3="d"
             />
             <Approach
             title="Quebec City weed control service" //KW
-            desc="o a y  "
+            desc="u s d v"
             />
             <Intro
             subtitle="Exceptional Quebec City weed control service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="u undefined"
-            cardDesc3="r"
+            cardDesc1="i"
+            cardDesc2="o undefined"
+            cardDesc3="."
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="o"
+            desc="d" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

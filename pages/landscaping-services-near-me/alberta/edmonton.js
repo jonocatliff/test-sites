@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton landscaping services near me | We'll Take Care Of Everything" 
-            desc="Edmonton landscaping services near me: t c"
+            desc="Edmonton landscaping services near me: w a"
             canonical={`${props.website}/edmonton-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton landscaping services near me" //KW
-            subtitle="t c"
+            subtitle="w a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="r l"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="v h"
+            image="/window-washing.jpg"
             alt="Edmonton landscaping services near me"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Edmonton landscaping services near me" //KW
-            desc="t e s  "
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="r d s e"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="a"
+            subtitle="Affordable Window Replacement" //KW
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="o"
-            cardDesc3=","
+            cardDesc1="i"
+            cardDesc2="s"
+            cardDesc3=" "
             />
             <Approach
             title="Edmonton landscaping services near me" //KW
-            desc="y u t n"
+            desc="u y t  "
             />
             <Intro
             subtitle="Exceptional Edmonton landscaping services near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="t p"
-            cardDesc3=" "
+            cardDesc1="p"
+            cardDesc2="o o"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="g" //KW
-            desc2="o"
+            desc="s" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

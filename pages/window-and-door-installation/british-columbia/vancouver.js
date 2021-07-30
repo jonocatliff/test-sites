@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver window and door installation | We'll Take Care Of Everything" 
-            desc="Vancouver window and door installation: u l"
+            desc="Vancouver window and door installation: e o"
             canonical={`${props.website}/vancouver-window-and-door-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver window and door installation" //KW
-            subtitle="u l"
+            subtitle="e o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="  b"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="v c"
+            image="/window-installations.jpg"
             alt="Vancouver window and door installation"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Vancouver window and door installation" //KW
-            desc="w i o t"
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="n s   f"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="o"
+            subtitle="Affordable Window Installations" //KW
+            desc="m"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="r"
-            cardDesc3="t"
+            cardDesc1="o"
+            cardDesc2="p"
+            cardDesc3=" "
             />
             <Approach
             title="Vancouver window and door installation" //KW
-            desc="t d e  "
+            desc="u c h i"
             />
             <Intro
             subtitle="Exceptional Vancouver window and door installation" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="  i"
-            cardDesc3=" "
+            cardDesc1="y"
+            cardDesc2="e d"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="o"
+            desc="i" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg weed control companies near me | We'll Take Care Of Everything" 
-            desc="Winnipeg weed control companies near me: t e"
+            desc="Winnipeg weed control companies near me: c l"
             canonical={`${props.website}/winnipeg-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg weed control companies near me" //KW
-            subtitle="t e"
+            subtitle="c l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="n f"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="c  "
+            image="/window-installations.jpg"
             alt="Winnipeg weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Winnipeg weed control companies near me" //KW
-            desc="  o v undefined"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="  e i undefined"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="f"
-            cardDesc2="u"
-            cardDesc3="e"
+            cardDesc1="h"
+            cardDesc2="s"
+            cardDesc3=" "
             />
             <Approach
             title="Winnipeg weed control companies near me" //KW
-            desc="d r l s"
+            desc="p   o i"
             />
             <Intro
             subtitle="Exceptional Winnipeg weed control companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="n undefined"
-            cardDesc3="e"
+            cardDesc1="a"
+            cardDesc2="  undefined"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2="w"
+            desc=" " //KW
+            desc2="b"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago weed control companies near me | We'll Take Care Of Everything" 
-            desc="Chicago weed control companies near me: n e"
+            desc="Chicago weed control companies near me: s y"
             canonical={`${props.website}/chicago-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,19 +29,19 @@
             />
             <Header
             title="Chicago weed control companies near me" //KW
-            subtitle="n e"
+            subtitle="s y"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="l i"
-            image="/window-installation.jpg"
+            desc="s i"
+            image="/window-installations.jpg"
             alt="Chicago weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Chicago weed control companies near me" //KW
-            desc="  p r undefined"
+            desc="  o l undefined"
             image="/contractor.jpg"
             alt="Window Cleaning"
             />
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="o"
-            cardDesc3="m"
+            cardDesc1="n"
+            cardDesc2="n"
+            cardDesc3="y"
             />
             <Approach
             title="Chicago weed control companies near me" //KW
-            desc="l o i u"
+            desc="o o y i"
             />
             <Intro
             subtitle="Exceptional Chicago weed control companies near me" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="u"
-            cardDesc2="n undefined"
-            cardDesc3="d"
+            cardDesc2="e undefined"
+            cardDesc3="y"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2=" "
+            desc="e" //KW
+            desc2="g"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

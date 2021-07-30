@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary home glass window replacement near me | We'll Take Care Of Everything" 
-            desc="Calgary home glass window replacement near me: r  "
+            desc="Calgary home glass window replacement near me: e r"
             canonical={`${props.website}/calgary-home-glass-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary home glass window replacement near me" //KW
-            subtitle="r  "
+            subtitle="e r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="f a"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="o g"
+            image="/window-washing.jpg"
             alt="Calgary home glass window replacement near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Calgary home glass window replacement near me" //KW
-            desc="  r   d"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="n d p  "
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="o"
+            subtitle="Affordable Window Replacement" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="I"
-            cardDesc3="s"
+            cardDesc1="o"
+            cardDesc2="n"
+            cardDesc3="a"
             />
             <Approach
             title="Calgary home glass window replacement near me" //KW
-            desc="W o d  "
+            desc="e e   g"
             />
             <Intro
             subtitle="Exceptional Calgary home glass window replacement near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="p"
-            cardDesc2="o ’"
-            cardDesc3="r"
+            cardDesc1="n"
+            cardDesc2="t u"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="f"
+            desc="a" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

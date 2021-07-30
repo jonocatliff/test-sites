@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal best landscape designers | We'll Take Care Of Everything" 
-            desc="Montreal best landscape designers:   r"
+            desc="Montreal best landscape designers: o i"
             canonical={`${props.website}/montreal-best-landscape-designers`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal best landscape designers" //KW
-            subtitle="  r"
+            subtitle="o i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="t  "
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="e p"
+            image="/window-installation.jpg"
             alt="Montreal best landscape designers"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Montreal best landscape designers" //KW
-            desc="  n e o"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="n l m w"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="t"
+            subtitle="Affordable Window Replacement" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="I"
-            cardDesc3="t"
+            cardDesc1="r"
+            cardDesc2=" "
+            cardDesc3="i"
             />
             <Approach
             title="Montreal best landscape designers" //KW
-            desc="j s p o"
+            desc="h      "
             />
             <Intro
             subtitle="Exceptional Montreal best landscape designers" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="  e"
-            cardDesc3="t"
+            cardDesc1="e"
+            cardDesc2="t k"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="a"
+            desc="r" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago grass mowing service | We'll Take Care Of Everything" 
-            desc="Chicago grass mowing service: s l"
+            desc="Chicago grass mowing service: i e"
             canonical={`${props.website}/chicago-grass-mowing-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago grass mowing service" //KW
-            subtitle="s l"
+            subtitle="i e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="e e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="o i"
+            image="/window-washing.jpg"
             alt="Chicago grass mowing service"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Chicago grass mowing service" //KW
-            desc="c i n o"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="c   t o"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="n"
+            subtitle="Affordable Window Installations" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2=" "
-            cardDesc3=" "
+            cardDesc1="o"
+            cardDesc2="."
+            cardDesc3="o"
             />
             <Approach
             title="Chicago grass mowing service" //KW
-            desc="o w w o"
+            desc="c m d s"
             />
             <Intro
             subtitle="Exceptional Chicago grass mowing service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="i o"
-            cardDesc3="r"
+            cardDesc1="e"
+            cardDesc2="I y"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="d"
+            desc="s" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

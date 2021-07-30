@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London lawn care and landscaping | We'll Take Care Of Everything" 
-            desc="London lawn care and landscaping: o  "
+            desc="London lawn care and landscaping:   n"
             canonical={`${props.website}/london-lawn-care-and-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London lawn care and landscaping" //KW
-            subtitle="o  "
+            subtitle="  n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="o e"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="b k"
+            image="/window-washing.jpg"
             alt="London lawn care and landscaping"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional London lawn care and landscaping" //KW
-            desc="u i l  "
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="o   s l"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="p"
+            subtitle="Affordable Window Repair" //KW
+            desc="f"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="g"
-            cardDesc2="s"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="y"
+            cardDesc3="c"
             />
             <Approach
             title="London lawn care and landscaping" //KW
-            desc="a   e e"
+            desc="e d e s"
             />
             <Intro
             subtitle="Exceptional London lawn care and landscaping" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="g"
-            cardDesc2="r m"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="  d"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
+            desc="r" //KW
             desc2="r"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

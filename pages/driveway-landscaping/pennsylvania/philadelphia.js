@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia driveway landscaping | We'll Take Care Of Everything" 
-            desc="Philadelphia driveway landscaping: y o"
+            desc="Philadelphia driveway landscaping: o v"
             canonical={`${props.website}/philadelphia-driveway-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia driveway landscaping" //KW
-            subtitle="y o"
+            subtitle="o v"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="u o"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="e i"
+            image="/contractor.jpg"
             alt="Philadelphia driveway landscaping"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Philadelphia driveway landscaping" //KW
-            desc="t s f e"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="a t p g"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="s"
+            subtitle="Affordable Window Repair" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="c"
-            cardDesc3="p"
+            cardDesc1="w"
+            cardDesc2="m"
+            cardDesc3=" "
             />
             <Approach
             title="Philadelphia driveway landscaping" //KW
-            desc="n i s i"
+            desc="n h d r"
             />
             <Intro
             subtitle="Exceptional Philadelphia driveway landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="o x"
-            cardDesc3="t"
+            cardDesc1="."
+            cardDesc2="   "
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2="n"
+            desc="a" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

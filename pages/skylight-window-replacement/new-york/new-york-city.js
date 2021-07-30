@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City skylight window replacement | We'll Take Care Of Everything" 
-            desc="New York City skylight window replacement:   r"
+            desc="New York City skylight window replacement: n m"
             canonical={`${props.website}/new-york-city-skylight-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City skylight window replacement" //KW
-            subtitle="  r"
+            subtitle="n m"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="O p"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="o v"
+            image="/window-washing.jpg"
             alt="New York City skylight window replacement"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional New York City skylight window replacement" //KW
-            desc="a e k g"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="p r . u"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="A"
-            cardDesc3="i"
+            cardDesc1=" "
+            cardDesc2="e"
+            cardDesc3=" "
             />
             <Approach
             title="New York City skylight window replacement" //KW
-            desc="  r w k"
+            desc="w   s  "
             />
             <Intro
             subtitle="Exceptional New York City skylight window replacement" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="t"
-            cardDesc2="r e"
-            cardDesc3="o"
+            cardDesc2="n e"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="i"
+            desc="e" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

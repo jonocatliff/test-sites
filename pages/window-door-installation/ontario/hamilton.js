@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton window door installation | We'll Take Care Of Everything" 
-            desc="Hamilton window door installation: a ’"
+            desc="Hamilton window door installation:   o"
             canonical={`${props.website}/hamilton-window-door-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton window door installation" //KW
-            subtitle="a ’"
+            subtitle="  o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="n m"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="r t"
+            image="/contractor.jpg"
             alt="Hamilton window door installation"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Hamilton window door installation" //KW
-            desc="n s e e"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="e o t r"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="l"
+            subtitle="Affordable Window Services" //KW
+            desc="b"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="s"
-            cardDesc3=" "
+            cardDesc1="o"
+            cardDesc2="u"
+            cardDesc3="h"
             />
             <Approach
             title="Hamilton window door installation" //KW
-            desc="a c v l"
+            desc="  y d e"
             />
             <Intro
             subtitle="Exceptional Hamilton window door installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="  o"
-            cardDesc3=" "
+            cardDesc1="r"
+            cardDesc2="r  "
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
-            desc2="w"
+            desc="." //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

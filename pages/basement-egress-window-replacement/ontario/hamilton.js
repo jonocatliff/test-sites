@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton basement egress window replacement | We'll Take Care Of Everything" 
-            desc="Hamilton basement egress window replacement: m l"
+            desc="Hamilton basement egress window replacement: w t"
             canonical={`${props.website}/hamilton-basement-egress-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton basement egress window replacement" //KW
-            subtitle="m l"
+            subtitle="w t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="s n"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="r l"
+            image="/window-washing.jpg"
             alt="Hamilton basement egress window replacement"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Hamilton basement egress window replacement" //KW
-            desc="p e    "
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="x s e c"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="f"
+            subtitle="Affordable Window Cleaning" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="w"
-            cardDesc3="n"
+            cardDesc1="e"
+            cardDesc2="p"
+            cardDesc3="t"
             />
             <Approach
             title="Hamilton basement egress window replacement" //KW
-            desc="a r e v"
+            desc="m b t h"
             />
             <Intro
             subtitle="Exceptional Hamilton basement egress window replacement" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="r"
-            cardDesc2="w r"
-            cardDesc3="s"
+            cardDesc2="t l"
+            cardDesc3="p"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="g" //KW
-            desc2="s"
+            desc="n" //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

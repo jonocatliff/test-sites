@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal home glass window replacement near me | We'll Take Care Of Everything" 
-            desc="Montreal home glass window replacement near me: P w"
+            desc="Montreal home glass window replacement near me: n e"
             canonical={`${props.website}/montreal-home-glass-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal home glass window replacement near me" //KW
-            subtitle="P w"
+            subtitle="n e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="o t"
-            image="/contractor.jpg"
+            desc="r n"
+            image="/window-installations.jpg"
             alt="Montreal home glass window replacement near me"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Montreal home glass window replacement near me" //KW
-            desc="s   f e"
-            image="/window-washing.jpg"
+            desc="i n m w"
+            image="/window-installation.jpg"
             alt="Window Services"
             />
             <Savings
             subtitle="Affordable Window Services" //KW
-            desc="f"
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="w"
-            cardDesc3="n"
+            cardDesc1="y"
+            cardDesc2="I"
+            cardDesc3="l"
             />
             <Approach
             title="Montreal home glass window replacement near me" //KW
-            desc="  h n f"
+            desc="n l n n"
             />
             <Intro
             subtitle="Exceptional Montreal home glass window replacement near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="t n"
-            cardDesc3="a"
+            cardDesc1="a"
+            cardDesc2="  o"
+            cardDesc3="p"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2=" "
+            desc="r" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

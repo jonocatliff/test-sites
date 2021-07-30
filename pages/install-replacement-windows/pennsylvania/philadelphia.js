@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia install replacement windows | We'll Take Care Of Everything" 
-            desc="Philadelphia install replacement windows: l e"
+            desc="Philadelphia install replacement windows: w w"
             canonical={`${props.website}/philadelphia-install-replacement-windows`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia install replacement windows" //KW
-            subtitle="l e"
+            subtitle="w w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="f m"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="n o"
+            image="/window-installations.jpg"
             alt="Philadelphia install replacement windows"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Philadelphia install replacement windows" //KW
-            desc="s r s n"
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="i   e r"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="O"
+            subtitle="Affordable Window Installations" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
+            cardDesc1="i"
             cardDesc2="i"
-            cardDesc3="a"
+            cardDesc3="l"
             />
             <Approach
             title="Philadelphia install replacement windows" //KW
-            desc="  o   u"
+            desc="n f t o"
             />
             <Intro
             subtitle="Exceptional Philadelphia install replacement windows" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="e s"
-            cardDesc3=" "
+            cardDesc1="a"
+            cardDesc2="  e"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="o"
+            desc=" " //KW
+            desc2="P"
             />
             <Footer 
             companyName={props.companyName}

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton lawn service near me | We'll Take Care Of Everything" 
-            desc="Hamilton lawn service near me:   n"
+            desc="Hamilton lawn service near me: n o"
             canonical={`${props.website}/hamilton-lawn-service-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton lawn service near me" //KW
-            subtitle="  n"
+            subtitle="n o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="o e"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="o o"
+            image="/window-installation.jpg"
             alt="Hamilton lawn service near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Hamilton lawn service near me" //KW
-            desc="  n n ."
+            desc="  t n u"
             image="/window-washing.jpg"
-            alt="Window Repair"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="i"
+            subtitle="Affordable Window Installations" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="r"
-            cardDesc3="c"
+            cardDesc1="r"
+            cardDesc2="y"
+            cardDesc3="."
             />
             <Approach
             title="Hamilton lawn service near me" //KW
-            desc="o   e a"
+            desc="i   n ’"
             />
             <Intro
             subtitle="Exceptional Hamilton lawn service near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="r h"
-            cardDesc3="y"
+            cardDesc1="s"
+            cardDesc2="A  "
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="r"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

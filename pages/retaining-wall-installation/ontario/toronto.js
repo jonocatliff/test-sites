@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto retaining wall installation | We'll Take Care Of Everything" 
-            desc="Toronto retaining wall installation: a u"
+            desc="Toronto retaining wall installation: w l"
             canonical={`${props.website}/toronto-retaining-wall-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto retaining wall installation" //KW
-            subtitle="a u"
+            subtitle="w l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="s i"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="n m"
+            image="/window-washing.jpg"
             alt="Toronto retaining wall installation"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Toronto retaining wall installation" //KW
-            desc="c o   undefined"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="w e r undefined"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="y"
-            cardDesc3="o"
+            cardDesc1="r"
+            cardDesc2="e"
+            cardDesc3="c"
             />
             <Approach
             title="Toronto retaining wall installation" //KW
-            desc="t w d n"
+            desc="n e s e"
             />
             <Intro
             subtitle="Exceptional Toronto retaining wall installation" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="i undefined"
-            cardDesc3="r"
+            cardDesc1="e"
+            cardDesc2="  undefined"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="p"
+            desc="f" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}

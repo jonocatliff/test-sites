@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City window and door installation companies | We'll Take Care Of Everything" 
-            desc="New York City window and door installation companies:   h"
+            desc="New York City window and door installation companies: r t"
             canonical={`${props.website}/new-york-city-window-and-door-installation-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City window and door installation companies" //KW
-            subtitle="  h"
+            subtitle="r t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="l  "
-            image="/window-washing.jpg"
+            desc="d t"
+            image="/window-installations.jpg"
             alt="New York City window and door installation companies"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional New York City window and door installation companies" //KW
-            desc="w r t u"
+            desc="  f o a"
             image="/window-installation.jpg"
             alt="Window Services"
             />
             <Savings
             subtitle="Affordable Window Services" //KW
-            desc="n"
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="f"
-            cardDesc2="d"
-            cardDesc3="i"
+            cardDesc1="r"
+            cardDesc2="e"
+            cardDesc3="l"
             />
             <Approach
             title="New York City window and door installation companies" //KW
-            desc="  ’ t r"
+            desc="u w i u"
             />
             <Intro
             subtitle="Exceptional New York City window and door installation companies" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="o w"
-            cardDesc3="h"
+            cardDesc1="p"
+            cardDesc2="i n"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="u"
+            desc="u" //KW
+            desc2="P"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton hedge trimming services | We'll Take Care Of Everything" 
-            desc="Edmonton hedge trimming services: n p"
+            desc="Edmonton hedge trimming services: i o"
             canonical={`${props.website}/edmonton-hedge-trimming-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton hedge trimming services" //KW
-            subtitle="n p"
+            subtitle="i o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="e n"
+            subtitle="High-Quality Window Services"
+            desc="d h"
             image="/contractor.jpg"
             alt="Edmonton hedge trimming services"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Edmonton hedge trimming services" //KW
-            desc="n n h d"
+            desc="n P o o"
             image="/window-installation.jpg"
-            alt="Window Cleaning"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="p"
+            subtitle="Affordable Window Services" //KW
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="t"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="i"
+            cardDesc3="h"
             />
             <Approach
             title="Edmonton hedge trimming services" //KW
-            desc="s r i e"
+            desc="l n e h"
             />
             <Intro
             subtitle="Exceptional Edmonton hedge trimming services" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="v a"
-            cardDesc3="l"
+            cardDesc1=" "
+            cardDesc2="n e"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="o"
+            desc="i" //KW
+            desc2="v"
             />
             <Footer 
             companyName={props.companyName}

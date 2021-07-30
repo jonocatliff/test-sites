@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles house window replacement near me | We'll Take Care Of Everything" 
-            desc="Los Angeles house window replacement near me: t  "
+            desc="Los Angeles house window replacement near me: f n"
             canonical={`${props.website}/los-angeles-house-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles house window replacement near me" //KW
-            subtitle="t  "
+            subtitle="f n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="a p"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="s v"
+            image="/window-installation.jpg"
             alt="Los Angeles house window replacement near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Los Angeles house window replacement near me" //KW
-            desc="r t   c"
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="e l   o"
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc=" "
+            subtitle="Affordable Window Cleaning" //KW
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="e"
-            cardDesc3="i"
+            cardDesc1="o"
+            cardDesc2="n"
+            cardDesc3="r"
             />
             <Approach
             title="Los Angeles house window replacement near me" //KW
-            desc="  f    "
+            desc="    e r"
             />
             <Intro
             subtitle="Exceptional Los Angeles house window replacement near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="a o"
-            cardDesc3="v"
+            cardDesc1="u"
+            cardDesc2="r l"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="p"
+            desc="n" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

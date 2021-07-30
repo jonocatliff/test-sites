@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles grass lawn care | We'll Take Care Of Everything" 
-            desc="Los Angeles grass lawn care:   v"
+            desc="Los Angeles grass lawn care: l  "
             canonical={`${props.website}/los-angeles-grass-lawn-care`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles grass lawn care" //KW
-            subtitle="  v"
+            subtitle="l  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="v t"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="   "
+            image="/window-installations.jpg"
             alt="Los Angeles grass lawn care"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles grass lawn care" //KW
-            desc="s i s t"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="t   s o"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="r"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="v"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="w"
-            cardDesc3="n"
+            cardDesc1="w"
+            cardDesc2=" "
+            cardDesc3="w"
             />
             <Approach
             title="Los Angeles grass lawn care" //KW
-            desc="  p    "
+            desc="o d y s"
             />
             <Intro
             subtitle="Exceptional Los Angeles grass lawn care" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="n o"
-            cardDesc3="o"
+            cardDesc1="t"
+            cardDesc2="o n"
+            cardDesc3="v"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="l"
+            desc="u" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

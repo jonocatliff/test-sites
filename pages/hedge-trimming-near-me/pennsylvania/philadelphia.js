@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia hedge trimming near me | We'll Take Care Of Everything" 
-            desc="Philadelphia hedge trimming near me: i d"
+            desc="Philadelphia hedge trimming near me: a ,"
             canonical={`${props.website}/philadelphia-hedge-trimming-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia hedge trimming near me" //KW
-            subtitle="i d"
+            subtitle="a ,"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="a e"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc=". o"
+            image="/contractor.jpg"
             alt="Philadelphia hedge trimming near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Philadelphia hedge trimming near me" //KW
-            desc="p p e y"
+            desc="y   f e"
             image="/window-installation.jpg"
-            alt="Window Repair"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="d"
+            subtitle="Affordable Window Services" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="A"
-            cardDesc3="l"
+            cardDesc1="n"
+            cardDesc2="w"
+            cardDesc3="n"
             />
             <Approach
             title="Philadelphia hedge trimming near me" //KW
-            desc="n i   r"
+            desc="d h u s"
             />
             <Intro
             subtitle="Exceptional Philadelphia hedge trimming near me" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="  e"
-            cardDesc3="s"
+            cardDesc2="n ."
+            cardDesc3="c"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc=" " //KW
-            desc2="y"
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener lawn and landscape | We'll Take Care Of Everything" 
-            desc="Kitchener lawn and landscape: t m"
+            desc="Kitchener lawn and landscape: o n"
             canonical={`${props.website}/kitchener-lawn-and-landscape`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener lawn and landscape" //KW
-            subtitle="t m"
+            subtitle="o n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="i v"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="d a"
+            image="/window-installation.jpg"
             alt="Kitchener lawn and landscape"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Kitchener lawn and landscape" //KW
-            desc="p i r a"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="m i t i"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="u"
+            subtitle="Affordable Window Replacement" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="e"
-            cardDesc3="a"
+            cardDesc1="h"
+            cardDesc2="u"
+            cardDesc3="t"
             />
             <Approach
             title="Kitchener lawn and landscape" //KW
-            desc="t f i g"
+            desc="v     e"
             />
             <Intro
             subtitle="Exceptional Kitchener lawn and landscape" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="   "
-            cardDesc3=" "
+            cardDesc1="i"
+            cardDesc2="i n"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="e" //KW
-            desc2=" "
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

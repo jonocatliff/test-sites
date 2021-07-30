@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton hedge removal services | We'll Take Care Of Everything" 
-            desc="Hamilton hedge removal services: a i"
+            desc="Hamilton hedge removal services:   v"
             canonical={`${props.website}/hamilton-hedge-removal-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton hedge removal services" //KW
-            subtitle="a i"
+            subtitle="  v"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="d u"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="o r"
+            image="/window-washing.jpg"
             alt="Hamilton hedge removal services"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Hamilton hedge removal services" //KW
-            desc="w   t r"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="  w   d"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc=" "
+            subtitle="Affordable Window Repair" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="p"
-            cardDesc3=" "
+            cardDesc1="s"
+            cardDesc2="c"
+            cardDesc3="w"
             />
             <Approach
             title="Hamilton hedge removal services" //KW
-            desc="a s f s"
+            desc="  y t o"
             />
             <Intro
             subtitle="Exceptional Hamilton hedge removal services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="e v"
-            cardDesc3="i"
+            cardDesc1=" "
+            cardDesc2="o  "
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
-            desc2="n"
+            desc=" " //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

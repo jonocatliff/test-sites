@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener backyard garden design | We'll Take Care Of Everything" 
-            desc="Kitchener backyard garden design: o m"
+            desc="Kitchener backyard garden design: . a"
             canonical={`${props.website}/kitchener-backyard-garden-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener backyard garden design" //KW
-            subtitle="o m"
+            subtitle=". a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="e a"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="  n"
+            image="/window-installations.jpg"
             alt="Kitchener backyard garden design"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Kitchener backyard garden design" //KW
-            desc="  t u r"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="    e  "
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="a"
+            subtitle="Affordable Window Repair" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="p"
+            cardDesc1="p"
+            cardDesc2="s"
             cardDesc3="o"
             />
             <Approach
             title="Kitchener backyard garden design" //KW
-            desc="s p r i"
+            desc="n p e w"
             />
             <Intro
             subtitle="Exceptional Kitchener backyard garden design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2=".  "
-            cardDesc3="i"
+            cardDesc1="i"
+            cardDesc2="  r"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="u"
+            desc="l" //KW
+            desc2="v"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

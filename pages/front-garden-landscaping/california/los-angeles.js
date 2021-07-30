@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles front garden landscaping | We'll Take Care Of Everything" 
-            desc="Los Angeles front garden landscaping: a d"
+            desc="Los Angeles front garden landscaping: i n"
             canonical={`${props.website}/los-angeles-front-garden-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles front garden landscaping" //KW
-            subtitle="a d"
+            subtitle="i n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="s h"
-            image="/contractor.jpg"
+            desc="e  "
+            image="/window-installations.jpg"
             alt="Los Angeles front garden landscaping"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Los Angeles front garden landscaping" //KW
-            desc="  s f l"
-            image="/window-washing.jpg"
+            desc="e   p  "
+            image="/window-installation.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="f"
+            desc="m"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="g"
-            cardDesc2="o"
-            cardDesc3="r"
+            cardDesc1="y"
+            cardDesc2="t"
+            cardDesc3="P"
             />
             <Approach
             title="Los Angeles front garden landscaping" //KW
-            desc="d   y o"
+            desc="t e e y"
             />
             <Intro
             subtitle="Exceptional Los Angeles front garden landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="z"
-            cardDesc2="o  "
-            cardDesc3=" "
+            cardDesc1="t"
+            cardDesc2="c r"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="c"
+            desc="t" //KW
+            desc2="v"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

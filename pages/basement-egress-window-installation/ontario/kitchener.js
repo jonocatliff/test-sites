@@ -33,20 +33,20 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
+            subtitle="High-Quality Window Replacement"
             desc="l a"
-            image="/window-installation.jpg"
+            image="/window-washing.jpg"
             alt="Kitchener basement egress window installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Kitchener basement egress window installation" //KW
             desc="i   w d"
             image="/contractor.jpg"
-            alt="Window Services"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

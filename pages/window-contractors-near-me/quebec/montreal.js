@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal window contractors near me | We'll Take Care Of Everything" 
-            desc="Montreal window contractors near me: h u"
+            desc="Montreal window contractors near me: w u"
             canonical={`${props.website}/montreal-window-contractors-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal window contractors near me" //KW
-            subtitle="h u"
+            subtitle="w u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="b  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="o  "
+            image="/window-installations.jpg"
             alt="Montreal window contractors near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Montreal window contractors near me" //KW
-            desc="m e f t"
-            image="/window-installations.jpg"
-            alt="Window Repair"
+            desc="a i i l"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="k"
+            subtitle="Affordable Window Installations" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="m"
-            cardDesc2=" "
-            cardDesc3=" "
+            cardDesc1="u"
+            cardDesc2="i"
+            cardDesc3="i"
             />
             <Approach
             title="Montreal window contractors near me" //KW
-            desc="  p e i"
+            desc="w   n a"
             />
             <Intro
             subtitle="Exceptional Montreal window contractors near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="n w"
-            cardDesc3=" "
+            cardDesc1="r"
+            cardDesc2="m  "
+            cardDesc3="v"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="h"
+            desc="i" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

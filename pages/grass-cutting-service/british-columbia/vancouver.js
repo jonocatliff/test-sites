@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver grass cutting service | We'll Take Care Of Everything" 
-            desc="Vancouver grass cutting service:   t"
+            desc="Vancouver grass cutting service: a a"
             canonical={`${props.website}/vancouver-grass-cutting-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver grass cutting service" //KW
-            subtitle="  t"
+            subtitle="a a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="s o"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="  W"
+            image="/window-installation.jpg"
             alt="Vancouver grass cutting service"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Vancouver grass cutting service" //KW
-            desc="u e w u"
+            desc="i   t o"
             image="/window-installations.jpg"
-            alt="Window Installations"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="o"
+            subtitle="Affordable Window Replacement" //KW
+            desc="O"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="o"
-            cardDesc3="l"
+            cardDesc1="a"
+            cardDesc2="e"
+            cardDesc3="s"
             />
             <Approach
             title="Vancouver grass cutting service" //KW
-            desc="a m w i"
+            desc=", i n c"
             />
             <Intro
             subtitle="Exceptional Vancouver grass cutting service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="e t"
-            cardDesc3="o"
+            cardDesc1="h"
+            cardDesc2="o  "
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="m"
+            desc="s" //KW
+            desc2="f"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

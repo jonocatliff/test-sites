@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City swimming pool landscaping | We'll Take Care Of Everything" 
-            desc="Quebec City swimming pool landscaping: I w"
+            desc="Quebec City swimming pool landscaping: P  "
             canonical={`${props.website}/quebec-city-swimming-pool-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City swimming pool landscaping" //KW
-            subtitle="I w"
+            subtitle="P  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="n h"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="   "
+            image="/window-washing.jpg"
             alt="Quebec City swimming pool landscaping"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Quebec City swimming pool landscaping" //KW
-            desc="d y   undefined"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="l ,   undefined"
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="t"
+            cardDesc1="s"
+            cardDesc2="r"
             cardDesc3="o"
             />
             <Approach
             title="Quebec City swimming pool landscaping" //KW
-            desc="s   o i"
+            desc="w   p m"
             />
             <Intro
             subtitle="Exceptional Quebec City swimming pool landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="l undefined"
-            cardDesc3="f"
+            cardDesc1=" "
+            cardDesc2="p undefined"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="d" //KW
-            desc2="W"
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

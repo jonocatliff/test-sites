@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles backyard landscaping | We'll Take Care Of Everything" 
-            desc="Los Angeles backyard landscaping: n O"
+            desc="Los Angeles backyard landscaping: v  "
             canonical={`${props.website}/los-angeles-backyard-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles backyard landscaping" //KW
-            subtitle="n O"
+            subtitle="v  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="f  "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="o e"
+            image="/window-installations.jpg"
             alt="Los Angeles backyard landscaping"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles backyard landscaping" //KW
-            desc="o s i i"
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="a n n y"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="u"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="o"
-            cardDesc3="i"
+            cardDesc1="s"
+            cardDesc2="h"
+            cardDesc3="n"
             />
             <Approach
             title="Los Angeles backyard landscaping" //KW
-            desc="  o n o"
+            desc="  d p n"
             />
             <Intro
             subtitle="Exceptional Los Angeles backyard landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="s ’"
-            cardDesc3="d"
+            cardDesc1="a"
+            cardDesc2="i a"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="n"
+            desc="u" //KW
+            desc2="v"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

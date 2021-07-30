@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City mulch companies near me | We'll Take Care Of Everything" 
-            desc="Quebec City mulch companies near me:   Y"
+            desc="Quebec City mulch companies near me: s  "
             canonical={`${props.website}/quebec-city-mulch-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City mulch companies near me" //KW
-            subtitle="  Y"
+            subtitle="s  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="x m"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="t w"
+            image="/window-installation.jpg"
             alt="Quebec City mulch companies near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Quebec City mulch companies near me" //KW
-            desc="e t e i"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="c o o h"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Repair" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="u"
-            cardDesc3="m"
+            cardDesc1="o"
+            cardDesc2="r"
+            cardDesc3=" "
             />
             <Approach
             title="Quebec City mulch companies near me" //KW
-            desc="g l   o"
+            desc="i   n w"
             />
             <Intro
             subtitle="Exceptional Quebec City mulch companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="f undefined"
-            cardDesc3="d"
+            cardDesc1="h"
+            cardDesc2="  e"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2=" "
+            desc="l" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

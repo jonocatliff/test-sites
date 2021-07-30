@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London best window replacement company | We'll Take Care Of Everything" 
-            desc="London best window replacement company: a w"
+            desc="London best window replacement company: n k"
             canonical={`${props.website}/london-best-window-replacement-company`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London best window replacement company" //KW
-            subtitle="a w"
+            subtitle="n k"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="o g"
+            subtitle="High-Quality Window Installations"
+            desc="a b"
             image="/window-washing.jpg"
             alt="London best window replacement company"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional London best window replacement company" //KW
-            desc="i d t  "
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="f l m r"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="f"
+            subtitle="Affordable Window Installations" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="w"
-            cardDesc3="i"
+            cardDesc1="w"
+            cardDesc2="o"
+            cardDesc3="k"
             />
             <Approach
             title="London best window replacement company" //KW
-            desc="  o b  "
+            desc="r e y  "
             />
             <Intro
             subtitle="Exceptional London best window replacement company" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="  ’"
-            cardDesc3="p"
+            cardDesc2="u  "
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="p"
+            desc="h" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

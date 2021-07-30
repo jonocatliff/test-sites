@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg grass treatment for weeds | We'll Take Care Of Everything" 
-            desc="Winnipeg grass treatment for weeds: a i"
+            desc="Winnipeg grass treatment for weeds: c f"
             canonical={`${props.website}/winnipeg-grass-treatment-for-weeds`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg grass treatment for weeds" //KW
-            subtitle="a i"
+            subtitle="c f"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="e g"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="l  "
+            image="/window-installations.jpg"
             alt="Winnipeg grass treatment for weeds"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Winnipeg grass treatment for weeds" //KW
-            desc="d   c c"
+            desc="l I   d"
             image="/window-washing.jpg"
-            alt="Window Repair"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="f"
+            subtitle="Affordable Window Services" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="o"
-            cardDesc3="i"
+            cardDesc1="g"
+            cardDesc2="s"
+            cardDesc3="r"
             />
             <Approach
             title="Winnipeg grass treatment for weeds" //KW
-            desc="t o l r"
+            desc="r w u b"
             />
             <Intro
             subtitle="Exceptional Winnipeg grass treatment for weeds" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="  c"
-            cardDesc3="t"
+            cardDesc1="e"
+            cardDesc2="t n"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="c"
+            desc="p" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

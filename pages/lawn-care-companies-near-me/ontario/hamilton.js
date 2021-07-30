@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton lawn care companies near me | We'll Take Care Of Everything" 
-            desc="Hamilton lawn care companies near me: t a"
+            desc="Hamilton lawn care companies near me: s d"
             canonical={`${props.website}/hamilton-lawn-care-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton lawn care companies near me" //KW
-            subtitle="t a"
+            subtitle="s d"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="r a"
-            image="/window-washing.jpg"
+            desc="r h"
+            image="/contractor.jpg"
             alt="Hamilton lawn care companies near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Hamilton lawn care companies near me" //KW
-            desc="u e r e"
-            image="/window-installation.jpg"
+            desc="o   i t"
+            image="/window-installations.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="e"
+            desc="d"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2=" "
-            cardDesc3="t"
+            cardDesc1=" "
+            cardDesc2="o"
+            cardDesc3="p"
             />
             <Approach
             title="Hamilton lawn care companies near me" //KW
-            desc="w m a e"
+            desc="l l k n"
             />
             <Intro
             subtitle="Exceptional Hamilton lawn care companies near me" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="  f"
-            cardDesc3="o"
+            cardDesc1=" "
+            cardDesc2="m o"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
+            desc=" " //KW
             desc2="e"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton landscaping services | We'll Take Care Of Everything" 
-            desc="Edmonton landscaping services: l ."
+            desc="Edmonton landscaping services: c n"
             canonical={`${props.website}/edmonton-landscaping-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton landscaping services" //KW
-            subtitle="l ."
+            subtitle="c n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r t"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="   "
+            image="/contractor.jpg"
             alt="Edmonton landscaping services"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Edmonton landscaping services" //KW
-            desc="a r e n"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="a l r t"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="r"
+            subtitle="Affordable Window Repair" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="c"
-            cardDesc2="n"
-            cardDesc3="w"
+            cardDesc1="o"
+            cardDesc2="o"
+            cardDesc3="r"
             />
             <Approach
             title="Edmonton landscaping services" //KW
-            desc="  y    "
+            desc="t c u r"
             />
             <Intro
             subtitle="Exceptional Edmonton landscaping services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="i w"
-            cardDesc3="b"
+            cardDesc1="t"
+            cardDesc2="e d"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2=" "
+            desc="o" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

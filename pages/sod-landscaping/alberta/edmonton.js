@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton sod landscaping | We'll Take Care Of Everything" 
-            desc="Edmonton sod landscaping: l I"
+            desc="Edmonton sod landscaping: r o"
             canonical={`${props.website}/edmonton-sod-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton sod landscaping" //KW
-            subtitle="l I"
+            subtitle="r o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="  i"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="t a"
+            image="/contractor.jpg"
             alt="Edmonton sod landscaping"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Edmonton sod landscaping" //KW
-            desc="c l o undefined"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="e v e undefined"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="e"
+            cardDesc1=" "
+            cardDesc2="t"
             cardDesc3="l"
             />
             <Approach
             title="Edmonton sod landscaping" //KW
-            desc="  s   t"
+            desc="  y t i"
             />
             <Intro
             subtitle="Exceptional Edmonton sod landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="s undefined"
-            cardDesc3="e"
+            cardDesc1="g"
+            cardDesc2="  undefined"
+            cardDesc3="v"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="i"
+            desc="e" //KW
+            desc2="h"
             />
             <Footer 
             companyName={props.companyName}

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City grass cutting companies | We'll Take Care Of Everything" 
-            desc="Quebec City grass cutting companies: t a"
+            desc="Quebec City grass cutting companies: o h"
             canonical={`${props.website}/quebec-city-grass-cutting-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City grass cutting companies" //KW
-            subtitle="t a"
+            subtitle="o h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="o i"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="s c"
+            image="/window-installation.jpg"
             alt="Quebec City grass cutting companies"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Quebec City grass cutting companies" //KW
-            desc="p g   w"
-            image="/window-installations.jpg"
-            alt="Window Repair"
+            desc="u , c f"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="e"
+            subtitle="Affordable Window Services" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="d"
+            cardDesc1="g"
             cardDesc2="w"
-            cardDesc3="n"
+            cardDesc3="a"
             />
             <Approach
             title="Quebec City grass cutting companies" //KW
-            desc="e r i u"
+            desc="h t p s"
             />
             <Intro
             subtitle="Exceptional Quebec City grass cutting companies" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="l"
-            cardDesc2="o a"
-            cardDesc3="w"
+            cardDesc1="e"
+            cardDesc2="i n"
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="t"
+            desc="A" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

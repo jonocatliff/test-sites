@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal landscape architect | We'll Take Care Of Everything" 
-            desc="Montreal landscape architect: i r"
+            desc="Montreal landscape architect: d e"
             canonical={`${props.website}/montreal-landscape-architect`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal landscape architect" //KW
-            subtitle="i r"
+            subtitle="d e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="e  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="o a"
+            image="/window-washing.jpg"
             alt="Montreal landscape architect"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Montreal landscape architect" //KW
-            desc="e e r i"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="e s r a"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="n"
+            subtitle="Affordable Window Installations" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="i"
-            cardDesc3="l"
+            cardDesc1="w"
+            cardDesc2="n"
+            cardDesc3="t"
             />
             <Approach
             title="Montreal landscape architect" //KW
-            desc="v t w  "
+            desc="n t a r"
             />
             <Intro
             subtitle="Exceptional Montreal landscape architect" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="c d"
+            cardDesc1="a"
+            cardDesc2="f  "
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="," //KW
-            desc2=" "
+            desc="o" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

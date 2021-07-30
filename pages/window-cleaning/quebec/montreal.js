@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal window cleaning | We'll Take Care Of Everything" 
-            desc="Montreal window cleaning: i t"
+            desc="Montreal window cleaning: t i"
             canonical={`${props.website}/montreal-window-cleaning`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal window cleaning" //KW
-            subtitle="i t"
+            subtitle="t i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="r  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="t n"
+            image="/window-installation.jpg"
             alt="Montreal window cleaning"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Montreal window cleaning" //KW
-            desc="s d   ."
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="s n w s"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="d"
+            subtitle="Affordable Window Installations" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2=" "
-            cardDesc3="c"
+            cardDesc1="r"
+            cardDesc2="o"
+            cardDesc3="."
             />
             <Approach
             title="Montreal window cleaning" //KW
-            desc="v   n y"
+            desc="n f y ."
             />
             <Intro
             subtitle="Exceptional Montreal window cleaning" //KW
@@ -66,12 +66,12 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="u"
-            cardDesc2="t m"
-            cardDesc3=" "
+            cardDesc2="i  "
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
+            desc="m" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

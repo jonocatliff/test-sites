@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston lawn weed control service | We'll Take Care Of Everything" 
-            desc="Houston lawn weed control service: t r"
+            desc="Houston lawn weed control service: e i"
             canonical={`${props.website}/houston-lawn-weed-control-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston lawn weed control service" //KW
-            subtitle="t r"
+            subtitle="e i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="i e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="u n"
+            image="/window-washing.jpg"
             alt="Houston lawn weed control service"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Houston lawn weed control service" //KW
-            desc="w h t r"
+            desc="i h e i"
             image="/window-installations.jpg"
-            alt="Window Cleaning"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            subtitle="Affordable Window Installations" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
-            cardDesc2="r"
-            cardDesc3="a"
+            cardDesc1="r"
+            cardDesc2="p"
+            cardDesc3="l"
             />
             <Approach
             title="Houston lawn weed control service" //KW
-            desc="a u t d"
+            desc="r e   t"
             />
             <Intro
             subtitle="Exceptional Houston lawn weed control service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="c w"
-            cardDesc3="n"
+            cardDesc1="e"
+            cardDesc2="e r"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="t"
+            desc="s" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

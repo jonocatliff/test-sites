@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg window installation near me | We'll Take Care Of Everything" 
-            desc="Winnipeg window installation near me: w  "
+            desc="Winnipeg window installation near me: b e"
             canonical={`${props.website}/winnipeg-window-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg window installation near me" //KW
-            subtitle="w  "
+            subtitle="b e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="i  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="a  "
+            image="/window-installations.jpg"
             alt="Winnipeg window installation near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Winnipeg window installation near me" //KW
-            desc="  l   i"
+            desc="l t c o"
             image="/contractor.jpg"
-            alt="Window Repair"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="a"
+            subtitle="Affordable Window Services" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2=" "
-            cardDesc3="r"
+            cardDesc1="i"
+            cardDesc2="n"
+            cardDesc3="m"
             />
             <Approach
             title="Winnipeg window installation near me" //KW
-            desc="t   t i"
+            desc="t   g k"
             />
             <Intro
             subtitle="Exceptional Winnipeg window installation near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="e  "
-            cardDesc3="e"
+            cardDesc1="e"
+            cardDesc2="t v"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="m"
+            desc="e" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

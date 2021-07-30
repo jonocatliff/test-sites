@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton landscaping contractors | We'll Take Care Of Everything" 
-            desc="Hamilton landscaping contractors: n w"
+            desc="Hamilton landscaping contractors: t  "
             canonical={`${props.website}/hamilton-landscaping-contractors`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton landscaping contractors" //KW
-            subtitle="n w"
+            subtitle="t  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="  h"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="o l"
+            image="/window-washing.jpg"
             alt="Hamilton landscaping contractors"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Hamilton landscaping contractors" //KW
-            desc="n e n f"
-            image="/window-installation.jpg"
-            alt="Window Repair"
+            desc="  P s i"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc=" "
+            subtitle="Affordable Window Cleaning" //KW
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="o"
-            cardDesc3=" "
+            cardDesc1="i"
+            cardDesc2="w"
+            cardDesc3="p"
             />
             <Approach
             title="Hamilton landscaping contractors" //KW
-            desc="o u u y"
+            desc="l p e  "
             />
             <Intro
             subtitle="Exceptional Hamilton landscaping contractors" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="l y"
-            cardDesc3="w"
+            cardDesc1="d"
+            cardDesc2="  r"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2=" "
+            desc="s" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

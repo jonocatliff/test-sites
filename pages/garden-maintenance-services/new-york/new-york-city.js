@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City garden maintenance services | We'll Take Care Of Everything" 
-            desc="New York City garden maintenance services: A y"
+            desc="New York City garden maintenance services: o i"
             canonical={`${props.website}/new-york-city-garden-maintenance-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City garden maintenance services" //KW
-            subtitle="A y"
+            subtitle="o i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="a e"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="r t"
+            image="/contractor.jpg"
             alt="New York City garden maintenance services"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional New York City garden maintenance services" //KW
-            desc="P l e  "
+            desc="s a s m"
             image="/window-washing.jpg"
-            alt="Window Installations"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="d"
+            subtitle="Affordable Window Replacement" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="g"
-            cardDesc3="h"
+            cardDesc1="a"
+            cardDesc2="l"
+            cardDesc3="o"
             />
             <Approach
             title="New York City garden maintenance services" //KW
-            desc="c w n a"
+            desc="u o c w"
             />
             <Intro
             subtitle="Exceptional New York City garden maintenance services" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="v f"
-            cardDesc3="e"
+            cardDesc1="e"
+            cardDesc2="e n"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2=","
+            desc="u" //KW
+            desc2="j"
             />
             <Footer 
             companyName={props.companyName}

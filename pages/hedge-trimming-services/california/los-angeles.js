@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles hedge trimming services | We'll Take Care Of Everything" 
-            desc="Los Angeles hedge trimming services: t o"
+            desc="Los Angeles hedge trimming services: h  "
             canonical={`${props.website}/los-angeles-hedge-trimming-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles hedge trimming services" //KW
-            subtitle="t o"
+            subtitle="h  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Installations"
-            desc="t  "
+            desc="r  "
             image="/contractor.jpg"
             alt="Los Angeles hedge trimming services"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Los Angeles hedge trimming services" //KW
-            desc="a n   w"
-            image="/window-installation.jpg"
+            desc="a o a  "
+            image="/window-installations.jpg"
             alt="Window Installations"
             />
             <Savings
             subtitle="Affordable Window Installations" //KW
-            desc="o"
+            desc="m"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="l"
-            cardDesc3="u"
+            cardDesc1="f"
+            cardDesc2="d"
+            cardDesc3="l"
             />
             <Approach
             title="Los Angeles hedge trimming services" //KW
-            desc="  v   s"
+            desc="a o , y"
             />
             <Intro
             subtitle="Exceptional Los Angeles hedge trimming services" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="d t"
-            cardDesc3=" "
+            cardDesc1="n"
+            cardDesc2="c p"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="s"
+            desc="u" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}

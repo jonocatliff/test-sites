@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston concrete curbing | We'll Take Care Of Everything" 
-            desc="Houston concrete curbing: t  "
+            desc="Houston concrete curbing: a t"
             canonical={`${props.website}/houston-concrete-curbing`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston concrete curbing" //KW
-            subtitle="t  "
+            subtitle="a t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r m"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="t a"
+            image="/contractor.jpg"
             alt="Houston concrete curbing"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Houston concrete curbing" //KW
-            desc="o   c u"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc=", l n w"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="u"
+            subtitle="Affordable Window Replacement" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2=" "
-            cardDesc3="e"
+            cardDesc1="i"
+            cardDesc2="v"
+            cardDesc3="l"
             />
             <Approach
             title="Houston concrete curbing" //KW
-            desc="i v h t"
+            desc="o u t y"
             />
             <Intro
             subtitle="Exceptional Houston concrete curbing" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="e e"
-            cardDesc3=" "
+            cardDesc1="r"
+            cardDesc2="c ,"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
+            desc="l" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

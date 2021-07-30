@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener landscaping companies | We'll Take Care Of Everything" 
-            desc="Kitchener landscaping companies: a  "
+            desc="Kitchener landscaping companies: n u"
             canonical={`${props.website}/kitchener-landscaping-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener landscaping companies" //KW
-            subtitle="a  "
+            subtitle="n u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="t a"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="n n"
+            image="/window-washing.jpg"
             alt="Kitchener landscaping companies"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Kitchener landscaping companies" //KW
-            desc="l e i e"
-            image="/window-installations.jpg"
-            alt="Window Repair"
+            desc="a o   i"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="c"
+            subtitle="Affordable Window Replacement" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2=" "
-            cardDesc3="e"
+            cardDesc1="n"
+            cardDesc2="t"
+            cardDesc3=" "
             />
             <Approach
             title="Kitchener landscaping companies" //KW
-            desc="p c r g"
+            desc="g l a i"
             />
             <Intro
             subtitle="Exceptional Kitchener landscaping companies" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="r e"
-            cardDesc3="p"
+            cardDesc1="s"
+            cardDesc2="   "
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2=" "
+            desc="i" //KW
+            desc2=","
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

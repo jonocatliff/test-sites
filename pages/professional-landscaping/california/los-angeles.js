@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles professional landscaping | We'll Take Care Of Everything" 
-            desc="Los Angeles professional landscaping: t s"
+            desc="Los Angeles professional landscaping: A k"
             canonical={`${props.website}/los-angeles-professional-landscaping`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Los Angeles professional landscaping" //KW
-            subtitle="t s"
+            subtitle="A k"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Installations"
-            desc="i a"
+            desc="s  "
             image="/window-installation.jpg"
             alt="Los Angeles professional landscaping"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Los Angeles professional landscaping" //KW
-            desc="n c l undefined"
-            image="/window-washing.jpg"
+            desc="a i i undefined"
+            image="/window-installations.jpg"
             alt="Window Installations"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="f"
-            cardDesc2="i"
-            cardDesc3=" "
+            cardDesc1="e"
+            cardDesc2="r"
+            cardDesc3="f"
             />
             <Approach
             title="Los Angeles professional landscaping" //KW
-            desc="    i o"
+            desc="n o t o"
             />
             <Intro
             subtitle="Exceptional Los Angeles professional landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="e undefined"
+            cardDesc1="t"
+            cardDesc2="l undefined"
             cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="v" //KW
-            desc2="i"
+            desc=" " //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

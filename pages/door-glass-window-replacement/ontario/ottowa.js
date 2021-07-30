@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa door glass window replacement | We'll Take Care Of Everything" 
-            desc="Ottowa door glass window replacement: r ’"
+            desc="Ottowa door glass window replacement: , u"
             canonical={`${props.website}/ottowa-door-glass-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa door glass window replacement" //KW
-            subtitle="r ’"
+            subtitle=", u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="t d"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="  e"
+            image="/window-washing.jpg"
             alt="Ottowa door glass window replacement"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Ottowa door glass window replacement" //KW
-            desc="m f r r"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="p h r  "
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            subtitle="Affordable Window Replacement" //KW
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="o"
-            cardDesc3="a"
+            cardDesc1="r"
+            cardDesc2="."
+            cardDesc3="W"
             />
             <Approach
             title="Ottowa door glass window replacement" //KW
-            desc="n   o w"
+            desc="b f   r"
             />
             <Intro
             subtitle="Exceptional Ottowa door glass window replacement" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="r r"
-            cardDesc3="r"
+            cardDesc1=" "
+            cardDesc2="u  "
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2=","
+            desc="l" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}

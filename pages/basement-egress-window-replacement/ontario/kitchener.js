@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener basement egress window replacement | We'll Take Care Of Everything" 
-            desc="Kitchener basement egress window replacement: i l"
+            desc="Kitchener basement egress window replacement: i a"
             canonical={`${props.website}/kitchener-basement-egress-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener basement egress window replacement" //KW
-            subtitle="i l"
+            subtitle="i a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="e e"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="d i"
+            image="/contractor.jpg"
             alt="Kitchener basement egress window replacement"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Kitchener basement egress window replacement" //KW
-            desc="a   o i"
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="p     o"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="e"
+            subtitle="Affordable Window Repair" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="i"
-            cardDesc3="e"
+            cardDesc1=" "
+            cardDesc2=" "
+            cardDesc3="a"
             />
             <Approach
             title="Kitchener basement egress window replacement" //KW
-            desc="p     e"
+            desc="p l a a"
             />
             <Intro
             subtitle="Exceptional Kitchener basement egress window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="v"
-            cardDesc2="i k"
-            cardDesc3="e"
+            cardDesc1=" "
+            cardDesc2="i  "
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="e"
+            desc="t" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

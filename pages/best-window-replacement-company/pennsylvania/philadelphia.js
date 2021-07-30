@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia best window replacement company | We'll Take Care Of Everything" 
-            desc="Philadelphia best window replacement company:   h"
+            desc="Philadelphia best window replacement company:   w"
             canonical={`${props.website}/philadelphia-best-window-replacement-company`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia best window replacement company" //KW
-            subtitle="  h"
+            subtitle="  w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="o  "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="s o"
+            image="/window-installations.jpg"
             alt="Philadelphia best window replacement company"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Philadelphia best window replacement company" //KW
-            desc="p   x t"
-            image="/window-installations.jpg"
-            alt="Window Repair"
+            desc="p n f d"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="n"
+            subtitle="Affordable Window Installations" //KW
+            desc="."
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="n"
-            cardDesc3="e"
+            cardDesc1="o"
+            cardDesc2="u"
+            cardDesc3=" "
             />
             <Approach
             title="Philadelphia best window replacement company" //KW
-            desc="e h   u"
+            desc="r u l h"
             />
             <Intro
             subtitle="Exceptional Philadelphia best window replacement company" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="k"
-            cardDesc2="s y"
+            cardDesc1="r"
+            cardDesc2="l s"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2=" "
+            desc="d" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}

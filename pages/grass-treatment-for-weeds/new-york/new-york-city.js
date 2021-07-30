@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City grass treatment for weeds | We'll Take Care Of Everything" 
-            desc="New York City grass treatment for weeds: i e"
+            desc="New York City grass treatment for weeds: n a"
             canonical={`${props.website}/new-york-city-grass-treatment-for-weeds`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City grass treatment for weeds" //KW
-            subtitle="i e"
+            subtitle="n a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="b  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="s t"
+            image="/window-installation.jpg"
             alt="New York City grass treatment for weeds"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional New York City grass treatment for weeds" //KW
-            desc="  a c o"
-            image="/window-washing.jpg"
-            alt="Window Replacement"
+            desc="w   c n"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="n"
+            subtitle="Affordable Window Repair" //KW
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="v"
-            cardDesc3="a"
+            cardDesc1="c"
+            cardDesc2="r"
+            cardDesc3="h"
             />
             <Approach
             title="New York City grass treatment for weeds" //KW
-            desc="n o t ."
+            desc="l i   e"
             />
             <Intro
             subtitle="Exceptional New York City grass treatment for weeds" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="  f"
-            cardDesc3="t"
+            cardDesc1="s"
+            cardDesc2="  h"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="v"
+            desc="'" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}

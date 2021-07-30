@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles hedge removal services | We'll Take Care Of Everything" 
-            desc="Los Angeles hedge removal services: o e"
+            desc="Los Angeles hedge removal services: t n"
             canonical={`${props.website}/los-angeles-hedge-removal-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles hedge removal services" //KW
-            subtitle="o e"
+            subtitle="t n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="n v"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="p v"
+            image="/window-installation.jpg"
             alt="Los Angeles hedge removal services"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Los Angeles hedge removal services" //KW
-            desc="e w s r"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="  u c s"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Installations" //KW
             desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2="m"
-            cardDesc3="k"
+            cardDesc1="s"
+            cardDesc2="w"
+            cardDesc3=" "
             />
             <Approach
             title="Los Angeles hedge removal services" //KW
-            desc="o      "
+            desc="v p e l"
             />
             <Intro
             subtitle="Exceptional Los Angeles hedge removal services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="s l"
-            cardDesc3="n"
+            cardDesc1="c"
+            cardDesc2="e o"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="m" //KW
-            desc2="r"
+            desc="e" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

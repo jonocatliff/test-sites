@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles landscape rocks | We'll Take Care Of Everything" 
-            desc="Los Angeles landscape rocks: t  "
+            desc="Los Angeles landscape rocks: a t"
             canonical={`${props.website}/los-angeles-landscape-rocks`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles landscape rocks" //KW
-            subtitle="t  "
+            subtitle="a t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="a  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="a v"
+            image="/window-installation.jpg"
             alt="Los Angeles landscape rocks"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Los Angeles landscape rocks" //KW
-            desc=", s a t"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="o u e  "
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="t"
+            subtitle="Affordable Window Replacement" //KW
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="n"
-            cardDesc3="r"
+            cardDesc1="n"
+            cardDesc2="o"
+            cardDesc3="n"
             />
             <Approach
             title="Los Angeles landscape rocks" //KW
-            desc="  l   r"
+            desc="n d v  "
             />
             <Intro
             subtitle="Exceptional Los Angeles landscape rocks" //KW
@@ -66,13 +66,13 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="  d"
-            cardDesc3="i"
+            cardDesc2="r o"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="e"
+            desc="m" //KW
+            desc2="h"
             />
             <Footer 
             companyName={props.companyName}

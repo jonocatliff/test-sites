@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver sod installation near me | We'll Take Care Of Everything" 
-            desc="Vancouver sod installation near me: r  "
+            desc="Vancouver sod installation near me: t o"
             canonical={`${props.website}/vancouver-sod-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver sod installation near me" //KW
-            subtitle="r  "
+            subtitle="t o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="O e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="d d"
+            image="/window-washing.jpg"
             alt="Vancouver sod installation near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Vancouver sod installation near me" //KW
-            desc="n o d undefined"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="  i t undefined"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
+            cardDesc1="o"
             cardDesc2=" "
-            cardDesc3=" "
+            cardDesc3="."
             />
             <Approach
             title="Vancouver sod installation near me" //KW
-            desc="e d w n"
+            desc="o l w o"
             />
             <Intro
             subtitle="Exceptional Vancouver sod installation near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="  undefined"
-            cardDesc3="v"
+            cardDesc1="n"
+            cardDesc2="s undefined"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="e"
+            desc="c" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

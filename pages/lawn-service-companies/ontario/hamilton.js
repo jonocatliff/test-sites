@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton lawn service companies | We'll Take Care Of Everything" 
-            desc="Hamilton lawn service companies: a  "
+            desc="Hamilton lawn service companies: t  "
             canonical={`${props.website}/hamilton-lawn-service-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton lawn service companies" //KW
-            subtitle="a  "
+            subtitle="t  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  f"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="e i"
+            image="/window-washing.jpg"
             alt="Hamilton lawn service companies"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Hamilton lawn service companies" //KW
-            desc="b n k  "
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="c i    "
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="v"
+            subtitle="Affordable Window Replacement" //KW
+            desc="p"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="n"
-            cardDesc3="e"
+            cardDesc1=" "
+            cardDesc2=" "
+            cardDesc3="i"
             />
             <Approach
             title="Hamilton lawn service companies" //KW
-            desc="p r u r"
+            desc="w a r s"
             />
             <Intro
             subtitle="Exceptional Hamilton lawn service companies" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="d o"
-            cardDesc3="e"
+            cardDesc1="v"
+            cardDesc2="s o"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="a"
+            desc="t" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

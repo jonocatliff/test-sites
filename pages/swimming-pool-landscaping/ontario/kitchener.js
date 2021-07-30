@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener swimming pool landscaping | We'll Take Care Of Everything" 
-            desc="Kitchener swimming pool landscaping: s s"
+            desc="Kitchener swimming pool landscaping: o a"
             canonical={`${props.website}/kitchener-swimming-pool-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener swimming pool landscaping" //KW
-            subtitle="s s"
+            subtitle="o a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="   "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="o i"
+            image="/window-installation.jpg"
             alt="Kitchener swimming pool landscaping"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Kitchener swimming pool landscaping" //KW
-            desc="w u r undefined"
+            desc="  o o undefined"
             image="/window-installations.jpg"
-            alt="Window Installations"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="r"
-            cardDesc3=","
+            cardDesc1="v"
+            cardDesc2="c"
+            cardDesc3=" "
             />
             <Approach
             title="Kitchener swimming pool landscaping" //KW
-            desc="r e    "
+            desc="o h r r"
             />
             <Intro
             subtitle="Exceptional Kitchener swimming pool landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2="o undefined"
-            cardDesc3="w"
+            cardDesc1="r"
+            cardDesc2="c undefined"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
-            desc2="e"
+            desc="a" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

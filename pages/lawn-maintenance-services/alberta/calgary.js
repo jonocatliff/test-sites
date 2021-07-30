@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary lawn maintenance services | We'll Take Care Of Everything" 
-            desc="Calgary lawn maintenance services:   e"
+            desc="Calgary lawn maintenance services: l e"
             canonical={`${props.website}/calgary-lawn-maintenance-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary lawn maintenance services" //KW
-            subtitle="  e"
+            subtitle="l e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="e e"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="o t"
+            image="/window-washing.jpg"
             alt="Calgary lawn maintenance services"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Calgary lawn maintenance services" //KW
-            desc="l s n m"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="  r   s"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="n"
+            subtitle="Affordable Window Cleaning" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="t"
-            cardDesc3="o"
+            cardDesc1="l"
+            cardDesc2="h"
+            cardDesc3="e"
             />
             <Approach
             title="Calgary lawn maintenance services" //KW
-            desc="o w e f"
+            desc="e   e  "
             />
             <Intro
             subtitle="Exceptional Calgary lawn maintenance services" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="r ’"
-            cardDesc3="r"
+            cardDesc1="i"
+            cardDesc2="v u"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2=" "
+            desc="l" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}

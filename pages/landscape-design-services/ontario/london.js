@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London landscape design services | We'll Take Care Of Everything" 
-            desc="London landscape design services: c a"
+            desc="London landscape design services: f r"
             canonical={`${props.website}/london-landscape-design-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London landscape design services" //KW
-            subtitle="c a"
+            subtitle="f r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="e n"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="  m"
+            image="/window-installation.jpg"
             alt="London landscape design services"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional London landscape design services" //KW
-            desc="v a o h"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="h W p i"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="n"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="d"
-            cardDesc3="h"
+            cardDesc1="r"
+            cardDesc2="W"
+            cardDesc3="c"
             />
             <Approach
             title="London landscape design services" //KW
-            desc="s d . s"
+            desc="r d o a"
             />
             <Intro
             subtitle="Exceptional London landscape design services" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="o t"
+            cardDesc1="t"
+            cardDesc2="e k"
             cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
+            desc=" " //KW
             desc2="r"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

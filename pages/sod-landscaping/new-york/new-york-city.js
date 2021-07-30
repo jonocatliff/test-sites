@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City sod landscaping | We'll Take Care Of Everything" 
-            desc="New York City sod landscaping: e n"
+            desc="New York City sod landscaping: e m"
             canonical={`${props.website}/new-york-city-sod-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City sod landscaping" //KW
-            subtitle="e n"
+            subtitle="e m"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="e n"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="  v"
+            image="/window-washing.jpg"
             alt="New York City sod landscaping"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional New York City sod landscaping" //KW
-            desc="o s m undefined"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="e i s undefined"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="x"
-            cardDesc3="p"
+            cardDesc1="o"
+            cardDesc2="h"
+            cardDesc3="a"
             />
             <Approach
             title="New York City sod landscaping" //KW
-            desc="c o w ’"
+            desc="s o   n"
             />
             <Intro
             subtitle="Exceptional New York City sod landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="i undefined"
-            cardDesc3="p"
+            cardDesc1="h"
+            cardDesc2="d undefined"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="n"
+            desc="m" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

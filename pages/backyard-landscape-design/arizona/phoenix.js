@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix backyard landscape design | We'll Take Care Of Everything" 
-            desc="Phoenix backyard landscape design: i a"
+            desc="Phoenix backyard landscape design:   Y"
             canonical={`${props.website}/phoenix-backyard-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix backyard landscape design" //KW
-            subtitle="i a"
+            subtitle="  Y"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="n  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="r r"
+            image="/window-washing.jpg"
             alt="Phoenix backyard landscape design"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Phoenix backyard landscape design" //KW
-            desc="y i   o"
+            desc="o w . m"
             image="/contractor.jpg"
-            alt="Window Services"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="n"
+            subtitle="Affordable Window Replacement" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="n"
-            cardDesc3="c"
+            cardDesc1="i"
+            cardDesc2=" "
+            cardDesc3="o"
             />
             <Approach
             title="Phoenix backyard landscape design" //KW
-            desc="d o b e"
+            desc="W   t i"
             />
             <Intro
             subtitle="Exceptional Phoenix backyard landscape design" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="e"
-            cardDesc2="s r"
-            cardDesc3="l"
+            cardDesc2="e p"
+            cardDesc3="."
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="-"
+            desc=" " //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

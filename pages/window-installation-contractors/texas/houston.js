@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston window installation contractors | We'll Take Care Of Everything" 
-            desc="Houston window installation contractors: n e"
+            desc="Houston window installation contractors: i l"
             canonical={`${props.website}/houston-window-installation-contractors`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston window installation contractors" //KW
-            subtitle="n e"
+            subtitle="i l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="r n"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="i  "
+            image="/window-installation.jpg"
             alt="Houston window installation contractors"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Houston window installation contractors" //KW
-            desc="i n m w"
+            desc="a , m  "
             image="/window-washing.jpg"
-            alt="Window Services"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="s"
+            subtitle="Affordable Window Replacement" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
-            cardDesc2="I"
+            cardDesc1=" "
+            cardDesc2="d"
             cardDesc3="l"
             />
             <Approach
             title="Houston window installation contractors" //KW
-            desc="n l n n"
+            desc="s p t  "
             />
             <Intro
             subtitle="Exceptional Houston window installation contractors" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="  o"
-            cardDesc3="p"
+            cardDesc1="p"
+            cardDesc2="u s"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="o"
+            desc="l" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

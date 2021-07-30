@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary lawn maintenance | We'll Take Care Of Everything" 
-            desc="Calgary lawn maintenance: t i"
+            desc="Calgary lawn maintenance:   o"
             canonical={`${props.website}/calgary-lawn-maintenance`}
             />
             <Navigationbar
@@ -29,19 +29,19 @@
             />
             <Header
             title="Calgary lawn maintenance" //KW
-            subtitle="t i"
+            subtitle="  o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Installations"
-            desc="t  "
+            desc="  i"
             image="/window-installations.jpg"
             alt="Calgary lawn maintenance"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Calgary lawn maintenance" //KW
-            desc="u e c i"
+            desc="u   c e"
             image="/contractor.jpg"
             alt="Window Installations"
             />
@@ -53,11 +53,11 @@
             cardTitle3="Save Effort"
             cardDesc1="d"
             cardDesc2="r"
-            cardDesc3="y"
+            cardDesc3=","
             />
             <Approach
             title="Calgary lawn maintenance" //KW
-            desc="t m   s"
+            desc="  t i u"
             />
             <Intro
             subtitle="Exceptional Calgary lawn maintenance" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2=". s"
-            cardDesc3="d"
+            cardDesc1="t"
+            cardDesc2="b w"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="y" //KW
-            desc2=" "
+            desc="u" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

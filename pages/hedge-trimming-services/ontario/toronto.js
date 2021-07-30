@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto hedge trimming services | We'll Take Care Of Everything" 
-            desc="Toronto hedge trimming services: w c"
+            desc="Toronto hedge trimming services: u  "
             canonical={`${props.website}/toronto-hedge-trimming-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto hedge trimming services" //KW
-            subtitle="w c"
+            subtitle="u  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="a l"
-            image="/window-installations.jpg"
+            desc="o d"
+            image="/contractor.jpg"
             alt="Toronto hedge trimming services"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Toronto hedge trimming services" //KW
-            desc="  l f w"
-            image="/window-washing.jpg"
+            desc="  i i s"
+            image="/window-installation.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="c"
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="I"
-            cardDesc3="o"
+            cardDesc1="a"
+            cardDesc2="n"
+            cardDesc3="a"
             />
             <Approach
             title="Toronto hedge trimming services" //KW
-            desc="e i t v"
+            desc="s   a w"
             />
             <Intro
             subtitle="Exceptional Toronto hedge trimming services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="p  "
-            cardDesc3="t"
+            cardDesc1="c"
+            cardDesc2="e o"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="i"
+            desc="a" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

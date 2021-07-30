@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary weed control companies near me | We'll Take Care Of Everything" 
-            desc="Calgary weed control companies near me: s  "
+            desc="Calgary weed control companies near me: i h"
             canonical={`${props.website}/calgary-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary weed control companies near me" //KW
-            subtitle="s  "
+            subtitle="i h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="i p"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="d i"
+            image="/window-washing.jpg"
             alt="Calgary weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Calgary weed control companies near me" //KW
-            desc="  , t undefined"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="  a r undefined"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="o"
-            cardDesc3="w"
+            cardDesc1=" "
+            cardDesc2="n"
+            cardDesc3=" "
             />
             <Approach
             title="Calgary weed control companies near me" //KW
-            desc="o   a e"
+            desc="o r i w"
             />
             <Intro
             subtitle="Exceptional Calgary weed control companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="t undefined"
+            cardDesc1="p"
+            cardDesc2="r undefined"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="r"
+            desc=" " //KW
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

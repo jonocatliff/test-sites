@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton hedge maintenance | We'll Take Care Of Everything" 
-            desc="Hamilton hedge maintenance: c n"
+            desc="Hamilton hedge maintenance: o o"
             canonical={`${props.website}/hamilton-hedge-maintenance`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton hedge maintenance" //KW
-            subtitle="c n"
+            subtitle="o o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="p t"
-            image="/window-washing.jpg"
+            desc="e l"
+            image="/contractor.jpg"
             alt="Hamilton hedge maintenance"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Hamilton hedge maintenance" //KW
-            desc="e h y l"
-            image="/contractor.jpg"
+            desc="  o f t"
+            image="/window-installation.jpg"
             alt="Window Cleaning"
             />
             <Savings
             subtitle="Affordable Window Cleaning" //KW
-            desc="r"
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="c"
-            cardDesc2="n"
-            cardDesc3="l"
+            cardDesc1="d"
+            cardDesc2="i"
+            cardDesc3="w"
             />
             <Approach
             title="Hamilton hedge maintenance" //KW
-            desc="e f e e"
+            desc="s   u i"
             />
             <Intro
             subtitle="Exceptional Hamilton hedge maintenance" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="y"
-            cardDesc2="t e"
-            cardDesc3="t"
+            cardDesc1=" "
+            cardDesc2="  o"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="e"
+            desc=" " //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}

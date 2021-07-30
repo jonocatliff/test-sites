@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener skylight window replacement | We'll Take Care Of Everything" 
-            desc="Kitchener skylight window replacement: o e"
+            desc="Kitchener skylight window replacement: w s"
             canonical={`${props.website}/kitchener-skylight-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener skylight window replacement" //KW
-            subtitle="o e"
+            subtitle="w s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="k f"
+            subtitle="High-Quality Window Installations"
+            desc="n a"
             image="/window-washing.jpg"
             alt="Kitchener skylight window replacement"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Kitchener skylight window replacement" //KW
-            desc="e t w s"
+            desc="e i r d"
             image="/window-installation.jpg"
-            alt="Window Cleaning"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="n"
-            cardDesc3="l"
+            cardDesc1="i"
+            cardDesc2="d"
+            cardDesc3="c"
             />
             <Approach
             title="Kitchener skylight window replacement" //KW
-            desc="t f o y"
+            desc="n o    "
             />
             <Intro
             subtitle="Exceptional Kitchener skylight window replacement" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="m f"
-            cardDesc3=" "
+            cardDesc1="n"
+            cardDesc2="  s"
+            cardDesc3="f"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
+            desc="h" //KW
             desc2="n"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

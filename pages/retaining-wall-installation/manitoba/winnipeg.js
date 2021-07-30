@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg retaining wall installation | We'll Take Care Of Everything" 
-            desc="Winnipeg retaining wall installation: i  "
+            desc="Winnipeg retaining wall installation: a  "
             canonical={`${props.website}/winnipeg-retaining-wall-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg retaining wall installation" //KW
-            subtitle="i  "
+            subtitle="a  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="y s"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="o  "
+            image="/window-installations.jpg"
             alt="Winnipeg retaining wall installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Winnipeg retaining wall installation" //KW
-            desc="d A e undefined"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="r o e undefined"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Repair" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2=" "
-            cardDesc3="u"
+            cardDesc1="s"
+            cardDesc2="g"
+            cardDesc3=" "
             />
             <Approach
             title="Winnipeg retaining wall installation" //KW
-            desc="t r   ."
+            desc="e   v e"
             />
             <Intro
             subtitle="Exceptional Winnipeg retaining wall installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="r undefined"
-            cardDesc3="W"
+            cardDesc1=" "
+            cardDesc2="c undefined"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="a"
+            desc=" " //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

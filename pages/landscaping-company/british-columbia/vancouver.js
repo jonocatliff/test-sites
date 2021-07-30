@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver landscaping company | We'll Take Care Of Everything" 
-            desc="Vancouver landscaping company: i e"
+            desc="Vancouver landscaping company: l r"
             canonical={`${props.website}/vancouver-landscaping-company`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver landscaping company" //KW
-            subtitle="i e"
+            subtitle="l r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="o  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="e W"
+            image="/window-washing.jpg"
             alt="Vancouver landscaping company"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Vancouver landscaping company" //KW
-            desc="  r s e"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="e r n y"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="n"
+            subtitle="Affordable Window Installations" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
-            cardDesc2=" "
-            cardDesc3="o"
+            cardDesc1=" "
+            cardDesc2=","
+            cardDesc3="f"
             />
             <Approach
             title="Vancouver landscaping company" //KW
-            desc="e t w v"
+            desc="s     n"
             />
             <Intro
             subtitle="Exceptional Vancouver landscaping company" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="t e"
-            cardDesc3="y"
+            cardDesc1="e"
+            cardDesc2="l r"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="r"
+            desc="r" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

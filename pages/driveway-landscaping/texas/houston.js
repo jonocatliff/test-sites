@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston driveway landscaping | We'll Take Care Of Everything" 
-            desc="Houston driveway landscaping:   i"
+            desc="Houston driveway landscaping: r  "
             canonical={`${props.website}/houston-driveway-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston driveway landscaping" //KW
-            subtitle="  i"
+            subtitle="r  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="O i"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="  n"
+            image="/window-installations.jpg"
             alt="Houston driveway landscaping"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Houston driveway landscaping" //KW
-            desc="r   o h"
+            desc="d      "
             image="/window-washing.jpg"
-            alt="Window Cleaning"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc=" "
+            subtitle="Affordable Window Replacement" //KW
+            desc="y"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
+            cardDesc1="o"
             cardDesc2=" "
-            cardDesc3="l"
+            cardDesc3="t"
             />
             <Approach
             title="Houston driveway landscaping" //KW
-            desc="a w n v"
+            desc="o   n a"
             />
             <Intro
             subtitle="Exceptional Houston driveway landscaping" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="v"
-            cardDesc2="  e"
-            cardDesc3="a"
+            cardDesc1="e"
+            cardDesc2="e l"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
+            desc="m" //KW
             desc2="i"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

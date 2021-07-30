@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton mulch companies near me | We'll Take Care Of Everything" 
-            desc="Edmonton mulch companies near me: n  "
+            desc="Edmonton mulch companies near me:   n"
             canonical={`${props.website}/edmonton-mulch-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton mulch companies near me" //KW
-            subtitle="n  "
+            subtitle="  n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="   "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="e h"
+            image="/window-washing.jpg"
             alt="Edmonton mulch companies near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Edmonton mulch companies near me" //KW
-            desc="h W r o"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="r     m"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="l"
-            cardDesc3="h"
+            cardDesc1="r"
+            cardDesc2="s"
+            cardDesc3="t"
             />
             <Approach
             title="Edmonton mulch companies near me" //KW
-            desc="b r i w"
+            desc="I o   r"
             />
             <Intro
             subtitle="Exceptional Edmonton mulch companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="e undefined"
-            cardDesc3="i"
+            cardDesc1="s"
+            cardDesc2="f i"
+            cardDesc3="g"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="."
+            desc="p" //KW
+            desc2="v"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

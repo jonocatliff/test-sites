@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City hedge removal services | We'll Take Care Of Everything" 
-            desc="New York City hedge removal services: y r"
+            desc="New York City hedge removal services:   i"
             canonical={`${props.website}/new-york-city-hedge-removal-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City hedge removal services" //KW
-            subtitle="y r"
+            subtitle="  i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="o a"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="  o"
+            image="/window-washing.jpg"
             alt="New York City hedge removal services"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional New York City hedge removal services" //KW
-            desc="h   d u"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="y o    "
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="s"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
             cardDesc2="o"
-            cardDesc3=" "
+            cardDesc3=","
             />
             <Approach
             title="New York City hedge removal services" //KW
-            desc="r s s f"
+            desc="r   p  "
             />
             <Intro
             subtitle="Exceptional New York City hedge removal services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="u e"
-            cardDesc3="I"
+            cardDesc1="i"
+            cardDesc2="  r"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="e"
+            desc="d" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

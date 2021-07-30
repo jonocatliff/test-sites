@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City home glass window replacement near me | We'll Take Care Of Everything" 
-            desc="New York City home glass window replacement near me: s e"
+            desc="New York City home glass window replacement near me: t i"
             canonical={`${props.website}/new-york-city-home-glass-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City home glass window replacement near me" //KW
-            subtitle="s e"
+            subtitle="t i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="t i"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc=", o"
+            image="/window-washing.jpg"
             alt="New York City home glass window replacement near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional New York City home glass window replacement near me" //KW
-            desc="  p i w"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="o w n x"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc=" "
+            subtitle="Affordable Window Cleaning" //KW
+            desc="f"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="s"
-            cardDesc3="a"
+            cardDesc1=" "
+            cardDesc2="t"
+            cardDesc3="i"
             />
             <Approach
             title="New York City home glass window replacement near me" //KW
-            desc="n e t h"
+            desc="r t h w"
             />
             <Intro
             subtitle="Exceptional New York City home glass window replacement near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="m  "
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="e  "
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="'" //KW
-            desc2="r"
+            desc="i" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

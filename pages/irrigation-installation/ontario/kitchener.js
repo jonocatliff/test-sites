@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener irrigation installation | We'll Take Care Of Everything" 
-            desc="Kitchener irrigation installation: l  "
+            desc="Kitchener irrigation installation:   i"
             canonical={`${props.website}/kitchener-irrigation-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener irrigation installation" //KW
-            subtitle="l  "
+            subtitle="  i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="r e"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="o  "
+            image="/window-installation.jpg"
             alt="Kitchener irrigation installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Kitchener irrigation installation" //KW
-            desc="a u T  "
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="w t r s"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="n"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="s"
+            cardDesc1="f"
+            cardDesc2="n"
             cardDesc3="o"
             />
             <Approach
             title="Kitchener irrigation installation" //KW
-            desc="  u y o"
+            desc="h i h n"
             />
             <Intro
             subtitle="Exceptional Kitchener irrigation installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="r  "
+            cardDesc1="n"
+            cardDesc2="P  "
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="e"
+            desc="W" //KW
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City home landscaping | We'll Take Care Of Everything" 
-            desc="New York City home landscaping: d i"
+            desc="New York City home landscaping: f i"
             canonical={`${props.website}/new-york-city-home-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City home landscaping" //KW
-            subtitle="d i"
+            subtitle="f i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="y i"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="d v"
+            image="/window-installation.jpg"
             alt="New York City home landscaping"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional New York City home landscaping" //KW
-            desc="  l e e"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="o c o  "
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="e"
+            subtitle="Affordable Window Installations" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="r"
-            cardDesc3="l"
+            cardDesc1="w"
+            cardDesc2="s"
+            cardDesc3="e"
             />
             <Approach
             title="New York City home landscaping" //KW
-            desc="n p w u"
+            desc="n t   c"
             />
             <Intro
             subtitle="Exceptional New York City home landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="w"
-            cardDesc2="c w"
-            cardDesc3="d"
+            cardDesc1="t"
+            cardDesc2="e n"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="," //KW
-            desc2=","
+            desc="r" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

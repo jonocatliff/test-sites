@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City home garden design | We'll Take Care Of Everything" 
-            desc="Quebec City home garden design: a f"
+            desc="Quebec City home garden design: r  "
             canonical={`${props.website}/quebec-city-home-garden-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City home garden design" //KW
-            subtitle="a f"
+            subtitle="r  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="a e"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="t c"
+            image="/window-washing.jpg"
             alt="Quebec City home garden design"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Quebec City home garden design" //KW
-            desc="s   s p"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="P h   l"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="e"
+            subtitle="Affordable Window Repair" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="s"
-            cardDesc3="p"
+            cardDesc1="s"
+            cardDesc2="t"
+            cardDesc3="n"
             />
             <Approach
             title="Quebec City home garden design" //KW
-            desc="g n i g"
+            desc="c s i a"
             />
             <Intro
             subtitle="Exceptional Quebec City home garden design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="O"
-            cardDesc2="e  "
+            cardDesc1="s"
+            cardDesc2="s s"
             cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="y" //KW
-            desc2=" "
+            desc="e" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

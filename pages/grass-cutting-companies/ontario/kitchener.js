@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener grass cutting companies | We'll Take Care Of Everything" 
-            desc="Kitchener grass cutting companies:   l"
+            desc="Kitchener grass cutting companies: i n"
             canonical={`${props.website}/kitchener-grass-cutting-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener grass cutting companies" //KW
-            subtitle="  l"
+            subtitle="i n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="I n"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="  m"
+            image="/window-installation.jpg"
             alt="Kitchener grass cutting companies"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Kitchener grass cutting companies" //KW
-            desc="y n f ."
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="g o s w"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="p"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2="n"
-            cardDesc3="h"
+            cardDesc1="a"
+            cardDesc2="s"
+            cardDesc3="e"
             />
             <Approach
             title="Kitchener grass cutting companies" //KW
-            desc="s h l  "
+            desc="  p o c"
             />
             <Intro
             subtitle="Exceptional Kitchener grass cutting companies" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="z"
-            cardDesc2="p t"
-            cardDesc3="n"
+            cardDesc1="s"
+            cardDesc2="n o"
+            cardDesc3="y"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="e"
+            desc=" " //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

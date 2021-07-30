@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa mulch companies near me | We'll Take Care Of Everything" 
-            desc="Ottowa mulch companies near me: o ."
+            desc="Ottowa mulch companies near me: I o"
             canonical={`${props.website}/ottowa-mulch-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa mulch companies near me" //KW
-            subtitle="o ."
+            subtitle="I o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  c"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="m t"
+            image="/contractor.jpg"
             alt="Ottowa mulch companies near me"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Ottowa mulch companies near me" //KW
-            desc="n n T  "
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="a t    "
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="y"
-            cardDesc3="r"
+            cardDesc1="t"
+            cardDesc2=" "
+            cardDesc3="g"
             />
             <Approach
             title="Ottowa mulch companies near me" //KW
-            desc="r u r  "
+            desc="a v   o"
             />
             <Intro
             subtitle="Exceptional Ottowa mulch companies near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="i undefined"
-            cardDesc3="v"
+            cardDesc1=" "
+            cardDesc2="i w"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
-            desc2="e"
+            desc="u" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}

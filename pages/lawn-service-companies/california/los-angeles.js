@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles lawn service companies | We'll Take Care Of Everything" 
-            desc="Los Angeles lawn service companies: d g"
+            desc="Los Angeles lawn service companies: e n"
             canonical={`${props.website}/los-angeles-lawn-service-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles lawn service companies" //KW
-            subtitle="d g"
+            subtitle="e n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="m t"
+            subtitle="High-Quality Window Services"
+            desc="   "
             image="/window-installations.jpg"
             alt="Los Angeles lawn service companies"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles lawn service companies" //KW
-            desc="a t r i"
+            desc="u o t O"
             image="/window-installation.jpg"
-            alt="Window Cleaning"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="v"
+            subtitle="Affordable Window Services" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="p"
+            cardDesc1="i"
+            cardDesc2="e"
             cardDesc3="t"
             />
             <Approach
             title="Los Angeles lawn service companies" //KW
-            desc="s c y  "
+            desc="o r    "
             />
             <Intro
             subtitle="Exceptional Los Angeles lawn service companies" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="   "
-            cardDesc3=" "
+            cardDesc2="t a"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
-            desc2="v"
+            desc="r" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

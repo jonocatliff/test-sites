@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal house window replacement near me | We'll Take Care Of Everything" 
-            desc="Montreal house window replacement near me: a  "
+            desc="Montreal house window replacement near me: r u"
             canonical={`${props.website}/montreal-house-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal house window replacement near me" //KW
-            subtitle="a  "
+            subtitle="r u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="I i"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="o  "
+            image="/window-installations.jpg"
             alt="Montreal house window replacement near me"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Montreal house window replacement near me" //KW
-            desc="c   v a"
+            desc="b t v r"
             image="/contractor.jpg"
-            alt="Window Repair"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc=" "
+            subtitle="Affordable Window Replacement" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="r"
-            cardDesc3="h"
+            cardDesc1="r"
+            cardDesc2="e"
+            cardDesc3="g"
             />
             <Approach
             title="Montreal house window replacement near me" //KW
-            desc="  a e s"
+            desc="i r e  "
             />
             <Intro
             subtitle="Exceptional Montreal house window replacement near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="n v"
-            cardDesc3=" "
+            cardDesc1="k"
+            cardDesc2="r l"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="g" //KW
-            desc2="e"
+            desc="e" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}

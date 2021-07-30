@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton lawn repair near me | We'll Take Care Of Everything" 
-            desc="Hamilton lawn repair near me: u l"
+            desc="Hamilton lawn repair near me: a a"
             canonical={`${props.website}/hamilton-lawn-repair-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton lawn repair near me" //KW
-            subtitle="u l"
+            subtitle="a a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="a d"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="t r"
+            image="/window-installations.jpg"
             alt="Hamilton lawn repair near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Hamilton lawn repair near me" //KW
-            desc="r n v i"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="n v l l"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="o"
+            subtitle="Affordable Window Installations" //KW
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2=" "
-            cardDesc3="t"
+            cardDesc1="i"
+            cardDesc2="s"
+            cardDesc3="n"
             />
             <Approach
             title="Hamilton lawn repair near me" //KW
-            desc="l d   t"
+            desc="  i w h"
             />
             <Intro
             subtitle="Exceptional Hamilton lawn repair near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="o  "
-            cardDesc3="w"
+            cardDesc1="d"
+            cardDesc2="i o"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="."
+            desc="e" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

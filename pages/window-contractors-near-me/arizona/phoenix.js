@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix window contractors near me | We'll Take Care Of Everything" 
-            desc="Phoenix window contractors near me: a ,"
+            desc="Phoenix window contractors near me: a o"
             canonical={`${props.website}/phoenix-window-contractors-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix window contractors near me" //KW
-            subtitle="a ,"
+            subtitle="a o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="e i"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="i r"
+            image="/window-installations.jpg"
             alt="Phoenix window contractors near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Phoenix window contractors near me" //KW
-            desc="n e   g"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="    e a"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="b"
+            subtitle="Affordable Window Replacement" //KW
+            desc="m"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="n"
-            cardDesc2="n"
-            cardDesc3=" "
+            cardDesc2="r"
+            cardDesc3="s"
             />
             <Approach
             title="Phoenix window contractors near me" //KW
-            desc="h f b e"
+            desc="e l u e"
             />
             <Intro
             subtitle="Exceptional Phoenix window contractors near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="n x"
-            cardDesc3="n"
+            cardDesc1="e"
+            cardDesc2="e i"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="r"
+            desc="o" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

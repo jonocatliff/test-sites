@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg lawn repair near me | We'll Take Care Of Everything" 
-            desc="Winnipeg lawn repair near me: y v"
+            desc="Winnipeg lawn repair near me: l w"
             canonical={`${props.website}/winnipeg-lawn-repair-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg lawn repair near me" //KW
-            subtitle="y v"
+            subtitle="l w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="i t"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="h f"
+            image="/window-washing.jpg"
             alt="Winnipeg lawn repair near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Winnipeg lawn repair near me" //KW
-            desc="o i e h"
+            desc="c r c t"
             image="/window-installation.jpg"
-            alt="Window Cleaning"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="s"
+            subtitle="Affordable Window Services" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="e"
-            cardDesc3="r"
+            cardDesc1="p"
+            cardDesc2="w"
+            cardDesc3=" "
             />
             <Approach
             title="Winnipeg lawn repair near me" //KW
-            desc="t v w f"
+            desc="c   y  "
             />
             <Intro
             subtitle="Exceptional Winnipeg lawn repair near me" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="a"
-            cardDesc2="  e"
-            cardDesc3="d"
+            cardDesc2="  ,"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="i" //KW
-            desc2="c"
+            desc2="y"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

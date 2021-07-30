@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London lawn maintenance near me | We'll Take Care Of Everything" 
-            desc="London lawn maintenance near me: b o"
+            desc="London lawn maintenance near me: s g"
             canonical={`${props.website}/london-lawn-maintenance-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London lawn maintenance near me" //KW
-            subtitle="b o"
+            subtitle="s g"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="l  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="o b"
+            image="/contractor.jpg"
             alt="London lawn maintenance near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional London lawn maintenance near me" //KW
-            desc="s t s e"
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="h e o i"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="n"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="k"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="r"
-            cardDesc3="o"
+            cardDesc1=" "
+            cardDesc2="s"
+            cardDesc3=" "
             />
             <Approach
             title="London lawn maintenance near me" //KW
-            desc="s   b c"
+            desc="o u   n"
             />
             <Intro
             subtitle="Exceptional London lawn maintenance near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="   "
-            cardDesc3="c"
+            cardDesc1="t"
+            cardDesc2="a a"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="o"
+            desc="i" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

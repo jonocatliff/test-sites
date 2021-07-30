@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg lawn care companies near me | We'll Take Care Of Everything" 
-            desc="Winnipeg lawn care companies near me: e ,"
+            desc="Winnipeg lawn care companies near me: r v"
             canonical={`${props.website}/winnipeg-lawn-care-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg lawn care companies near me" //KW
-            subtitle="e ,"
+            subtitle="r v"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="a n"
-            image="/contractor.jpg"
+            desc="o  "
+            image="/window-installation.jpg"
             alt="Winnipeg lawn care companies near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Winnipeg lawn care companies near me" //KW
-            desc="y a p w"
-            image="/window-washing.jpg"
+            desc="p o r t"
+            image="/contractor.jpg"
             alt="Window Services"
             />
             <Savings
             subtitle="Affordable Window Services" //KW
-            desc="b"
+            desc="v"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="u"
-            cardDesc2="b"
-            cardDesc3="h"
+            cardDesc1="n"
+            cardDesc2="c"
+            cardDesc3="o"
             />
             <Approach
             title="Winnipeg lawn care companies near me" //KW
-            desc="d h   r"
+            desc="a r t k"
             />
             <Intro
             subtitle="Exceptional Winnipeg lawn care companies near me" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="u  "
-            cardDesc3="P"
+            cardDesc1="t"
+            cardDesc2="o  "
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="g" //KW
+            desc="t" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

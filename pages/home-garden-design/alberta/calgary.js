@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary home garden design | We'll Take Care Of Everything" 
-            desc="Calgary home garden design: i a"
+            desc="Calgary home garden design: l i"
             canonical={`${props.website}/calgary-home-garden-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary home garden design" //KW
-            subtitle="i a"
+            subtitle="l i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="  o"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="e a"
+            image="/window-washing.jpg"
             alt="Calgary home garden design"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Calgary home garden design" //KW
-            desc="y o v  "
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="s l a u"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="a"
+            subtitle="Affordable Window Replacement" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="u"
-            cardDesc3="w"
+            cardDesc1="w"
+            cardDesc2=" "
+            cardDesc3="n"
             />
             <Approach
             title="Calgary home garden design" //KW
-            desc="o   d  "
+            desc="i a d v"
             />
             <Intro
             subtitle="Exceptional Calgary home garden design" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="y"
-            cardDesc2="u u"
-            cardDesc3="a"
+            cardDesc1="i"
+            cardDesc2="e n"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="u"
+            desc="O" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}

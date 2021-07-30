@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston commercial window installation | We'll Take Care Of Everything" 
-            desc="Houston commercial window installation: t  "
+            desc="Houston commercial window installation: b o"
             canonical={`${props.website}/houston-commercial-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston commercial window installation" //KW
-            subtitle="t  "
+            subtitle="b o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="f r"
+            subtitle="High-Quality Window Replacement"
+            desc="i e"
             image="/window-installation.jpg"
             alt="Houston commercial window installation"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Houston commercial window installation" //KW
-            desc="e e o  "
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="u l s  "
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="i"
+            subtitle="Affordable Window Replacement" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="y"
-            cardDesc3="t"
+            cardDesc1="s"
+            cardDesc2="e"
+            cardDesc3="n"
             />
             <Approach
             title="Houston commercial window installation" //KW
-            desc="e s h s"
+            desc="h o r n"
             />
             <Intro
             subtitle="Exceptional Houston commercial window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="r  "
-            cardDesc3="O"
+            cardDesc1=" "
+            cardDesc2="  h"
+            cardDesc3="p"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="o"
+            desc="," //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

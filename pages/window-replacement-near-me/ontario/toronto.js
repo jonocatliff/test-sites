@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto window replacement near me | We'll Take Care Of Everything" 
-            desc="Toronto window replacement near me: a a"
+            desc="Toronto window replacement near me: W y"
             canonical={`${props.website}/toronto-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto window replacement near me" //KW
-            subtitle="a a"
+            subtitle="W y"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="  o"
+            desc="n e"
             image="/window-installations.jpg"
             alt="Toronto window replacement near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Toronto window replacement near me" //KW
-            desc="t c   n"
-            image="/window-installation.jpg"
+            desc="t e m i"
+            image="/window-washing.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="O"
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="d"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="v"
+            cardDesc3="l"
             />
             <Approach
             title="Toronto window replacement near me" //KW
-            desc="  o t t"
+            desc="t d d  "
             />
             <Intro
             subtitle="Exceptional Toronto window replacement near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2="n  "
-            cardDesc3=" "
+            cardDesc1="d"
+            cardDesc2="i t"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2=" "
+            desc="e" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia yard maintenance | We'll Take Care Of Everything" 
-            desc="Philadelphia yard maintenance: t a"
+            desc="Philadelphia yard maintenance: m p"
             canonical={`${props.website}/philadelphia-yard-maintenance`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Philadelphia yard maintenance" //KW
-            subtitle="t a"
+            subtitle="m p"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Installations"
-            desc="m n"
-            image="/contractor.jpg"
+            desc="e o"
+            image="/window-washing.jpg"
             alt="Philadelphia yard maintenance"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Philadelphia yard maintenance" //KW
-            desc="o s n undefined"
-            image="/window-installations.jpg"
+            desc="o i w undefined"
+            image="/window-installation.jpg"
             alt="Window Installations"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="y"
-            cardDesc3="u"
+            cardDesc1="s"
+            cardDesc2="n"
+            cardDesc3="l"
             />
             <Approach
             title="Philadelphia yard maintenance" //KW
-            desc="  l r a"
+            desc="r f t y"
             />
             <Intro
             subtitle="Exceptional Philadelphia yard maintenance" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="i undefined"
-            cardDesc3="t"
+            cardDesc1=" "
+            cardDesc2="  undefined"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="i"
+            desc="t" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}

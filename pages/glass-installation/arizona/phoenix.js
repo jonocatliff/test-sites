@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix glass installation | We'll Take Care Of Everything" 
-            desc="Phoenix glass installation: i I"
+            desc="Phoenix glass installation: t o"
             canonical={`${props.website}/phoenix-glass-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix glass installation" //KW
-            subtitle="i I"
+            subtitle="t o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="o t"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="  r"
+            image="/window-installations.jpg"
             alt="Phoenix glass installation"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Phoenix glass installation" //KW
-            desc="d   t y"
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="m h f i"
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="i"
-            cardDesc3="w"
+            cardDesc1="i"
+            cardDesc2="s"
+            cardDesc3="t"
             />
             <Approach
             title="Phoenix glass installation" //KW
-            desc="    d w"
+            desc="o x e  "
             />
             <Intro
             subtitle="Exceptional Phoenix glass installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="d  "
-            cardDesc3="w"
+            cardDesc1="e"
+            cardDesc2="o  "
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="e"
+            desc=" " //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

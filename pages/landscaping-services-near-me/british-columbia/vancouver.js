@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver landscaping services near me | We'll Take Care Of Everything" 
-            desc="Vancouver landscaping services near me: c e"
+            desc="Vancouver landscaping services near me: i s"
             canonical={`${props.website}/vancouver-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver landscaping services near me" //KW
-            subtitle="c e"
+            subtitle="i s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="v p"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="  n"
+            image="/window-installations.jpg"
             alt="Vancouver landscaping services near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Vancouver landscaping services near me" //KW
-            desc="t p e m"
+            desc="i   e u"
             image="/window-washing.jpg"
-            alt="Window Installations"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="i"
+            subtitle="Affordable Window Services" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="W"
-            cardDesc3="P"
+            cardDesc1="s"
+            cardDesc2="v"
+            cardDesc3=" "
             />
             <Approach
             title="Vancouver landscaping services near me" //KW
-            desc="a e r r"
+            desc="i o   o"
             />
             <Intro
             subtitle="Exceptional Vancouver landscaping services near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="w w"
-            cardDesc3="t"
+            cardDesc1="r"
+            cardDesc2="b o"
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="w"
+            desc="i" //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

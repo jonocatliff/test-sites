@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary landscaping front of house | We'll Take Care Of Everything" 
-            desc="Calgary landscaping front of house: x o"
+            desc="Calgary landscaping front of house: r r"
             canonical={`${props.website}/calgary-landscaping-front-of-house`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary landscaping front of house" //KW
-            subtitle="x o"
+            subtitle="r r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="m  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="l p"
+            image="/window-washing.jpg"
             alt="Calgary landscaping front of house"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Calgary landscaping front of house" //KW
-            desc="  t O i"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="n l x u"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="w"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="d"
-            cardDesc3="h"
+            cardDesc1="i"
+            cardDesc2="s"
+            cardDesc3="."
             />
             <Approach
             title="Calgary landscaping front of house" //KW
-            desc="t   t o"
+            desc="e t u i"
             />
             <Intro
             subtitle="Exceptional Calgary landscaping front of house" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="m  "
-            cardDesc3=" "
+            cardDesc1="p"
+            cardDesc2="a w"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="f" //KW
-            desc2="d"
+            desc="u" //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

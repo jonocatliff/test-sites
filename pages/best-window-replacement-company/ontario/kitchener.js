@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener best window replacement company | We'll Take Care Of Everything" 
-            desc="Kitchener best window replacement company: c  "
+            desc="Kitchener best window replacement company: n a"
             canonical={`${props.website}/kitchener-best-window-replacement-company`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener best window replacement company" //KW
-            subtitle="c  "
+            subtitle="n a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="d i"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="l  "
+            image="/window-installations.jpg"
             alt="Kitchener best window replacement company"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Kitchener best window replacement company" //KW
-            desc="w n n d"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="  A o u"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc=" "
+            subtitle="Affordable Window Cleaning" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2=" "
-            cardDesc3="h"
+            cardDesc1=" "
+            cardDesc2="d"
+            cardDesc3="r"
             />
             <Approach
             title="Kitchener best window replacement company" //KW
-            desc="u s o r"
+            desc="u p   e"
             />
             <Intro
             subtitle="Exceptional Kitchener best window replacement company" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="e n"
-            cardDesc3="y"
+            cardDesc1="s"
+            cardDesc2="o m"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="y"
+            desc="t" //KW
+            desc2=","
             />
             <Footer 
             companyName={props.companyName}

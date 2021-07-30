@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton hardscape | We'll Take Care Of Everything" 
-            desc="Edmonton hardscape: e Y"
+            desc="Edmonton hardscape:   n"
             canonical={`${props.website}/edmonton-hardscape`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton hardscape" //KW
-            subtitle="e Y"
+            subtitle="  n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="  r"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="e h"
+            image="/contractor.jpg"
             alt="Edmonton hardscape"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Edmonton hardscape" //KW
-            desc="w o n y"
+            desc="s t a t"
             image="/window-washing.jpg"
-            alt="Window Repair"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="i"
+            subtitle="Affordable Window Installations" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2=" "
-            cardDesc3="g"
+            cardDesc1="o"
+            cardDesc2="o"
+            cardDesc3="W"
             />
             <Approach
             title="Edmonton hardscape" //KW
-            desc="h o t e"
+            desc="h   d t"
             />
             <Intro
             subtitle="Exceptional Edmonton hardscape" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="O"
-            cardDesc2="A  "
-            cardDesc3="t"
+            cardDesc1="d"
+            cardDesc2="i o"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2="o"
+            desc="w" //KW
+            desc2="b"
             />
             <Footer 
             companyName={props.companyName}

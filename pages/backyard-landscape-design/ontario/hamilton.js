@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton backyard landscape design | We'll Take Care Of Everything" 
-            desc="Hamilton backyard landscape design: i t"
+            desc="Hamilton backyard landscape design: n w"
             canonical={`${props.website}/hamilton-backyard-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton backyard landscape design" //KW
-            subtitle="i t"
+            subtitle="n w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="s e"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="s o"
+            image="/window-installation.jpg"
             alt="Hamilton backyard landscape design"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Hamilton backyard landscape design" //KW
-            desc="f y w e"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="i o e  "
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="m"
+            subtitle="Affordable Window Services" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="c"
-            cardDesc2=" "
+            cardDesc1="w"
+            cardDesc2="e"
             cardDesc3="h"
             />
             <Approach
             title="Hamilton backyard landscape design" //KW
-            desc="u t e o"
+            desc="o o w y"
             />
             <Intro
             subtitle="Exceptional Hamilton backyard landscape design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2="l e"
-            cardDesc3="h"
+            cardDesc1="c"
+            cardDesc2="l s"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="g"
+            desc="d" //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London window companies near me | We'll Take Care Of Everything" 
-            desc="London window companies near me: s  "
+            desc="London window companies near me: b g"
             canonical={`${props.website}/london-window-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London window companies near me" //KW
-            subtitle="s  "
+            subtitle="b g"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="h d"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="u d"
+            image="/contractor.jpg"
             alt="London window companies near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional London window companies near me" //KW
-            desc="c     e"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="e c t i"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="u"
+            subtitle="Affordable Window Installations" //KW
+            desc="v"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="c"
-            cardDesc3="r"
+            cardDesc1="r"
+            cardDesc2="v"
+            cardDesc3=" "
             />
             <Approach
             title="London window companies near me" //KW
-            desc="      e"
+            desc="o e t I"
             />
             <Intro
             subtitle="Exceptional London window companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="t o"
-            cardDesc3=" "
+            cardDesc1="e"
+            cardDesc2="i e"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2="h"
+            desc="a" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

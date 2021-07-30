@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix landscaping services near me | We'll Take Care Of Everything" 
-            desc="Phoenix landscaping services near me: r v"
+            desc="Phoenix landscaping services near me: a ’"
             canonical={`${props.website}/phoenix-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix landscaping services near me" //KW
-            subtitle="r v"
+            subtitle="a ’"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="e e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="r h"
+            image="/window-installations.jpg"
             alt="Phoenix landscaping services near me"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Phoenix landscaping services near me" //KW
-            desc="n a o e"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="    o d"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            subtitle="Affordable Window Services" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="s"
-            cardDesc2="a"
-            cardDesc3="n"
+            cardDesc2="i"
+            cardDesc3="k"
             />
             <Approach
             title="Phoenix landscaping services near me" //KW
-            desc="d   t e"
+            desc="t o e s"
             />
             <Intro
             subtitle="Exceptional Phoenix landscaping services near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="i o"
-            cardDesc3="c"
+            cardDesc1="e"
+            cardDesc2="v d"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2="h"
+            desc="." //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia lawn treatment | We'll Take Care Of Everything" 
-            desc="Philadelphia lawn treatment: t e"
+            desc="Philadelphia lawn treatment: , ,"
             canonical={`${props.website}/philadelphia-lawn-treatment`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia lawn treatment" //KW
-            subtitle="t e"
+            subtitle=", ,"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="d h"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="o e"
+            image="/window-installations.jpg"
             alt="Philadelphia lawn treatment"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Philadelphia lawn treatment" //KW
-            desc="  r s  "
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="n w s e"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="o"
+            subtitle="Affordable Window Services" //KW
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="a"
-            cardDesc3="k"
+            cardDesc1="h"
+            cardDesc2=" "
+            cardDesc3="s"
             />
             <Approach
             title="Philadelphia lawn treatment" //KW
-            desc="  n   u"
+            desc="e f n n"
             />
             <Intro
             subtitle="Exceptional Philadelphia lawn treatment" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="i  "
-            cardDesc3="o"
+            cardDesc1="s"
+            cardDesc2="e t"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc=" " //KW
-            desc2="l"
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

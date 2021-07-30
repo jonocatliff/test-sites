@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener hedge trimming near me | We'll Take Care Of Everything" 
-            desc="Kitchener hedge trimming near me: n r"
+            desc="Kitchener hedge trimming near me: o t"
             canonical={`${props.website}/kitchener-hedge-trimming-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener hedge trimming near me" //KW
-            subtitle="n r"
+            subtitle="o t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="a  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="n  "
+            image="/window-installations.jpg"
             alt="Kitchener hedge trimming near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Kitchener hedge trimming near me" //KW
-            desc="e r e e"
-            image="/window-installations.jpg"
-            alt="Window Repair"
+            desc="t s o t"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="r"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="d"
-            cardDesc3="n"
+            cardDesc1="h"
+            cardDesc2="i"
+            cardDesc3="e"
             />
             <Approach
             title="Kitchener hedge trimming near me" //KW
-            desc="r t o p"
+            desc="d   a e"
             />
             <Intro
             subtitle="Exceptional Kitchener hedge trimming near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="c r"
-            cardDesc3="i"
+            cardDesc1="y"
+            cardDesc2="W s"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="f"
+            desc="i" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

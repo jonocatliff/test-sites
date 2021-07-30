@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London weed control companies near me | We'll Take Care Of Everything" 
-            desc="London weed control companies near me: o  "
+            desc="London weed control companies near me: t t"
             canonical={`${props.website}/london-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,19 +29,19 @@
             />
             <Header
             title="London weed control companies near me" //KW
-            subtitle="o  "
+            subtitle="t t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Installations"
-            desc="s t"
+            desc="  t"
             image="/window-washing.jpg"
             alt="London weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional London weed control companies near me" //KW
-            desc="r l   undefined"
+            desc="r n . undefined"
             image="/window-installation.jpg"
             alt="Window Installations"
             />
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="u"
+            cardDesc1=" "
             cardDesc2="i"
-            cardDesc3="i"
+            cardDesc3="p"
             />
             <Approach
             title="London weed control companies near me" //KW
-            desc="t   , s"
+            desc="a - s y"
             />
             <Intro
             subtitle="Exceptional London weed control companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="l undefined"
-            cardDesc3="c"
+            cardDesc1="s"
+            cardDesc2="i undefined"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2=" "
+            desc="h" //KW
+            desc2="h"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

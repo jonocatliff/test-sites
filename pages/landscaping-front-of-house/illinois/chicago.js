@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago landscaping front of house | We'll Take Care Of Everything" 
-            desc="Chicago landscaping front of house: t i"
+            desc="Chicago landscaping front of house: e W"
             canonical={`${props.website}/chicago-landscaping-front-of-house`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago landscaping front of house" //KW
-            subtitle="t i"
+            subtitle="e W"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="y u"
+            subtitle="High-Quality Window Repair"
+            desc="  i"
             image="/window-installations.jpg"
             alt="Chicago landscaping front of house"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Chicago landscaping front of house" //KW
-            desc="  n n y"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="h i l y"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="r"
+            subtitle="Affordable Window Repair" //KW
+            desc="q"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
+            cardDesc1="a"
             cardDesc2=" "
-            cardDesc3="k"
+            cardDesc3="W"
             />
             <Approach
             title="Chicago landscaping front of house" //KW
-            desc="r d w  "
+            desc="h q   p"
             />
             <Intro
             subtitle="Exceptional Chicago landscaping front of house" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="  e"
-            cardDesc3="v"
+            cardDesc1="s"
+            cardDesc2="t e"
+            cardDesc3="P"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="y" //KW
-            desc2=" "
+            desc="e" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

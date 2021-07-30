@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto window companies near me | We'll Take Care Of Everything" 
-            desc="Toronto window companies near me: l  "
+            desc="Toronto window companies near me: h r"
             canonical={`${props.website}/toronto-window-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto window companies near me" //KW
-            subtitle="l  "
+            subtitle="h r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="d w"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="e d"
+            image="/window-installation.jpg"
             alt="Toronto window companies near me"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Toronto window companies near me" //KW
-            desc="r t m d"
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="e e d w"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="i"
+            subtitle="Affordable Window Installations" //KW
+            desc="k"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="o"
-            cardDesc3="n"
+            cardDesc1="g"
+            cardDesc2="d"
+            cardDesc3=" "
             />
             <Approach
             title="Toronto window companies near me" //KW
-            desc="    f  "
+            desc="e r e r"
             />
             <Intro
             subtitle="Exceptional Toronto window companies near me" //KW
@@ -66,13 +66,13 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="o"
-            cardDesc2="o h"
-            cardDesc3="p"
+            cardDesc2="p w"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2=" "
+            desc="f" //KW
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener hedge trimming | We'll Take Care Of Everything" 
-            desc="Kitchener hedge trimming: a r"
+            desc="Kitchener hedge trimming: r a"
             canonical={`${props.website}/kitchener-hedge-trimming`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener hedge trimming" //KW
-            subtitle="a r"
+            subtitle="r a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="b n"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="  a"
+            image="/window-installation.jpg"
             alt="Kitchener hedge trimming"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Kitchener hedge trimming" //KW
-            desc="u l m s"
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="  v p m"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="e"
+            subtitle="Affordable Window Replacement" //KW
+            desc="p"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="o"
-            cardDesc3="W"
+            cardDesc1="a"
+            cardDesc2=" "
+            cardDesc3="n"
             />
             <Approach
             title="Kitchener hedge trimming" //KW
-            desc="s i k r"
+            desc="s , e e"
             />
             <Intro
             subtitle="Exceptional Kitchener hedge trimming" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="t"
-            cardDesc2="l d"
-            cardDesc3="c"
+            cardDesc2="b e"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="O" //KW
-            desc2="c"
+            desc="r" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

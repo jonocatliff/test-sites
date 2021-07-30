@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal lawn maintenance services | We'll Take Care Of Everything" 
-            desc="Montreal lawn maintenance services: , s"
+            desc="Montreal lawn maintenance services: b u"
             canonical={`${props.website}/montreal-lawn-maintenance-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal lawn maintenance services" //KW
-            subtitle=", s"
+            subtitle="b u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="r k"
+            subtitle="High-Quality Window Cleaning"
+            desc="r  "
             image="/window-washing.jpg"
             alt="Montreal lawn maintenance services"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Montreal lawn maintenance services" //KW
-            desc="l e i o"
+            desc="p e f  "
             image="/window-installations.jpg"
-            alt="Window Replacement"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="e"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="u"
-            cardDesc2="A"
-            cardDesc3="r"
+            cardDesc1="l"
+            cardDesc2=" "
+            cardDesc3="h"
             />
             <Approach
             title="Montreal lawn maintenance services" //KW
-            desc="h   h s"
+            desc="c o r g"
             />
             <Intro
             subtitle="Exceptional Montreal lawn maintenance services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="u n"
-            cardDesc3="p"
+            cardDesc1="l"
+            cardDesc2="o o"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2=","
+            desc="'" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

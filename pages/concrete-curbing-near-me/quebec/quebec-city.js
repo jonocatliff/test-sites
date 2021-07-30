@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City concrete curbing near me | We'll Take Care Of Everything" 
-            desc="Quebec City concrete curbing near me: o y"
+            desc="Quebec City concrete curbing near me: i o"
             canonical={`${props.website}/quebec-city-concrete-curbing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City concrete curbing near me" //KW
-            subtitle="o y"
+            subtitle="i o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="l t"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="n  "
+            image="/contractor.jpg"
             alt="Quebec City concrete curbing near me"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Quebec City concrete curbing near me" //KW
-            desc="a   o t"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="a l   u"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="i"
+            subtitle="Affordable Window Repair" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="s"
-            cardDesc3="l"
+            cardDesc1="t"
+            cardDesc2="d"
+            cardDesc3="o"
             />
             <Approach
             title="Quebec City concrete curbing near me" //KW
-            desc="n   o s"
+            desc="o   t  "
             />
             <Intro
             subtitle="Exceptional Quebec City concrete curbing near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="g i"
-            cardDesc3="o"
+            cardDesc1="s"
+            cardDesc2="e e"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2="h"
+            desc="n" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}

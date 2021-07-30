@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London home window replacement companies | We'll Take Care Of Everything" 
-            desc="London home window replacement companies:   n"
+            desc="London home window replacement companies:   r"
             canonical={`${props.website}/london-home-window-replacement-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London home window replacement companies" //KW
-            subtitle="  n"
+            subtitle="  r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="y h"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="m t"
+            image="/window-installations.jpg"
             alt="London home window replacement companies"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional London home window replacement companies" //KW
-            desc="o e c  "
+            desc="w n o  "
             image="/window-installation.jpg"
-            alt="Window Repair"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Services" //KW
             desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="e"
-            cardDesc3="f"
+            cardDesc1="y"
+            cardDesc2="r"
+            cardDesc3="A"
             />
             <Approach
             title="London home window replacement companies" //KW
-            desc="e o c t"
+            desc="e   r r"
             />
             <Intro
             subtitle="Exceptional London home window replacement companies" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="r w"
-            cardDesc3="n"
+            cardDesc1="o"
+            cardDesc2="n  "
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="m" //KW
-            desc2=" "
+            desc=" " //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

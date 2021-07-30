@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener lawn cutting near me | We'll Take Care Of Everything" 
-            desc="Kitchener lawn cutting near me: n a"
+            desc="Kitchener lawn cutting near me: a t"
             canonical={`${props.website}/kitchener-lawn-cutting-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener lawn cutting near me" //KW
-            subtitle="n a"
+            subtitle="a t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="  r"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="l n"
+            image="/window-washing.jpg"
             alt="Kitchener lawn cutting near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Kitchener lawn cutting near me" //KW
-            desc="  o   m"
-            image="/window-washing.jpg"
-            alt="Window Replacement"
+            desc="    v u"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="m"
+            subtitle="Affordable Window Repair" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="m"
-            cardDesc3="h"
+            cardDesc1="l"
+            cardDesc2="i"
+            cardDesc3="t"
             />
             <Approach
             title="Kitchener lawn cutting near me" //KW
-            desc="l n r e"
+            desc="r d i t"
             />
             <Intro
             subtitle="Exceptional Kitchener lawn cutting near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="O"
-            cardDesc2="r n"
-            cardDesc3="e"
+            cardDesc1="i"
+            cardDesc2="  m"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="d"
+            desc="o" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

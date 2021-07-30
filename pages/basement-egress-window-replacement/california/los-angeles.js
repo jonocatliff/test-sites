@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles basement egress window replacement | We'll Take Care Of Everything" 
-            desc="Los Angeles basement egress window replacement: o i"
+            desc="Los Angeles basement egress window replacement:   g"
             canonical={`${props.website}/los-angeles-basement-egress-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles basement egress window replacement" //KW
-            subtitle="o i"
+            subtitle="  g"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="o  "
+            subtitle="High-Quality Window Replacement"
+            desc="e  "
             image="/window-installation.jpg"
             alt="Los Angeles basement egress window replacement"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Los Angeles basement egress window replacement" //KW
-            desc="i e o r"
+            desc="w e n y"
             image="/contractor.jpg"
-            alt="Window Services"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="i"
+            subtitle="Affordable Window Replacement" //KW
+            desc="v"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="o"
-            cardDesc3="o"
+            cardDesc1="x"
+            cardDesc2="w"
+            cardDesc3="e"
             />
             <Approach
             title="Los Angeles basement egress window replacement" //KW
-            desc="o r i n"
+            desc="e   n ,"
             />
             <Intro
             subtitle="Exceptional Los Angeles basement egress window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="o u"
-            cardDesc3="o"
+            cardDesc1="d"
+            cardDesc2="e r"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="o"
+            desc=" " //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

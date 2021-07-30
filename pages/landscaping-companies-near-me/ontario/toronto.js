@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto landscaping companies near me | We'll Take Care Of Everything" 
-            desc="Toronto landscaping companies near me: o l"
+            desc="Toronto landscaping companies near me: a u"
             canonical={`${props.website}/toronto-landscaping-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto landscaping companies near me" //KW
-            subtitle="o l"
+            subtitle="a u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="i  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="n s"
+            image="/window-washing.jpg"
             alt="Toronto landscaping companies near me"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Toronto landscaping companies near me" //KW
-            desc="  c s t"
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="  l e t"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="a"
+            subtitle="Affordable Window Repair" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="g"
-            cardDesc2=" "
-            cardDesc3="i"
+            cardDesc1="e"
+            cardDesc2="n"
+            cardDesc3=" "
             />
             <Approach
             title="Toronto landscaping companies near me" //KW
-            desc="o b s e"
+            desc="a h o g"
             />
             <Intro
             subtitle="Exceptional Toronto landscaping companies near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="o e"
-            cardDesc3="r"
+            cardDesc1="n"
+            cardDesc2="r t"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="n"
+            desc="t" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

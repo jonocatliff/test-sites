@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston lawn seeding | We'll Take Care Of Everything" 
-            desc="Houston lawn seeding: n r"
+            desc="Houston lawn seeding: h l"
             canonical={`${props.website}/houston-lawn-seeding`}
             />
             <Navigationbar
@@ -29,19 +29,19 @@
             />
             <Header
             title="Houston lawn seeding" //KW
-            subtitle="n r"
+            subtitle="h l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="u i"
-            image="/window-installations.jpg"
+            desc="a n"
+            image="/window-installation.jpg"
             alt="Houston lawn seeding"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Houston lawn seeding" //KW
-            desc="r e e e"
+            desc="d n . o"
             image="/contractor.jpg"
             alt="Window Replacement"
             />
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="s"
-            cardDesc3="h"
+            cardDesc1="g"
+            cardDesc2="n"
+            cardDesc3="r"
             />
             <Approach
             title="Houston lawn seeding" //KW
-            desc=",   n y"
+            desc="w g e h"
             />
             <Intro
             subtitle="Exceptional Houston lawn seeding" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="l"
-            cardDesc2="t  "
-            cardDesc3="r"
+            cardDesc1=" "
+            cardDesc2="  o"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="n"
+            desc="o" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}

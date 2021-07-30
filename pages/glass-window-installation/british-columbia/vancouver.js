@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver glass window installation | We'll Take Care Of Everything" 
-            desc="Vancouver glass window installation:   a"
+            desc="Vancouver glass window installation: e e"
             canonical={`${props.website}/vancouver-glass-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver glass window installation" //KW
-            subtitle="  a"
+            subtitle="e e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="n a"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="   "
+            image="/window-washing.jpg"
             alt="Vancouver glass window installation"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Vancouver glass window installation" //KW
-            desc="w i n  "
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="w   s l"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="a"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="o"
-            cardDesc3="c"
+            cardDesc1="e"
+            cardDesc2="w"
+            cardDesc3="J"
             />
             <Approach
             title="Vancouver glass window installation" //KW
-            desc="e e u  "
+            desc="l o d ."
             />
             <Intro
             subtitle="Exceptional Vancouver glass window installation" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="v l"
-            cardDesc3="e"
+            cardDesc1=" "
+            cardDesc2="w  "
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="o"
+            desc="e" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}

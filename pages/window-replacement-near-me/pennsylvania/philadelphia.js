@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia window replacement near me | We'll Take Care Of Everything" 
-            desc="Philadelphia window replacement near me: f  "
+            desc="Philadelphia window replacement near me: s r"
             canonical={`${props.website}/philadelphia-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia window replacement near me" //KW
-            subtitle="f  "
+            subtitle="s r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="  o"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="i e"
+            image="/window-installations.jpg"
             alt="Philadelphia window replacement near me"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Philadelphia window replacement near me" //KW
-            desc="u   o o"
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="p s i  "
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="o"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="i"
-            cardDesc3="s"
+            cardDesc1=" "
+            cardDesc2="v"
+            cardDesc3="c"
             />
             <Approach
             title="Philadelphia window replacement near me" //KW
-            desc="e m n y"
+            desc="d i h  "
             />
             <Intro
             subtitle="Exceptional Philadelphia window replacement near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="t o"
-            cardDesc3=" "
+            cardDesc1="d"
+            cardDesc2="W  "
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="r"
+            desc="w" //KW
+            desc2="y"
             />
             <Footer 
             companyName={props.companyName}

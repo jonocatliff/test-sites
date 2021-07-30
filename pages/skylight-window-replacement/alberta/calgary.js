@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary skylight window replacement | We'll Take Care Of Everything" 
-            desc="Calgary skylight window replacement: s O"
+            desc="Calgary skylight window replacement: c r"
             canonical={`${props.website}/calgary-skylight-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary skylight window replacement" //KW
-            subtitle="s O"
+            subtitle="c r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc=". r"
+            subtitle="High-Quality Window Installations"
+            desc="  h"
             image="/window-washing.jpg"
             alt="Calgary skylight window replacement"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Calgary skylight window replacement" //KW
-            desc="m   o r"
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="e a d y"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="e"
+            subtitle="Affordable Window Installations" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="s"
-            cardDesc3=" "
+            cardDesc1="r"
+            cardDesc2="r"
+            cardDesc3="o"
             />
             <Approach
             title="Calgary skylight window replacement" //KW
-            desc="o   k o"
+            desc="s t e u"
             />
             <Intro
             subtitle="Exceptional Calgary skylight window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="s w"
-            cardDesc3="n"
+            cardDesc1="h"
+            cardDesc2="  e"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2="p"
+            desc=" " //KW
+            desc2="h"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia front garden landscaping | We'll Take Care Of Everything" 
-            desc="Philadelphia front garden landscaping: p s"
+            desc="Philadelphia front garden landscaping: P w"
             canonical={`${props.website}/philadelphia-front-garden-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia front garden landscaping" //KW
-            subtitle="p s"
+            subtitle="P w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="l p"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="  g"
+            image="/window-washing.jpg"
             alt="Philadelphia front garden landscaping"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Philadelphia front garden landscaping" //KW
-            desc="r o h e"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="s o d  "
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc=" "
+            subtitle="Affordable Window Services" //KW
+            desc="f"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="r"
-            cardDesc3="e"
+            cardDesc1="r"
+            cardDesc2="c"
+            cardDesc3="s"
             />
             <Approach
             title="Philadelphia front garden landscaping" //KW
-            desc="e o i i"
+            desc="  r   u"
             />
             <Intro
             subtitle="Exceptional Philadelphia front garden landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2=". u"
-            cardDesc3="e"
+            cardDesc1="h"
+            cardDesc2="o  "
+            cardDesc3=","
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2="p"
+            desc="i" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

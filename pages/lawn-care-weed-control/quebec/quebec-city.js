@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City lawn care weed control | We'll Take Care Of Everything" 
-            desc="Quebec City lawn care weed control: e l"
+            desc="Quebec City lawn care weed control: n y"
             canonical={`${props.website}/quebec-city-lawn-care-weed-control`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City lawn care weed control" //KW
-            subtitle="e l"
+            subtitle="n y"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="t r"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="o o"
+            image="/window-installations.jpg"
             alt="Quebec City lawn care weed control"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Quebec City lawn care weed control" //KW
-            desc="n w t i"
+            desc="w a n i"
             image="/window-installation.jpg"
-            alt="Window Replacement"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="i"
+            subtitle="Affordable Window Repair" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="r"
-            cardDesc3="w"
+            cardDesc1="t"
+            cardDesc2="t"
+            cardDesc3="n"
             />
             <Approach
             title="Quebec City lawn care weed control" //KW
-            desc="o e s v"
+            desc="l s h  "
             />
             <Intro
             subtitle="Exceptional Quebec City lawn care weed control" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="l o"
-            cardDesc3="v"
+            cardDesc1="e"
+            cardDesc2="o e"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="t"
+            desc="r" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

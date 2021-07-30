@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles window installation contractors | We'll Take Care Of Everything" 
-            desc="Los Angeles window installation contractors: o  "
+            desc="Los Angeles window installation contractors:   t"
             canonical={`${props.website}/los-angeles-window-installation-contractors`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles window installation contractors" //KW
-            subtitle="o  "
+            subtitle="  t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="n e"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="a n"
+            image="/window-installation.jpg"
             alt="Los Angeles window installation contractors"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Los Angeles window installation contractors" //KW
-            desc="  w c d"
+            desc="  o c u"
             image="/window-washing.jpg"
-            alt="Window Replacement"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="e"
+            subtitle="Affordable Window Installations" //KW
+            desc="f"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="o"
-            cardDesc3="a"
+            cardDesc1="o"
+            cardDesc2="c"
+            cardDesc3="h"
             />
             <Approach
             title="Los Angeles window installation contractors" //KW
-            desc="d s   k"
+            desc="e e n  "
             />
             <Intro
             subtitle="Exceptional Los Angeles window installation contractors" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="o ,"
-            cardDesc3="r"
+            cardDesc1="e"
+            cardDesc2="y n"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
-            desc2=" "
+            desc="y" //KW
+            desc2="m"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton window replacement and installation | We'll Take Care Of Everything" 
-            desc="Edmonton window replacement and installation: w r"
+            desc="Edmonton window replacement and installation: e g"
             canonical={`${props.website}/edmonton-window-replacement-and-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton window replacement and installation" //KW
-            subtitle="w r"
+            subtitle="e g"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="e i"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="f a"
+            image="/window-installations.jpg"
             alt="Edmonton window replacement and installation"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Edmonton window replacement and installation" //KW
-            desc="s w c c"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="s e n o"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="r"
-            cardDesc2="w"
-            cardDesc3="l"
+            cardDesc2="i"
+            cardDesc3="u"
             />
             <Approach
             title="Edmonton window replacement and installation" //KW
-            desc="h     e"
+            desc="e p e  "
             />
             <Intro
             subtitle="Exceptional Edmonton window replacement and installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="p"
-            cardDesc2="u s"
-            cardDesc3="u"
+            cardDesc1="e"
+            cardDesc2="r a"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="o"
+            desc=" " //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

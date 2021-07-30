@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles landscaping near me | We'll Take Care Of Everything" 
-            desc="Los Angeles landscaping near me: d n"
+            desc="Los Angeles landscaping near me:   r"
             canonical={`${props.website}/los-angeles-landscaping-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles landscaping near me" //KW
-            subtitle="d n"
+            subtitle="  r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="l  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="m a"
+            image="/window-installations.jpg"
             alt="Los Angeles landscaping near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles landscaping near me" //KW
-            desc="r P w ."
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="h e r s"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="o"
+            subtitle="Affordable Window Services" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
-            cardDesc2="e"
-            cardDesc3="n"
+            cardDesc1=" "
+            cardDesc2="A"
+            cardDesc3="p"
             />
             <Approach
             title="Los Angeles landscaping near me" //KW
-            desc="o b   o"
+            desc="a p e r"
             />
             <Intro
             subtitle="Exceptional Los Angeles landscaping near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="w"
-            cardDesc2="f f"
+            cardDesc1="n"
+            cardDesc2="c w"
             cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="h" //KW
-            desc2="s"
+            desc2="y"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

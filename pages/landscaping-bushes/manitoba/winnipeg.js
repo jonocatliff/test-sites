@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg landscaping bushes | We'll Take Care Of Everything" 
-            desc="Winnipeg landscaping bushes: e  "
+            desc="Winnipeg landscaping bushes:   u"
             canonical={`${props.website}/winnipeg-landscaping-bushes`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg landscaping bushes" //KW
-            subtitle="e  "
+            subtitle="  u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  d"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="l t"
+            image="/window-installations.jpg"
             alt="Winnipeg landscaping bushes"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Winnipeg landscaping bushes" //KW
-            desc="i   c f"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="c w o s"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="u"
+            subtitle="Affordable Window Replacement" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2=" "
-            cardDesc3=" "
+            cardDesc1="s"
+            cardDesc2="u"
+            cardDesc3="u"
             />
             <Approach
             title="Winnipeg landscaping bushes" //KW
-            desc="t   e h"
+            desc="s w   a"
             />
             <Intro
             subtitle="Exceptional Winnipeg landscaping bushes" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="p r"
-            cardDesc3="d"
+            cardDesc1="o"
+            cardDesc2="i o"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
+            desc="s" //KW
             desc2="u"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

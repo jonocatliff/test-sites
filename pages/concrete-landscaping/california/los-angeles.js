@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles concrete landscaping | We'll Take Care Of Everything" 
-            desc="Los Angeles concrete landscaping: s r"
+            desc="Los Angeles concrete landscaping: o k"
             canonical={`${props.website}/los-angeles-concrete-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles concrete landscaping" //KW
-            subtitle="s r"
+            subtitle="o k"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="n s"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="a v"
+            image="/window-installation.jpg"
             alt="Los Angeles concrete landscaping"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Los Angeles concrete landscaping" //KW
-            desc="o t   w"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="u e e n"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="r"
+            subtitle="Affordable Window Replacement" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2=" "
-            cardDesc3="n"
+            cardDesc1=" "
+            cardDesc2="r"
+            cardDesc3="o"
             />
             <Approach
             title="Los Angeles concrete landscaping" //KW
-            desc="i a   e"
+            desc="i o   f"
             />
             <Intro
             subtitle="Exceptional Los Angeles concrete landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="n  "
-            cardDesc3="e"
+            cardDesc1="o"
+            cardDesc2="i o"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="v"
+            desc="I" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

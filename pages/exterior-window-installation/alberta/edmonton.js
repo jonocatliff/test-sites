@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton exterior window installation | We'll Take Care Of Everything" 
-            desc="Edmonton exterior window installation: b e"
+            desc="Edmonton exterior window installation: o o"
             canonical={`${props.website}/edmonton-exterior-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton exterior window installation" //KW
-            subtitle="b e"
+            subtitle="o o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="i m"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="a n"
+            image="/contractor.jpg"
             alt="Edmonton exterior window installation"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Edmonton exterior window installation" //KW
-            desc="y     t"
+            desc="h   s d"
             image="/window-washing.jpg"
-            alt="Window Repair"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="a"
+            subtitle="Affordable Window Services" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2=" "
-            cardDesc3="."
+            cardDesc1="r"
+            cardDesc2="i"
+            cardDesc3="o"
             />
             <Approach
             title="Edmonton exterior window installation" //KW
-            desc="y   r v"
+            desc="  y s  "
             />
             <Intro
             subtitle="Exceptional Edmonton exterior window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="m o"
-            cardDesc3="r"
+            cardDesc1="t"
+            cardDesc2="r  "
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="b"
+            desc="e" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

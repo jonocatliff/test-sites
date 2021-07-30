@@ -33,20 +33,20 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
+            subtitle="High-Quality Window Installations"
             desc="s e"
-            image="/window-installations.jpg"
+            image="/window-installation.jpg"
             alt="Ottowa basement egress window installation"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Ottowa basement egress window installation" //KW
             desc="l e    "
-            image="/window-installation.jpg"
-            alt="Window Services"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

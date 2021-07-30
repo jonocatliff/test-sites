@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener retaining wall installation | We'll Take Care Of Everything" 
-            desc="Kitchener retaining wall installation:   n"
+            desc="Kitchener retaining wall installation: a u"
             canonical={`${props.website}/kitchener-retaining-wall-installation`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Kitchener retaining wall installation" //KW
-            subtitle="  n"
+            subtitle="a u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Installations"
-            desc="f t"
-            image="/window-installation.jpg"
+            desc="n a"
+            image="/window-installations.jpg"
             alt="Kitchener retaining wall installation"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Kitchener retaining wall installation" //KW
-            desc="e W t undefined"
-            image="/contractor.jpg"
+            desc="      undefined"
+            image="/window-installation.jpg"
             alt="Window Installations"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="r"
-            cardDesc3=" "
+            cardDesc1="u"
+            cardDesc2="i"
+            cardDesc3="n"
             />
             <Approach
             title="Kitchener retaining wall installation" //KW
-            desc="l   k  "
+            desc="i n e h"
             />
             <Intro
             subtitle="Exceptional Kitchener retaining wall installation" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="e undefined"
-            cardDesc3="d"
+            cardDesc1=" "
+            cardDesc2="d undefined"
+            cardDesc3="f"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="," //KW
-            desc2="a"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

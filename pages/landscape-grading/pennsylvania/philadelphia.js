@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia landscape grading | We'll Take Care Of Everything" 
-            desc="Philadelphia landscape grading: e o"
+            desc="Philadelphia landscape grading: I t"
             canonical={`${props.website}/philadelphia-landscape-grading`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia landscape grading" //KW
-            subtitle="e o"
+            subtitle="I t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="w t"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="t  "
+            image="/window-installation.jpg"
             alt="Philadelphia landscape grading"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Philadelphia landscape grading" //KW
-            desc="d e e t"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="i o f h"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="a"
+            subtitle="Affordable Window Services" //KW
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="o"
-            cardDesc3="n"
+            cardDesc1="l"
+            cardDesc2="p"
+            cardDesc3="m"
             />
             <Approach
             title="Philadelphia landscape grading" //KW
-            desc="  o w e"
+            desc="h f d p"
             />
             <Intro
             subtitle="Exceptional Philadelphia landscape grading" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="i  "
+            cardDesc1="w"
+            cardDesc2="n e"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="p"
+            desc="e" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

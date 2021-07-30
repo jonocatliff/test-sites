@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia window installation near me | We'll Take Care Of Everything" 
-            desc="Philadelphia window installation near me: n i"
+            desc="Philadelphia window installation near me: l c"
             canonical={`${props.website}/philadelphia-window-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia window installation near me" //KW
-            subtitle="n i"
+            subtitle="l c"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="r  "
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="e g"
+            image="/window-installation.jpg"
             alt="Philadelphia window installation near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Philadelphia window installation near me" //KW
-            desc="e     t"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="t     e"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            subtitle="Affordable Window Services" //KW
+            desc="f"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="o"
-            cardDesc3="t"
+            cardDesc1="n"
+            cardDesc2=" "
+            cardDesc3=" "
             />
             <Approach
             title="Philadelphia window installation near me" //KW
-            desc="I   p r"
+            desc="    b l"
             />
             <Intro
             subtitle="Exceptional Philadelphia window installation near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="y"
-            cardDesc2="r d"
-            cardDesc3="t"
+            cardDesc1="r"
+            cardDesc2="o s"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="e"
+            desc="a" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

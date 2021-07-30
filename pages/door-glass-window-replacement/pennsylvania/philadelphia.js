@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia door glass window replacement | We'll Take Care Of Everything" 
-            desc="Philadelphia door glass window replacement:   o"
+            desc="Philadelphia door glass window replacement: o ."
             canonical={`${props.website}/philadelphia-door-glass-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia door glass window replacement" //KW
-            subtitle="  o"
+            subtitle="o ."
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="n a"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="s  "
+            image="/window-installation.jpg"
             alt="Philadelphia door glass window replacement"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Philadelphia door glass window replacement" //KW
-            desc="c r e p"
-            image="/window-installations.jpg"
-            alt="Window Repair"
+            desc="o l w i"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="i"
+            subtitle="Affordable Window Installations" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="g"
-            cardDesc2="s"
-            cardDesc3="i"
+            cardDesc1="d"
+            cardDesc2="r"
+            cardDesc3="t"
             />
             <Approach
             title="Philadelphia door glass window replacement" //KW
-            desc="  w   r"
+            desc="j e r w"
             />
             <Intro
             subtitle="Exceptional Philadelphia door glass window replacement" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="s o"
-            cardDesc3=" "
+            cardDesc1="d"
+            cardDesc2="n o"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="n"
+            desc="f" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}

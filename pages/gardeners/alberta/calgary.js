@@ -33,31 +33,31 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="r t"
+            subtitle="High-Quality Window Cleaning"
+            desc="e g"
             image="/window-washing.jpg"
             alt="Calgary gardeners"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Calgary gardeners" //KW
-            desc="n   e a"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="n     t"
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc=" "
+            subtitle="Affordable Window Cleaning" //KW
+            desc="d"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="i"
-            cardDesc2="b"
-            cardDesc3="i"
+            cardDesc2="n"
+            cardDesc3="p"
             />
             <Approach
             title="Calgary gardeners" //KW
-            desc="t o i r"
+            desc="s o    "
             />
             <Intro
             subtitle="Exceptional Calgary gardeners" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="c s"
-            cardDesc3="s"
+            cardDesc1="i"
+            cardDesc2="e f"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
+            desc="y" //KW
             desc2="i"
             />
             <Footer 

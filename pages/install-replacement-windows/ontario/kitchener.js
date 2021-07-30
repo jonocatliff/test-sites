@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener install replacement windows | We'll Take Care Of Everything" 
-            desc="Kitchener install replacement windows:   n"
+            desc="Kitchener install replacement windows: r i"
             canonical={`${props.website}/kitchener-install-replacement-windows`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener install replacement windows" //KW
-            subtitle="  n"
+            subtitle="r i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="e d"
+            subtitle="High-Quality Window Replacement"
+            desc="x  "
             image="/window-washing.jpg"
             alt="Kitchener install replacement windows"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Kitchener install replacement windows" //KW
-            desc="a u p O"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="u b e  "
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="n"
+            subtitle="Affordable Window Replacement" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2=" "
-            cardDesc3="J"
+            cardDesc1="y"
+            cardDesc2="n"
+            cardDesc3="n"
             />
             <Approach
             title="Kitchener install replacement windows" //KW
-            desc="s h o d"
+            desc="  p   w"
             />
             <Intro
             subtitle="Exceptional Kitchener install replacement windows" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="t m"
+            cardDesc1="p"
+            cardDesc2="e f"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2=","
+            desc="a" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

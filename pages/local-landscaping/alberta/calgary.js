@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary local landscaping | We'll Take Care Of Everything" 
-            desc="Calgary local landscaping: r h"
+            desc="Calgary local landscaping: i i"
             canonical={`${props.website}/calgary-local-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary local landscaping" //KW
-            subtitle="r h"
+            subtitle="i i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="e o"
+            subtitle="High-Quality Window Replacement"
+            desc="a g"
             image="/window-washing.jpg"
             alt="Calgary local landscaping"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Calgary local landscaping" //KW
-            desc="t t e y"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="t t u d"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="undefined"
+            subtitle="Affordable Window Replacement" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="v"
-            cardDesc3="a"
+            cardDesc1="r"
+            cardDesc2=" "
+            cardDesc3="w"
             />
             <Approach
             title="Calgary local landscaping" //KW
-            desc="d i i p"
+            desc="n w   s"
             />
             <Intro
             subtitle="Exceptional Calgary local landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="  n"
-            cardDesc3="t"
+            cardDesc1="r"
+            cardDesc2="o w"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="a"
+            desc="c" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

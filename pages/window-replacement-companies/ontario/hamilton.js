@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton window replacement companies | We'll Take Care Of Everything" 
-            desc="Hamilton window replacement companies: s n"
+            desc="Hamilton window replacement companies: f v"
             canonical={`${props.website}/hamilton-window-replacement-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton window replacement companies" //KW
-            subtitle="s n"
+            subtitle="f v"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="e l"
+            image="/window-installations.jpg"
             alt="Hamilton window replacement companies"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Hamilton window replacement companies" //KW
-            desc="m   v o"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc=". a   d"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            subtitle="Affordable Window Replacement" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2=" "
-            cardDesc3="f"
+            cardDesc1=" "
+            cardDesc2="i"
+            cardDesc3="s"
             />
             <Approach
             title="Hamilton window replacement companies" //KW
-            desc="p u u  "
+            desc="d a y s"
             />
             <Intro
             subtitle="Exceptional Hamilton window replacement companies" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="  h"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="o o"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="v"
+            desc="a" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

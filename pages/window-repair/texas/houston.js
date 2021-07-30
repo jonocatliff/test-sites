@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston window repair | We'll Take Care Of Everything" 
-            desc="Houston window repair:    "
+            desc="Houston window repair: u  "
             canonical={`${props.website}/houston-window-repair`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston window repair" //KW
-            subtitle="   "
+            subtitle="u  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
-            desc="e l"
-            image="/contractor.jpg"
+            desc="  e"
+            image="/window-washing.jpg"
             alt="Houston window repair"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Houston window repair" //KW
-            desc="r i o s"
-            image="/window-installations.jpg"
+            desc="n a . o"
+            image="/contractor.jpg"
             alt="Window Repair"
             />
             <Savings
             subtitle="Affordable Window Repair" //KW
-            desc="a"
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="c"
-            cardDesc3="c"
+            cardDesc1="s"
+            cardDesc2="y"
+            cardDesc3=" "
             />
             <Approach
             title="Houston window repair" //KW
-            desc=",   h i"
+            desc=", g n o"
             />
             <Intro
             subtitle="Exceptional Houston window repair" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2="e r"
-            cardDesc3=" "
+            cardDesc1="c"
+            cardDesc2="  o"
+            cardDesc3="A"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="n" //KW
-            desc2="o"
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton house glass window replacement | We'll Take Care Of Everything" 
-            desc="Edmonton house glass window replacement: i  "
+            desc="Edmonton house glass window replacement:   t"
             canonical={`${props.website}/edmonton-house-glass-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton house glass window replacement" //KW
-            subtitle="i  "
+            subtitle="  t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="m g"
+            subtitle="High-Quality Window Repair"
+            desc="e n"
             image="/contractor.jpg"
             alt="Edmonton house glass window replacement"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Edmonton house glass window replacement" //KW
-            desc="e v n  "
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="e n m i"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="b"
+            subtitle="Affordable Window Repair" //KW
+            desc="p"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
-            cardDesc2="e"
-            cardDesc3="r"
+            cardDesc2=" "
+            cardDesc3=" "
             />
             <Approach
             title="Edmonton house glass window replacement" //KW
-            desc="  a o a"
+            desc="d y    "
             />
             <Intro
             subtitle="Exceptional Edmonton house glass window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="o e"
-            cardDesc3="l"
+            cardDesc1="s"
+            cardDesc2="f o"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="d"
+            desc="t" //KW
+            desc2="h"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

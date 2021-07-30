@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver mulch companies near me | We'll Take Care Of Everything" 
-            desc="Vancouver mulch companies near me: o t"
+            desc="Vancouver mulch companies near me: t o"
             canonical={`${props.website}/vancouver-mulch-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver mulch companies near me" //KW
-            subtitle="o t"
+            subtitle="t o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="k  "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="f n"
+            image="/window-washing.jpg"
             alt="Vancouver mulch companies near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Vancouver mulch companies near me" //KW
-            desc="    l t"
-            image="/window-installations.jpg"
-            alt="Window Repair"
+            desc="v r s r"
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2=" "
-            cardDesc3="e"
+            cardDesc1="i"
+            cardDesc2="d"
+            cardDesc3="n"
             />
             <Approach
             title="Vancouver mulch companies near me" //KW
-            desc="e o    "
+            desc="n e w k"
             />
             <Intro
             subtitle="Exceptional Vancouver mulch companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="l"
-            cardDesc2="o undefined"
-            cardDesc3="s"
+            cardDesc1="e"
+            cardDesc2="i ’"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="d"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

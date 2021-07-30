@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto backyard garden design | We'll Take Care Of Everything" 
-            desc="Toronto backyard garden design: I n"
+            desc="Toronto backyard garden design:   o"
             canonical={`${props.website}/toronto-backyard-garden-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto backyard garden design" //KW
-            subtitle="I n"
+            subtitle="  o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="n a"
+            subtitle="High-Quality Window Installations"
+            desc="  d"
             image="/window-installations.jpg"
             alt="Toronto backyard garden design"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Toronto backyard garden design" //KW
-            desc="s v i r"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="s y   s"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            subtitle="Affordable Window Installations" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="w"
-            cardDesc3="s"
+            cardDesc1="r"
+            cardDesc2="n"
+            cardDesc3="e"
             />
             <Approach
             title="Toronto backyard garden design" //KW
-            desc="w p f u"
+            desc="d p t e"
             />
             <Intro
             subtitle="Exceptional Toronto backyard garden design" //KW
@@ -66,13 +66,13 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="r x"
-            cardDesc3="t"
+            cardDesc2="e n"
+            cardDesc3="c"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="f"
+            desc="n" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago door glass window replacement | We'll Take Care Of Everything" 
-            desc="Chicago door glass window replacement: a  "
+            desc="Chicago door glass window replacement: P o"
             canonical={`${props.website}/chicago-door-glass-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago door glass window replacement" //KW
-            subtitle="a  "
+            subtitle="P o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="  s"
+            subtitle="High-Quality Window Replacement"
+            desc="c  "
             image="/window-washing.jpg"
             alt="Chicago door glass window replacement"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Chicago door glass window replacement" //KW
-            desc="a   T e"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="  i e h"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="o"
+            subtitle="Affordable Window Replacement" //KW
+            desc=","
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="c"
-            cardDesc3=" "
+            cardDesc1="u"
+            cardDesc2="t"
+            cardDesc3="."
             />
             <Approach
             title="Chicago door glass window replacement" //KW
-            desc="l d t O"
+            desc="e o w o"
             />
             <Intro
             subtitle="Exceptional Chicago door glass window replacement" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="e ,"
-            cardDesc3="c"
+            cardDesc1="e"
+            cardDesc2="  n"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="m"
+            desc="t" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

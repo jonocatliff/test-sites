@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton window installation contractor | We'll Take Care Of Everything" 
-            desc="Edmonton window installation contractor: o t"
+            desc="Edmonton window installation contractor: t  "
             canonical={`${props.website}/edmonton-window-installation-contractor`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton window installation contractor" //KW
-            subtitle="o t"
+            subtitle="t  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="t e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="e n"
+            image="/window-washing.jpg"
             alt="Edmonton window installation contractor"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Edmonton window installation contractor" //KW
-            desc="t o   o"
-            image="/window-washing.jpg"
-            alt="Window Replacement"
+            desc="s   e y"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="n"
+            subtitle="Affordable Window Repair" //KW
+            desc="f"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="c"
+            cardDesc1="e"
+            cardDesc2="i"
             cardDesc3=" "
             />
             <Approach
             title="Edmonton window installation contractor" //KW
-            desc="s d a l"
+            desc="  n t  "
             />
             <Intro
             subtitle="Exceptional Edmonton window installation contractor" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="  r"
-            cardDesc3="i"
+            cardDesc1="g"
+            cardDesc2="  e"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2=" "
+            desc="v" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}

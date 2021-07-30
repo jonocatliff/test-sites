@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton house window replacement near me | We'll Take Care Of Everything" 
-            desc="Hamilton house window replacement near me: v n"
+            desc="Hamilton house window replacement near me: e  "
             canonical={`${props.website}/hamilton-house-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton house window replacement near me" //KW
-            subtitle="v n"
+            subtitle="e  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="P  "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="o r"
+            image="/window-installation.jpg"
             alt="Hamilton house window replacement near me"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Hamilton house window replacement near me" //KW
-            desc="  n o l"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="e w o o"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="o"
+            subtitle="Affordable Window Replacement" //KW
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="v"
-            cardDesc3="s"
+            cardDesc1="i"
+            cardDesc2=" "
+            cardDesc3="f"
             />
             <Approach
             title="Hamilton house window replacement near me" //KW
-            desc="e e f e"
+            desc="l w r  "
             />
             <Intro
             subtitle="Exceptional Hamilton house window replacement near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="i c"
-            cardDesc3="v"
+            cardDesc1=" "
+            cardDesc2="o v"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="W" //KW
-            desc2="t"
+            desc="r" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}

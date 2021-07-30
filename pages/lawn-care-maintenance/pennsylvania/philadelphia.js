@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia lawn care maintenance | We'll Take Care Of Everything" 
-            desc="Philadelphia lawn care maintenance:   h"
+            desc="Philadelphia lawn care maintenance: w t"
             canonical={`${props.website}/philadelphia-lawn-care-maintenance`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia lawn care maintenance" //KW
-            subtitle="  h"
+            subtitle="w t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="w s"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="e o"
+            image="/window-installation.jpg"
             alt="Philadelphia lawn care maintenance"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Philadelphia lawn care maintenance" //KW
-            desc="n e o  "
-            image="/window-installation.jpg"
-            alt="Window Repair"
+            desc="  y e f"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="d"
+            subtitle="Affordable Window Installations" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="t"
+            cardDesc1="o"
+            cardDesc2="v"
             cardDesc3=" "
             />
             <Approach
             title="Philadelphia lawn care maintenance" //KW
-            desc="s     y"
+            desc="s u e  "
             />
             <Intro
             subtitle="Exceptional Philadelphia lawn care maintenance" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="v e"
-            cardDesc3="i"
+            cardDesc1="c"
+            cardDesc2="n  "
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="p" //KW
-            desc2="t"
+            desc="l" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

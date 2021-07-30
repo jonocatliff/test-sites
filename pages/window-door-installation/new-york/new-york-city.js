@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City window door installation | We'll Take Care Of Everything" 
-            desc="New York City window door installation: r  "
+            desc="New York City window door installation:   u"
             canonical={`${props.website}/new-york-city-window-door-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City window door installation" //KW
-            subtitle="r  "
+            subtitle="  u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="a  "
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="w v"
+            image="/contractor.jpg"
             alt="New York City window door installation"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional New York City window door installation" //KW
-            desc="t h i r"
+            desc="t k d n"
             image="/window-installations.jpg"
-            alt="Window Repair"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="a"
+            subtitle="Affordable Window Services" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="e"
-            cardDesc3="t"
+            cardDesc1="y"
+            cardDesc2="w"
+            cardDesc3="h"
             />
             <Approach
             title="New York City window door installation" //KW
-            desc="r i i s"
+            desc="t     t"
             />
             <Intro
             subtitle="Exceptional New York City window door installation" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="e"
-            cardDesc2="t  "
-            cardDesc3="e"
+            cardDesc2="a e"
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2="r"
+            desc="n" //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

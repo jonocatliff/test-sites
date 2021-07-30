@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg lawn service companies | We'll Take Care Of Everything" 
-            desc="Winnipeg lawn service companies: s e"
+            desc="Winnipeg lawn service companies: e u"
             canonical={`${props.website}/winnipeg-lawn-service-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg lawn service companies" //KW
-            subtitle="s e"
+            subtitle="e u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="A  "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="w  "
+            image="/window-washing.jpg"
             alt="Winnipeg lawn service companies"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Winnipeg lawn service companies" //KW
-            desc="y i o t"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="v p s s"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="r"
+            subtitle="Affordable Window Services" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2=" "
-            cardDesc3="t"
+            cardDesc1="l"
+            cardDesc2="l"
+            cardDesc3=" "
             />
             <Approach
             title="Winnipeg lawn service companies" //KW
-            desc="i   y e"
+            desc="o s d  "
             />
             <Intro
             subtitle="Exceptional Winnipeg lawn service companies" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="y"
-            cardDesc2="i F"
-            cardDesc3="t"
+            cardDesc1="e"
+            cardDesc2="p l"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="v" //KW
-            desc2=" "
+            desc="r" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

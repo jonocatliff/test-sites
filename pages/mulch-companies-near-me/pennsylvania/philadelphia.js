@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia mulch companies near me | We'll Take Care Of Everything" 
-            desc="Philadelphia mulch companies near me:   s"
+            desc="Philadelphia mulch companies near me: o  "
             canonical={`${props.website}/philadelphia-mulch-companies-near-me`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Philadelphia mulch companies near me" //KW
-            subtitle="  s"
+            subtitle="o  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
-            desc="o e"
-            image="/window-washing.jpg"
+            desc="t g"
+            image="/window-installations.jpg"
             alt="Philadelphia mulch companies near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Philadelphia mulch companies near me" //KW
-            desc="r w . e"
-            image="/window-installations.jpg"
+            desc="n n h i"
+            image="/window-washing.jpg"
             alt="Window Repair"
             />
             <Savings
@@ -52,12 +52,12 @@
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="o"
-            cardDesc2="p"
-            cardDesc3=" "
+            cardDesc2="c"
+            cardDesc3="o"
             />
             <Approach
             title="Philadelphia mulch companies near me" //KW
-            desc="e - p t"
+            desc="l r t  "
             />
             <Intro
             subtitle="Exceptional Philadelphia mulch companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="y"
-            cardDesc2="a undefined"
-            cardDesc3="r"
+            cardDesc1="c"
+            cardDesc2="s n"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="t"
+            desc=" " //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

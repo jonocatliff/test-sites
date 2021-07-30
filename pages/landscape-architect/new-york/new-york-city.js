@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City landscape architect | We'll Take Care Of Everything" 
-            desc="New York City landscape architect: P o"
+            desc="New York City landscape architect: l f"
             canonical={`${props.website}/new-york-city-landscape-architect`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City landscape architect" //KW
-            subtitle="P o"
+            subtitle="l f"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="r m"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="  t"
+            image="/window-installations.jpg"
             alt="New York City landscape architect"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional New York City landscape architect" //KW
-            desc="s s e i"
+            desc="s o e t"
             image="/window-installation.jpg"
-            alt="Window Repair"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="O"
+            subtitle="Affordable Window Installations" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="s"
-            cardDesc3="t"
+            cardDesc1="p"
+            cardDesc2="o"
+            cardDesc3="e"
             />
             <Approach
             title="New York City landscape architect" //KW
-            desc="e p t e"
+            desc="c p t  "
             />
             <Intro
             subtitle="Exceptional New York City landscape architect" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="d n"
-            cardDesc3="m"
+            cardDesc1="y"
+            cardDesc2="t n"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="e"
+            desc="e" //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

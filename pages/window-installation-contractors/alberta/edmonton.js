@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton window installation contractors | We'll Take Care Of Everything" 
-            desc="Edmonton window installation contractors:   o"
+            desc="Edmonton window installation contractors: d n"
             canonical={`${props.website}/edmonton-window-installation-contractors`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton window installation contractors" //KW
-            subtitle="  o"
+            subtitle="d n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="i  "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="l  "
+            image="/window-washing.jpg"
             alt="Edmonton window installation contractors"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Edmonton window installation contractors" //KW
-            desc="n f w i"
-            image="/window-installations.jpg"
-            alt="Window Repair"
+            desc="r P w ."
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="i"
+            subtitle="Affordable Window Services" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="n"
-            cardDesc3="s"
+            cardDesc1="y"
+            cardDesc2="e"
+            cardDesc3="n"
             />
             <Approach
             title="Edmonton window installation contractors" //KW
-            desc="b e d o"
+            desc="o b   o"
             />
             <Intro
             subtitle="Exceptional Edmonton window installation contractors" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="  s"
-            cardDesc3=","
+            cardDesc1="w"
+            cardDesc2="f f"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="l"
+            desc="h" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}

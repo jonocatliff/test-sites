@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto home glass window replacement near me | We'll Take Care Of Everything" 
-            desc="Toronto home glass window replacement near me: n o"
+            desc="Toronto home glass window replacement near me: n s"
             canonical={`${props.website}/toronto-home-glass-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto home glass window replacement near me" //KW
-            subtitle="n o"
+            subtitle="n s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
-            desc="  u"
-            image="/window-washing.jpg"
+            desc="P i"
+            image="/window-installations.jpg"
             alt="Toronto home glass window replacement near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Toronto home glass window replacement near me" //KW
-            desc="i , o i"
-            image="/window-installations.jpg"
+            desc="w i o o"
+            image="/window-washing.jpg"
             alt="Window Repair"
             />
             <Savings
             subtitle="Affordable Window Repair" //KW
-            desc=" "
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="o"
-            cardDesc3="I"
+            cardDesc1=" "
+            cardDesc2="w"
+            cardDesc3="l"
             />
             <Approach
             title="Toronto home glass window replacement near me" //KW
-            desc="t   a I"
+            desc="o e i i"
             />
             <Intro
             subtitle="Exceptional Toronto home glass window replacement near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="  o"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="r  "
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="t"
+            desc="o" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

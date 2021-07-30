@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia cheap window replacement | We'll Take Care Of Everything" 
-            desc="Philadelphia cheap window replacement:    "
+            desc="Philadelphia cheap window replacement: i  "
             canonical={`${props.website}/philadelphia-cheap-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia cheap window replacement" //KW
-            subtitle="   "
+            subtitle="i  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="s  "
-            image="/window-washing.jpg"
+            desc="m g"
+            image="/window-installation.jpg"
             alt="Philadelphia cheap window replacement"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Philadelphia cheap window replacement" //KW
-            desc="e a    "
-            image="/window-installation.jpg"
+            desc="e v n  "
+            image="/window-installations.jpg"
             alt="Window Services"
             />
             <Savings
             subtitle="Affordable Window Services" //KW
-            desc="p"
+            desc="b"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="v"
-            cardDesc3="t"
+            cardDesc1=" "
+            cardDesc2="e"
+            cardDesc3="r"
             />
             <Approach
             title="Philadelphia cheap window replacement" //KW
-            desc="g y p  "
+            desc="  a o a"
             />
             <Intro
             subtitle="Exceptional Philadelphia cheap window replacement" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="g"
-            cardDesc2="  y"
-            cardDesc3="d"
+            cardDesc1="t"
+            cardDesc2="o e"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
+            desc=" " //KW
             desc2="d"
             />
             <Footer 

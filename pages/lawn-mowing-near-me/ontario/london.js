@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London lawn mowing near me | We'll Take Care Of Everything" 
-            desc="London lawn mowing near me: d e"
+            desc="London lawn mowing near me: o  "
             canonical={`${props.website}/london-lawn-mowing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London lawn mowing near me" //KW
-            subtitle="d e"
+            subtitle="o  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="s r"
+            subtitle="High-Quality Window Services"
+            desc="  m"
             image="/contractor.jpg"
             alt="London lawn mowing near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional London lawn mowing near me" //KW
-            desc="e I c e"
+            desc="  t f  "
             image="/window-installation.jpg"
-            alt="Window Repair"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="s"
+            subtitle="Affordable Window Services" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="w"
-            cardDesc3="a"
+            cardDesc1=" "
+            cardDesc2="r"
+            cardDesc3="I"
             />
             <Approach
             title="London lawn mowing near me" //KW
-            desc="  t   c"
+            desc="  c r a"
             />
             <Intro
             subtitle="Exceptional London lawn mowing near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="n r"
-            cardDesc3="r"
+            cardDesc1=" "
+            cardDesc2="p  "
+            cardDesc3=","
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="c"
+            desc="t" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston backyard landscape design | We'll Take Care Of Everything" 
-            desc="Houston backyard landscape design: s s"
+            desc="Houston backyard landscape design: t ."
             canonical={`${props.website}/houston-backyard-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston backyard landscape design" //KW
-            subtitle="s s"
+            subtitle="t ."
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="  v"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="t e"
+            image="/contractor.jpg"
             alt="Houston backyard landscape design"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Houston backyard landscape design" //KW
-            desc="s s u  "
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="  d e s"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc=" "
+            subtitle="Affordable Window Repair" //KW
+            desc="d"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
-            cardDesc2="w"
-            cardDesc3="y"
+            cardDesc2="o"
+            cardDesc3="f"
             />
             <Approach
             title="Houston backyard landscape design" //KW
-            desc="a p d i"
+            desc="t e t  "
             />
             <Intro
             subtitle="Exceptional Houston backyard landscape design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="I s"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="c e"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="v" //KW
-            desc2="l"
+            desc="u" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

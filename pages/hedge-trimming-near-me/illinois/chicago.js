@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago hedge trimming near me | We'll Take Care Of Everything" 
-            desc="Chicago hedge trimming near me: o i"
+            desc="Chicago hedge trimming near me: s e"
             canonical={`${props.website}/chicago-hedge-trimming-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago hedge trimming near me" //KW
-            subtitle="o i"
+            subtitle="s e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r  "
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="e e"
+            image="/window-installations.jpg"
             alt="Chicago hedge trimming near me"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Chicago hedge trimming near me" //KW
-            desc="e r f h"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="p a   e"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="i"
+            subtitle="Affordable Window Services" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="s"
-            cardDesc3="t"
+            cardDesc1="t"
+            cardDesc2="d"
+            cardDesc3="f"
             />
             <Approach
             title="Chicago hedge trimming near me" //KW
-            desc="  e i s"
+            desc="e r n w"
             />
             <Intro
             subtitle="Exceptional Chicago hedge trimming near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="u e"
-            cardDesc3="e"
+            cardDesc1="r"
+            cardDesc2="i s"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
-            desc2=" "
+            desc="u" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}

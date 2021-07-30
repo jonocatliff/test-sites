@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City concrete curbing near me | We'll Take Care Of Everything" 
-            desc="New York City concrete curbing near me: l e"
+            desc="New York City concrete curbing near me:   s"
             canonical={`${props.website}/new-york-city-concrete-curbing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City concrete curbing near me" //KW
-            subtitle="l e"
+            subtitle="  s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="a t"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="x g"
+            image="/contractor.jpg"
             alt="New York City concrete curbing near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional New York City concrete curbing near me" //KW
-            desc="m e a ."
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="m   e l"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="i"
+            subtitle="Affordable Window Services" //KW
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="n"
-            cardDesc3="p"
+            cardDesc1=" "
+            cardDesc2="p"
+            cardDesc3="."
             />
             <Approach
             title="New York City concrete curbing near me" //KW
-            desc="r   e a"
+            desc="o   i s"
             />
             <Intro
             subtitle="Exceptional New York City concrete curbing near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="  a"
-            cardDesc3="r"
+            cardDesc1="t"
+            cardDesc2="b f"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="d" //KW
-            desc2="t"
+            desc2="g"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

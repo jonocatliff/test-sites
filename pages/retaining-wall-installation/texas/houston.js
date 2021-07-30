@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston retaining wall installation | We'll Take Care Of Everything" 
-            desc="Houston retaining wall installation: p y"
+            desc="Houston retaining wall installation: i w"
             canonical={`${props.website}/houston-retaining-wall-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston retaining wall installation" //KW
-            subtitle="p y"
+            subtitle="i w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  h"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="W n"
+            image="/window-installation.jpg"
             alt="Houston retaining wall installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Houston retaining wall installation" //KW
-            desc="o d a undefined"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="e t p undefined"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="n"
-            cardDesc3="t"
+            cardDesc1="t"
+            cardDesc2=" "
+            cardDesc3="p"
             />
             <Approach
             title="Houston retaining wall installation" //KW
-            desc="w e t  "
+            desc="r n   y"
             />
             <Intro
             subtitle="Exceptional Houston retaining wall installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="v undefined"
-            cardDesc3="."
+            cardDesc1="i"
+            cardDesc2="r undefined"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2=" "
+            desc="d" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

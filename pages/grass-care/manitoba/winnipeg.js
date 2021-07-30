@@ -33,31 +33,31 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="y ."
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="c  "
+            image="/window-installations.jpg"
             alt="Winnipeg grass care"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Winnipeg grass care" //KW
-            desc="d     i"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="  a u m"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="."
+            subtitle="Affordable Window Repair" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="m"
-            cardDesc3="m"
+            cardDesc1="n"
+            cardDesc2="o"
+            cardDesc3="o"
             />
             <Approach
             title="Winnipeg grass care" //KW
-            desc="o n t e"
+            desc="w t e r"
             />
             <Intro
             subtitle="Exceptional Winnipeg grass care" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="d w"
-            cardDesc3="l"
+            cardDesc1="s"
+            cardDesc2="a y"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="W"
+            desc="s" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}

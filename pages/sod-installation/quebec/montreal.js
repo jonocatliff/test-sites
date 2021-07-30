@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal sod installation | We'll Take Care Of Everything" 
-            desc="Montreal sod installation: s y"
+            desc="Montreal sod installation: u t"
             canonical={`${props.website}/montreal-sod-installation`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Montreal sod installation" //KW
-            subtitle="s y"
+            subtitle="u t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
-            desc="n i"
-            image="/window-installations.jpg"
+            desc="O  "
+            image="/window-washing.jpg"
             alt="Montreal sod installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Montreal sod installation" //KW
-            desc="n s   undefined"
-            image="/contractor.jpg"
+            desc="n t r undefined"
+            image="/window-installations.jpg"
             alt="Window Repair"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
+            cardDesc1=","
             cardDesc2="t"
-            cardDesc3="."
+            cardDesc3="m"
             />
             <Approach
             title="Montreal sod installation" //KW
-            desc="a o h n"
+            desc="d   y c"
             />
             <Intro
             subtitle="Exceptional Montreal sod installation" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="r"
-            cardDesc2="s undefined"
-            cardDesc3="o"
+            cardDesc2="n undefined"
+            cardDesc3="b"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2="i"
+            desc=" " //KW
+            desc2="b"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

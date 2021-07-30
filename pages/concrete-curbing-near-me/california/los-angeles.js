@@ -33,31 +33,31 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="f a"
+            subtitle="High-Quality Window Cleaning"
+            desc="p  "
             image="/contractor.jpg"
             alt="Los Angeles concrete curbing near me"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Los Angeles concrete curbing near me" //KW
-            desc="p e l O"
+            desc="p w    "
             image="/window-installations.jpg"
-            alt="Window Repair"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="c"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2=" "
-            cardDesc3="."
+            cardDesc1="b"
+            cardDesc2="e"
+            cardDesc3="A"
             />
             <Approach
             title="Los Angeles concrete curbing near me" //KW
-            desc="o c    "
+            desc="n p t  "
             />
             <Intro
             subtitle="Exceptional Los Angeles concrete curbing near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2="b r"
-            cardDesc3="v"
+            cardDesc1=" "
+            cardDesc2="l  "
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="e"
+            desc=" " //KW
+            desc2=","
             />
             <Footer 
             companyName={props.companyName}

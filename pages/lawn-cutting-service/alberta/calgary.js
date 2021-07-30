@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary lawn cutting service | We'll Take Care Of Everything" 
-            desc="Calgary lawn cutting service: t a"
+            desc="Calgary lawn cutting service: I r"
             canonical={`${props.website}/calgary-lawn-cutting-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary lawn cutting service" //KW
-            subtitle="t a"
+            subtitle="I r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="i m"
-            image="/window-washing.jpg"
+            desc="  a"
+            image="/window-installation.jpg"
             alt="Calgary lawn cutting service"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Calgary lawn cutting service" //KW
-            desc="e i r e"
-            image="/window-installation.jpg"
+            desc="i s r e"
+            image="/window-washing.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="O"
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
-            cardDesc2=" "
-            cardDesc3="r"
+            cardDesc2="p"
+            cardDesc3="i"
             />
             <Approach
             title="Calgary lawn cutting service" //KW
-            desc="n   d s"
+            desc="n   h f"
             />
             <Intro
             subtitle="Exceptional Calgary lawn cutting service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="d i"
-            cardDesc3="e"
+            cardDesc1="s"
+            cardDesc2="r o"
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="'" //KW
-            desc2="e"
+            desc="r" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

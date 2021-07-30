@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston hedge removal services | We'll Take Care Of Everything" 
-            desc="Houston hedge removal services:   f"
+            desc="Houston hedge removal services: a o"
             canonical={`${props.website}/houston-hedge-removal-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston hedge removal services" //KW
-            subtitle="  f"
+            subtitle="a o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="l  "
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="o d"
+            image="/window-installations.jpg"
             alt="Houston hedge removal services"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Houston hedge removal services" //KW
-            desc="p t O  "
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="u   s t"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="n"
+            subtitle="Affordable Window Repair" //KW
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="o"
-            cardDesc3="o"
+            cardDesc1="e"
+            cardDesc2="c"
+            cardDesc3="u"
             />
             <Approach
             title="Houston hedge removal services" //KW
-            desc="e o n  "
+            desc="c o t a"
             />
             <Intro
             subtitle="Exceptional Houston hedge removal services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="o o"
-            cardDesc3="t"
+            cardDesc1="s"
+            cardDesc2="s  "
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="," //KW
-            desc2=" "
+            desc="o" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles hydrangea landscaping | We'll Take Care Of Everything" 
-            desc="Los Angeles hydrangea landscaping: d f"
+            desc="Los Angeles hydrangea landscaping: t  "
             canonical={`${props.website}/los-angeles-hydrangea-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles hydrangea landscaping" //KW
-            subtitle="d f"
+            subtitle="t  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="o i"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="b  "
+            image="/window-installation.jpg"
             alt="Los Angeles hydrangea landscaping"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles hydrangea landscaping" //KW
-            desc="l r c  "
+            desc="  v f e"
             image="/window-installations.jpg"
-            alt="Window Repair"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="a"
+            subtitle="Affordable Window Installations" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="g"
-            cardDesc2=" "
-            cardDesc3="e"
+            cardDesc1="t"
+            cardDesc2="v"
+            cardDesc3="l"
             />
             <Approach
             title="Los Angeles hydrangea landscaping" //KW
-            desc="o w   o"
+            desc="t s   r"
             />
             <Intro
             subtitle="Exceptional Los Angeles hydrangea landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="r l"
-            cardDesc3="r"
+            cardDesc1="o"
+            cardDesc2="e d"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="b"
+            desc="l" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

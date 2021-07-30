@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal lawn maintenance near me | We'll Take Care Of Everything" 
-            desc="Montreal lawn maintenance near me: a n"
+            desc="Montreal lawn maintenance near me: v e"
             canonical={`${props.website}/montreal-lawn-maintenance-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal lawn maintenance near me" //KW
-            subtitle="a n"
+            subtitle="v e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="e h"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="o n"
+            image="/window-installation.jpg"
             alt="Montreal lawn maintenance near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Montreal lawn maintenance near me" //KW
-            desc="  e s  "
+            desc="  d n t"
             image="/contractor.jpg"
-            alt="Window Replacement"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="f"
+            subtitle="Affordable Window Installations" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="f"
+            cardDesc1="i"
             cardDesc2="n"
-            cardDesc3="n"
+            cardDesc3="o"
             />
             <Approach
             title="Montreal lawn maintenance near me" //KW
-            desc="e p r  "
+            desc="n l r r"
             />
             <Intro
             subtitle="Exceptional Montreal lawn maintenance near me" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="o o"
+            cardDesc1="r"
+            cardDesc2="  o"
             cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
+            desc="e" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

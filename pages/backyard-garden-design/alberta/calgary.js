@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary backyard garden design | We'll Take Care Of Everything" 
-            desc="Calgary backyard garden design: s y"
+            desc="Calgary backyard garden design: n i"
             canonical={`${props.website}/calgary-backyard-garden-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary backyard garden design" //KW
-            subtitle="s y"
+            subtitle="n i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="w n"
+            subtitle="High-Quality Window Replacement"
+            desc="l t"
             image="/window-installations.jpg"
             alt="Calgary backyard garden design"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Calgary backyard garden design" //KW
-            desc="i c e g"
-            image="/window-installation.jpg"
-            alt="Window Repair"
+            desc="i u r t"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="s"
+            subtitle="Affordable Window Replacement" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2=" "
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="t"
+            cardDesc3="w"
             />
             <Approach
             title="Calgary backyard garden design" //KW
-            desc="o r c i"
+            desc="r r c s"
             />
             <Intro
             subtitle="Exceptional Calgary backyard garden design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="e e"
-            cardDesc3="e"
+            cardDesc1="n"
+            cardDesc2="s w"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="w"
+            desc="r" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

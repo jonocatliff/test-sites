@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston garden maintenance services | We'll Take Care Of Everything" 
-            desc="Houston garden maintenance services: W a"
+            desc="Houston garden maintenance services: i ."
             canonical={`${props.website}/houston-garden-maintenance-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston garden maintenance services" //KW
-            subtitle="W a"
+            subtitle="i ."
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="a e"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="i n"
+            image="/window-installation.jpg"
             alt="Houston garden maintenance services"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Houston garden maintenance services" //KW
-            desc="s y    "
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="l   r e"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="r"
+            subtitle="Affordable Window Repair" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
-            cardDesc2="i"
-            cardDesc3="u"
+            cardDesc2="e"
+            cardDesc3="t"
             />
             <Approach
             title="Houston garden maintenance services" //KW
-            desc="n t t a"
+            desc="n w w e"
             />
             <Intro
             subtitle="Exceptional Houston garden maintenance services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="e  "
-            cardDesc3="i"
+            cardDesc1="t"
+            cardDesc2="t h"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="a"
+            desc="s" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston vinyl window installation | We'll Take Care Of Everything" 
-            desc="Houston vinyl window installation: o v"
+            desc="Houston vinyl window installation: w  "
             canonical={`${props.website}/houston-vinyl-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston vinyl window installation" //KW
-            subtitle="o v"
+            subtitle="w  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="w e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="  e"
+            image="/window-washing.jpg"
             alt="Houston vinyl window installation"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Houston vinyl window installation" //KW
-            desc="i r s r"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="e s s i"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            subtitle="Affordable Window Replacement" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="f"
-            cardDesc2="n"
-            cardDesc3="s"
+            cardDesc1="i"
+            cardDesc2="r"
+            cardDesc3="w"
             />
             <Approach
             title="Houston vinyl window installation" //KW
-            desc="w e h r"
+            desc="o   t t"
             />
             <Intro
             subtitle="Exceptional Houston vinyl window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="i l"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="p r"
+            cardDesc3="v"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="s"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

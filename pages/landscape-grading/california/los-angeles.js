@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles landscape grading | We'll Take Care Of Everything" 
-            desc="Los Angeles landscape grading: v n"
+            desc="Los Angeles landscape grading: d r"
             canonical={`${props.website}/los-angeles-landscape-grading`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles landscape grading" //KW
-            subtitle="v n"
+            subtitle="d r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="o o"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="t e"
+            image="/window-installation.jpg"
             alt="Los Angeles landscape grading"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles landscape grading" //KW
-            desc="o l a a"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="u i t t"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="a"
+            subtitle="Affordable Window Services" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="w"
-            cardDesc3=" "
+            cardDesc1="c"
+            cardDesc2="c"
+            cardDesc3="f"
             />
             <Approach
             title="Los Angeles landscape grading" //KW
-            desc="i c n s"
+            desc="r   w h"
             />
             <Intro
             subtitle="Exceptional Los Angeles landscape grading" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="n r"
-            cardDesc3=" "
+            cardDesc1="u"
+            cardDesc2="  v"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="h"
+            desc="a" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

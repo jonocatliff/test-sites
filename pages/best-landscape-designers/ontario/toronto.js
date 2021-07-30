@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto best landscape designers | We'll Take Care Of Everything" 
-            desc="Toronto best landscape designers: h e"
+            desc="Toronto best landscape designers: f t"
             canonical={`${props.website}/toronto-best-landscape-designers`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto best landscape designers" //KW
-            subtitle="h e"
+            subtitle="f t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="a e"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="s l"
+            image="/contractor.jpg"
             alt="Toronto best landscape designers"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Toronto best landscape designers" //KW
-            desc="o I i y"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="I l o  "
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="n"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="w"
-            cardDesc3="a"
+            cardDesc1="e"
+            cardDesc2="d"
+            cardDesc3="W"
             />
             <Approach
             title="Toronto best landscape designers" //KW
-            desc="  e   t"
+            desc="g d w r"
             />
             <Intro
             subtitle="Exceptional Toronto best landscape designers" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="w h"
-            cardDesc3="A"
+            cardDesc1="s"
+            cardDesc2="s r"
+            cardDesc3="p"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
-            desc2="b"
+            desc="o" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

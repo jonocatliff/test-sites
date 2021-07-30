@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City garden maintenance services | We'll Take Care Of Everything" 
-            desc="Quebec City garden maintenance services: w h"
+            desc="Quebec City garden maintenance services: l  "
             canonical={`${props.website}/quebec-city-garden-maintenance-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City garden maintenance services" //KW
-            subtitle="w h"
+            subtitle="l  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="t m"
+            subtitle="High-Quality Window Installations"
+            desc="  t"
             image="/window-washing.jpg"
             alt="Quebec City garden maintenance services"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Quebec City garden maintenance services" //KW
-            desc="a i i r"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="d   r  "
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="w"
+            subtitle="Affordable Window Installations" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="o"
             cardDesc2="o"
-            cardDesc3="o"
+            cardDesc3="i"
             />
             <Approach
             title="Quebec City garden maintenance services" //KW
-            desc="y o t c"
+            desc=", a . e"
             />
             <Intro
             subtitle="Exceptional Quebec City garden maintenance services" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="u"
-            cardDesc2="  v"
-            cardDesc3="r"
+            cardDesc2="  e"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="n"
+            desc="c" //KW
+            desc2="W"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

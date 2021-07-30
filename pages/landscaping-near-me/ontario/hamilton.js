@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton landscaping near me | We'll Take Care Of Everything" 
-            desc="Hamilton landscaping near me: w i"
+            desc="Hamilton landscaping near me: n t"
             canonical={`${props.website}/hamilton-landscaping-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton landscaping near me" //KW
-            subtitle="w i"
+            subtitle="n t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r t"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="s h"
+            image="/window-installation.jpg"
             alt="Hamilton landscaping near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Hamilton landscaping near me" //KW
-            desc="c r i t"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="e   e s"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="q"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="p"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="d"
-            cardDesc2="n"
-            cardDesc3="t"
+            cardDesc1="u"
+            cardDesc2="w"
+            cardDesc3="i"
             />
             <Approach
             title="Hamilton landscaping near me" //KW
-            desc="a e e c"
+            desc="  y t y"
             />
             <Intro
             subtitle="Exceptional Hamilton landscaping near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="x o"
-            cardDesc3="o"
+            cardDesc1=" "
+            cardDesc2="e s"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="a"
+            desc="d" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

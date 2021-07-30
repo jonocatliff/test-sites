@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton lawn care services near me | We'll Take Care Of Everything" 
-            desc="Edmonton lawn care services near me: a n"
+            desc="Edmonton lawn care services near me: i w"
             canonical={`${props.website}/edmonton-lawn-care-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton lawn care services near me" //KW
-            subtitle="a n"
+            subtitle="i w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Installations"
-            desc="a  "
-            image="/window-installations.jpg"
+            desc="i n"
+            image="/contractor.jpg"
             alt="Edmonton lawn care services near me"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Edmonton lawn care services near me" //KW
-            desc="a w t  "
+            desc="s l m r"
             image="/window-installation.jpg"
             alt="Window Installations"
             />
             <Savings
             subtitle="Affordable Window Installations" //KW
-            desc="o"
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="f"
-            cardDesc2="o"
-            cardDesc3="a"
+            cardDesc1="a"
+            cardDesc2=" "
+            cardDesc3="h"
             />
             <Approach
             title="Edmonton lawn care services near me" //KW
-            desc="  r r l"
+            desc=": t   d"
             />
             <Intro
             subtitle="Exceptional Edmonton lawn care services near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2="s  "
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="e  "
+            cardDesc3="u"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2=" "
+            desc="e" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

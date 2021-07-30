@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston yard care | We'll Take Care Of Everything" 
-            desc="Houston yard care: x f"
+            desc="Houston yard care: n v"
             canonical={`${props.website}/houston-yard-care`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Houston yard care" //KW
-            subtitle="x f"
+            subtitle="n v"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="a i"
-            image="/window-washing.jpg"
+            desc="  i"
+            image="/contractor.jpg"
             alt="Houston yard care"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Houston yard care" //KW
-            desc="d   e undefined"
-            image="/window-installation.jpg"
+            desc="P n m undefined"
+            image="/window-washing.jpg"
             alt="Window Services"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="l"
-            cardDesc3="g"
+            cardDesc1="y"
+            cardDesc2="d"
+            cardDesc3="r"
             />
             <Approach
             title="Houston yard care" //KW
-            desc="n   f v"
+            desc="  w   a"
             />
             <Intro
             subtitle="Exceptional Houston yard care" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="e"
-            cardDesc2="c undefined"
-            cardDesc3="h"
+            cardDesc2="i undefined"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="p" //KW
-            desc2="d"
+            desc=" " //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

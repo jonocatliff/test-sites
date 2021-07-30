@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City hedge removal services | We'll Take Care Of Everything" 
-            desc="Quebec City hedge removal services:   W"
+            desc="Quebec City hedge removal services: n r"
             canonical={`${props.website}/quebec-city-hedge-removal-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City hedge removal services" //KW
-            subtitle="  W"
+            subtitle="n r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="n p"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="i o"
+            image="/window-installation.jpg"
             alt="Quebec City hedge removal services"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Quebec City hedge removal services" //KW
-            desc="  l e a"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc=", o r e"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="e"
+            subtitle="Affordable Window Installations" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="x"
-            cardDesc3="w"
+            cardDesc1="i"
+            cardDesc2="a"
+            cardDesc3="t"
             />
             <Approach
             title="Quebec City hedge removal services" //KW
-            desc="n o   e"
+            desc="s      "
             />
             <Intro
             subtitle="Exceptional Quebec City hedge removal services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="k"
-            cardDesc2="s r"
+            cardDesc1="o"
+            cardDesc2="y t"
             cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="i"
+            desc="e" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

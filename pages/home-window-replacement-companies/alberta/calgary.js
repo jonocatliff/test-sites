@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary home window replacement companies | We'll Take Care Of Everything" 
-            desc="Calgary home window replacement companies: p m"
+            desc="Calgary home window replacement companies: m I"
             canonical={`${props.website}/calgary-home-window-replacement-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary home window replacement companies" //KW
-            subtitle="p m"
+            subtitle="m I"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="e k"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="l h"
+            image="/window-washing.jpg"
             alt="Calgary home window replacement companies"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Calgary home window replacement companies" //KW
-            desc="l c   m"
+            desc="l t . r"
             image="/window-installation.jpg"
-            alt="Window Services"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="f"
+            subtitle="Affordable Window Repair" //KW
+            desc="y"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2=" "
-            cardDesc3="l"
+            cardDesc1="n"
+            cardDesc2="d"
+            cardDesc3="h"
             />
             <Approach
             title="Calgary home window replacement companies" //KW
-            desc="i p   a"
+            desc="u y a r"
             />
             <Intro
             subtitle="Exceptional Calgary home window replacement companies" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="I w"
-            cardDesc3="e"
+            cardDesc1="r"
+            cardDesc2="o f"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="d"
+            desc="r" //KW
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}

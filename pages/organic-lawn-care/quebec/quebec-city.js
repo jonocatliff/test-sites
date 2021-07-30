@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City organic lawn care | We'll Take Care Of Everything" 
-            desc="Quebec City organic lawn care: v  "
+            desc="Quebec City organic lawn care: i  "
             canonical={`${props.website}/quebec-city-organic-lawn-care`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City organic lawn care" //KW
-            subtitle="v  "
+            subtitle="i  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="i ."
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="  u"
+            image="/contractor.jpg"
             alt="Quebec City organic lawn care"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Quebec City organic lawn care" //KW
-            desc="o o i undefined"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="e s a undefined"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2=" "
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="u"
+            cardDesc3="f"
             />
             <Approach
             title="Quebec City organic lawn care" //KW
-            desc="  .   e"
+            desc="s a . r"
             />
             <Intro
             subtitle="Exceptional Quebec City organic lawn care" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="l undefined"
+            cardDesc1="r"
+            cardDesc2="g undefined"
             cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="v"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

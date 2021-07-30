@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa pruning hedges | We'll Take Care Of Everything" 
-            desc="Ottowa pruning hedges: p a"
+            desc="Ottowa pruning hedges: u l"
             canonical={`${props.website}/ottowa-pruning-hedges`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa pruning hedges" //KW
-            subtitle="p a"
+            subtitle="u l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="r  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="t  "
+            image="/window-washing.jpg"
             alt="Ottowa pruning hedges"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Ottowa pruning hedges" //KW
-            desc="v s c undefined"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="o d c undefined"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="v"
-            cardDesc3="f"
+            cardDesc1="t"
+            cardDesc2="e"
+            cardDesc3="a"
             />
             <Approach
             title="Ottowa pruning hedges" //KW
-            desc="r i h o"
+            desc="n c l l"
             />
             <Intro
             subtitle="Exceptional Ottowa pruning hedges" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="u undefined"
-            cardDesc3="w"
+            cardDesc1="n"
+            cardDesc2="s undefined"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
-            desc2="a"
+            desc="i" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

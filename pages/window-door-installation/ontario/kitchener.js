@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener window door installation | We'll Take Care Of Everything" 
-            desc="Kitchener window door installation: n l"
+            desc="Kitchener window door installation: e m"
             canonical={`${props.website}/kitchener-window-door-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener window door installation" //KW
-            subtitle="n l"
+            subtitle="e m"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="s m"
-            image="/window-installation.jpg"
+            desc="v a"
+            image="/window-installations.jpg"
             alt="Kitchener window door installation"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Kitchener window door installation" //KW
-            desc="e u s  "
-            image="/contractor.jpg"
+            desc="e w w t"
+            image="/window-washing.jpg"
             alt="Window Cleaning"
             />
             <Savings
             subtitle="Affordable Window Cleaning" //KW
-            desc="w"
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2=" "
-            cardDesc3="c"
+            cardDesc1="w"
+            cardDesc2="r"
+            cardDesc3="o"
             />
             <Approach
             title="Kitchener window door installation" //KW
-            desc="l t i  "
+            desc="p o s  "
             />
             <Intro
             subtitle="Exceptional Kitchener window door installation" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="o f"
-            cardDesc3="W"
+            cardDesc1="o"
+            cardDesc2="o w"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="o"
+            desc="A" //KW
+            desc2="v"
             />
             <Footer 
             companyName={props.companyName}

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver concrete landscaping | We'll Take Care Of Everything" 
-            desc="Vancouver concrete landscaping: o h"
+            desc="Vancouver concrete landscaping:   i"
             canonical={`${props.website}/vancouver-concrete-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver concrete landscaping" //KW
-            subtitle="o h"
+            subtitle="  i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="a  "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="e c"
+            image="/window-washing.jpg"
             alt="Vancouver concrete landscaping"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Vancouver concrete landscaping" //KW
-            desc="e   t  "
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="e i c  "
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="s"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="f"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="o"
-            cardDesc3="t"
+            cardDesc1="r"
+            cardDesc2="a"
+            cardDesc3="n"
             />
             <Approach
             title="Vancouver concrete landscaping" //KW
-            desc="    e  "
+            desc="    u u"
             />
             <Intro
             subtitle="Exceptional Vancouver concrete landscaping" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="m"
-            cardDesc2="e h"
-            cardDesc3="e"
+            cardDesc1="t"
+            cardDesc2="s t"
+            cardDesc3="O"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
+            desc="W" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

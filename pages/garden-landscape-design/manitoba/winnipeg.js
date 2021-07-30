@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg garden landscape design | We'll Take Care Of Everything" 
-            desc="Winnipeg garden landscape design: t t"
+            desc="Winnipeg garden landscape design: t n"
             canonical={`${props.website}/winnipeg-garden-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg garden landscape design" //KW
-            subtitle="t t"
+            subtitle="t n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="o i"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="r p"
+            image="/window-washing.jpg"
             alt="Winnipeg garden landscape design"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Winnipeg garden landscape design" //KW
-            desc="n   t u"
-            image="/window-washing.jpg"
-            alt="Window Replacement"
+            desc="n o e e"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="p"
+            subtitle="Affordable Window Services" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="l"
-            cardDesc3="c"
+            cardDesc1="e"
+            cardDesc2="e"
+            cardDesc3="f"
             />
             <Approach
             title="Winnipeg garden landscape design" //KW
-            desc="r o e g"
+            desc="o   a i"
             />
             <Intro
             subtitle="Exceptional Winnipeg garden landscape design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="g"
-            cardDesc2="w  "
-            cardDesc3="d"
+            cardDesc1=" "
+            cardDesc2="u r"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="n"
+            desc="d" //KW
+            desc2="b"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

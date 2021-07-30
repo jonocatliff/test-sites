@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia lawn and landscape | We'll Take Care Of Everything" 
-            desc="Philadelphia lawn and landscape: i n"
+            desc="Philadelphia lawn and landscape: n e"
             canonical={`${props.website}/philadelphia-lawn-and-landscape`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia lawn and landscape" //KW
-            subtitle="i n"
+            subtitle="n e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="w c"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="a  "
+            image="/window-washing.jpg"
             alt="Philadelphia lawn and landscape"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Philadelphia lawn and landscape" //KW
-            desc="  i m t"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="n t    "
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="m"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="p"
-            cardDesc3="t"
+            cardDesc1="h"
+            cardDesc2="r"
+            cardDesc3=" "
             />
             <Approach
             title="Philadelphia lawn and landscape" //KW
-            desc="e h w w"
+            desc="o r o h"
             />
             <Intro
             subtitle="Exceptional Philadelphia lawn and landscape" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="r t"
-            cardDesc3="a"
+            cardDesc1="v"
+            cardDesc2="   "
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="y" //KW
-            desc2="o"
+            desc="m" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

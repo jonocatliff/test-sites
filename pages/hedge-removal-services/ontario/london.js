@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London hedge removal services | We'll Take Care Of Everything" 
-            desc="London hedge removal services: w d"
+            desc="London hedge removal services: r c"
             canonical={`${props.website}/london-hedge-removal-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London hedge removal services" //KW
-            subtitle="w d"
+            subtitle="r c"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Installations"
-            desc="u a"
-            image="/contractor.jpg"
+            desc="a t"
+            image="/window-installation.jpg"
             alt="London hedge removal services"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional London hedge removal services" //KW
-            desc="t o o  "
+            desc="t i e w"
             image="/window-washing.jpg"
             alt="Window Installations"
             />
             <Savings
             subtitle="Affordable Window Installations" //KW
-            desc="o"
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
-            cardDesc2="r"
-            cardDesc3="h"
+            cardDesc1="s"
+            cardDesc2="o"
+            cardDesc3="r"
             />
             <Approach
             title="London hedge removal services" //KW
-            desc="s   e f"
+            desc="i u e e"
             />
             <Intro
             subtitle="Exceptional London hedge removal services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="v c"
-            cardDesc3="n"
+            cardDesc1="o"
+            cardDesc2="r o"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="t"
+            desc="i" //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London grass treatment for weeds | We'll Take Care Of Everything" 
-            desc="London grass treatment for weeds: r f"
+            desc="London grass treatment for weeds: t s"
             canonical={`${props.website}/london-grass-treatment-for-weeds`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London grass treatment for weeds" //KW
-            subtitle="r f"
+            subtitle="t s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="n w"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="r t"
+            image="/contractor.jpg"
             alt="London grass treatment for weeds"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional London grass treatment for weeds" //KW
-            desc=", t e l"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="o a s ."
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="y"
+            subtitle="Affordable Window Replacement" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="e"
+            cardDesc1="t"
+            cardDesc2="l"
             cardDesc3="t"
             />
             <Approach
             title="London grass treatment for weeds" //KW
-            desc="a u , s"
+            desc="n o e n"
             />
             <Intro
             subtitle="Exceptional London grass treatment for weeds" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="  o"
-            cardDesc3=" "
+            cardDesc1="c"
+            cardDesc2="c o"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="h"
+            desc="u" //KW
+            desc2=","
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

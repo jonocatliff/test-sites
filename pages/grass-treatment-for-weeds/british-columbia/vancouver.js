@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver grass treatment for weeds | We'll Take Care Of Everything" 
-            desc="Vancouver grass treatment for weeds:   e"
+            desc="Vancouver grass treatment for weeds: l o"
             canonical={`${props.website}/vancouver-grass-treatment-for-weeds`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver grass treatment for weeds" //KW
-            subtitle="  e"
+            subtitle="l o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="f  "
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="x  "
+            image="/window-installations.jpg"
             alt="Vancouver grass treatment for weeds"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Vancouver grass treatment for weeds" //KW
-            desc="o e p u"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="W s s y"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="a"
+            subtitle="Affordable Window Repair" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="w"
-            cardDesc3=" "
+            cardDesc1="s"
+            cardDesc2="i"
+            cardDesc3="v"
             />
             <Approach
             title="Vancouver grass treatment for weeds" //KW
-            desc="A e u h"
+            desc="h O e  "
             />
             <Intro
             subtitle="Exceptional Vancouver grass treatment for weeds" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="e v"
-            cardDesc3="e"
+            cardDesc1="o"
+            cardDesc2="o f"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="e"
+            desc=" " //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

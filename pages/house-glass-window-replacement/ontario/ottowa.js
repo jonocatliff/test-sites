@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa house glass window replacement | We'll Take Care Of Everything" 
-            desc="Ottowa house glass window replacement: d n"
+            desc="Ottowa house glass window replacement: o r"
             canonical={`${props.website}/ottowa-house-glass-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa house glass window replacement" //KW
-            subtitle="d n"
+            subtitle="o r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="t d"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="t l"
+            image="/window-installation.jpg"
             alt="Ottowa house glass window replacement"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Ottowa house glass window replacement" //KW
-            desc="u h o u"
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="u   n w"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="v"
+            subtitle="Affordable Window Services" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="i"
-            cardDesc3=","
+            cardDesc1="t"
+            cardDesc2=" "
+            cardDesc3="d"
             />
             <Approach
             title="Ottowa house glass window replacement" //KW
-            desc="t r   s"
+            desc="a h   i"
             />
             <Intro
             subtitle="Exceptional Ottowa house glass window replacement" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="d f"
+            cardDesc1=" "
+            cardDesc2="i h"
             cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
+            desc=" " //KW
             desc2="y"
             />
             <Footer 

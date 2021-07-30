@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener lawn service near me | We'll Take Care Of Everything" 
-            desc="Kitchener lawn service near me: t d"
+            desc="Kitchener lawn service near me: e u"
             canonical={`${props.website}/kitchener-lawn-service-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener lawn service near me" //KW
-            subtitle="t d"
+            subtitle="e u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="n  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="n m"
+            image="/contractor.jpg"
             alt="Kitchener lawn service near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Kitchener lawn service near me" //KW
-            desc="n i i O"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="n h d  "
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="c"
+            subtitle="Affordable Window Replacement" //KW
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2=" "
-            cardDesc3="a"
+            cardDesc1=" "
+            cardDesc2="o"
+            cardDesc3="A"
             />
             <Approach
             title="Kitchener lawn service near me" //KW
-            desc="u a t p"
+            desc="g w   s"
             />
             <Intro
             subtitle="Exceptional Kitchener lawn service near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="o ,"
-            cardDesc3=" "
+            cardDesc1="e"
+            cardDesc2="t t"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="t" //KW
-            desc2=" "
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

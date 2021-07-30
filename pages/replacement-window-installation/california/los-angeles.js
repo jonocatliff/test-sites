@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles replacement window installation | We'll Take Care Of Everything" 
-            desc="Los Angeles replacement window installation: n t"
+            desc="Los Angeles replacement window installation: t n"
             canonical={`${props.website}/los-angeles-replacement-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles replacement window installation" //KW
-            subtitle="n t"
+            subtitle="t n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="i t"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="a  "
+            image="/window-installation.jpg"
             alt="Los Angeles replacement window installation"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Los Angeles replacement window installation" //KW
-            desc="o e n s"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="o h T a"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="f"
+            subtitle="Affordable Window Replacement" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="d"
-            cardDesc3="e"
+            cardDesc1="r"
+            cardDesc2="y"
+            cardDesc3=" "
             />
             <Approach
             title="Los Angeles replacement window installation" //KW
-            desc="  d   k"
+            desc="e d   t"
             />
             <Intro
             subtitle="Exceptional Los Angeles replacement window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="e t"
+            cardDesc1="o"
+            cardDesc2="e o"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="a"
+            desc="g" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

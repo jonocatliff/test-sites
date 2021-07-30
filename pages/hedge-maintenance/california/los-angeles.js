@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles hedge maintenance | We'll Take Care Of Everything" 
-            desc="Los Angeles hedge maintenance: n  "
+            desc="Los Angeles hedge maintenance: u t"
             canonical={`${props.website}/los-angeles-hedge-maintenance`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles hedge maintenance" //KW
-            subtitle="n  "
+            subtitle="u t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="w t"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="   "
+            image="/window-installation.jpg"
             alt="Los Angeles hedge maintenance"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Los Angeles hedge maintenance" //KW
-            desc="n l   h"
+            desc="r   r s"
             image="/window-installations.jpg"
-            alt="Window Installations"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="c"
+            subtitle="Affordable Window Services" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="e"
-            cardDesc3="p"
+            cardDesc1="o"
+            cardDesc2=" "
+            cardDesc3=" "
             />
             <Approach
             title="Los Angeles hedge maintenance" //KW
-            desc="  e i i"
+            desc="W - d o"
             />
             <Intro
             subtitle="Exceptional Los Angeles hedge maintenance" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="v e"
-            cardDesc3="e"
+            cardDesc1="a"
+            cardDesc2="  a"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="r"
+            desc=" " //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

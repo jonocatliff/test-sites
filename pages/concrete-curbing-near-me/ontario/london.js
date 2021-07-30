@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London concrete curbing near me | We'll Take Care Of Everything" 
-            desc="London concrete curbing near me:    "
+            desc="London concrete curbing near me: e r"
             canonical={`${props.website}/london-concrete-curbing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London concrete curbing near me" //KW
-            subtitle="   "
+            subtitle="e r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r t"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="a k"
+            image="/contractor.jpg"
             alt="London concrete curbing near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional London concrete curbing near me" //KW
-            desc="h u i f"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="h y s  "
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="r"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="r"
-            cardDesc3=" "
+            cardDesc1="g"
+            cardDesc2="i"
+            cardDesc3="n"
             />
             <Approach
             title="London concrete curbing near me" //KW
-            desc="s d g l"
+            desc="t u e p"
             />
             <Intro
             subtitle="Exceptional London concrete curbing near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="v s"
-            cardDesc3="d"
+            cardDesc1="a"
+            cardDesc2="  o"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="e"
+            desc="o" //KW
+            desc2="b"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

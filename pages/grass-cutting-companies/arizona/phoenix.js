@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix grass cutting companies | We'll Take Care Of Everything" 
-            desc="Phoenix grass cutting companies:   n"
+            desc="Phoenix grass cutting companies:   r"
             canonical={`${props.website}/phoenix-grass-cutting-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix grass cutting companies" //KW
-            subtitle="  n"
+            subtitle="  r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="i t"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="  r"
+            image="/window-installations.jpg"
             alt="Phoenix grass cutting companies"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Phoenix grass cutting companies" //KW
-            desc="h n o n"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="y r p t"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="v"
+            subtitle="Affordable Window Services" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2="e"
-            cardDesc3=" "
+            cardDesc1="t"
+            cardDesc2="n"
+            cardDesc3="e"
             />
             <Approach
             title="Phoenix grass cutting companies" //KW
-            desc="u y y ."
+            desc="s e c  "
             />
             <Intro
             subtitle="Exceptional Phoenix grass cutting companies" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="r  "
-            cardDesc3="o"
+            cardDesc1=" "
+            cardDesc2="   "
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="i"
+            desc="m" //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

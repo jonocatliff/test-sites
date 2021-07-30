@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City window installation near me | We'll Take Care Of Everything" 
-            desc="New York City window installation near me: a r"
+            desc="New York City window installation near me: , a"
             canonical={`${props.website}/new-york-city-window-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City window installation near me" //KW
-            subtitle="a r"
+            subtitle=", a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="c b"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="d e"
+            image="/window-installation.jpg"
             alt="New York City window installation near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional New York City window installation near me" //KW
-            desc="t n s  "
-            image="/window-installation.jpg"
-            alt="Window Repair"
+            desc="w   c n"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="k"
+            subtitle="Affordable Window Installations" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="o"
-            cardDesc3="r"
+            cardDesc1="m"
+            cardDesc2=" "
+            cardDesc3="n"
             />
             <Approach
             title="New York City window installation near me" //KW
-            desc="n d r  "
+            desc="  t a e"
             />
             <Intro
             subtitle="Exceptional New York City window installation near me" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2=".  "
-            cardDesc3="a"
+            cardDesc1=" "
+            cardDesc2="w  "
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="A" //KW
+            desc="n" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

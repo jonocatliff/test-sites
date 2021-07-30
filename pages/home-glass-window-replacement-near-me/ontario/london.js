@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London home glass window replacement near me | We'll Take Care Of Everything" 
-            desc="London home glass window replacement near me: i i"
+            desc="London home glass window replacement near me: a r"
             canonical={`${props.website}/london-home-glass-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London home glass window replacement near me" //KW
-            subtitle="i i"
+            subtitle="a r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="t g"
+            subtitle="High-Quality Window Replacement"
+            desc="c b"
             image="/contractor.jpg"
             alt="London home glass window replacement near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional London home glass window replacement near me" //KW
-            desc="a a n e"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="t n s  "
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="n"
+            subtitle="Affordable Window Replacement" //KW
+            desc="k"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="d"
-            cardDesc2="r"
-            cardDesc3="s"
+            cardDesc1=" "
+            cardDesc2="o"
+            cardDesc3="r"
             />
             <Approach
             title="London home glass window replacement near me" //KW
-            desc="a   e  "
+            desc="n d r  "
             />
             <Intro
             subtitle="Exceptional London home glass window replacement near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="e e"
-            cardDesc3=" "
+            cardDesc1="n"
+            cardDesc2=".  "
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2="i"
+            desc="A" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

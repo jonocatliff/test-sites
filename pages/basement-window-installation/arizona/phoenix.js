@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix basement window installation | We'll Take Care Of Everything" 
-            desc="Phoenix basement window installation:   o"
+            desc="Phoenix basement window installation: t  "
             canonical={`${props.website}/phoenix-basement-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix basement window installation" //KW
-            subtitle="  o"
+            subtitle="t  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="d t"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="f r"
+            image="/contractor.jpg"
             alt="Phoenix basement window installation"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Phoenix basement window installation" //KW
-            desc="p v f l"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="e e o  "
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="r"
+            subtitle="Affordable Window Repair" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="e"
-            cardDesc3="n"
+            cardDesc1="e"
+            cardDesc2="y"
+            cardDesc3="t"
             />
             <Approach
             title="Phoenix basement window installation" //KW
-            desc="i   t e"
+            desc="e s h s"
             />
             <Intro
             subtitle="Exceptional Phoenix basement window installation" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="c e"
-            cardDesc3="d"
+            cardDesc1="o"
+            cardDesc2="r  "
+            cardDesc3="O"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2="d"
+            desc="o" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

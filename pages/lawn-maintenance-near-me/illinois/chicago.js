@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago lawn maintenance near me | We'll Take Care Of Everything" 
-            desc="Chicago lawn maintenance near me: e ."
+            desc="Chicago lawn maintenance near me: w e"
             canonical={`${props.website}/chicago-lawn-maintenance-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago lawn maintenance near me" //KW
-            subtitle="e ."
+            subtitle="w e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="t n"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="t e"
+            image="/window-installations.jpg"
             alt="Chicago lawn maintenance near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Chicago lawn maintenance near me" //KW
-            desc=". v o r"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="a l . k"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="o"
+            subtitle="Affordable Window Services" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="c"
-            cardDesc3="n"
+            cardDesc1="w"
+            cardDesc2="l"
+            cardDesc3="e"
             />
             <Approach
             title="Chicago lawn maintenance near me" //KW
-            desc="f . i  "
+            desc="n r e  "
             />
             <Intro
             subtitle="Exceptional Chicago lawn maintenance near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="g"
-            cardDesc2="r r"
-            cardDesc3="o"
+            cardDesc1="d"
+            cardDesc2="o n"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="i"
+            desc="a" //KW
+            desc2="m"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

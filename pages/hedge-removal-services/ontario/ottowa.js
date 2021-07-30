@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa hedge removal services | We'll Take Care Of Everything" 
-            desc="Ottowa hedge removal services: t m"
+            desc="Ottowa hedge removal services: c s"
             canonical={`${props.website}/ottowa-hedge-removal-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa hedge removal services" //KW
-            subtitle="t m"
+            subtitle="c s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="  r"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="s  "
+            image="/window-installation.jpg"
             alt="Ottowa hedge removal services"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Ottowa hedge removal services" //KW
-            desc="o a   u"
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="e n m f"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="i"
+            subtitle="Affordable Window Installations" //KW
+            desc="k"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2=" "
-            cardDesc3="h"
+            cardDesc1="a"
+            cardDesc2="t"
+            cardDesc3="n"
             />
             <Approach
             title="Ottowa hedge removal services" //KW
-            desc="i h h c"
+            desc="  d i e"
             />
             <Intro
             subtitle="Exceptional Ottowa hedge removal services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="m"
-            cardDesc2="r s"
-            cardDesc3="l"
+            cardDesc1="n"
+            cardDesc2="e a"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="n"
+            desc="t" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

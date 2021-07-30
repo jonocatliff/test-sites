@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix landscaping front of house | We'll Take Care Of Everything" 
-            desc="Phoenix landscaping front of house: h  "
+            desc="Phoenix landscaping front of house: t d"
             canonical={`${props.website}/phoenix-landscaping-front-of-house`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix landscaping front of house" //KW
-            subtitle="h  "
+            subtitle="t d"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="t t"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="n r"
+            image="/contractor.jpg"
             alt="Phoenix landscaping front of house"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Phoenix landscaping front of house" //KW
-            desc="r w w r"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="    t  "
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="."
-            cardDesc2="o"
-            cardDesc3="w"
+            cardDesc1="a"
+            cardDesc2="n"
+            cardDesc3="d"
             />
             <Approach
             title="Phoenix landscaping front of house" //KW
-            desc="h t d  "
+            desc="j l s v"
             />
             <Intro
             subtitle="Exceptional Phoenix landscaping front of house" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="  r"
-            cardDesc3="e"
+            cardDesc1="r"
+            cardDesc2="n l"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="u"
+            desc="i" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

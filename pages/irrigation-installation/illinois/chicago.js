@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago irrigation installation | We'll Take Care Of Everything" 
-            desc="Chicago irrigation installation: d a"
+            desc="Chicago irrigation installation: e o"
             canonical={`${props.website}/chicago-irrigation-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago irrigation installation" //KW
-            subtitle="d a"
+            subtitle="e o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc=", d"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="u i"
+            image="/contractor.jpg"
             alt="Chicago irrigation installation"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Chicago irrigation installation" //KW
-            desc="m s p m"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="e I   s"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="u"
+            subtitle="Affordable Window Repair" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="u"
-            cardDesc2=" "
-            cardDesc3=" "
+            cardDesc1="y"
+            cardDesc2="e"
+            cardDesc3="o"
             />
             <Approach
             title="Chicago irrigation installation" //KW
-            desc="o e w l"
+            desc="  a o i"
             />
             <Intro
             subtitle="Exceptional Chicago irrigation installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="p"
-            cardDesc2="o o"
-            cardDesc3="r"
+            cardDesc1="i"
+            cardDesc2="a f"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="e"
+            desc="h" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

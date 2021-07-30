@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London house window replacement near me | We'll Take Care Of Everything" 
-            desc="London house window replacement near me: c y"
+            desc="London house window replacement near me:   o"
             canonical={`${props.website}/london-house-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London house window replacement near me" //KW
-            subtitle="c y"
+            subtitle="  o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="o o"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="P t"
+            image="/contractor.jpg"
             alt="London house window replacement near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional London house window replacement near me" //KW
-            desc="a e d  "
+            desc="a n d p"
             image="/window-installation.jpg"
-            alt="Window Services"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc=" "
+            subtitle="Affordable Window Installations" //KW
+            desc="m"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="n"
-            cardDesc3="l"
+            cardDesc1="d"
+            cardDesc2="e"
+            cardDesc3="r"
             />
             <Approach
             title="London house window replacement near me" //KW
-            desc="v p e o"
+            desc=": i w h"
             />
             <Intro
             subtitle="Exceptional London house window replacement near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="e  "
-            cardDesc3="d"
+            cardDesc1="o"
+            cardDesc2="i c"
+            cardDesc3="p"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="p"
+            desc=" " //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal lawn care companies near me | We'll Take Care Of Everything" 
-            desc="Montreal lawn care companies near me: i y"
+            desc="Montreal lawn care companies near me: t e"
             canonical={`${props.website}/montreal-lawn-care-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal lawn care companies near me" //KW
-            subtitle="i y"
+            subtitle="t e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="s t"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="t a"
+            image="/window-installations.jpg"
             alt="Montreal lawn care companies near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Montreal lawn care companies near me" //KW
-            desc="s . v t"
-            image="/window-installation.jpg"
-            alt="Window Repair"
+            desc="r r . r"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="i"
+            subtitle="Affordable Window Replacement" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="n"
-            cardDesc2=" "
-            cardDesc3="u"
+            cardDesc2="d"
+            cardDesc3="f"
             />
             <Approach
             title="Montreal lawn care companies near me" //KW
-            desc="a r , e"
+            desc="W     a"
             />
             <Intro
             subtitle="Exceptional Montreal lawn care companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="v"
-            cardDesc2="c u"
-            cardDesc3="s"
+            cardDesc1="e"
+            cardDesc2="p e"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="P" //KW
-            desc2="v"
+            desc="d" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

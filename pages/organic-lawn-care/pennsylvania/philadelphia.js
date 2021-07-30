@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia organic lawn care | We'll Take Care Of Everything" 
-            desc="Philadelphia organic lawn care:    "
+            desc="Philadelphia organic lawn care: l ."
             canonical={`${props.website}/philadelphia-organic-lawn-care`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia organic lawn care" //KW
-            subtitle="   "
+            subtitle="l ."
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="a a"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="v  "
+            image="/window-installations.jpg"
             alt="Philadelphia organic lawn care"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Philadelphia organic lawn care" //KW
-            desc="  w t undefined"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="d n r undefined"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="s"
-            cardDesc3=" "
+            cardDesc1="p"
+            cardDesc2="o"
+            cardDesc3="r"
             />
             <Approach
             title="Philadelphia organic lawn care" //KW
-            desc="  i   y"
+            desc="o f d t"
             />
             <Intro
             subtitle="Exceptional Philadelphia organic lawn care" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="s undefined"
-            cardDesc3="e"
+            cardDesc1=" "
+            cardDesc2="d undefined"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
+            desc=" " //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

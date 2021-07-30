@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles weed control service | We'll Take Care Of Everything" 
-            desc="Los Angeles weed control service: y h"
+            desc="Los Angeles weed control service: e r"
             canonical={`${props.website}/los-angeles-weed-control-service`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Los Angeles weed control service" //KW
-            subtitle="y h"
+            subtitle="e r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="  e"
-            image="/contractor.jpg"
+            desc="r n"
+            image="/window-washing.jpg"
             alt="Los Angeles weed control service"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles weed control service" //KW
-            desc=".   f undefined"
-            image="/window-washing.jpg"
+            desc="m e   undefined"
+            image="/window-installation.jpg"
             alt="Window Services"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="e"
-            cardDesc3="e"
+            cardDesc1="t"
+            cardDesc2="n"
+            cardDesc3=" "
             />
             <Approach
             title="Los Angeles weed control service" //KW
-            desc="u   h  "
+            desc="n T n a"
             />
             <Intro
             subtitle="Exceptional Los Angeles weed control service" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="p"
-            cardDesc2="P undefined"
-            cardDesc3="i"
+            cardDesc1="t"
+            cardDesc2="  undefined"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="y"
+            desc="l" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City garden maintenance | We'll Take Care Of Everything" 
-            desc="New York City garden maintenance: l l"
+            desc="New York City garden maintenance: e e"
             canonical={`${props.website}/new-york-city-garden-maintenance`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City garden maintenance" //KW
-            subtitle="l l"
+            subtitle="e e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="b t"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="o o"
+            image="/contractor.jpg"
             alt="New York City garden maintenance"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional New York City garden maintenance" //KW
-            desc="i e r a"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="O e t o"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="n"
-            cardDesc3="e"
+            cardDesc1="y"
+            cardDesc2="I"
+            cardDesc3=" "
             />
             <Approach
             title="New York City garden maintenance" //KW
-            desc="e e s y"
+            desc="r p i i"
             />
             <Intro
             subtitle="Exceptional New York City garden maintenance" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="s w"
-            cardDesc3="l"
+            cardDesc1="i"
+            cardDesc2="d  "
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="u"
+            desc="i" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia flower bed landscaping | We'll Take Care Of Everything" 
-            desc="Philadelphia flower bed landscaping:    "
+            desc="Philadelphia flower bed landscaping: a h"
             canonical={`${props.website}/philadelphia-flower-bed-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia flower bed landscaping" //KW
-            subtitle="   "
+            subtitle="a h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="d f"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="I o"
+            image="/window-installations.jpg"
             alt="Philadelphia flower bed landscaping"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Philadelphia flower bed landscaping" //KW
-            desc="t t s e"
-            image="/window-installations.jpg"
-            alt="Window Repair"
+            desc="r t o o"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="l"
+            subtitle="Affordable Window Services" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="c"
-            cardDesc2="n"
-            cardDesc3="l"
+            cardDesc1="d"
+            cardDesc2="i"
+            cardDesc3="e"
             />
             <Approach
             title="Philadelphia flower bed landscaping" //KW
-            desc="d e   k"
+            desc="o e i e"
             />
             <Intro
             subtitle="Exceptional Philadelphia flower bed landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="y v"
-            cardDesc3="c"
+            cardDesc1="o"
+            cardDesc2="  t"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="m" //KW
-            desc2="r"
+            desc=" " //KW
+            desc2="j"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary commercial window installation | We'll Take Care Of Everything" 
-            desc="Calgary commercial window installation: t o"
+            desc="Calgary commercial window installation: f h"
             canonical={`${props.website}/calgary-commercial-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary commercial window installation" //KW
-            subtitle="t o"
+            subtitle="f h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="o o"
+            desc="  a"
             image="/window-installation.jpg"
             alt="Calgary commercial window installation"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Calgary commercial window installation" //KW
-            desc="e o d s"
+            desc="a n h  "
             image="/window-washing.jpg"
             alt="Window Services"
             />
             <Savings
             subtitle="Affordable Window Services" //KW
-            desc="O"
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="v"
-            cardDesc3="o"
+            cardDesc1="n"
+            cardDesc2=" "
+            cardDesc3="h"
             />
             <Approach
             title="Calgary commercial window installation" //KW
-            desc="  w d s"
+            desc="a s a  "
             />
             <Intro
             subtitle="Exceptional Calgary commercial window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="u ."
-            cardDesc3="a"
+            cardDesc1="p"
+            cardDesc2="t  "
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="i"
+            desc="n" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London window contractors near me | We'll Take Care Of Everything" 
-            desc="London window contractors near me: a t"
+            desc="London window contractors near me: r n"
             canonical={`${props.website}/london-window-contractors-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London window contractors near me" //KW
-            subtitle="a t"
+            subtitle="r n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  d"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="o m"
+            image="/contractor.jpg"
             alt="London window contractors near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional London window contractors near me" //KW
-            desc="g i s o"
+            desc="  ! r e"
             image="/window-installation.jpg"
-            alt="Window Cleaning"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="r"
+            subtitle="Affordable Window Repair" //KW
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
+            cardDesc1=" "
             cardDesc2=" "
-            cardDesc3="g"
+            cardDesc3="h"
             />
             <Approach
             title="London window contractors near me" //KW
-            desc="v p .  "
+            desc="s r    "
             />
             <Intro
             subtitle="Exceptional London window contractors near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="s  "
-            cardDesc3="n"
+            cardDesc1="y"
+            cardDesc2="  y"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="'" //KW
-            desc2="t"
+            desc="y" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City landscaping trees | We'll Take Care Of Everything" 
-            desc="New York City landscaping trees: e t"
+            desc="New York City landscaping trees: l P"
             canonical={`${props.website}/new-york-city-landscaping-trees`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City landscaping trees" //KW
-            subtitle="e t"
+            subtitle="l P"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="r h"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="w d"
+            image="/window-washing.jpg"
             alt="New York City landscaping trees"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional New York City landscaping trees" //KW
-            desc="o p u e"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="  w a  "
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="t"
+            subtitle="Affordable Window Installations" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2=","
-            cardDesc3="i"
+            cardDesc1="t"
+            cardDesc2=" "
+            cardDesc3="r"
             />
             <Approach
             title="New York City landscaping trees" //KW
-            desc=", c   d"
+            desc="  d e l"
             />
             <Intro
             subtitle="Exceptional New York City landscaping trees" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="  l"
-            cardDesc3="r"
+            cardDesc1="s"
+            cardDesc2="o t"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="e"
+            desc="l" //KW
+            desc2="g"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

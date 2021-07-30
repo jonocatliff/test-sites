@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston lawn service | We'll Take Care Of Everything" 
-            desc="Houston lawn service: c ’"
+            desc="Houston lawn service: t  "
             canonical={`${props.website}/houston-lawn-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston lawn service" //KW
-            subtitle="c ’"
+            subtitle="t  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="v ."
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="o  "
+            image="/window-installation.jpg"
             alt="Houston lawn service"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Houston lawn service" //KW
-            desc="r y t m"
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="n l s  "
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="."
+            subtitle="Affordable Window Replacement" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="g"
-            cardDesc3="a"
+            cardDesc1="n"
+            cardDesc2="i"
+            cardDesc3="e"
             />
             <Approach
             title="Houston lawn service" //KW
-            desc="    t v"
+            desc="b l t c"
             />
             <Intro
             subtitle="Exceptional Houston lawn service" //KW
@@ -65,9 +65,9 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="s t"
-            cardDesc3=" "
+            cardDesc1="e"
+            cardDesc2="e  "
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"

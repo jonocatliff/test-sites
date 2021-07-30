@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix lawn care companies near me | We'll Take Care Of Everything" 
-            desc="Phoenix lawn care companies near me: n e"
+            desc="Phoenix lawn care companies near me: n r"
             canonical={`${props.website}/phoenix-lawn-care-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix lawn care companies near me" //KW
-            subtitle="n e"
+            subtitle="n r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="e a"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc=", n"
+            image="/window-washing.jpg"
             alt="Phoenix lawn care companies near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Phoenix lawn care companies near me" //KW
-            desc="p   e d"
+            desc="e k s  "
             image="/window-installation.jpg"
-            alt="Window Installations"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="i"
+            subtitle="Affordable Window Replacement" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="s"
-            cardDesc3="u"
+            cardDesc1="i"
+            cardDesc2="r"
+            cardDesc3=" "
             />
             <Approach
             title="Phoenix lawn care companies near me" //KW
-            desc="i r e e"
+            desc="s O y o"
             />
             <Intro
             subtitle="Exceptional Phoenix lawn care companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="  r"
-            cardDesc3="o"
+            cardDesc1="i"
+            cardDesc2="  o"
+            cardDesc3="u"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="a"
+            desc="n" //KW
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

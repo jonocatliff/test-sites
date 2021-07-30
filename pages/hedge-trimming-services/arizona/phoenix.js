@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix hedge trimming services | We'll Take Care Of Everything" 
-            desc="Phoenix hedge trimming services: a e"
+            desc="Phoenix hedge trimming services: w d"
             canonical={`${props.website}/phoenix-hedge-trimming-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix hedge trimming services" //KW
-            subtitle="a e"
+            subtitle="w d"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="n p"
-            image="/contractor.jpg"
+            desc="f h"
+            image="/window-installation.jpg"
             alt="Phoenix hedge trimming services"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Phoenix hedge trimming services" //KW
-            desc="m e t u"
-            image="/window-installations.jpg"
+            desc="m o e d"
+            image="/window-washing.jpg"
             alt="Window Cleaning"
             />
             <Savings
             subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="i"
-            cardDesc3="e"
+            cardDesc1="u"
+            cardDesc2=" "
+            cardDesc3="t"
             />
             <Approach
             title="Phoenix hedge trimming services" //KW
-            desc="  o e o"
+            desc="n x d I"
             />
             <Intro
             subtitle="Exceptional Phoenix hedge trimming services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="   "
-            cardDesc3="a"
+            cardDesc1="y"
+            cardDesc2="s s"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="c"
+            desc="i" //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

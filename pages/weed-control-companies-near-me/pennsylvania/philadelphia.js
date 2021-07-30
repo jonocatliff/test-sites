@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia weed control companies near me | We'll Take Care Of Everything" 
-            desc="Philadelphia weed control companies near me: i c"
+            desc="Philadelphia weed control companies near me: r u"
             canonical={`${props.website}/philadelphia-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Philadelphia weed control companies near me" //KW
-            subtitle="i c"
+            subtitle="r u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Installations"
-            desc="y e"
-            image="/window-installation.jpg"
+            desc="r i"
+            image="/window-washing.jpg"
             alt="Philadelphia weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Philadelphia weed control companies near me" //KW
-            desc="i i s undefined"
-            image="/window-washing.jpg"
+            desc="i     undefined"
+            image="/window-installations.jpg"
             alt="Window Installations"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2=","
-            cardDesc3="a"
+            cardDesc1="t"
+            cardDesc2="o"
+            cardDesc3="c"
             />
             <Approach
             title="Philadelphia weed control companies near me" //KW
-            desc="  e s  "
+            desc="r f u g"
             />
             <Intro
             subtitle="Exceptional Philadelphia weed control companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="g"
-            cardDesc2="o undefined"
-            cardDesc3="w"
+            cardDesc1="t"
+            cardDesc2="f undefined"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="t" //KW
-            desc2="o"
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

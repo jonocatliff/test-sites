@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton weed control companies near me | We'll Take Care Of Everything" 
-            desc="Hamilton weed control companies near me:   o"
+            desc="Hamilton weed control companies near me: s g"
             canonical={`${props.website}/hamilton-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Hamilton weed control companies near me" //KW
-            subtitle="  o"
+            subtitle="s g"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="  r"
-            image="/window-installation.jpg"
+            desc="s h"
+            image="/window-washing.jpg"
             alt="Hamilton weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Hamilton weed control companies near me" //KW
-            desc="o   c undefined"
-            image="/contractor.jpg"
+            desc="o n e undefined"
+            image="/window-installation.jpg"
             alt="Window Cleaning"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
-            cardDesc2=" "
-            cardDesc3=" "
+            cardDesc1="l"
+            cardDesc2="r"
+            cardDesc3="e"
             />
             <Approach
             title="Hamilton weed control companies near me" //KW
-            desc="r m e n"
+            desc="r o e h"
             />
             <Intro
             subtitle="Exceptional Hamilton weed control companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="t undefined"
-            cardDesc3="v"
+            cardDesc1="d"
+            cardDesc2="h undefined"
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="o"
+            desc="i" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary flower bed landscaping | We'll Take Care Of Everything" 
-            desc="Calgary flower bed landscaping: w w"
+            desc="Calgary flower bed landscaping: a  "
             canonical={`${props.website}/calgary-flower-bed-landscaping`}
             />
             <Navigationbar
@@ -29,19 +29,19 @@
             />
             <Header
             title="Calgary flower bed landscaping" //KW
-            subtitle="w w"
+            subtitle="a  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
-            desc="o  "
-            image="/window-installation.jpg"
+            desc="W g"
+            image="/window-installations.jpg"
             alt="Calgary flower bed landscaping"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Calgary flower bed landscaping" //KW
-            desc="y v m  "
+            desc="a e f w"
             image="/contractor.jpg"
             alt="Window Repair"
             />
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="."
-            cardDesc3="I"
+            cardDesc1="o"
+            cardDesc2="e"
+            cardDesc3="l"
             />
             <Approach
             title="Calgary flower bed landscaping" //KW
-            desc="d t d r"
+            desc="o i p h"
             />
             <Intro
             subtitle="Exceptional Calgary flower bed landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="l r"
-            cardDesc3=" "
+            cardDesc1="s"
+            cardDesc2="s m"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="a"
+            desc="w" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}

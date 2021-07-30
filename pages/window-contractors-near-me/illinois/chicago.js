@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago window contractors near me | We'll Take Care Of Everything" 
-            desc="Chicago window contractors near me: r n"
+            desc="Chicago window contractors near me: a r"
             canonical={`${props.website}/chicago-window-contractors-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago window contractors near me" //KW
-            subtitle="r n"
+            subtitle="a r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="m t"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="e w"
+            image="/window-installation.jpg"
             alt="Chicago window contractors near me"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Chicago window contractors near me" //KW
-            desc="e v b i"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="h o   y"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="l"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="i"
-            cardDesc3="u"
+            cardDesc1="s"
+            cardDesc2=" "
+            cardDesc3="c"
             />
             <Approach
             title="Chicago window contractors near me" //KW
-            desc="r   n  "
+            desc="w q    "
             />
             <Intro
             subtitle="Exceptional Chicago window contractors near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="  w"
-            cardDesc3="t"
+            cardDesc1="l"
+            cardDesc2="o t"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="o"
+            desc="c" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}

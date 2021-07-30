@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago exterior window installation | We'll Take Care Of Everything" 
-            desc="Chicago exterior window installation: , y"
+            desc="Chicago exterior window installation: e e"
             canonical={`${props.website}/chicago-exterior-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago exterior window installation" //KW
-            subtitle=", y"
+            subtitle="e e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="a t"
+            subtitle="High-Quality Window Replacement"
+            desc="  p"
             image="/window-installations.jpg"
             alt="Chicago exterior window installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Chicago exterior window installation" //KW
-            desc="u l e h"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="p p i i"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="u"
+            subtitle="Affordable Window Replacement" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="o"
-            cardDesc3="u"
+            cardDesc1="t"
+            cardDesc2=" "
+            cardDesc3="c"
             />
             <Approach
             title="Chicago exterior window installation" //KW
-            desc="  o t e"
+            desc="p r o v"
             />
             <Intro
             subtitle="Exceptional Chicago exterior window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="e w"
-            cardDesc3="s"
+            cardDesc1="a"
+            cardDesc2="h n"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2=" "
+            desc="O" //KW
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

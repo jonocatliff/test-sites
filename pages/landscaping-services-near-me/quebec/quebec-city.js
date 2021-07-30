@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City landscaping services near me | We'll Take Care Of Everything" 
-            desc="Quebec City landscaping services near me: a e"
+            desc="Quebec City landscaping services near me: a  "
             canonical={`${props.website}/quebec-city-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City landscaping services near me" //KW
-            subtitle="a e"
+            subtitle="a  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="v o"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="i w"
+            image="/window-installations.jpg"
             alt="Quebec City landscaping services near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Quebec City landscaping services near me" //KW
-            desc="n   t  "
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="c n t s"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="l"
+            subtitle="Affordable Window Services" //KW
+            desc="y"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="a"
+            cardDesc1="i"
+            cardDesc2="n"
             cardDesc3="w"
             />
             <Approach
             title="Quebec City landscaping services near me" //KW
-            desc="o w o i"
+            desc="d ’ , u"
             />
             <Intro
             subtitle="Exceptional Quebec City landscaping services near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2="P e"
-            cardDesc3="s"
+            cardDesc1=" "
+            cardDesc2="y  "
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="," //KW
-            desc2="h"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

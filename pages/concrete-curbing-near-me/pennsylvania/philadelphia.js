@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia concrete curbing near me | We'll Take Care Of Everything" 
-            desc="Philadelphia concrete curbing near me: o h"
+            desc="Philadelphia concrete curbing near me:   l"
             canonical={`${props.website}/philadelphia-concrete-curbing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia concrete curbing near me" //KW
-            subtitle="o h"
+            subtitle="  l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="r i"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="t o"
+            image="/window-washing.jpg"
             alt="Philadelphia concrete curbing near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Philadelphia concrete curbing near me" //KW
-            desc="y . e  "
+            desc="y l    "
             image="/window-installations.jpg"
-            alt="Window Cleaning"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="p"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="m"
-            cardDesc2="n"
-            cardDesc3="u"
+            cardDesc1="c"
+            cardDesc2="e"
+            cardDesc3="W"
             />
             <Approach
             title="Philadelphia concrete curbing near me" //KW
-            desc="s f a c"
+            desc="c v y a"
             />
             <Intro
             subtitle="Exceptional Philadelphia concrete curbing near me" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="d t"
-            cardDesc3="e"
+            cardDesc2="t r"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="o"
+            desc="t" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -33,20 +33,20 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
+            subtitle="High-Quality Window Replacement"
             desc="w a"
-            image="/window-washing.jpg"
+            image="/window-installations.jpg"
             alt="Houston basement egress window installation"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Houston basement egress window installation" //KW
             desc="s h o  "
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"

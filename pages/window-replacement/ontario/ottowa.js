@@ -33,31 +33,31 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="i w"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="e g"
+            image="/contractor.jpg"
             alt="Ottowa window replacement"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Ottowa window replacement" //KW
-            desc="e   i d"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="d e a u"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="s"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
-            cardDesc2="t"
-            cardDesc3="t"
+            cardDesc2="y"
+            cardDesc3="o"
             />
             <Approach
             title="Ottowa window replacement" //KW
-            desc="t a a e"
+            desc="o o d v"
             />
             <Intro
             subtitle="Exceptional Ottowa window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="k"
-            cardDesc2="e  "
-            cardDesc3="h"
+            cardDesc1=" "
+            cardDesc2="d m"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="y" //KW
-            desc2="a"
+            desc="n" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg weed control service | We'll Take Care Of Everything" 
-            desc="Winnipeg weed control service: t r"
+            desc="Winnipeg weed control service:   r"
             canonical={`${props.website}/winnipeg-weed-control-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg weed control service" //KW
-            subtitle="t r"
+            subtitle="  r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="e n"
+            subtitle="High-Quality Window Cleaning"
+            desc="  t"
             image="/window-installations.jpg"
             alt="Winnipeg weed control service"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Winnipeg weed control service" //KW
-            desc="s . l undefined"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="  i n undefined"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2=" "
-            cardDesc3=" "
+            cardDesc1="O"
+            cardDesc2="f"
+            cardDesc3="n"
             />
             <Approach
             title="Winnipeg weed control service" //KW
-            desc="y   e w"
+            desc="o l e o"
             />
             <Intro
             subtitle="Exceptional Winnipeg weed control service" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="o undefined"
-            cardDesc3="a"
+            cardDesc1="v"
+            cardDesc2="c undefined"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="d"
+            desc=" " //KW
+            desc2="h"
             />
             <Footer 
             companyName={props.companyName}

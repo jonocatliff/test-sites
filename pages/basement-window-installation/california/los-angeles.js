@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles basement window installation | We'll Take Care Of Everything" 
-            desc="Los Angeles basement window installation: s a"
+            desc="Los Angeles basement window installation: a n"
             canonical={`${props.website}/los-angeles-basement-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles basement window installation" //KW
-            subtitle="s a"
+            subtitle="a n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="r  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="r v"
+            image="/window-installations.jpg"
             alt="Los Angeles basement window installation"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Los Angeles basement window installation" //KW
-            desc="    m  "
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="r u   ."
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="c"
+            subtitle="Affordable Window Services" //KW
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="r"
-            cardDesc3="f"
+            cardDesc1="n"
+            cardDesc2="i"
+            cardDesc3="n"
             />
             <Approach
             title="Los Angeles basement window installation" //KW
-            desc="t l   d"
+            desc="p i o u"
             />
             <Intro
             subtitle="Exceptional Los Angeles basement window installation" //KW
@@ -66,13 +66,13 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="t"
-            cardDesc2="c d"
-            cardDesc3="r"
+            cardDesc2="r F"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="r"
+            desc="w" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}

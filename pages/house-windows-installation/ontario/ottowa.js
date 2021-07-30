@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa house windows installation | We'll Take Care Of Everything" 
-            desc="Ottowa house windows installation:   s"
+            desc="Ottowa house windows installation: P n"
             canonical={`${props.website}/ottowa-house-windows-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa house windows installation" //KW
-            subtitle="  s"
+            subtitle="P n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="i d"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="a g"
+            image="/contractor.jpg"
             alt="Ottowa house windows installation"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Ottowa house windows installation" //KW
-            desc="t o . i"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="t l   i"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="u"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="e"
-            cardDesc3="o"
+            cardDesc1=" "
+            cardDesc2="o"
+            cardDesc3="t"
             />
             <Approach
             title="Ottowa house windows installation" //KW
-            desc="i   y f"
+            desc="i r   e"
             />
             <Intro
             subtitle="Exceptional Ottowa house windows installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="c i"
-            cardDesc3="t"
+            cardDesc1="o"
+            cardDesc2="i  "
+            cardDesc3="p"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="t" //KW
-            desc2="i"
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles lawn care companies | We'll Take Care Of Everything" 
-            desc="Los Angeles lawn care companies:   n"
+            desc="Los Angeles lawn care companies: f  "
             canonical={`${props.website}/los-angeles-lawn-care-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles lawn care companies" //KW
-            subtitle="  n"
+            subtitle="f  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="o  "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="y v"
+            image="/window-installation.jpg"
             alt="Los Angeles lawn care companies"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Los Angeles lawn care companies" //KW
-            desc="w l e n"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="w u c  "
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="r"
+            subtitle="Affordable Window Replacement" //KW
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="c"
-            cardDesc2="n"
-            cardDesc3="h"
+            cardDesc1="i"
+            cardDesc2="e"
+            cardDesc3=" "
             />
             <Approach
             title="Los Angeles lawn care companies" //KW
-            desc="o s   y"
+            desc="a s o s"
             />
             <Intro
             subtitle="Exceptional Los Angeles lawn care companies" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="c  "
-            cardDesc3="d"
+            cardDesc1="a"
+            cardDesc2="o r"
+            cardDesc3="c"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
-            desc2="w"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

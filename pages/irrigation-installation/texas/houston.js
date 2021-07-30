@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston irrigation installation | We'll Take Care Of Everything" 
-            desc="Houston irrigation installation: o l"
+            desc="Houston irrigation installation:   s"
             canonical={`${props.website}/houston-irrigation-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston irrigation installation" //KW
-            subtitle="o l"
+            subtitle="  s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="  s"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="e d"
+            image="/window-installation.jpg"
             alt="Houston irrigation installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Houston irrigation installation" //KW
-            desc="p u r p"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="d n c ."
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="r"
+            subtitle="Affordable Window Replacement" //KW
+            desc="y"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="w"
-            cardDesc3="f"
+            cardDesc1="o"
+            cardDesc2="n"
+            cardDesc3="n"
             />
             <Approach
             title="Houston irrigation installation" //KW
-            desc="  r i e"
+            desc="a l u s"
             />
             <Intro
             subtitle="Exceptional Houston irrigation installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="  u"
-            cardDesc3="o"
+            cardDesc1="s"
+            cardDesc2="l  "
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="r"
+            desc="e" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

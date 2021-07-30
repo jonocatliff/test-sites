@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City lawn repair near me | We'll Take Care Of Everything" 
-            desc="Quebec City lawn repair near me: o a"
+            desc="Quebec City lawn repair near me: l h"
             canonical={`${props.website}/quebec-city-lawn-repair-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City lawn repair near me" //KW
-            subtitle="o a"
+            subtitle="l h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="l e"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="a o"
+            image="/contractor.jpg"
             alt="Quebec City lawn repair near me"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Quebec City lawn repair near me" //KW
-            desc="u o r e"
+            desc="a o e e"
             image="/window-washing.jpg"
-            alt="Window Replacement"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Repair" //KW
             desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="a"
-            cardDesc2="y"
-            cardDesc3="s"
+            cardDesc2=" "
+            cardDesc3="k"
             />
             <Approach
             title="Quebec City lawn repair near me" //KW
-            desc="a i s  "
+            desc="t w   t"
             />
             <Intro
             subtitle="Exceptional Quebec City lawn repair near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="y r"
-            cardDesc3="o"
+            cardDesc1="n"
+            cardDesc2="w  "
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="t"
+            desc="m" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

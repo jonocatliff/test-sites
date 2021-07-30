@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton garden maintenance services | We'll Take Care Of Everything" 
-            desc="Edmonton garden maintenance services: . e"
+            desc="Edmonton garden maintenance services: d n"
             canonical={`${props.website}/edmonton-garden-maintenance-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton garden maintenance services" //KW
-            subtitle=". e"
+            subtitle="d n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="v w"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="p n"
+            image="/window-washing.jpg"
             alt="Edmonton garden maintenance services"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Edmonton garden maintenance services" //KW
-            desc="n e h l"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="    e o"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="n"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="v"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
-            cardDesc2=" "
-            cardDesc3="t"
+            cardDesc1=" "
+            cardDesc2="l"
+            cardDesc3="r"
             />
             <Approach
             title="Edmonton garden maintenance services" //KW
-            desc="  o a  "
+            desc="o y   o"
             />
             <Intro
             subtitle="Exceptional Edmonton garden maintenance services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="r f"
-            cardDesc3="s"
+            cardDesc1="z"
+            cardDesc2="v a"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="g"
+            desc="O" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

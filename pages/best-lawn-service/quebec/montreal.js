@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal best lawn service | We'll Take Care Of Everything" 
-            desc="Montreal best lawn service: o t"
+            desc="Montreal best lawn service: v  "
             canonical={`${props.website}/montreal-best-lawn-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal best lawn service" //KW
-            subtitle="o t"
+            subtitle="v  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="y g"
-            image="/window-washing.jpg"
+            desc="e n"
+            image="/window-installation.jpg"
             alt="Montreal best lawn service"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Montreal best lawn service" //KW
-            desc="n s l t"
-            image="/contractor.jpg"
+            desc="n o    "
+            image="/window-washing.jpg"
             alt="Window Services"
             />
             <Savings
             subtitle="Affordable Window Services" //KW
-            desc="b"
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2=" "
-            cardDesc3=" "
+            cardDesc1="i"
+            cardDesc2="o"
+            cardDesc3="m"
             />
             <Approach
             title="Montreal best lawn service" //KW
-            desc="a i r e"
+            desc="    w  "
             />
             <Intro
             subtitle="Exceptional Montreal best lawn service" //KW
@@ -65,9 +65,9 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="  w"
-            cardDesc3=" "
+            cardDesc1="e"
+            cardDesc2="y  "
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"

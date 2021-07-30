@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg swimming pool landscaping | We'll Take Care Of Everything" 
-            desc="Winnipeg swimming pool landscaping: w o"
+            desc="Winnipeg swimming pool landscaping: n l"
             canonical={`${props.website}/winnipeg-swimming-pool-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg swimming pool landscaping" //KW
-            subtitle="w o"
+            subtitle="n l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="a t"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="r e"
+            image="/window-installation.jpg"
             alt="Winnipeg swimming pool landscaping"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Winnipeg swimming pool landscaping" //KW
-            desc="n   e undefined"
-            image="/window-installations.jpg"
-            alt="Window Repair"
+            desc="y s w undefined"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
-            cardDesc2="c"
-            cardDesc3="r"
+            cardDesc2="t"
+            cardDesc3=" "
             />
             <Approach
             title="Winnipeg swimming pool landscaping" //KW
-            desc="  e y  "
+            desc="  f x o"
             />
             <Intro
             subtitle="Exceptional Winnipeg swimming pool landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="l undefined"
-            cardDesc3="o"
+            cardDesc1="s"
+            cardDesc2="x undefined"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2=" "
+            desc="l" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

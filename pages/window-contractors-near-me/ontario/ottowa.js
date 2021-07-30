@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa window contractors near me | We'll Take Care Of Everything" 
-            desc="Ottowa window contractors near me: f  "
+            desc="Ottowa window contractors near me: t u"
             canonical={`${props.website}/ottowa-window-contractors-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa window contractors near me" //KW
-            subtitle="f  "
+            subtitle="t u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r r"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="c e"
+            image="/contractor.jpg"
             alt="Ottowa window contractors near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Ottowa window contractors near me" //KW
-            desc="y   p o"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="h n i t"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="l"
+            subtitle="Affordable Window Replacement" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="d"
-            cardDesc2="g"
-            cardDesc3="t"
+            cardDesc2="v"
+            cardDesc3="u"
             />
             <Approach
             title="Ottowa window contractors near me" //KW
-            desc="t e u  "
+            desc="r i   r"
             />
             <Intro
             subtitle="Exceptional Ottowa window contractors near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="d p"
-            cardDesc3="g"
+            cardDesc1="d"
+            cardDesc2="x n"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="e"
+            desc="r" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

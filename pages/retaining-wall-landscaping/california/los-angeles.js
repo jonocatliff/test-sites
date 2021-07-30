@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles retaining wall landscaping | We'll Take Care Of Everything" 
-            desc="Los Angeles retaining wall landscaping: i  "
+            desc="Los Angeles retaining wall landscaping: b n"
             canonical={`${props.website}/los-angeles-retaining-wall-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles retaining wall landscaping" //KW
-            subtitle="i  "
+            subtitle="b n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="e a"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="f n"
+            image="/window-installations.jpg"
             alt="Los Angeles retaining wall landscaping"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles retaining wall landscaping" //KW
-            desc="d s o undefined"
+            desc="  t o undefined"
             image="/contractor.jpg"
-            alt="Window Replacement"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="y"
-            cardDesc3="f"
+            cardDesc1="e"
+            cardDesc2="u"
+            cardDesc3="o"
             />
             <Approach
             title="Los Angeles retaining wall landscaping" //KW
-            desc="o o   s"
+            desc="r s k  "
             />
             <Intro
             subtitle="Exceptional Los Angeles retaining wall landscaping" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="o undefined"
-            cardDesc3="l"
+            cardDesc2="l undefined"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="s"
+            desc="v" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

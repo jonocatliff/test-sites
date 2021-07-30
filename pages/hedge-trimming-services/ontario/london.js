@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London hedge trimming services | We'll Take Care Of Everything" 
-            desc="London hedge trimming services: s l"
+            desc="London hedge trimming services:   t"
             canonical={`${props.website}/london-hedge-trimming-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London hedge trimming services" //KW
-            subtitle="s l"
+            subtitle="  t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="t k"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="e d"
+            image="/contractor.jpg"
             alt="London hedge trimming services"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional London hedge trimming services" //KW
-            desc="e l v t"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="e t u p"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="f"
+            subtitle="Affordable Window Repair" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="s"
-            cardDesc3=" "
+            cardDesc1="f"
+            cardDesc2="o"
+            cardDesc3="o"
             />
             <Approach
             title="London hedge trimming services" //KW
-            desc="h m e w"
+            desc="      r"
             />
             <Intro
             subtitle="Exceptional London hedge trimming services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2="e h"
-            cardDesc3=" "
+            cardDesc1="o"
+            cardDesc2="i r"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="g"
+            desc=" " //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

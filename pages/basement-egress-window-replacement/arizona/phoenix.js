@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix basement egress window replacement | We'll Take Care Of Everything" 
-            desc="Phoenix basement egress window replacement: o s"
+            desc="Phoenix basement egress window replacement: h o"
             canonical={`${props.website}/phoenix-basement-egress-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix basement egress window replacement" //KW
-            subtitle="o s"
+            subtitle="h o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="o n"
+            subtitle="High-Quality Window Repair"
+            desc="a p"
             image="/window-washing.jpg"
             alt="Phoenix basement egress window replacement"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Phoenix basement egress window replacement" //KW
-            desc="  t n m"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="o s a a"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="s"
+            subtitle="Affordable Window Repair" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="c"
-            cardDesc2="o"
-            cardDesc3="o"
+            cardDesc1=" "
+            cardDesc2=" "
+            cardDesc3="i"
             />
             <Approach
             title="Phoenix basement egress window replacement" //KW
-            desc="o o s e"
+            desc="s o h ’"
             />
             <Intro
             subtitle="Exceptional Phoenix basement egress window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="o e"
-            cardDesc3="o"
+            cardDesc1=" "
+            cardDesc2="n l"
+            cardDesc3=","
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="o"
+            desc=" " //KW
+            desc2=","
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

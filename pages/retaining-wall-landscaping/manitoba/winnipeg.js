@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg retaining wall landscaping | We'll Take Care Of Everything" 
-            desc="Winnipeg retaining wall landscaping: l s"
+            desc="Winnipeg retaining wall landscaping: d e"
             canonical={`${props.website}/winnipeg-retaining-wall-landscaping`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Winnipeg retaining wall landscaping" //KW
-            subtitle="l s"
+            subtitle="d e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="s r"
-            image="/contractor.jpg"
+            desc="r t"
+            image="/window-installation.jpg"
             alt="Winnipeg retaining wall landscaping"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Winnipeg retaining wall landscaping" //KW
-            desc="s t e undefined"
-            image="/window-installation.jpg"
+            desc="d o e undefined"
+            image="/contractor.jpg"
             alt="Window Replacement"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="d"
-            cardDesc2="n"
-            cardDesc3="c"
+            cardDesc1="u"
+            cardDesc2="e"
+            cardDesc3="p"
             />
             <Approach
             title="Winnipeg retaining wall landscaping" //KW
-            desc="r l e o"
+            desc="p   d a"
             />
             <Intro
             subtitle="Exceptional Winnipeg retaining wall landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="m undefined"
-            cardDesc3="n"
+            cardDesc1=" "
+            cardDesc2="n undefined"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="i"
+            desc="r" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

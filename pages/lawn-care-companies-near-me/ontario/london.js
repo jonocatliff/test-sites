@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London lawn care companies near me | We'll Take Care Of Everything" 
-            desc="London lawn care companies near me: y d"
+            desc="London lawn care companies near me:   r"
             canonical={`${props.website}/london-lawn-care-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London lawn care companies near me" //KW
-            subtitle="y d"
+            subtitle="  r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="a n"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="s t"
+            image="/contractor.jpg"
             alt="London lawn care companies near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional London lawn care companies near me" //KW
-            desc="w t o p"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="i i e e"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="s"
+            subtitle="Affordable Window Repair" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="i"
-            cardDesc3=" "
+            cardDesc1="e"
+            cardDesc2="s"
+            cardDesc3="n"
             />
             <Approach
             title="London lawn care companies near me" //KW
-            desc="s ’ e  "
+            desc="t s    "
             />
             <Intro
             subtitle="Exceptional London lawn care companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="e w"
-            cardDesc3=","
+            cardDesc1="o"
+            cardDesc2="e ’"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="p"
+            desc="a" //KW
+            desc2="v"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

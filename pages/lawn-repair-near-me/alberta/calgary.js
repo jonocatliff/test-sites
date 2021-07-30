@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary lawn repair near me | We'll Take Care Of Everything" 
-            desc="Calgary lawn repair near me:   Y"
+            desc="Calgary lawn repair near me: n d"
             canonical={`${props.website}/calgary-lawn-repair-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary lawn repair near me" //KW
-            subtitle="  Y"
+            subtitle="n d"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Installations"
-            desc="r r"
-            image="/window-installations.jpg"
+            desc="  p"
+            image="/contractor.jpg"
             alt="Calgary lawn repair near me"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Calgary lawn repair near me" //KW
-            desc="o w . m"
-            image="/window-installation.jpg"
+            desc="r s d r"
+            image="/window-washing.jpg"
             alt="Window Installations"
             />
             <Savings
             subtitle="Affordable Window Installations" //KW
-            desc="a"
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
+            cardDesc1="a"
             cardDesc2=" "
-            cardDesc3="o"
+            cardDesc3=" "
             />
             <Approach
             title="Calgary lawn repair near me" //KW
-            desc="W   t i"
+            desc="  e s r"
             />
             <Intro
             subtitle="Exceptional Calgary lawn repair near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="e p"
-            cardDesc3="."
+            cardDesc1="p"
+            cardDesc2="P t"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="e"
+            desc="o" //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}

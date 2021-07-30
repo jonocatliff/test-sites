@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver best window installers | We'll Take Care Of Everything" 
-            desc="Vancouver best window installers: t y"
+            desc="Vancouver best window installers: b e"
             canonical={`${props.website}/vancouver-best-window-installers`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver best window installers" //KW
-            subtitle="t y"
+            subtitle="b e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="f l"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="a  "
+            image="/window-installation.jpg"
             alt="Vancouver best window installers"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Vancouver best window installers" //KW
-            desc="f h o s"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="s   n a"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="d"
-            cardDesc3="m"
+            cardDesc1="e"
+            cardDesc2="e"
+            cardDesc3=" "
             />
             <Approach
             title="Vancouver best window installers" //KW
-            desc="e t l y"
+            desc="u   u d"
             />
             <Intro
             subtitle="Exceptional Vancouver best window installers" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="r  "
-            cardDesc3="n"
+            cardDesc1="i"
+            cardDesc2="i e"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="b" //KW
-            desc2="n"
+            desc=" " //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

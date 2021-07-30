@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia lawn fertilization | We'll Take Care Of Everything" 
-            desc="Philadelphia lawn fertilization: i d"
+            desc="Philadelphia lawn fertilization: i w"
             canonical={`${props.website}/philadelphia-lawn-fertilization`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia lawn fertilization" //KW
-            subtitle="i d"
+            subtitle="i w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="y t"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="d  "
+            image="/contractor.jpg"
             alt="Philadelphia lawn fertilization"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Philadelphia lawn fertilization" //KW
-            desc=". a i  "
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc=". i i  "
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="i"
+            subtitle="Affordable Window Services" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="g"
-            cardDesc3="t"
+            cardDesc1="i"
+            cardDesc2="s"
+            cardDesc3="i"
             />
             <Approach
             title="Philadelphia lawn fertilization" //KW
-            desc="w   w  "
+            desc=".     o"
             />
             <Intro
             subtitle="Exceptional Philadelphia lawn fertilization" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="  s"
-            cardDesc3="h"
+            cardDesc1="h"
+            cardDesc2="h e"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="g"
+            desc="s" //KW
+            desc2="v"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

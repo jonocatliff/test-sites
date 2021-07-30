@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles hedge trimming near me | We'll Take Care Of Everything" 
-            desc="Los Angeles hedge trimming near me: r w"
+            desc="Los Angeles hedge trimming near me: n n"
             canonical={`${props.website}/los-angeles-hedge-trimming-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles hedge trimming near me" //KW
-            subtitle="r w"
+            subtitle="n n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="e e"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="n n"
+            image="/contractor.jpg"
             alt="Los Angeles hedge trimming near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Los Angeles hedge trimming near me" //KW
-            desc="c   o t"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="l h k l"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="w"
+            subtitle="Affordable Window Installations" //KW
+            desc="f"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="r"
-            cardDesc3="s"
+            cardDesc1="a"
+            cardDesc2="n"
+            cardDesc3=" "
             />
             <Approach
             title="Los Angeles hedge trimming near me" //KW
-            desc="u d    "
+            desc="n u e o"
             />
             <Intro
             subtitle="Exceptional Los Angeles hedge trimming near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="g"
-            cardDesc2="O r"
-            cardDesc3="d"
+            cardDesc1="u"
+            cardDesc2="t l"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="l"
+            desc="o" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

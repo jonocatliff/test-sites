@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton grass treatment for weeds | We'll Take Care Of Everything" 
-            desc="Hamilton grass treatment for weeds:   g"
+            desc="Hamilton grass treatment for weeds: s n"
             canonical={`${props.website}/hamilton-grass-treatment-for-weeds`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton grass treatment for weeds" //KW
-            subtitle="  g"
+            subtitle="s n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="  t"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc=", h"
+            image="/window-installation.jpg"
             alt="Hamilton grass treatment for weeds"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Hamilton grass treatment for weeds" //KW
-            desc="e u l m"
+            desc="t s e w"
             image="/window-installations.jpg"
-            alt="Window Replacement"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="r"
+            subtitle="Affordable Window Services" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="i"
-            cardDesc3="l"
+            cardDesc1="a"
+            cardDesc2="w"
+            cardDesc3="m"
             />
             <Approach
             title="Hamilton grass treatment for weeds" //KW
-            desc="l - e  "
+            desc="t n   s"
             />
             <Intro
             subtitle="Exceptional Hamilton grass treatment for weeds" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="l  "
-            cardDesc3="a"
+            cardDesc1="v"
+            cardDesc2="c t"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="n"
+            desc="y" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton skylight window replacement | We'll Take Care Of Everything" 
-            desc="Edmonton skylight window replacement: , u"
+            desc="Edmonton skylight window replacement: o o"
             canonical={`${props.website}/edmonton-skylight-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton skylight window replacement" //KW
-            subtitle=", u"
+            subtitle="o o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="  e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="m a"
+            image="/window-installations.jpg"
             alt="Edmonton skylight window replacement"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Edmonton skylight window replacement" //KW
-            desc="p h r  "
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="x i s o"
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="l"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="."
-            cardDesc3="W"
+            cardDesc1="a"
+            cardDesc2=" "
+            cardDesc3="w"
             />
             <Approach
             title="Edmonton skylight window replacement" //KW
-            desc="b f   r"
+            desc="  o w l"
             />
             <Intro
             subtitle="Exceptional Edmonton skylight window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="u  "
-            cardDesc3="d"
+            cardDesc1="a"
+            cardDesc2="e  "
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2="a"
+            desc="d" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix lawn cutting near me | We'll Take Care Of Everything" 
-            desc="Phoenix lawn cutting near me: i Y"
+            desc="Phoenix lawn cutting near me: f  "
             canonical={`${props.website}/phoenix-lawn-cutting-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix lawn cutting near me" //KW
-            subtitle="i Y"
+            subtitle="f  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc=", d"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="  h"
+            image="/window-installation.jpg"
             alt="Phoenix lawn cutting near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Phoenix lawn cutting near me" //KW
-            desc="p a i r"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="p o   r"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="p"
+            subtitle="Affordable Window Installations" //KW
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="s"
-            cardDesc3="r"
+            cardDesc1="u"
+            cardDesc2=" "
+            cardDesc3="."
             />
             <Approach
             title="Phoenix lawn cutting near me" //KW
-            desc="n o t I"
+            desc="  f e i"
             />
             <Intro
             subtitle="Exceptional Phoenix lawn cutting near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="s o"
+            cardDesc1="O"
+            cardDesc2="t e"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="," //KW
-            desc2="d"
+            desc="c" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

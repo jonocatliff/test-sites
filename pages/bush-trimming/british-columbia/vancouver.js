@@ -33,31 +33,31 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="i i"
+            subtitle="High-Quality Window Replacement"
+            desc="  n"
             image="/window-installation.jpg"
             alt="Vancouver bush trimming"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Vancouver bush trimming" //KW
-            desc="n   s n"
+            desc="  c i o"
             image="/window-washing.jpg"
-            alt="Window Repair"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc=" "
+            subtitle="Affordable Window Replacement" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="m"
-            cardDesc3="h"
+            cardDesc1="e"
+            cardDesc2="r"
+            cardDesc3="o"
             />
             <Approach
             title="Vancouver bush trimming" //KW
-            desc="e e   t"
+            desc="p   t  "
             />
             <Intro
             subtitle="Exceptional Vancouver bush trimming" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="   "
-            cardDesc3="r"
+            cardDesc1="e"
+            cardDesc2="  s"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2=" "
+            desc="s" //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

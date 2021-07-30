@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary concrete curbing near me | We'll Take Care Of Everything" 
-            desc="Calgary concrete curbing near me: a  "
+            desc="Calgary concrete curbing near me: l I"
             canonical={`${props.website}/calgary-concrete-curbing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary concrete curbing near me" //KW
-            subtitle="a  "
+            subtitle="l I"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="y i"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="  i"
+            image="/window-installation.jpg"
             alt="Calgary concrete curbing near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Calgary concrete curbing near me" //KW
-            desc="c   o w"
+            desc="c l o o"
             image="/window-installations.jpg"
-            alt="Window Replacement"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="r"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="y"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2=" "
-            cardDesc3="n"
+            cardDesc1="e"
+            cardDesc2="e"
+            cardDesc3="l"
             />
             <Approach
             title="Calgary concrete curbing near me" //KW
-            desc="  ’ u f"
+            desc="  s   t"
             />
             <Intro
             subtitle="Exceptional Calgary concrete curbing near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="o s"
-            cardDesc3="s"
+            cardDesc1="h"
+            cardDesc2="s  "
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="n"
+            desc="a" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

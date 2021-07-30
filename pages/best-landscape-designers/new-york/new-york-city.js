@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City best landscape designers | We'll Take Care Of Everything" 
-            desc="New York City best landscape designers: w c"
+            desc="New York City best landscape designers: a P"
             canonical={`${props.website}/new-york-city-best-landscape-designers`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City best landscape designers" //KW
-            subtitle="w c"
+            subtitle="a P"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="i  "
+            subtitle="High-Quality Window Replacement"
+            desc="i g"
             image="/window-installation.jpg"
             alt="New York City best landscape designers"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional New York City best landscape designers" //KW
-            desc="l a o  "
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="a o o d"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="u"
+            subtitle="Affordable Window Replacement" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="t"
-            cardDesc3="n"
+            cardDesc1="a"
+            cardDesc2="n"
+            cardDesc3="o"
             />
             <Approach
             title="New York City best landscape designers" //KW
-            desc="  T v o"
+            desc="s   r  "
             />
             <Intro
             subtitle="Exceptional New York City best landscape designers" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="c  "
-            cardDesc3="i"
+            cardDesc1="i"
+            cardDesc2="  f"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="o" //KW
-            desc2="a"
+            desc2="y"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

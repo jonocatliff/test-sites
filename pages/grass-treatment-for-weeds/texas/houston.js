@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston grass treatment for weeds | We'll Take Care Of Everything" 
-            desc="Houston grass treatment for weeds: s r"
+            desc="Houston grass treatment for weeds: e  "
             canonical={`${props.website}/houston-grass-treatment-for-weeds`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston grass treatment for weeds" //KW
-            subtitle="s r"
+            subtitle="e  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="n n"
+            image="/window-installation.jpg"
             alt="Houston grass treatment for weeds"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Houston grass treatment for weeds" //KW
-            desc="y b , a"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="s n    "
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="i"
+            subtitle="Affordable Window Services" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="e"
-            cardDesc3="e"
+            cardDesc1="a"
+            cardDesc2="i"
+            cardDesc3="g"
             />
             <Approach
             title="Houston grass treatment for weeds" //KW
-            desc="w e n  "
+            desc="u   t f"
             />
             <Intro
             subtitle="Exceptional Houston grass treatment for weeds" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="c e"
-            cardDesc3=" "
+            cardDesc1="n"
+            cardDesc2="n o"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="e"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

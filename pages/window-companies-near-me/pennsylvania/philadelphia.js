@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia window companies near me | We'll Take Care Of Everything" 
-            desc="Philadelphia window companies near me: s l"
+            desc="Philadelphia window companies near me: a e"
             canonical={`${props.website}/philadelphia-window-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia window companies near me" //KW
-            subtitle="s l"
+            subtitle="a e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="m e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="  g"
+            image="/window-installations.jpg"
             alt="Philadelphia window companies near me"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Philadelphia window companies near me" //KW
-            desc="    i r"
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="e i x s"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="f"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="b"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="e"
-            cardDesc2="w"
-            cardDesc3=" "
+            cardDesc2="i"
+            cardDesc3="e"
             />
             <Approach
             title="Philadelphia window companies near me" //KW
-            desc="e   i  "
+            desc="A u w t"
             />
             <Intro
             subtitle="Exceptional Philadelphia window companies near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="e e"
-            cardDesc3="i"
+            cardDesc1="w"
+            cardDesc2="t w"
+            cardDesc3="f"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc=" " //KW
-            desc2="d"
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}

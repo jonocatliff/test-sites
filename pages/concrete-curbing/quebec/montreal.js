@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal concrete curbing | We'll Take Care Of Everything" 
-            desc="Montreal concrete curbing: i t"
+            desc="Montreal concrete curbing: w n"
             canonical={`${props.website}/montreal-concrete-curbing`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal concrete curbing" //KW
-            subtitle="i t"
+            subtitle="w n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r r"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="b  "
+            image="/window-washing.jpg"
             alt="Montreal concrete curbing"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Montreal concrete curbing" //KW
-            desc="a r   i"
+            desc="b I    "
             image="/contractor.jpg"
-            alt="Window Installations"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="m"
+            subtitle="Affordable Window Services" //KW
+            desc="q"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="o"
-            cardDesc3=" "
+            cardDesc1="e"
+            cardDesc2=" "
+            cardDesc3="e"
             />
             <Approach
             title="Montreal concrete curbing" //KW
-            desc="    r r"
+            desc="P   d  "
             />
             <Intro
             subtitle="Exceptional Montreal concrete curbing" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="o n"
-            cardDesc3="g"
+            cardDesc1="t"
+            cardDesc2="  f"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="r"
+            desc="t" //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}

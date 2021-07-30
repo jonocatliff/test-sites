@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston best window replacement company | We'll Take Care Of Everything" 
-            desc="Houston best window replacement company: t s"
+            desc="Houston best window replacement company: s  "
             canonical={`${props.website}/houston-best-window-replacement-company`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston best window replacement company" //KW
-            subtitle="t s"
+            subtitle="s  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="  d"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="l  "
+            image="/contractor.jpg"
             alt="Houston best window replacement company"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Houston best window replacement company" //KW
-            desc="l ! e a"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="l   o n"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="o"
+            subtitle="Affordable Window Repair" //KW
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
+            cardDesc1="t"
             cardDesc2="o"
-            cardDesc3=" "
+            cardDesc3="r"
             />
             <Approach
             title="Houston best window replacement company" //KW
-            desc="n T n c"
+            desc="P c t t"
             />
             <Intro
             subtitle="Exceptional Houston best window replacement company" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="   "
-            cardDesc3="n"
+            cardDesc1="u"
+            cardDesc2="l l"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="f" //KW
-            desc2="n"
+            desc="i" //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

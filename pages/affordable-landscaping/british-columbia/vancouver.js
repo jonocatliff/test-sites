@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver affordable landscaping | We'll Take Care Of Everything" 
-            desc="Vancouver affordable landscaping: f h"
+            desc="Vancouver affordable landscaping: i e"
             canonical={`${props.website}/vancouver-affordable-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver affordable landscaping" //KW
-            subtitle="f h"
+            subtitle="i e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="l c"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc=". e"
+            image="/window-washing.jpg"
             alt="Vancouver affordable landscaping"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Vancouver affordable landscaping" //KW
-            desc="d   v p"
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="t     t"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="r"
+            subtitle="Affordable Window Repair" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="s"
+            cardDesc1="n"
+            cardDesc2=" "
             cardDesc3=" "
             />
             <Approach
             title="Vancouver affordable landscaping" //KW
-            desc="i      "
+            desc="  o e h"
             />
             <Intro
             subtitle="Exceptional Vancouver affordable landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="  e"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="  w"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="o" //KW
-            desc2=" "
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}

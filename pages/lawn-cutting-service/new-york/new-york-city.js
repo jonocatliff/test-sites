@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City lawn cutting service | We'll Take Care Of Everything" 
-            desc="New York City lawn cutting service:   u"
+            desc="New York City lawn cutting service: s m"
             canonical={`${props.website}/new-york-city-lawn-cutting-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City lawn cutting service" //KW
-            subtitle="  u"
+            subtitle="s m"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="e i"
+            subtitle="High-Quality Window Installations"
+            desc="o d"
             image="/contractor.jpg"
             alt="New York City lawn cutting service"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional New York City lawn cutting service" //KW
-            desc="p d s y"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="e a i  "
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="r"
+            subtitle="Affordable Window Installations" //KW
+            desc="p"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="n"
-            cardDesc3="t"
+            cardDesc1="i"
+            cardDesc2="i"
+            cardDesc3="d"
             />
             <Approach
             title="New York City lawn cutting service" //KW
-            desc="r o   a"
+            desc="e t   a"
             />
             <Intro
             subtitle="Exceptional New York City lawn cutting service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="w d"
-            cardDesc3="t"
+            cardDesc1="p"
+            cardDesc2="e  "
+            cardDesc3="y"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2="h"
+            desc="h" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

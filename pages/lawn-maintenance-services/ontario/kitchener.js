@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener lawn maintenance services | We'll Take Care Of Everything" 
-            desc="Kitchener lawn maintenance services: d d"
+            desc="Kitchener lawn maintenance services:   o"
             canonical={`${props.website}/kitchener-lawn-maintenance-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener lawn maintenance services" //KW
-            subtitle="d d"
+            subtitle="  o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="e h"
+            subtitle="High-Quality Window Installations"
+            desc="i n"
             image="/window-washing.jpg"
             alt="Kitchener lawn maintenance services"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Kitchener lawn maintenance services" //KW
-            desc="s r o i"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="u s n t"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="w"
+            subtitle="Affordable Window Installations" //KW
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="a"
-            cardDesc3="o"
+            cardDesc1="i"
+            cardDesc2="e"
+            cardDesc3="n"
             />
             <Approach
             title="Kitchener lawn maintenance services" //KW
-            desc="s t r ."
+            desc=": , e r"
             />
             <Intro
             subtitle="Exceptional Kitchener lawn maintenance services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="a h"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="i f"
+            cardDesc3="I"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="s"
+            desc="d" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

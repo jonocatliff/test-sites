@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston home window installation near me | We'll Take Care Of Everything" 
-            desc="Houston home window installation near me:   e"
+            desc="Houston home window installation near me: a t"
             canonical={`${props.website}/houston-home-window-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston home window installation near me" //KW
-            subtitle="  e"
+            subtitle="a t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="e n"
+            subtitle="High-Quality Window Installations"
+            desc="n e"
             image="/window-installation.jpg"
             alt="Houston home window installation near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Houston home window installation near me" //KW
-            desc="x o t d"
+            desc="d t r o"
             image="/window-washing.jpg"
-            alt="Window Services"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="p"
+            subtitle="Affordable Window Installations" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="o"
+            cardDesc1="t"
+            cardDesc2="h"
             cardDesc3="o"
             />
             <Approach
             title="Houston home window installation near me" //KW
-            desc="  o d  "
+            desc="  l l  "
             />
             <Intro
             subtitle="Exceptional Houston home window installation near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="n i"
-            cardDesc3="w"
+            cardDesc1="e"
+            cardDesc2="e o"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="e"
+            desc="o" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City window installation contractor | We'll Take Care Of Everything" 
-            desc="New York City window installation contractor: u i"
+            desc="New York City window installation contractor: o t"
             canonical={`${props.website}/new-york-city-window-installation-contractor`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City window installation contractor" //KW
-            subtitle="u i"
+            subtitle="o t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="   "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="  t"
+            image="/contractor.jpg"
             alt="New York City window installation contractor"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional New York City window installation contractor" //KW
-            desc="h s n w"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="  t r o"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="d"
+            subtitle="Affordable Window Services" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="o"
-            cardDesc3="h"
+            cardDesc1="r"
+            cardDesc2="n"
+            cardDesc3="t"
             />
             <Approach
             title="New York City window installation contractor" //KW
-            desc=", e n o"
+            desc="i d h y"
             />
             <Intro
             subtitle="Exceptional New York City window installation contractor" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="c o"
-            cardDesc3="d"
+            cardDesc1="h"
+            cardDesc2="d r"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="p"
+            desc="i" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}

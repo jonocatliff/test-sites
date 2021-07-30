@@ -33,31 +33,31 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="s  "
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="  r"
+            image="/contractor.jpg"
             alt="Phoenix garden landscape design"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Phoenix garden landscape design" //KW
-            desc="  s e ."
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="w   n a"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="e"
+            subtitle="Affordable Window Services" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
+            cardDesc1="s"
             cardDesc2="i"
             cardDesc3="e"
             />
             <Approach
             title="Phoenix garden landscape design" //KW
-            desc="o l   i"
+            desc="n e t  "
             />
             <Intro
             subtitle="Exceptional Phoenix garden landscape design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="d r"
-            cardDesc3="i"
+            cardDesc1="e"
+            cardDesc2="  f"
+            cardDesc3="c"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="e"
+            desc="r" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

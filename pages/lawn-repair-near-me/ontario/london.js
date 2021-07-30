@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London lawn repair near me | We'll Take Care Of Everything" 
-            desc="London lawn repair near me: w e"
+            desc="London lawn repair near me: i  "
             canonical={`${props.website}/london-lawn-repair-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London lawn repair near me" //KW
-            subtitle="w e"
+            subtitle="i  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="l t"
-            image="/window-installation.jpg"
+            desc="y t"
+            image="/window-washing.jpg"
             alt="London lawn repair near me"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional London lawn repair near me" //KW
-            desc="n l c  "
+            desc="a d e  "
             image="/contractor.jpg"
             alt="Window Services"
             />
             <Savings
             subtitle="Affordable Window Services" //KW
-            desc=" "
+            desc="m"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="n"
-            cardDesc3="c"
+            cardDesc1=" "
+            cardDesc2="r"
+            cardDesc3="w"
             />
             <Approach
             title="London lawn repair near me" //KW
-            desc="a   o e"
+            desc="o d l  "
             />
             <Intro
             subtitle="Exceptional London lawn repair near me" //KW
@@ -66,13 +66,13 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="s"
-            cardDesc2="r  "
-            cardDesc3="s"
+            cardDesc2="d r"
+            cardDesc3="g"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="t"
+            desc=" " //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}

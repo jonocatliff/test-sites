@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago basement egress window replacement | We'll Take Care Of Everything" 
-            desc="Chicago basement egress window replacement: s d"
+            desc="Chicago basement egress window replacement: w  "
             canonical={`${props.website}/chicago-basement-egress-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago basement egress window replacement" //KW
-            subtitle="s d"
+            subtitle="w  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="s b"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="r p"
+            image="/window-installations.jpg"
             alt="Chicago basement egress window replacement"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Chicago basement egress window replacement" //KW
-            desc="s l m t"
+            desc="i s n o"
             image="/contractor.jpg"
-            alt="Window Repair"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="d"
+            subtitle="Affordable Window Services" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="s"
+            cardDesc1="t"
+            cardDesc2="i"
             cardDesc3="s"
             />
             <Approach
             title="Chicago basement egress window replacement" //KW
-            desc="s t d g"
+            desc="s a d  "
             />
             <Intro
             subtitle="Exceptional Chicago basement egress window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="s r"
-            cardDesc3="s"
+            cardDesc1=" "
+            cardDesc2="   "
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="s"
+            desc="a" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

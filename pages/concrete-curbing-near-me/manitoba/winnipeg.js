@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg concrete curbing near me | We'll Take Care Of Everything" 
-            desc="Winnipeg concrete curbing near me: r  "
+            desc="Winnipeg concrete curbing near me: f i"
             canonical={`${props.website}/winnipeg-concrete-curbing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg concrete curbing near me" //KW
-            subtitle="r  "
+            subtitle="f i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="b  "
+            subtitle="High-Quality Window Cleaning"
+            desc="i e"
             image="/window-washing.jpg"
             alt="Winnipeg concrete curbing near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Winnipeg concrete curbing near me" //KW
-            desc="h l t s"
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="h e e s"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="v"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="w"
-            cardDesc3=" "
+            cardDesc1="a"
+            cardDesc2="e"
+            cardDesc3="d"
             />
             <Approach
             title="Winnipeg concrete curbing near me" //KW
-            desc="o t y s"
+            desc="y e   a"
             />
             <Intro
             subtitle="Exceptional Winnipeg concrete curbing near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="n f"
-            cardDesc3="r"
+            cardDesc1="r"
+            cardDesc2="m c"
+            cardDesc3="c"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2=" "
+            desc="r" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

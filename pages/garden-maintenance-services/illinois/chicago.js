@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago garden maintenance services | We'll Take Care Of Everything" 
-            desc="Chicago garden maintenance services:    "
+            desc="Chicago garden maintenance services:   h"
             canonical={`${props.website}/chicago-garden-maintenance-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago garden maintenance services" //KW
-            subtitle="   "
+            subtitle="  h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="l r"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="v i"
+            image="/window-installation.jpg"
             alt="Chicago garden maintenance services"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Chicago garden maintenance services" //KW
-            desc="o   r o"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="y l a l"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="a"
+            subtitle="Affordable Window Services" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="f"
-            cardDesc2="v"
-            cardDesc3="o"
+            cardDesc1="l"
+            cardDesc2="h"
+            cardDesc3=" "
             />
             <Approach
             title="Chicago garden maintenance services" //KW
-            desc="n     h"
+            desc="    e s"
             />
             <Intro
             subtitle="Exceptional Chicago garden maintenance services" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="c r"
-            cardDesc3="v"
+            cardDesc1=" "
+            cardDesc2="y w"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
+            desc=" " //KW
             desc2="c"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

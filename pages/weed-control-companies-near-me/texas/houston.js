@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston weed control companies near me | We'll Take Care Of Everything" 
-            desc="Houston weed control companies near me:    "
+            desc="Houston weed control companies near me: e o"
             canonical={`${props.website}/houston-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston weed control companies near me" //KW
-            subtitle="   "
+            subtitle="e o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="l d"
+            subtitle="High-Quality Window Replacement"
+            desc="e n"
             image="/window-washing.jpg"
             alt="Houston weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Houston weed control companies near me" //KW
-            desc="w a   undefined"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="w r e undefined"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="s"
-            cardDesc3="p"
+            cardDesc1=" "
+            cardDesc2="d"
+            cardDesc3=" "
             />
             <Approach
             title="Houston weed control companies near me" //KW
-            desc="l s n l"
+            desc="u f o n"
             />
             <Intro
             subtitle="Exceptional Houston weed control companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="d undefined"
-            cardDesc3="o"
+            cardDesc1="c"
+            cardDesc2="  undefined"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="f"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

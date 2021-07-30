@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City retaining wall landscaping | We'll Take Care Of Everything" 
-            desc="Quebec City retaining wall landscaping: a  "
+            desc="Quebec City retaining wall landscaping:   r"
             canonical={`${props.website}/quebec-city-retaining-wall-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City retaining wall landscaping" //KW
-            subtitle="a  "
+            subtitle="  r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="  e"
+            subtitle="High-Quality Window Services"
+            desc="y h"
             image="/window-installation.jpg"
             alt="Quebec City retaining wall landscaping"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Quebec City retaining wall landscaping" //KW
-            desc="t i d undefined"
-            image="/window-washing.jpg"
-            alt="Window Replacement"
+            desc="e f d undefined"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="g"
-            cardDesc3="l"
+            cardDesc1=" "
+            cardDesc2="r"
+            cardDesc3="a"
             />
             <Approach
             title="Quebec City retaining wall landscaping" //KW
-            desc="  i   n"
+            desc="r t e  "
             />
             <Intro
             subtitle="Exceptional Quebec City retaining wall landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="p undefined"
-            cardDesc3="P"
+            cardDesc1="p"
+            cardDesc2="P undefined"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="n"
+            desc="o" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

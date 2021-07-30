@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia outdoor landscape design | We'll Take Care Of Everything" 
-            desc="Philadelphia outdoor landscape design: n y"
+            desc="Philadelphia outdoor landscape design:   e"
             canonical={`${props.website}/philadelphia-outdoor-landscape-design`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Philadelphia outdoor landscape design" //KW
-            subtitle="n y"
+            subtitle="  e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="s p"
-            image="/window-installations.jpg"
+            desc="o o"
+            image="/window-installation.jpg"
             alt="Philadelphia outdoor landscape design"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Philadelphia outdoor landscape design" //KW
-            desc="b a . undefined"
-            image="/window-installation.jpg"
+            desc="c v   undefined"
+            image="/contractor.jpg"
             alt="Window Replacement"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="h"
-            cardDesc3="p"
+            cardDesc1="l"
+            cardDesc2="t"
+            cardDesc3="g"
             />
             <Approach
             title="Philadelphia outdoor landscape design" //KW
-            desc="w r a v"
+            desc="g   h  "
             />
             <Intro
             subtitle="Exceptional Philadelphia outdoor landscape design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
+            cardDesc1="a"
             cardDesc2="  undefined"
-            cardDesc3="w"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2=","
+            desc=" " //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

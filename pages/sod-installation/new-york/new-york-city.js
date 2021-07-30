@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City sod installation | We'll Take Care Of Everything" 
-            desc="New York City sod installation: v ’"
+            desc="New York City sod installation: m n"
             canonical={`${props.website}/new-york-city-sod-installation`}
             />
             <Navigationbar
@@ -29,19 +29,19 @@
             />
             <Header
             title="New York City sod installation" //KW
-            subtitle="v ’"
+            subtitle="m n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
-            desc="w  "
+            desc="  e"
             image="/window-washing.jpg"
             alt="New York City sod installation"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional New York City sod installation" //KW
-            desc="n o t undefined"
+            desc="n a o undefined"
             image="/window-installation.jpg"
             alt="Window Repair"
             />
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2=" "
-            cardDesc3="u"
+            cardDesc1="e"
+            cardDesc2="l"
+            cardDesc3="h"
             />
             <Approach
             title="New York City sod installation" //KW
-            desc="  c r w"
+            desc="o p i s"
             />
             <Intro
             subtitle="Exceptional New York City sod installation" //KW
@@ -66,13 +66,13 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="i"
-            cardDesc2="i undefined"
-            cardDesc3=" "
+            cardDesc2="s undefined"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="l"
+            desc="m" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

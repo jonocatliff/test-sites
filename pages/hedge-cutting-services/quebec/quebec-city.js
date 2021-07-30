@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City hedge cutting services | We'll Take Care Of Everything" 
-            desc="Quebec City hedge cutting services: o h"
+            desc="Quebec City hedge cutting services:   e"
             canonical={`${props.website}/quebec-city-hedge-cutting-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City hedge cutting services" //KW
-            subtitle="o h"
+            subtitle="  e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="a i"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="l u"
+            image="/window-washing.jpg"
             alt="Quebec City hedge cutting services"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Quebec City hedge cutting services" //KW
-            desc="o r r  "
-            image="/window-installation.jpg"
-            alt="Window Repair"
+            desc="o e    "
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
+            cardDesc1="a"
             cardDesc2=" "
-            cardDesc3="n"
+            cardDesc3="t"
             />
             <Approach
             title="Quebec City hedge cutting services" //KW
-            desc="y a r  "
+            desc="  a a  "
             />
             <Intro
             subtitle="Exceptional Quebec City hedge cutting services" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="i w"
+            cardDesc1="i"
+            cardDesc2="n i"
             cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
+            desc=" " //KW
             desc2="o"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

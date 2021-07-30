@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary backyard landscape design | We'll Take Care Of Everything" 
-            desc="Calgary backyard landscape design: u d"
+            desc="Calgary backyard landscape design: n i"
             canonical={`${props.website}/calgary-backyard-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary backyard landscape design" //KW
-            subtitle="u d"
+            subtitle="n i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="n W"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="s a"
+            image="/contractor.jpg"
             alt="Calgary backyard landscape design"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Calgary backyard landscape design" //KW
-            desc="  b e u"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="  f   x"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="l"
+            subtitle="Affordable Window Installations" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="n"
-            cardDesc3="w"
+            cardDesc1="m"
+            cardDesc2="e"
+            cardDesc3="i"
             />
             <Approach
             title="Calgary backyard landscape design" //KW
-            desc="  l d  "
+            desc="g s o r"
             />
             <Intro
             subtitle="Exceptional Calgary backyard landscape design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="i l"
-            cardDesc3="m"
+            cardDesc1="i"
+            cardDesc2="o n"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2=" "
+            desc="a" //KW
+            desc2="m"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

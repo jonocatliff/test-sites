@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City pruning hedges | We'll Take Care Of Everything" 
-            desc="Quebec City pruning hedges: r t"
+            desc="Quebec City pruning hedges: w e"
             canonical={`${props.website}/quebec-city-pruning-hedges`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City pruning hedges" //KW
-            subtitle="r t"
+            subtitle="w e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="v a"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="  o"
+            image="/contractor.jpg"
             alt="Quebec City pruning hedges"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Quebec City pruning hedges" //KW
-            desc="d i s undefined"
+            desc="P   s undefined"
             image="/window-installations.jpg"
-            alt="Window Repair"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2=" "
-            cardDesc3="r"
+            cardDesc1=" "
+            cardDesc2="s"
+            cardDesc3=" "
             />
             <Approach
             title="Quebec City pruning hedges" //KW
-            desc="g t   w"
+            desc="o s   o"
             />
             <Intro
             subtitle="Exceptional Quebec City pruning hedges" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="  undefined"
-            cardDesc3="n"
+            cardDesc1="o"
+            cardDesc2="a undefined"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="l"
+            desc=" " //KW
+            desc2="I"
             />
             <Footer 
             companyName={props.companyName}

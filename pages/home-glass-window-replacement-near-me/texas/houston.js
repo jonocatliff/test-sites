@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston home glass window replacement near me | We'll Take Care Of Everything" 
-            desc="Houston home glass window replacement near me: o i"
+            desc="Houston home glass window replacement near me: o  "
             canonical={`${props.website}/houston-home-glass-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston home glass window replacement near me" //KW
-            subtitle="o i"
+            subtitle="o  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="   "
-            image="/window-installation.jpg"
+            desc="u  "
+            image="/window-washing.jpg"
             alt="Houston home glass window replacement near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Houston home glass window replacement near me" //KW
-            desc="m r o h"
+            desc="e r s r"
             image="/contractor.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="u"
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
+            cardDesc1="d"
             cardDesc2="l"
-            cardDesc3="a"
+            cardDesc3="P"
             />
             <Approach
             title="Houston home glass window replacement near me" //KW
-            desc="w   t e"
+            desc="h n j h"
             />
             <Intro
             subtitle="Exceptional Houston home glass window replacement near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2="t n"
-            cardDesc3="e"
+            cardDesc1="r"
+            cardDesc2="  t"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc=" " //KW
-            desc2="o"
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

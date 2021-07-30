@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City basement window installation | We'll Take Care Of Everything" 
-            desc="Quebec City basement window installation: n e"
+            desc="Quebec City basement window installation: n d"
             canonical={`${props.website}/quebec-city-basement-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City basement window installation" //KW
-            subtitle="n e"
+            subtitle="n d"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="s t"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="i o"
+            image="/window-installations.jpg"
             alt="Quebec City basement window installation"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Quebec City basement window installation" //KW
-            desc="y e h o"
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="r o a s"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="i"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="r"
-            cardDesc3="w"
+            cardDesc1="i"
+            cardDesc2=" "
+            cardDesc3="h"
             />
             <Approach
             title="Quebec City basement window installation" //KW
-            desc="o o   t"
+            desc="i e   u"
             />
             <Intro
             subtitle="Exceptional Quebec City basement window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="n e"
-            cardDesc3="s"
+            cardDesc1="c"
+            cardDesc2="c a"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="y" //KW
-            desc2="s"
+            desc="a" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

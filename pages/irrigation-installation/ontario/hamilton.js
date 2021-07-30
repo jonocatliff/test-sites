@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton irrigation installation | We'll Take Care Of Everything" 
-            desc="Hamilton irrigation installation: a r"
+            desc="Hamilton irrigation installation: w w"
             canonical={`${props.website}/hamilton-irrigation-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton irrigation installation" //KW
-            subtitle="a r"
+            subtitle="w w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="e w"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="y r"
+            image="/window-washing.jpg"
             alt="Hamilton irrigation installation"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Hamilton irrigation installation" //KW
-            desc="h o   y"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="o a e i"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="i"
+            subtitle="Affordable Window Services" //KW
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2=" "
-            cardDesc3="c"
+            cardDesc1="f"
+            cardDesc2="i"
+            cardDesc3=" "
             />
             <Approach
             title="Hamilton irrigation installation" //KW
-            desc="w q    "
+            desc="c l t o"
             />
             <Intro
             subtitle="Exceptional Hamilton irrigation installation" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="l"
-            cardDesc2="o t"
-            cardDesc3="s"
+            cardDesc1="o"
+            cardDesc2="n w"
+            cardDesc3=","
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
-            desc2="r"
+            desc=" " //KW
+            desc2="h"
             />
             <Footer 
             companyName={props.companyName}

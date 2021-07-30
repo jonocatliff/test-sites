@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago concrete curbing near me | We'll Take Care Of Everything" 
-            desc="Chicago concrete curbing near me: t  "
+            desc="Chicago concrete curbing near me: n a"
             canonical={`${props.website}/chicago-concrete-curbing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago concrete curbing near me" //KW
-            subtitle="t  "
+            subtitle="n a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="f i"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="e p"
+            image="/window-installation.jpg"
             alt="Chicago concrete curbing near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Chicago concrete curbing near me" //KW
-            desc="a d i u"
-            image="/window-washing.jpg"
-            alt="Window Replacement"
+            desc="a i o t"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="e"
+            subtitle="Affordable Window Installations" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="w"
-            cardDesc3=" "
+            cardDesc1="y"
+            cardDesc2="r"
+            cardDesc3="t"
             />
             <Approach
             title="Chicago concrete curbing near me" //KW
-            desc="f o t s"
+            desc="n r h t"
             />
             <Intro
             subtitle="Exceptional Chicago concrete curbing near me" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="y t"
-            cardDesc3="i"
+            cardDesc1="i"
+            cardDesc2="e s"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
+            desc="p" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

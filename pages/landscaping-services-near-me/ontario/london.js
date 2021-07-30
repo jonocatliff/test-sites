@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London landscaping services near me | We'll Take Care Of Everything" 
-            desc="London landscaping services near me: o  "
+            desc="London landscaping services near me: o t"
             canonical={`${props.website}/london-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London landscaping services near me" //KW
-            subtitle="o  "
+            subtitle="o t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="y f"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="r d"
+            image="/window-installation.jpg"
             alt="London landscaping services near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional London landscaping services near me" //KW
-            desc="d l e a"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="p w e u"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="y"
+            subtitle="Affordable Window Installations" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="x"
-            cardDesc2="o"
-            cardDesc3="k"
+            cardDesc1=" "
+            cardDesc2="y"
+            cardDesc3="o"
             />
             <Approach
             title="London landscaping services near me" //KW
-            desc="  e    "
+            desc="o c n b"
             />
             <Intro
             subtitle="Exceptional London landscaping services near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="s a"
-            cardDesc3="t"
+            cardDesc1="r"
+            cardDesc2="i p"
+            cardDesc3="u"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2=" "
+            desc="n" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

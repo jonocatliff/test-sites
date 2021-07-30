@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa weed control companies near me | We'll Take Care Of Everything" 
-            desc="Ottowa weed control companies near me:   r"
+            desc="Ottowa weed control companies near me: i l"
             canonical={`${props.website}/ottowa-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa weed control companies near me" //KW
-            subtitle="  r"
+            subtitle="i l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="a  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="i g"
+            image="/contractor.jpg"
             alt="Ottowa weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Ottowa weed control companies near me" //KW
-            desc="h   r undefined"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="h l r undefined"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="o"
-            cardDesc3="i"
+            cardDesc1=" "
+            cardDesc2=" "
+            cardDesc3="n"
             />
             <Approach
             title="Ottowa weed control companies near me" //KW
-            desc="n f a u"
+            desc="a r t w"
             />
             <Intro
             subtitle="Exceptional Ottowa weed control companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="I undefined"
-            cardDesc3="s"
+            cardDesc1=" "
+            cardDesc2="r undefined"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2=" "
+            desc="e" //KW
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

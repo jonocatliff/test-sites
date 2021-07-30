@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa home glass window replacement near me | We'll Take Care Of Everything" 
-            desc="Ottowa home glass window replacement near me:    "
+            desc="Ottowa home glass window replacement near me: w o"
             canonical={`${props.website}/ottowa-home-glass-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa home glass window replacement near me" //KW
-            subtitle="   "
+            subtitle="w o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
+            subtitle="High-Quality Window Services"
             desc="s  "
-            image="/contractor.jpg"
+            image="/window-installation.jpg"
             alt="Ottowa home glass window replacement near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Ottowa home glass window replacement near me" //KW
-            desc="n r c o"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="e e f  "
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="a"
+            subtitle="Affordable Window Services" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="."
-            cardDesc2="t"
-            cardDesc3="o"
+            cardDesc1="s"
+            cardDesc2="i"
+            cardDesc3="s"
             />
             <Approach
             title="Ottowa home glass window replacement near me" //KW
-            desc="s m h s"
+            desc="A f   o"
             />
             <Intro
             subtitle="Exceptional Ottowa home glass window replacement near me" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="r a"
-            cardDesc3="o"
+            cardDesc1="c"
+            cardDesc2="i r"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
+            desc="h" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

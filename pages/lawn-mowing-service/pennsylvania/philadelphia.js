@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia lawn mowing service | We'll Take Care Of Everything" 
-            desc="Philadelphia lawn mowing service: a t"
+            desc="Philadelphia lawn mowing service: h p"
             canonical={`${props.website}/philadelphia-lawn-mowing-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia lawn mowing service" //KW
-            subtitle="a t"
+            subtitle="h p"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="n i"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="s  "
+            image="/window-installations.jpg"
             alt="Philadelphia lawn mowing service"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Philadelphia lawn mowing service" //KW
-            desc="i o e ."
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="r   a  "
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="q"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="v"
-            cardDesc3=" "
+            cardDesc1="n"
+            cardDesc2="w"
+            cardDesc3="p"
             />
             <Approach
             title="Philadelphia lawn mowing service" //KW
-            desc="d s   r"
+            desc="d e w i"
             />
             <Intro
             subtitle="Exceptional Philadelphia lawn mowing service" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="i s"
-            cardDesc3="l"
+            cardDesc1="e"
+            cardDesc2="  u"
+            cardDesc3="g"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="b" //KW
-            desc2="o"
+            desc="a" //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}

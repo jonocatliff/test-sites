@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix hedge trimming | We'll Take Care Of Everything" 
-            desc="Phoenix hedge trimming: r t"
+            desc="Phoenix hedge trimming:   o"
             canonical={`${props.website}/phoenix-hedge-trimming`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix hedge trimming" //KW
-            subtitle="r t"
+            subtitle="  o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  i"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="l n"
+            image="/window-installations.jpg"
             alt="Phoenix hedge trimming"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Phoenix hedge trimming" //KW
-            desc="d i o  "
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="m o   e"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="o"
+            subtitle="Affordable Window Repair" //KW
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="d"
-            cardDesc3="p"
+            cardDesc1="s"
+            cardDesc2="r"
+            cardDesc3="r"
             />
             <Approach
             title="Phoenix hedge trimming" //KW
-            desc="u o e s"
+            desc="r   r a"
             />
             <Intro
             subtitle="Exceptional Phoenix hedge trimming" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="e t"
-            cardDesc3="s"
+            cardDesc1="e"
+            cardDesc2="p r"
+            cardDesc3="A"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="r"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

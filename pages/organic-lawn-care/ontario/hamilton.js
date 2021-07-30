@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton organic lawn care | We'll Take Care Of Everything" 
-            desc="Hamilton organic lawn care: i t"
+            desc="Hamilton organic lawn care: o w"
             canonical={`${props.website}/hamilton-organic-lawn-care`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Hamilton organic lawn care" //KW
-            subtitle="i t"
+            subtitle="o w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Installations"
-            desc="n W"
-            image="/window-washing.jpg"
+            desc="p t"
+            image="/contractor.jpg"
             alt="Hamilton organic lawn care"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Hamilton organic lawn care" //KW
-            desc="m w t undefined"
-            image="/window-installations.jpg"
+            desc="x . l undefined"
+            image="/window-installation.jpg"
             alt="Window Installations"
             />
             <Savings
@@ -52,12 +52,12 @@
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="o"
-            cardDesc2="g"
-            cardDesc3="f"
+            cardDesc2="r"
+            cardDesc3=" "
             />
             <Approach
             title="Hamilton organic lawn care" //KW
-            desc="a   t  "
+            desc="  b O  "
             />
             <Intro
             subtitle="Exceptional Hamilton organic lawn care" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="e undefined"
-            cardDesc3="l"
+            cardDesc1=" "
+            cardDesc2="  undefined"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="i"
+            desc="r" //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

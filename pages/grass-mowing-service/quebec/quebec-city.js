@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City grass mowing service | We'll Take Care Of Everything" 
-            desc="Quebec City grass mowing service: t  "
+            desc="Quebec City grass mowing service: e i"
             canonical={`${props.website}/quebec-city-grass-mowing-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City grass mowing service" //KW
-            subtitle="t  "
+            subtitle="e i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="y  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="d o"
+            image="/window-installation.jpg"
             alt="Quebec City grass mowing service"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Quebec City grass mowing service" //KW
-            desc="c o i  "
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="c c s r"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc=" "
+            subtitle="Affordable Window Replacement" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="i"
-            cardDesc3="n"
+            cardDesc1="t"
+            cardDesc2="n"
+            cardDesc3=" "
             />
             <Approach
             title="Quebec City grass mowing service" //KW
-            desc="g   s  "
+            desc="    o  "
             />
             <Intro
             subtitle="Exceptional Quebec City grass mowing service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="o a"
-            cardDesc3=" "
+            cardDesc1="o"
+            cardDesc2="l n"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="r"
+            desc=" " //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

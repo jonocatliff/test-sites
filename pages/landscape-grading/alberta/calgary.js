@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary landscape grading | We'll Take Care Of Everything" 
-            desc="Calgary landscape grading: p t"
+            desc="Calgary landscape grading: W s"
             canonical={`${props.website}/calgary-landscape-grading`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary landscape grading" //KW
-            subtitle="p t"
+            subtitle="W s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="r n"
-            image="/contractor.jpg"
+            desc="r h"
+            image="/window-installation.jpg"
             alt="Calgary landscape grading"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Calgary landscape grading" //KW
-            desc="  w o  "
-            image="/window-installation.jpg"
+            desc="  f e e"
+            image="/contractor.jpg"
             alt="Window Cleaning"
             />
             <Savings
             subtitle="Affordable Window Cleaning" //KW
-            desc="r"
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="n"
-            cardDesc3="."
+            cardDesc1="s"
+            cardDesc2="r"
+            cardDesc3="g"
             />
             <Approach
             title="Calgary landscape grading" //KW
-            desc="o e    "
+            desc="h r h  "
             />
             <Intro
             subtitle="Exceptional Calgary landscape grading" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="e f"
-            cardDesc3="a"
+            cardDesc1="e"
+            cardDesc2="o s"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="a"
+            desc="d" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}

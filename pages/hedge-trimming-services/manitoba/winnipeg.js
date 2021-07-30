@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg hedge trimming services | We'll Take Care Of Everything" 
-            desc="Winnipeg hedge trimming services: i s"
+            desc="Winnipeg hedge trimming services: n w"
             canonical={`${props.website}/winnipeg-hedge-trimming-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg hedge trimming services" //KW
-            subtitle="i s"
+            subtitle="n w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="u e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="e  "
+            image="/window-washing.jpg"
             alt="Winnipeg hedge trimming services"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Winnipeg hedge trimming services" //KW
-            desc="o d i  "
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="o r p w"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="s"
+            subtitle="Affordable Window Cleaning" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="n"
-            cardDesc3="w"
+            cardDesc1=" "
+            cardDesc2="r"
+            cardDesc3="W"
             />
             <Approach
             title="Winnipeg hedge trimming services" //KW
-            desc="e r t  "
+            desc="r e t  "
             />
             <Intro
             subtitle="Exceptional Winnipeg hedge trimming services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="n i"
-            cardDesc3="r"
+            cardDesc1="u"
+            cardDesc2="p o"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="u"
+            desc="d" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

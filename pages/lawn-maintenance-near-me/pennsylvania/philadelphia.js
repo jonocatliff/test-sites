@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia lawn maintenance near me | We'll Take Care Of Everything" 
-            desc="Philadelphia lawn maintenance near me: a u"
+            desc="Philadelphia lawn maintenance near me: n e"
             canonical={`${props.website}/philadelphia-lawn-maintenance-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia lawn maintenance near me" //KW
-            subtitle="a u"
+            subtitle="n e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="   "
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="v o"
+            image="/window-installation.jpg"
             alt="Philadelphia lawn maintenance near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Philadelphia lawn maintenance near me" //KW
-            desc="i d    "
+            desc="y y u  "
             image="/window-installations.jpg"
-            alt="Window Cleaning"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="r"
+            subtitle="Affordable Window Repair" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="n"
-            cardDesc3="t"
+            cardDesc1="l"
+            cardDesc2="t"
+            cardDesc3="y"
             />
             <Approach
             title="Philadelphia lawn maintenance near me" //KW
-            desc="s u   f"
+            desc="t v t o"
             />
             <Intro
             subtitle="Exceptional Philadelphia lawn maintenance near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="  i"
-            cardDesc3="r"
+            cardDesc1="w"
+            cardDesc2="I t"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="A" //KW
-            desc2="y"
+            desc="e" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

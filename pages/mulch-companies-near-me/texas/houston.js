@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston mulch companies near me | We'll Take Care Of Everything" 
-            desc="Houston mulch companies near me: t i"
+            desc="Houston mulch companies near me: d ."
             canonical={`${props.website}/houston-mulch-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston mulch companies near me" //KW
-            subtitle="t i"
+            subtitle="d ."
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="d r"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="s i"
+            image="/window-installation.jpg"
             alt="Houston mulch companies near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Houston mulch companies near me" //KW
-            desc="u o s n"
+            desc="a   t  "
             image="/contractor.jpg"
-            alt="Window Repair"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
-            cardDesc2="l"
-            cardDesc3=","
+            cardDesc1=" "
+            cardDesc2="i"
+            cardDesc3="r"
             />
             <Approach
             title="Houston mulch companies near me" //KW
-            desc="n p x  "
+            desc="a p   d"
             />
             <Intro
             subtitle="Exceptional Houston mulch companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="s undefined"
-            cardDesc3="p"
+            cardDesc1="i"
+            cardDesc2="a a"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="m" //KW
-            desc2="e"
+            desc="u" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

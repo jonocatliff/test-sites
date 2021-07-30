@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa lawn care companies near me | We'll Take Care Of Everything" 
-            desc="Ottowa lawn care companies near me: n y"
+            desc="Ottowa lawn care companies near me: P o"
             canonical={`${props.website}/ottowa-lawn-care-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa lawn care companies near me" //KW
-            subtitle="n y"
+            subtitle="P o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="p i"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="  g"
+            image="/contractor.jpg"
             alt="Ottowa lawn care companies near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Ottowa lawn care companies near me" //KW
-            desc="  h   o"
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="    e i"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="a"
+            subtitle="Affordable Window Services" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="o"
-            cardDesc2=" "
-            cardDesc3="g"
+            cardDesc2="a"
+            cardDesc3="c"
             />
             <Approach
             title="Ottowa lawn care companies near me" //KW
-            desc="n   y a"
+            desc="t u   r"
             />
             <Intro
             subtitle="Exceptional Ottowa lawn care companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="O k"
-            cardDesc3="n"
+            cardDesc1="n"
+            cardDesc2="t u"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc=" " //KW
-            desc2="n"
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

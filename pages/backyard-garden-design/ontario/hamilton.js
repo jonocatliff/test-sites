@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton backyard garden design | We'll Take Care Of Everything" 
-            desc="Hamilton backyard garden design: r o"
+            desc="Hamilton backyard garden design: t t"
             canonical={`${props.website}/hamilton-backyard-garden-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton backyard garden design" //KW
-            subtitle="r o"
+            subtitle="t t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="f t"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="s i"
+            image="/contractor.jpg"
             alt="Hamilton backyard garden design"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Hamilton backyard garden design" //KW
-            desc="y   o u"
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="y t c h"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc=" "
+            subtitle="Affordable Window Repair" //KW
+            desc="p"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="x"
-            cardDesc3="n"
+            cardDesc1="s"
+            cardDesc2="o"
+            cardDesc3="d"
             />
             <Approach
             title="Hamilton backyard garden design" //KW
-            desc="r o u w"
+            desc="a o h o"
             />
             <Intro
             subtitle="Exceptional Hamilton backyard garden design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="s a"
-            cardDesc3="e"
+            cardDesc1=" "
+            cardDesc2="n F"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="l"
+            desc="a" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

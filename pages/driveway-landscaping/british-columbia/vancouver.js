@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver driveway landscaping | We'll Take Care Of Everything" 
-            desc="Vancouver driveway landscaping:   n"
+            desc="Vancouver driveway landscaping: a Y"
             canonical={`${props.website}/vancouver-driveway-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver driveway landscaping" //KW
-            subtitle="  n"
+            subtitle="a Y"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="r  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="l  "
+            image="/window-washing.jpg"
             alt="Vancouver driveway landscaping"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Vancouver driveway landscaping" //KW
-            desc="d l n a"
-            image="/window-washing.jpg"
-            alt="Window Replacement"
+            desc="  s i i"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="r"
+            subtitle="Affordable Window Installations" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=","
-            cardDesc2="d"
-            cardDesc3="y"
+            cardDesc1=" "
+            cardDesc2="y"
+            cardDesc3="t"
             />
             <Approach
             title="Vancouver driveway landscaping" //KW
-            desc="a l u n"
+            desc="h o   o"
             />
             <Intro
             subtitle="Exceptional Vancouver driveway landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="   "
-            cardDesc3="h"
+            cardDesc1="y"
+            cardDesc2="s r"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="e"
+            desc="i" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

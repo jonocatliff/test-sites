@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles window and door installation | We'll Take Care Of Everything" 
-            desc="Los Angeles window and door installation:   e"
+            desc="Los Angeles window and door installation: i s"
             canonical={`${props.website}/los-angeles-window-and-door-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles window and door installation" //KW
-            subtitle="  e"
+            subtitle="i s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="l t"
+            subtitle="High-Quality Window Repair"
+            desc="  v"
             image="/window-installation.jpg"
             alt="Los Angeles window and door installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Los Angeles window and door installation" //KW
-            desc="r l   a"
+            desc="i W c i"
             image="/contractor.jpg"
-            alt="Window Services"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="e"
+            subtitle="Affordable Window Repair" //KW
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="."
-            cardDesc2="o"
-            cardDesc3="o"
+            cardDesc1="e"
+            cardDesc2="s"
+            cardDesc3="t"
             />
             <Approach
             title="Los Angeles window and door installation" //KW
-            desc="o m   h"
+            desc="r   r  "
             />
             <Intro
             subtitle="Exceptional Los Angeles window and door installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="i u"
-            cardDesc3="e"
+            cardDesc1="o"
+            cardDesc2="o h"
+            cardDesc3="u"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="c"
+            desc="s" //KW
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

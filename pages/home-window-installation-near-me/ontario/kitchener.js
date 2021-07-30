@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener home window installation near me | We'll Take Care Of Everything" 
-            desc="Kitchener home window installation near me: o g"
+            desc="Kitchener home window installation near me: i t"
             canonical={`${props.website}/kitchener-home-window-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener home window installation near me" //KW
-            subtitle="o g"
+            subtitle="i t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="y l"
+            subtitle="High-Quality Window Replacement"
+            desc="  m"
             image="/window-installations.jpg"
             alt="Kitchener home window installation near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Kitchener home window installation near me" //KW
-            desc="t   a e"
+            desc="w s c r"
             image="/window-washing.jpg"
-            alt="Window Services"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="r"
+            subtitle="Affordable Window Replacement" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
+            cardDesc1=" "
             cardDesc2=" "
-            cardDesc3="s"
+            cardDesc3="i"
             />
             <Approach
             title="Kitchener home window installation near me" //KW
-            desc="  o t h"
+            desc="e i n f"
             />
             <Intro
             subtitle="Exceptional Kitchener home window installation near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="i r"
-            cardDesc3="r"
+            cardDesc1="t"
+            cardDesc2="x w"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="e" //KW
-            desc2="p"
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

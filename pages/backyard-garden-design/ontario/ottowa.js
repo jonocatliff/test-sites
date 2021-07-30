@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa backyard garden design | We'll Take Care Of Everything" 
-            desc="Ottowa backyard garden design: o  "
+            desc="Ottowa backyard garden design: i l"
             canonical={`${props.website}/ottowa-backyard-garden-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa backyard garden design" //KW
-            subtitle="o  "
+            subtitle="i l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="p t"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="d t"
+            image="/contractor.jpg"
             alt="Ottowa backyard garden design"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Ottowa backyard garden design" //KW
-            desc="p d t e"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="p !   w"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="a"
+            subtitle="Affordable Window Services" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="r"
-            cardDesc3="m"
+            cardDesc1="o"
+            cardDesc2="n"
+            cardDesc3="w"
             />
             <Approach
             title="Ottowa backyard garden design" //KW
-            desc="n r   u"
+            desc="o r . i"
             />
             <Intro
             subtitle="Exceptional Ottowa backyard garden design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="i e"
-            cardDesc3=" "
+            cardDesc1="c"
+            cardDesc2="t s"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2="i"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

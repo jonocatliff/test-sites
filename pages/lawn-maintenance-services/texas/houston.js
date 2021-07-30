@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston lawn maintenance services | We'll Take Care Of Everything" 
-            desc="Houston lawn maintenance services: a e"
+            desc="Houston lawn maintenance services: e  "
             canonical={`${props.website}/houston-lawn-maintenance-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston lawn maintenance services" //KW
-            subtitle="a e"
+            subtitle="e  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="   "
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="u i"
+            image="/window-installations.jpg"
             alt="Houston lawn maintenance services"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Houston lawn maintenance services" //KW
-            desc="n i t e"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="w t m f"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="r"
+            subtitle="Affordable Window Replacement" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="d"
-            cardDesc3="u"
+            cardDesc1="n"
+            cardDesc2="y"
+            cardDesc3="a"
             />
             <Approach
             title="Houston lawn maintenance services" //KW
-            desc="l w x u"
+            desc="  s t a"
             />
             <Intro
             subtitle="Exceptional Houston lawn maintenance services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="p n"
-            cardDesc3="e"
+            cardDesc1="t"
+            cardDesc2="f t"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="w"
+            desc="l" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

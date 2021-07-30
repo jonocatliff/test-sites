@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles pool landscape design | We'll Take Care Of Everything" 
-            desc="Los Angeles pool landscape design: t w"
+            desc="Los Angeles pool landscape design: o h"
             canonical={`${props.website}/los-angeles-pool-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles pool landscape design" //KW
-            subtitle="t w"
+            subtitle="o h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="   "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="a  "
+            image="/window-washing.jpg"
             alt="Los Angeles pool landscape design"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles pool landscape design" //KW
-            desc="d y l undefined"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="a ! e undefined"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
-            cardDesc2="a"
-            cardDesc3="w"
+            cardDesc2="e"
+            cardDesc3="m"
             />
             <Approach
             title="Los Angeles pool landscape design" //KW
-            desc="i n a u"
+            desc="c o   I"
             />
             <Intro
             subtitle="Exceptional Los Angeles pool landscape design" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="o"
-            cardDesc2="  undefined"
-            cardDesc3="d"
+            cardDesc2="o undefined"
+            cardDesc3="v"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="t"
+            desc="d" //KW
+            desc2="b"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City backyard garden design | We'll Take Care Of Everything" 
-            desc="New York City backyard garden design: a u"
+            desc="New York City backyard garden design:   e"
             canonical={`${props.website}/new-york-city-backyard-garden-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City backyard garden design" //KW
-            subtitle="a u"
+            subtitle="  e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="n n"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="a e"
+            image="/contractor.jpg"
             alt="New York City backyard garden design"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional New York City backyard garden design" //KW
-            desc="      a"
-            image="/contractor.jpg"
-            alt="Window Repair"
+            desc="    d s"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="r"
+            subtitle="Affordable Window Replacement" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=","
-            cardDesc2="r"
-            cardDesc3="e"
+            cardDesc1="f"
+            cardDesc2="l"
+            cardDesc3="r"
             />
             <Approach
             title="New York City backyard garden design" //KW
-            desc="w s l e"
+            desc="t s e  "
             />
             <Intro
             subtitle="Exceptional New York City backyard garden design" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="p t"
-            cardDesc3="t"
+            cardDesc1=" "
+            cardDesc2="t e"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="n"
+            desc="s" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}

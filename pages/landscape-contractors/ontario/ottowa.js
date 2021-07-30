@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa landscape contractors | We'll Take Care Of Everything" 
-            desc="Ottowa landscape contractors:   o"
+            desc="Ottowa landscape contractors: r u"
             canonical={`${props.website}/ottowa-landscape-contractors`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa landscape contractors" //KW
-            subtitle="  o"
+            subtitle="r u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="o t"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="   "
+            image="/window-installations.jpg"
             alt="Ottowa landscape contractors"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Ottowa landscape contractors" //KW
-            desc="t n d w"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="u e f d"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="i"
+            subtitle="Affordable Window Services" //KW
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="t"
-            cardDesc3="e"
+            cardDesc1="l"
+            cardDesc2="y"
+            cardDesc3="t"
             />
             <Approach
             title="Ottowa landscape contractors" //KW
-            desc="t p h p"
+            desc="s h i u"
             />
             <Intro
             subtitle="Exceptional Ottowa landscape contractors" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="o  "
-            cardDesc3="t"
+            cardDesc1="u"
+            cardDesc2="r  "
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="n"
+            desc="e" //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

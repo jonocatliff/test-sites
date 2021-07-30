@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg home glass window replacement near me | We'll Take Care Of Everything" 
-            desc="Winnipeg home glass window replacement near me: m p"
+            desc="Winnipeg home glass window replacement near me: i v"
             canonical={`${props.website}/winnipeg-home-glass-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg home glass window replacement near me" //KW
-            subtitle="m p"
+            subtitle="i v"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="t b"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="e t"
+            image="/window-washing.jpg"
             alt="Winnipeg home glass window replacement near me"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Winnipeg home glass window replacement near me" //KW
-            desc="y   o u"
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="r s f m"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="p"
+            subtitle="Affordable Window Replacement" //KW
+            desc="q"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="O"
-            cardDesc2="i"
-            cardDesc3="n"
+            cardDesc1="t"
+            cardDesc2="o"
+            cardDesc3=","
             />
             <Approach
             title="Winnipeg home glass window replacement near me" //KW
-            desc="t f e  "
+            desc="t   t u"
             />
             <Intro
             subtitle="Exceptional Winnipeg home glass window replacement near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="z"
-            cardDesc2="  n"
-            cardDesc3="p"
+            cardDesc1="e"
+            cardDesc2="e k"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="p" //KW
-            desc2="o"
+            desc="e" //KW
+            desc2="y"
             />
             <Footer 
             companyName={props.companyName}

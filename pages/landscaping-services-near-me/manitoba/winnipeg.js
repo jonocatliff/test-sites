@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg landscaping services near me | We'll Take Care Of Everything" 
-            desc="Winnipeg landscaping services near me:   d"
+            desc="Winnipeg landscaping services near me: l l"
             canonical={`${props.website}/winnipeg-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg landscaping services near me" //KW
-            subtitle="  d"
+            subtitle="l l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="  y"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="v  "
+            image="/window-washing.jpg"
             alt="Winnipeg landscaping services near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Winnipeg landscaping services near me" //KW
-            desc="  s a r"
-            image="/window-washing.jpg"
-            alt="Window Replacement"
+            desc="  i a w"
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="a"
+            subtitle="Affordable Window Cleaning" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="v"
-            cardDesc2="l"
-            cardDesc3="t"
+            cardDesc1="w"
+            cardDesc2="i"
+            cardDesc3="o"
             />
             <Approach
             title="Winnipeg landscaping services near me" //KW
-            desc="y   y v"
+            desc="n e d f"
             />
             <Intro
             subtitle="Exceptional Winnipeg landscaping services near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="n f"
-            cardDesc3="u"
+            cardDesc1="a"
+            cardDesc2="r w"
+            cardDesc3="b"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="t"
+            desc="t" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg window companies near me | We'll Take Care Of Everything" 
-            desc="Winnipeg window companies near me: v  "
+            desc="Winnipeg window companies near me: o t"
             canonical={`${props.website}/winnipeg-window-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg window companies near me" //KW
-            subtitle="v  "
+            subtitle="o t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="o r"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="r  "
+            image="/window-installation.jpg"
             alt="Winnipeg window companies near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Winnipeg window companies near me" //KW
-            desc="n l    "
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="n s l a"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Repair" //KW
             desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="x"
-            cardDesc2="e"
-            cardDesc3="e"
+            cardDesc1="b"
+            cardDesc2=" "
+            cardDesc3="w"
             />
             <Approach
             title="Winnipeg window companies near me" //KW
-            desc="  n y s"
+            desc="W   k y"
             />
             <Intro
             subtitle="Exceptional Winnipeg window companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="p"
-            cardDesc2="e o"
-            cardDesc3="g"
+            cardDesc1="d"
+            cardDesc2="f d"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="s"
+            desc="m" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

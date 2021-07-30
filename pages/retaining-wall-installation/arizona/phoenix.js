@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix retaining wall installation | We'll Take Care Of Everything" 
-            desc="Phoenix retaining wall installation: o u"
+            desc="Phoenix retaining wall installation: s e"
             canonical={`${props.website}/phoenix-retaining-wall-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix retaining wall installation" //KW
-            subtitle="o u"
+            subtitle="s e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="e t"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="n n"
+            image="/window-washing.jpg"
             alt="Phoenix retaining wall installation"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Phoenix retaining wall installation" //KW
-            desc="m ! i undefined"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="p   i undefined"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="o"
-            cardDesc3="r"
+            cardDesc1="o"
+            cardDesc2="y"
+            cardDesc3="A"
             />
             <Approach
             title="Phoenix retaining wall installation" //KW
-            desc="n p e o"
+            desc="i o r o"
             />
             <Intro
             subtitle="Exceptional Phoenix retaining wall installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="d undefined"
-            cardDesc3="t"
+            cardDesc1="e"
+            cardDesc2="e undefined"
+            cardDesc3="p"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="l"
+            desc="w" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

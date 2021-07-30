@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City weed control companies near me | We'll Take Care Of Everything" 
-            desc="Quebec City weed control companies near me: o  "
+            desc="Quebec City weed control companies near me: e  "
             canonical={`${props.website}/quebec-city-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Quebec City weed control companies near me" //KW
-            subtitle="o  "
+            subtitle="e  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="d o"
-            image="/window-washing.jpg"
+            desc="e t"
+            image="/window-installations.jpg"
             alt="Quebec City weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Quebec City weed control companies near me" //KW
-            desc="y r i undefined"
-            image="/window-installation.jpg"
+            desc="y a c undefined"
+            image="/contractor.jpg"
             alt="Window Services"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="r"
-            cardDesc3="s"
+            cardDesc1="e"
+            cardDesc2="e"
+            cardDesc3="h"
             />
             <Approach
             title="Quebec City weed control companies near me" //KW
-            desc="e o l i"
+            desc="p t   t"
             />
             <Intro
             subtitle="Exceptional Quebec City weed control companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="s undefined"
-            cardDesc3="r"
+            cardDesc1="n"
+            cardDesc2="t undefined"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="o"
+            desc="r" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

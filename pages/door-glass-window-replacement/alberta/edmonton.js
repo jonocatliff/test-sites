@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton door glass window replacement | We'll Take Care Of Everything" 
-            desc="Edmonton door glass window replacement:   h"
+            desc="Edmonton door glass window replacement: i n"
             canonical={`${props.website}/edmonton-door-glass-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton door glass window replacement" //KW
-            subtitle="  h"
+            subtitle="i n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="r e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="r a"
+            image="/window-washing.jpg"
             alt="Edmonton door glass window replacement"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Edmonton door glass window replacement" //KW
-            desc="a d s o"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="s s r t"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc=" "
+            subtitle="Affordable Window Replacement" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="p"
-            cardDesc3="t"
+            cardDesc1="o"
+            cardDesc2="r"
+            cardDesc3="e"
             />
             <Approach
             title="Edmonton door glass window replacement" //KW
-            desc="  w   s"
+            desc="  c l d"
             />
             <Intro
             subtitle="Exceptional Edmonton door glass window replacement" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="r"
-            cardDesc2="r i"
-            cardDesc3="r"
+            cardDesc2="e  "
+            cardDesc3="O"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="a"
+            desc="e" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

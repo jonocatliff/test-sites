@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg window replacement and installation | We'll Take Care Of Everything" 
-            desc="Winnipeg window replacement and installation: n t"
+            desc="Winnipeg window replacement and installation:    "
             canonical={`${props.website}/winnipeg-window-replacement-and-installation`}
             />
             <Navigationbar
@@ -29,19 +29,19 @@
             />
             <Header
             title="Winnipeg window replacement and installation" //KW
-            subtitle="n t"
+            subtitle="   "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="o r"
-            image="/window-installations.jpg"
+            desc="l p"
+            image="/window-installation.jpg"
             alt="Winnipeg window replacement and installation"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Winnipeg window replacement and installation" //KW
-            desc="p n e l"
+            desc="p r r n"
             image="/contractor.jpg"
             alt="Window Cleaning"
             />
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="p"
-            cardDesc3="a"
+            cardDesc1="l"
+            cardDesc2="w"
+            cardDesc3="t"
             />
             <Approach
             title="Winnipeg window replacement and installation" //KW
-            desc="d i u v"
+            desc="t r r h"
             />
             <Intro
             subtitle="Exceptional Winnipeg window replacement and installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="e y"
-            cardDesc3="w"
+            cardDesc1="v"
+            cardDesc2="c o"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="l"
+            desc="n" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

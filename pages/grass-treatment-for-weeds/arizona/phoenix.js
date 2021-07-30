@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix grass treatment for weeds | We'll Take Care Of Everything" 
-            desc="Phoenix grass treatment for weeds: t t"
+            desc="Phoenix grass treatment for weeds: v o"
             canonical={`${props.website}/phoenix-grass-treatment-for-weeds`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix grass treatment for weeds" //KW
-            subtitle="t t"
+            subtitle="v o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="a r"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="t n"
+            image="/contractor.jpg"
             alt="Phoenix grass treatment for weeds"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Phoenix grass treatment for weeds" //KW
-            desc="b s e e"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="a o r i"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="e"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="u"
-            cardDesc2="p"
+            cardDesc1="i"
+            cardDesc2="e"
             cardDesc3=" "
             />
             <Approach
             title="Phoenix grass treatment for weeds" //KW
-            desc="n   t h"
+            desc="d f y l"
             />
             <Intro
             subtitle="Exceptional Phoenix grass treatment for weeds" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="e v"
-            cardDesc3="e"
+            cardDesc1=" "
+            cardDesc2="a r"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="A" //KW
-            desc2="s"
+            desc="e" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}

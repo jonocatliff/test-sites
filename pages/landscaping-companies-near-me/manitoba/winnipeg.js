@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg landscaping companies near me | We'll Take Care Of Everything" 
-            desc="Winnipeg landscaping companies near me:   r"
+            desc="Winnipeg landscaping companies near me:   e"
             canonical={`${props.website}/winnipeg-landscaping-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg landscaping companies near me" //KW
-            subtitle="  r"
+            subtitle="  e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="b i"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="o  "
+            image="/window-washing.jpg"
             alt="Winnipeg landscaping companies near me"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Winnipeg landscaping companies near me" //KW
-            desc="i i r l"
+            desc="i d d  "
             image="/window-installation.jpg"
-            alt="Window Services"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="a"
+            subtitle="Affordable Window Replacement" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="v"
-            cardDesc3="t"
+            cardDesc1="o"
+            cardDesc2=" "
+            cardDesc3="k"
             />
             <Approach
             title="Winnipeg landscaping companies near me" //KW
-            desc="d r w n"
+            desc="s l n I"
             />
             <Intro
             subtitle="Exceptional Winnipeg landscaping companies near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="i a"
-            cardDesc3="a"
+            cardDesc1="s"
+            cardDesc2="O l"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="r"
+            desc="c" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}

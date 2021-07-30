@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia landscaping services near me | We'll Take Care Of Everything" 
-            desc="Philadelphia landscaping services near me: a o"
+            desc="Philadelphia landscaping services near me: t u"
             canonical={`${props.website}/philadelphia-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia landscaping services near me" //KW
-            subtitle="a o"
+            subtitle="t u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="f k"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="p g"
+            image="/contractor.jpg"
             alt="Philadelphia landscaping services near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Philadelphia landscaping services near me" //KW
-            desc="a n n h"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="s t n n"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="r"
+            subtitle="Affordable Window Services" //KW
+            desc="f"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="t"
+            cardDesc1="t"
+            cardDesc2="g"
             cardDesc3=" "
             />
             <Approach
             title="Philadelphia landscaping services near me" //KW
-            desc="n h i s"
+            desc="s h i e"
             />
             <Intro
             subtitle="Exceptional Philadelphia landscaping services near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="t  "
-            cardDesc3="e"
+            cardDesc1="d"
+            cardDesc2="e n"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="W"
+            desc="e" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal landscaping services near me | We'll Take Care Of Everything" 
-            desc="Montreal landscaping services near me: s v"
+            desc="Montreal landscaping services near me: d w"
             canonical={`${props.website}/montreal-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal landscaping services near me" //KW
-            subtitle="s v"
+            subtitle="d w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="d o"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="e  "
+            image="/window-installation.jpg"
             alt="Montreal landscaping services near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Montreal landscaping services near me" //KW
-            desc="  o m k"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="n e m  "
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="e"
+            subtitle="Affordable Window Services" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="e"
-            cardDesc2="n"
-            cardDesc3="o"
+            cardDesc2="c"
+            cardDesc3="e"
             />
             <Approach
             title="Montreal landscaping services near me" //KW
-            desc="d y e w"
+            desc="l e n  "
             />
             <Intro
             subtitle="Exceptional Montreal landscaping services near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="n e"
-            cardDesc3="e"
+            cardDesc1="s"
+            cardDesc2="  k"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="n"
+            desc="g" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

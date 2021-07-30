@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia window and door installation companies | We'll Take Care Of Everything" 
-            desc="Philadelphia window and door installation companies: t  "
+            desc="Philadelphia window and door installation companies: s u"
             canonical={`${props.website}/philadelphia-window-and-door-installation-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia window and door installation companies" //KW
-            subtitle="t  "
+            subtitle="s u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="  e"
-            image="/window-washing.jpg"
+            desc="e i"
+            image="/contractor.jpg"
             alt="Philadelphia window and door installation companies"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Philadelphia window and door installation companies" //KW
-            desc="  e   e"
-            image="/window-installation.jpg"
+            desc="d i i i"
+            image="/window-washing.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="n"
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2=" "
-            cardDesc3="w"
+            cardDesc1="f"
+            cardDesc2="p"
+            cardDesc3="e"
             />
             <Approach
             title="Philadelphia window and door installation companies" //KW
-            desc="w o s  "
+            desc="    p m"
             />
             <Intro
             subtitle="Exceptional Philadelphia window and door installation companies" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="b e"
-            cardDesc3="d"
+            cardDesc1="o"
+            cardDesc2="   "
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2=" "
+            desc="u" //KW
+            desc2=","
             />
             <Footer 
             companyName={props.companyName}

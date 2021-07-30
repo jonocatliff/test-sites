@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver retaining wall landscaping | We'll Take Care Of Everything" 
-            desc="Vancouver retaining wall landscaping: i y"
+            desc="Vancouver retaining wall landscaping:   O"
             canonical={`${props.website}/vancouver-retaining-wall-landscaping`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Vancouver retaining wall landscaping" //KW
-            subtitle="i y"
+            subtitle="  O"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="o s"
-            image="/window-installation.jpg"
+            desc="e e"
+            image="/window-installations.jpg"
             alt="Vancouver retaining wall landscaping"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Vancouver retaining wall landscaping" //KW
-            desc="a n   undefined"
-            image="/window-washing.jpg"
+            desc="e o   undefined"
+            image="/window-installation.jpg"
             alt="Window Services"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="i"
-            cardDesc3="o"
+            cardDesc1="w"
+            cardDesc2="f"
+            cardDesc3="f"
             />
             <Approach
             title="Vancouver retaining wall landscaping" //KW
-            desc="t f   h"
+            desc="g a h ,"
             />
             <Intro
             subtitle="Exceptional Vancouver retaining wall landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="s undefined"
-            cardDesc3="w"
+            cardDesc1="e"
+            cardDesc2="w undefined"
+            cardDesc3="v"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="l"
+            desc="u" //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

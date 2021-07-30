@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver hedge removal services | We'll Take Care Of Everything" 
-            desc="Vancouver hedge removal services: n o"
+            desc="Vancouver hedge removal services: x O"
             canonical={`${props.website}/vancouver-hedge-removal-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver hedge removal services" //KW
-            subtitle="n o"
+            subtitle="x O"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="f ."
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="n c"
+            image="/window-installations.jpg"
             alt="Vancouver hedge removal services"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Vancouver hedge removal services" //KW
-            desc="s p r o"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="t a l e"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="a"
+            subtitle="Affordable Window Services" //KW
+            desc="f"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="w"
-            cardDesc3=" "
+            cardDesc1="i"
+            cardDesc2=" "
+            cardDesc3="n"
             />
             <Approach
             title="Vancouver hedge removal services" //KW
-            desc="i i x o"
+            desc="o   r  "
             />
             <Intro
             subtitle="Exceptional Vancouver hedge removal services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="t a"
-            cardDesc3="i"
+            cardDesc1=" "
+            cardDesc2="i l"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="r"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg install replacement windows | We'll Take Care Of Everything" 
-            desc="Winnipeg install replacement windows: b w"
+            desc="Winnipeg install replacement windows: x e"
             canonical={`${props.website}/winnipeg-install-replacement-windows`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg install replacement windows" //KW
-            subtitle="b w"
+            subtitle="x e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="r t"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="w t"
+            image="/contractor.jpg"
             alt="Winnipeg install replacement windows"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Winnipeg install replacement windows" //KW
-            desc="l , r w"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="  a o y"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc=" "
+            subtitle="Affordable Window Cleaning" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
+            cardDesc1="s"
             cardDesc2="o"
-            cardDesc3="p"
+            cardDesc3="t"
             />
             <Approach
             title="Winnipeg install replacement windows" //KW
-            desc="d w e w"
+            desc="g   h f"
             />
             <Intro
             subtitle="Exceptional Winnipeg install replacement windows" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="o F"
-            cardDesc3="e"
+            cardDesc1="i"
+            cardDesc2="u l"
+            cardDesc3="u"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="r"
+            desc="i" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

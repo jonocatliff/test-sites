@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary pool landscape design | We'll Take Care Of Everything" 
-            desc="Calgary pool landscape design: l r"
+            desc="Calgary pool landscape design: i d"
             canonical={`${props.website}/calgary-pool-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary pool landscape design" //KW
-            subtitle="l r"
+            subtitle="i d"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="l d"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="o a"
+            image="/window-installation.jpg"
             alt="Calgary pool landscape design"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Calgary pool landscape design" //KW
-            desc="w l c undefined"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="i e t undefined"
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="a"
-            cardDesc3="o"
+            cardDesc1="e"
+            cardDesc2="m"
+            cardDesc3="t"
             />
             <Approach
             title="Calgary pool landscape design" //KW
-            desc="o s d s"
+            desc="r   l o"
             />
             <Intro
             subtitle="Exceptional Calgary pool landscape design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
+            cardDesc1="r"
             cardDesc2="a undefined"
-            cardDesc3="e"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="t"
+            desc="w" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

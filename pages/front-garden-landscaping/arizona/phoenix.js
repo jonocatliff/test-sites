@@ -33,31 +33,31 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="l i"
+            subtitle="High-Quality Window Services"
+            desc="a h"
             image="/window-washing.jpg"
             alt="Phoenix front garden landscaping"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Phoenix front garden landscaping" //KW
-            desc="  u e l"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="  f u t"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="y"
+            subtitle="Affordable Window Services" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="o"
-            cardDesc3="t"
+            cardDesc1="e"
+            cardDesc2="t"
+            cardDesc3=","
             />
             <Approach
             title="Phoenix front garden landscaping" //KW
-            desc="  d t n"
+            desc="r i e s"
             />
             <Intro
             subtitle="Exceptional Phoenix front garden landscaping" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="A  "
+            cardDesc1="e"
+            cardDesc2="n l"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
+            desc="n" //KW
             desc2="r"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

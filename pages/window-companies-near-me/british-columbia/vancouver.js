@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver window companies near me | We'll Take Care Of Everything" 
-            desc="Vancouver window companies near me: a u"
+            desc="Vancouver window companies near me: t a"
             canonical={`${props.website}/vancouver-window-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver window companies near me" //KW
-            subtitle="a u"
+            subtitle="t a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="n o"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="g n"
+            image="/window-installations.jpg"
             alt="Vancouver window companies near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Vancouver window companies near me" //KW
-            desc="p   o n"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="g v o o"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="v"
+            subtitle="Affordable Window Installations" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2=" "
-            cardDesc3="i"
+            cardDesc1="n"
+            cardDesc2="n"
+            cardDesc3="w"
             />
             <Approach
             title="Vancouver window companies near me" //KW
-            desc=": r r t"
+            desc="n o h o"
             />
             <Intro
             subtitle="Exceptional Vancouver window companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="  s"
-            cardDesc3="o"
+            cardDesc1="h"
+            cardDesc2="m t"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="d"
+            desc=" " //KW
+            desc2="h"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

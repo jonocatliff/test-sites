@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener lawn weed control service | We'll Take Care Of Everything" 
-            desc="Kitchener lawn weed control service: s v"
+            desc="Kitchener lawn weed control service: t s"
             canonical={`${props.website}/kitchener-lawn-weed-control-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener lawn weed control service" //KW
-            subtitle="s v"
+            subtitle="t s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="e d"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="o a"
+            image="/contractor.jpg"
             alt="Kitchener lawn weed control service"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Kitchener lawn weed control service" //KW
-            desc="e t e l"
+            desc="m   i  "
             image="/window-washing.jpg"
-            alt="Window Replacement"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="undefined"
+            subtitle="Affordable Window Repair" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="w"
-            cardDesc3="i"
+            cardDesc1="o"
+            cardDesc2="o"
+            cardDesc3="P"
             />
             <Approach
             title="Kitchener lawn weed control service" //KW
-            desc="r   k v"
+            desc="r   s p"
             />
             <Intro
             subtitle="Exceptional Kitchener lawn weed control service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="i i"
-            cardDesc3="t"
+            cardDesc1="t"
+            cardDesc2="x ."
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2="n"
+            desc="a" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

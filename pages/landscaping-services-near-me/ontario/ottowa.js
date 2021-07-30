@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa landscaping services near me | We'll Take Care Of Everything" 
-            desc="Ottowa landscaping services near me: e i"
+            desc="Ottowa landscaping services near me: l l"
             canonical={`${props.website}/ottowa-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa landscaping services near me" //KW
-            subtitle="e i"
+            subtitle="l l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="r  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="o t"
+            image="/contractor.jpg"
             alt="Ottowa landscaping services near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Ottowa landscaping services near me" //KW
-            desc="d l v i"
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="a W v o"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc=" "
+            subtitle="Affordable Window Cleaning" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="l"
-            cardDesc3="e"
+            cardDesc1=" "
+            cardDesc2="v"
+            cardDesc3="n"
             />
             <Approach
             title="Ottowa landscaping services near me" //KW
-            desc="  a   r"
+            desc="a m l s"
             />
             <Intro
             subtitle="Exceptional Ottowa landscaping services near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="o f"
-            cardDesc3="a"
+            cardDesc1=" "
+            cardDesc2="e o"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="e"
+            desc="A" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

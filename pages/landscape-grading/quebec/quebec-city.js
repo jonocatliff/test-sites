@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City landscape grading | We'll Take Care Of Everything" 
-            desc="Quebec City landscape grading: n u"
+            desc="Quebec City landscape grading: a i"
             canonical={`${props.website}/quebec-city-landscape-grading`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City landscape grading" //KW
-            subtitle="n u"
+            subtitle="a i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="o b"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="u u"
+            image="/window-installations.jpg"
             alt="Quebec City landscape grading"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Quebec City landscape grading" //KW
-            desc="  y f n"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="y r y  "
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="o"
+            subtitle="Affordable Window Installations" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="u"
-            cardDesc2="a"
-            cardDesc3="I"
+            cardDesc1="s"
+            cardDesc2="i"
+            cardDesc3="e"
             />
             <Approach
             title="Quebec City landscape grading" //KW
-            desc="e f r  "
+            desc="e t   u"
             />
             <Intro
             subtitle="Exceptional Quebec City landscape grading" //KW
@@ -66,12 +66,12 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="o"
-            cardDesc2="  e"
-            cardDesc3=" "
+            cardDesc2="  u"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
+            desc="t" //KW
             desc2="o"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

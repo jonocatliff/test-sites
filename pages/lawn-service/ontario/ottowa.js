@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa lawn service | We'll Take Care Of Everything" 
-            desc="Ottowa lawn service:   w"
+            desc="Ottowa lawn service: n r"
             canonical={`${props.website}/ottowa-lawn-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa lawn service" //KW
-            subtitle="  w"
+            subtitle="n r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
-            desc="u  "
+            desc="a  "
             image="/window-installations.jpg"
             alt="Ottowa lawn service"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Ottowa lawn service" //KW
-            desc="c r o e"
-            image="/window-washing.jpg"
+            desc="w w u e"
+            image="/contractor.jpg"
             alt="Window Repair"
             />
             <Savings
             subtitle="Affordable Window Repair" //KW
-            desc="r"
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="v"
+            cardDesc1="o"
             cardDesc2="o"
-            cardDesc3="c"
+            cardDesc3="f"
             />
             <Approach
             title="Ottowa lawn service" //KW
-            desc="n   h l"
+            desc="o u   p"
             />
             <Intro
             subtitle="Exceptional Ottowa lawn service" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="l i"
+            cardDesc1=" "
+            cardDesc2="u  "
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2=" "
+            desc=" " //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}

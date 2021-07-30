@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia grass cutting service | We'll Take Care Of Everything" 
-            desc="Philadelphia grass cutting service: x O"
+            desc="Philadelphia grass cutting service: f y"
             canonical={`${props.website}/philadelphia-grass-cutting-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia grass cutting service" //KW
-            subtitle="x O"
+            subtitle="f y"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="n o"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="v  "
+            image="/window-washing.jpg"
             alt="Philadelphia grass cutting service"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Philadelphia grass cutting service" //KW
-            desc="u o m f"
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="s p u y"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="f"
+            subtitle="Affordable Window Replacement" //KW
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="c"
-            cardDesc3="d"
+            cardDesc1="f"
+            cardDesc2="n"
+            cardDesc3="u"
             />
             <Approach
             title="Philadelphia grass cutting service" //KW
-            desc="n o   v"
+            desc="  y a e"
             />
             <Intro
             subtitle="Exceptional Philadelphia grass cutting service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="f ,"
-            cardDesc3="l"
+            cardDesc1="t"
+            cardDesc2="e t"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc=" " //KW
-            desc2="r"
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

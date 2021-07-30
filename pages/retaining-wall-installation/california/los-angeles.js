@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles retaining wall installation | We'll Take Care Of Everything" 
-            desc="Los Angeles retaining wall installation: n r"
+            desc="Los Angeles retaining wall installation: w t"
             canonical={`${props.website}/los-angeles-retaining-wall-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles retaining wall installation" //KW
-            subtitle="n r"
+            subtitle="w t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="e  "
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="t a"
+            image="/window-installation.jpg"
             alt="Los Angeles retaining wall installation"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Los Angeles retaining wall installation" //KW
-            desc="c e o undefined"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="w u e undefined"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Repair" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="w"
-            cardDesc3="t"
+            cardDesc1="o"
+            cardDesc2="e"
+            cardDesc3="e"
             />
             <Approach
             title="Los Angeles retaining wall installation" //KW
-            desc="d w d t"
+            desc="s i c a"
             />
             <Intro
             subtitle="Exceptional Los Angeles retaining wall installation" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="a"
-            cardDesc2="r undefined"
-            cardDesc3="e"
+            cardDesc2="  undefined"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="y" //KW
-            desc2="o"
+            desc="i" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

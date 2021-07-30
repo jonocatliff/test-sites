@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener hedge removal services | We'll Take Care Of Everything" 
-            desc="Kitchener hedge removal services:   n"
+            desc="Kitchener hedge removal services: p i"
             canonical={`${props.website}/kitchener-hedge-removal-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener hedge removal services" //KW
-            subtitle="  n"
+            subtitle="p i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="  t"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="n  "
+            image="/window-washing.jpg"
             alt="Kitchener hedge removal services"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Kitchener hedge removal services" //KW
-            desc="i y w e"
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="s   s  "
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="f"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="e"
-            cardDesc3="t"
+            cardDesc1="t"
+            cardDesc2="t"
+            cardDesc3="o"
             />
             <Approach
             title="Kitchener hedge removal services" //KW
-            desc="l e i s"
+            desc="s o h v"
             />
             <Intro
             subtitle="Exceptional Kitchener hedge removal services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="r i"
-            cardDesc3="o"
+            cardDesc1="y"
+            cardDesc2="u t"
+            cardDesc3="p"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="s"
+            desc="r" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

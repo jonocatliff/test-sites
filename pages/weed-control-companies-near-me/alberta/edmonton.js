@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton weed control companies near me | We'll Take Care Of Everything" 
-            desc="Edmonton weed control companies near me: s t"
+            desc="Edmonton weed control companies near me: o a"
             canonical={`${props.website}/edmonton-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton weed control companies near me" //KW
-            subtitle="s t"
+            subtitle="o a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="o r"
+            subtitle="High-Quality Window Repair"
+            desc="o n"
             image="/contractor.jpg"
             alt="Edmonton weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Edmonton weed control companies near me" //KW
-            desc="y   o undefined"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="y i d undefined"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Repair" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="n"
-            cardDesc3=" "
+            cardDesc1="p"
+            cardDesc2=" "
+            cardDesc3="t"
             />
             <Approach
             title="Edmonton weed control companies near me" //KW
-            desc="  c n s"
+            desc="s t t o"
             />
             <Intro
             subtitle="Exceptional Edmonton weed control companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="  undefined"
-            cardDesc3="w"
+            cardDesc1="r"
+            cardDesc2="v undefined"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="k"
+            desc="h" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

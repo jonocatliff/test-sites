@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton hydrangea landscaping | We'll Take Care Of Everything" 
-            desc="Hamilton hydrangea landscaping: e Y"
+            desc="Hamilton hydrangea landscaping: c g"
             canonical={`${props.website}/hamilton-hydrangea-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton hydrangea landscaping" //KW
-            subtitle="e Y"
+            subtitle="c g"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="l  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="e l"
+            image="/window-washing.jpg"
             alt="Hamilton hydrangea landscaping"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Hamilton hydrangea landscaping" //KW
-            desc="o t f y"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="r v   e"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="i"
+            subtitle="Affordable Window Installations" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="e"
-            cardDesc3=","
+            cardDesc1="h"
+            cardDesc2=" "
+            cardDesc3=" "
             />
             <Approach
             title="Hamilton hydrangea landscaping" //KW
-            desc="a x u g"
+            desc="b o o  "
             />
             <Intro
             subtitle="Exceptional Hamilton hydrangea landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="p  "
-            cardDesc3=" "
+            cardDesc1="."
+            cardDesc2="c r"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="o"
+            desc="l" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

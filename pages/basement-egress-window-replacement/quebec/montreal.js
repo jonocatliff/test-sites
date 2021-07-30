@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal basement egress window replacement | We'll Take Care Of Everything" 
-            desc="Montreal basement egress window replacement: o p"
+            desc="Montreal basement egress window replacement:   t"
             canonical={`${props.website}/montreal-basement-egress-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal basement egress window replacement" //KW
-            subtitle="o p"
+            subtitle="  t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="o n"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="e p"
+            image="/window-installation.jpg"
             alt="Montreal basement egress window replacement"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Montreal basement egress window replacement" //KW
-            desc="r i o e"
+            desc="i a s u"
             image="/window-washing.jpg"
-            alt="Window Repair"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="p"
+            subtitle="Affordable Window Installations" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="o"
-            cardDesc3="o"
+            cardDesc1="v"
+            cardDesc2="e"
+            cardDesc3="p"
             />
             <Approach
             title="Montreal basement egress window replacement" //KW
-            desc="o e p  "
+            desc="r s d e"
             />
             <Intro
             subtitle="Exceptional Montreal basement egress window replacement" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="p"
-            cardDesc2="o h"
-            cardDesc3="o"
+            cardDesc1="l"
+            cardDesc2="o o"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="o"
+            desc="u" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

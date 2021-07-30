@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg window contractors near me | We'll Take Care Of Everything" 
-            desc="Winnipeg window contractors near me: f a"
+            desc="Winnipeg window contractors near me: i r"
             canonical={`${props.website}/winnipeg-window-contractors-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg window contractors near me" //KW
-            subtitle="f a"
+            subtitle="i r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="i  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="e  "
+            image="/contractor.jpg"
             alt="Winnipeg window contractors near me"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Winnipeg window contractors near me" //KW
-            desc="  p r a"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="e e r i"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="e"
+            subtitle="Affordable Window Repair" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2=" "
-            cardDesc3="h"
+            cardDesc1=" "
+            cardDesc2="i"
+            cardDesc3="l"
             />
             <Approach
             title="Winnipeg window contractors near me" //KW
-            desc="  r d c"
+            desc="v t w  "
             />
             <Intro
             subtitle="Exceptional Winnipeg window contractors near me" //KW
@@ -66,12 +66,12 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="o e"
-            cardDesc3="s"
+            cardDesc2="c d"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
+            desc="," //KW
             desc2=" "
             />
             <Footer 

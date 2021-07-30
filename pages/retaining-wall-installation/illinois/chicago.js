@@ -33,31 +33,31 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r t"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="  i"
+            image="/contractor.jpg"
             alt="Chicago retaining wall installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Chicago retaining wall installation" //KW
-            desc="c e n undefined"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="  i   undefined"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="i"
-            cardDesc3=" "
+            cardDesc1="p"
+            cardDesc2="s"
+            cardDesc3="l"
             />
             <Approach
             title="Chicago retaining wall installation" //KW
-            desc="o     h"
+            desc="e o e n"
             />
             <Intro
             subtitle="Exceptional Chicago retaining wall installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
+            cardDesc1="l"
             cardDesc2="o undefined"
-            cardDesc3="d"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="r"
+            desc="n" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

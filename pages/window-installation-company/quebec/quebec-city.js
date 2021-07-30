@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City window installation company | We'll Take Care Of Everything" 
-            desc="Quebec City window installation company: o I"
+            desc="Quebec City window installation company: t i"
             canonical={`${props.website}/quebec-city-window-installation-company`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City window installation company" //KW
-            subtitle="o I"
+            subtitle="t i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="  s"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="  o"
+            image="/window-washing.jpg"
             alt="Quebec City window installation company"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Quebec City window installation company" //KW
-            desc="c l e n"
+            desc="c h d d"
             image="/window-installation.jpg"
-            alt="Window Services"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="t"
+            subtitle="Affordable Window Repair" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
+            cardDesc1=" "
             cardDesc2=" "
-            cardDesc3="t"
+            cardDesc3="y"
             />
             <Approach
             title="Quebec City window installation company" //KW
-            desc="o s   o"
+            desc="t ’   i"
             />
             <Intro
             subtitle="Exceptional Quebec City window installation company" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="a e"
-            cardDesc3="i"
+            cardDesc1="u"
+            cardDesc2="d w"
+            cardDesc3="c"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2=" "
+            desc="m" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

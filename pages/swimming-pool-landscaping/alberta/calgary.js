@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary swimming pool landscaping | We'll Take Care Of Everything" 
-            desc="Calgary swimming pool landscaping: . ."
+            desc="Calgary swimming pool landscaping: s i"
             canonical={`${props.website}/calgary-swimming-pool-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary swimming pool landscaping" //KW
-            subtitle=". ."
+            subtitle="s i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc=", y"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="e i"
+            image="/window-washing.jpg"
             alt="Calgary swimming pool landscaping"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Calgary swimming pool landscaping" //KW
-            desc="p   i undefined"
+            desc="u l   undefined"
             image="/contractor.jpg"
-            alt="Window Cleaning"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Repair" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
-            cardDesc2="o"
-            cardDesc3="a"
+            cardDesc2="i"
+            cardDesc3="t"
             />
             <Approach
             title="Calgary swimming pool landscaping" //KW
-            desc="t i u  "
+            desc="e o e a"
             />
             <Intro
             subtitle="Exceptional Calgary swimming pool landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="z"
-            cardDesc2="  undefined"
-            cardDesc3="l"
+            cardDesc1="o"
+            cardDesc2="o undefined"
+            cardDesc3="y"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2=" "
+            desc="p" //KW
+            desc2="W"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

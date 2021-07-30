@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg outdoor landscape design | We'll Take Care Of Everything" 
-            desc="Winnipeg outdoor landscape design: a ’"
+            desc="Winnipeg outdoor landscape design: f t"
             canonical={`${props.website}/winnipeg-outdoor-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg outdoor landscape design" //KW
-            subtitle="a ’"
+            subtitle="f t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="n a"
+            subtitle="High-Quality Window Cleaning"
+            desc="s e"
             image="/window-installation.jpg"
             alt="Winnipeg outdoor landscape design"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Winnipeg outdoor landscape design" //KW
-            desc="g   r undefined"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="p e m undefined"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="b"
-            cardDesc3="J"
+            cardDesc1=" "
+            cardDesc2="l"
+            cardDesc3="f"
             />
             <Approach
             title="Winnipeg outdoor landscape design" //KW
-            desc="d i y l"
+            desc="  l f n"
             />
             <Intro
             subtitle="Exceptional Winnipeg outdoor landscape design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="c undefined"
-            cardDesc3="d"
+            cardDesc1="i"
+            cardDesc2="u undefined"
+            cardDesc3="v"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="u"
+            desc="u" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver home window installation near me | We'll Take Care Of Everything" 
-            desc="Vancouver home window installation near me: y r"
+            desc="Vancouver home window installation near me: e  "
             canonical={`${props.website}/vancouver-home-window-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver home window installation near me" //KW
-            subtitle="y r"
+            subtitle="e  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="t a"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="x d"
+            image="/window-washing.jpg"
             alt="Vancouver home window installation near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Vancouver home window installation near me" //KW
-            desc="w u   t"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="  o e  "
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="s"
+            subtitle="Affordable Window Services" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2="r"
-            cardDesc3="w"
+            cardDesc1="e"
+            cardDesc2="n"
+            cardDesc3="h"
             />
             <Approach
             title="Vancouver home window installation near me" //KW
-            desc="r u n  "
+            desc="h r n s"
             />
             <Intro
             subtitle="Exceptional Vancouver home window installation near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="p t"
+            cardDesc1="s"
+            cardDesc2="l f"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="g" //KW
-            desc2="w"
+            desc="o" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

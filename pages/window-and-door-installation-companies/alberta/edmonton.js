@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton window and door installation companies | We'll Take Care Of Everything" 
-            desc="Edmonton window and door installation companies: t t"
+            desc="Edmonton window and door installation companies: u a"
             canonical={`${props.website}/edmonton-window-and-door-installation-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton window and door installation companies" //KW
-            subtitle="t t"
+            subtitle="u a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
-            desc="c e"
-            image="/contractor.jpg"
+            desc="n n"
+            image="/window-installations.jpg"
             alt="Edmonton window and door installation companies"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Edmonton window and door installation companies" //KW
-            desc="  o a o"
-            image="/window-installations.jpg"
+            desc="u o s m"
+            image="/window-washing.jpg"
             alt="Window Repair"
             />
             <Savings
             subtitle="Affordable Window Repair" //KW
-            desc="i"
+            desc="b"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="o"
-            cardDesc2="i"
-            cardDesc3="n"
+            cardDesc2="b"
+            cardDesc3="a"
             />
             <Approach
             title="Edmonton window and door installation companies" //KW
-            desc="h e n a"
+            desc="o   v c"
             />
             <Intro
             subtitle="Exceptional Edmonton window and door installation companies" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="p y"
-            cardDesc3="t"
+            cardDesc1=" "
+            cardDesc2="c i"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="h"
+            desc="a" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}

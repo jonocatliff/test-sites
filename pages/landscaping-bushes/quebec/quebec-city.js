@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City landscaping bushes | We'll Take Care Of Everything" 
-            desc="Quebec City landscaping bushes: n t"
+            desc="Quebec City landscaping bushes: c e"
             canonical={`${props.website}/quebec-city-landscaping-bushes`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City landscaping bushes" //KW
-            subtitle="n t"
+            subtitle="c e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="s e"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="l h"
+            image="/window-installations.jpg"
             alt="Quebec City landscaping bushes"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Quebec City landscaping bushes" //KW
-            desc="s y e  "
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="a o f  "
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="i"
+            subtitle="Affordable Window Cleaning" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="h"
-            cardDesc3="e"
+            cardDesc1=" "
+            cardDesc2=" "
+            cardDesc3="g"
             />
             <Approach
             title="Quebec City landscaping bushes" //KW
-            desc="a h   e"
+            desc="s i y t"
             />
             <Intro
             subtitle="Exceptional Quebec City landscaping bushes" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="r  "
-            cardDesc3="e"
+            cardDesc1="u"
+            cardDesc2="n f"
+            cardDesc3="P"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
+            desc=" " //KW
             desc2="r"
             />
             <Footer 

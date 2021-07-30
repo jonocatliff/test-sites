@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City home window replacement companies | We'll Take Care Of Everything" 
-            desc="New York City home window replacement companies: r s"
+            desc="New York City home window replacement companies: s s"
             canonical={`${props.website}/new-york-city-home-window-replacement-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City home window replacement companies" //KW
-            subtitle="r s"
+            subtitle="s s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="   "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="  v"
+            image="/contractor.jpg"
             alt="New York City home window replacement companies"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional New York City home window replacement companies" //KW
-            desc="    r k"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="s s u  "
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="r"
+            subtitle="Affordable Window Cleaning" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="e"
-            cardDesc3="t"
+            cardDesc1=" "
+            cardDesc2="w"
+            cardDesc3="y"
             />
             <Approach
             title="New York City home window replacement companies" //KW
-            desc="e r i s"
+            desc="a p d i"
             />
             <Intro
             subtitle="Exceptional New York City home window replacement companies" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="s r"
-            cardDesc3="."
+            cardDesc1="i"
+            cardDesc2="I s"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="p" //KW
-            desc2="r"
+            desc="v" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

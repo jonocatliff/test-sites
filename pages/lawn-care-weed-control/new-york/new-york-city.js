@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City lawn care weed control | We'll Take Care Of Everything" 
-            desc="New York City lawn care weed control:   d"
+            desc="New York City lawn care weed control: l e"
             canonical={`${props.website}/new-york-city-lawn-care-weed-control`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City lawn care weed control" //KW
-            subtitle="  d"
+            subtitle="l e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="t i"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="v o"
+            image="/contractor.jpg"
             alt="New York City lawn care weed control"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional New York City lawn care weed control" //KW
-            desc="t   e i"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="e r   i"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="i"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="O"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="l"
-            cardDesc3="w"
+            cardDesc1="d"
+            cardDesc2="i"
+            cardDesc3=" "
             />
             <Approach
             title="New York City lawn care weed control" //KW
-            desc="o b e n"
+            desc="    w t"
             />
             <Intro
             subtitle="Exceptional New York City lawn care weed control" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="e o"
+            cardDesc1="y"
+            cardDesc2="o e"
             cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2=" "
+            desc="o" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

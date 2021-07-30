@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles concrete curbing | We'll Take Care Of Everything" 
-            desc="Los Angeles concrete curbing: . ’"
+            desc="Los Angeles concrete curbing: s h"
             canonical={`${props.website}/los-angeles-concrete-curbing`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles concrete curbing" //KW
-            subtitle=". ’"
+            subtitle="s h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="d o"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="r e"
+            image="/contractor.jpg"
             alt="Los Angeles concrete curbing"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Los Angeles concrete curbing" //KW
-            desc="t i v y"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="e a r d"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="."
+            subtitle="Affordable Window Replacement" //KW
+            desc="k"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="h"
-            cardDesc3="t"
+            cardDesc1=" "
+            cardDesc2="g"
+            cardDesc3="n"
             />
             <Approach
             title="Los Angeles concrete curbing" //KW
-            desc="  r i  "
+            desc=", - n a"
             />
             <Intro
             subtitle="Exceptional Los Angeles concrete curbing" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="e e"
-            cardDesc3="s"
+            cardDesc1="o"
+            cardDesc2="r s"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="a"
+            desc="'" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

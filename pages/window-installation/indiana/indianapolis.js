@@ -1,0 +1,87 @@
+
+    import About from '../../../components/About';
+    import Approach from '../../../components/Approach';
+    import FAQ from '../../../components/FAQ';
+    import Header from '../../../components/Header';
+    import Intro from '../../../components/Intro';
+    import Navigationbar from '../../../components/Navigationbar';
+    import Savings from '../../../components/Savings';
+    import Services from '../../../components/Services';
+    import Testimonial from '../../../components/Testimonial';
+    import Link from 'next/link';
+    import CTABottom from '../../../components/CTABottom';
+    import Footer from '../../../components/Footer';
+    import Meta from '../../../partials/seo';
+    
+    
+    export default function Home(props) {
+        return (
+        <div>
+            <Meta 
+            title="Indianapolis window installation | We'll Take Care Of Everything" 
+            desc="Indianapolis window installation:   k"
+            canonical={`${props.website}/indianapolis-window-installation`}
+            />
+            <Navigationbar
+            phone={props.phone}
+            companyName={props.companyName}
+            topbar="Indianapolis window installation" //KW
+            />
+            <Header
+            title="Indianapolis window installation" //KW
+            subtitle="  k"
+            />
+            <Testimonial
+            title="Let's Create Your Dream House"
+            subtitle="High-Quality Window Repair"
+            desc="n d"
+            image="/window-installations.jpg"
+            alt="Indianapolis window installation"
+            />
+            <About 
+            subtitle="Fantastic Window Services" //KW
+            title="Professional Indianapolis window installation" //KW
+            desc="a o o w"
+            image="/window-washing.jpg"
+            alt="Window Repair"
+            />
+            <Savings
+            subtitle="Affordable Window Repair" //KW
+            desc="n"
+            cardTitle1="Save Time"
+            cardTitle2="Save Money"
+            cardTitle3="Save Effort"
+            cardDesc1="a"
+            cardDesc2="u"
+            cardDesc3="n"
+            />
+            <Approach
+            title="Indianapolis window installation" //KW
+            desc="  i f f"
+            />
+            <Intro
+            subtitle="Exceptional Indianapolis window installation" //KW
+            title="Why Our service providers Stand Out"
+            cardTitle1="Personalized Approach"
+            cardTitle2="Fantastic Customer Service"
+            cardTitle3="All Types"
+            cardDesc1=" "
+            cardDesc2="  r"
+            cardDesc3="t"
+            />
+            <CTABottom
+            title="Ready To Get Started?"
+            desc="m" //KW
+            desc2="e"
+            />
+            <Footer 
+            companyName={props.companyName}
+            email={props.email}
+            address={props.address}
+            phone={props.phone}
+            desc="Experienced Window Services!" //KW
+            />
+        </div>
+        )
+    }
+        

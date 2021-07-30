@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City best window installers | We'll Take Care Of Everything" 
-            desc="Quebec City best window installers: w t"
+            desc="Quebec City best window installers: i I"
             canonical={`${props.website}/quebec-city-best-window-installers`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City best window installers" //KW
-            subtitle="w t"
+            subtitle="i I"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="r l"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="o t"
+            image="/window-installation.jpg"
             alt="Quebec City best window installers"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Quebec City best window installers" //KW
-            desc="x s e c"
+            desc="d   t y"
             image="/contractor.jpg"
-            alt="Window Services"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc=" "
+            subtitle="Affordable Window Installations" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="p"
-            cardDesc3="t"
+            cardDesc1="s"
+            cardDesc2="i"
+            cardDesc3="w"
             />
             <Approach
             title="Quebec City best window installers" //KW
-            desc="m b t h"
+            desc="    d w"
             />
             <Intro
             subtitle="Exceptional Quebec City best window installers" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="t l"
-            cardDesc3="p"
+            cardDesc1=" "
+            cardDesc2="d  "
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="n" //KW
-            desc2="p"
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

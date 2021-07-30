@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener lawn care maintenance | We'll Take Care Of Everything" 
-            desc="Kitchener lawn care maintenance: w u"
+            desc="Kitchener lawn care maintenance: r i"
             canonical={`${props.website}/kitchener-lawn-care-maintenance`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener lawn care maintenance" //KW
-            subtitle="w u"
+            subtitle="r i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="s ."
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="w  "
+            image="/window-installations.jpg"
             alt="Kitchener lawn care maintenance"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Kitchener lawn care maintenance" //KW
-            desc="  t y e"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="W i   i"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="a"
+            subtitle="Affordable Window Services" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1=" "
-            cardDesc2="s"
-            cardDesc3="u"
+            cardDesc2="r"
+            cardDesc3=" "
             />
             <Approach
             title="Kitchener lawn care maintenance" //KW
-            desc="l u o  "
+            desc="l t l e"
             />
             <Intro
             subtitle="Exceptional Kitchener lawn care maintenance" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="w"
-            cardDesc2="  f"
-            cardDesc3="o"
+            cardDesc1="t"
+            cardDesc2="s e"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="b" //KW
-            desc2="r"
+            desc="P" //KW
+            desc2="y"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

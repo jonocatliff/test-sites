@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton lawn cutting service | We'll Take Care Of Everything" 
-            desc="Hamilton lawn cutting service: y u"
+            desc="Hamilton lawn cutting service: n n"
             canonical={`${props.website}/hamilton-lawn-cutting-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton lawn cutting service" //KW
-            subtitle="y u"
+            subtitle="n n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="r m"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc=". o"
+            image="/contractor.jpg"
             alt="Hamilton lawn cutting service"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Hamilton lawn cutting service" //KW
-            desc="h l a e"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="r   f O"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="s"
+            subtitle="Affordable Window Installations" //KW
+            desc="."
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="s"
-            cardDesc3=" "
+            cardDesc1="o"
+            cardDesc2="i"
+            cardDesc3="l"
             />
             <Approach
             title="Hamilton lawn cutting service" //KW
-            desc="a f e h"
+            desc="o b r f"
             />
             <Intro
             subtitle="Exceptional Hamilton lawn cutting service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="i e"
-            cardDesc3="t"
+            cardDesc1="z"
+            cardDesc2="o o"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2="e"
+            desc=" " //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

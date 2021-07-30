@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver front yard landscaping | We'll Take Care Of Everything" 
-            desc="Vancouver front yard landscaping: w a"
+            desc="Vancouver front yard landscaping: a r"
             canonical={`${props.website}/vancouver-front-yard-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver front yard landscaping" //KW
-            subtitle="w a"
+            subtitle="a r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="i p"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="  d"
+            image="/window-installation.jpg"
             alt="Vancouver front yard landscaping"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Vancouver front yard landscaping" //KW
-            desc="e s i s"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="e i o s"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="p"
+            subtitle="Affordable Window Services" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2=" "
-            cardDesc3="f"
+            cardDesc1="s"
+            cardDesc2="o"
+            cardDesc3="a"
             />
             <Approach
             title="Vancouver front yard landscaping" //KW
-            desc="A t n  "
+            desc="e s   s"
             />
             <Intro
             subtitle="Exceptional Vancouver front yard landscaping" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="o f"
-            cardDesc3=" "
+            cardDesc1="h"
+            cardDesc2="r  "
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
+            desc="u" //KW
             desc2="s"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

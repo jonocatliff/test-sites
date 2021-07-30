@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston hedge trimming near me | We'll Take Care Of Everything" 
-            desc="Houston hedge trimming near me: v n"
+            desc="Houston hedge trimming near me: t y"
             canonical={`${props.website}/houston-hedge-trimming-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston hedge trimming near me" //KW
-            subtitle="v n"
+            subtitle="t y"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="i b"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="y  "
+            image="/window-installation.jpg"
             alt="Houston hedge trimming near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Houston hedge trimming near me" //KW
-            desc="  e f  "
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="  t o t"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="n"
+            subtitle="Affordable Window Services" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="d"
-            cardDesc2="."
-            cardDesc3="a"
+            cardDesc1="i"
+            cardDesc2="o"
+            cardDesc3="i"
             />
             <Approach
             title="Houston hedge trimming near me" //KW
-            desc="a s n e"
+            desc="e   s  "
             />
             <Intro
             subtitle="Exceptional Houston hedge trimming near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="r  "
-            cardDesc3="r"
+            cardDesc1="e"
+            cardDesc2="o e"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="t"
+            desc="r" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago basement window installation | We'll Take Care Of Everything" 
-            desc="Chicago basement window installation:   r"
+            desc="Chicago basement window installation: l e"
             canonical={`${props.website}/chicago-basement-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago basement window installation" //KW
-            subtitle="  r"
+            subtitle="l e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="o b"
+            subtitle="High-Quality Window Repair"
+            desc="k i"
             image="/window-installation.jpg"
             alt="Chicago basement window installation"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Chicago basement window installation" //KW
-            desc="h p e g"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="v r a O"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="k"
+            subtitle="Affordable Window Repair" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="v"
-            cardDesc3=" "
+            cardDesc1="g"
+            cardDesc2="n"
+            cardDesc3="s"
             />
             <Approach
             title="Chicago basement window installation" //KW
-            desc="o i i  "
+            desc="r d . c"
             />
             <Intro
             subtitle="Exceptional Chicago basement window installation" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="h o"
-            cardDesc3="o"
+            cardDesc2="  r"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="o"
+            desc="i" //KW
+            desc2="g"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

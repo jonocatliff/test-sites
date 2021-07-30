@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto concrete curbing near me | We'll Take Care Of Everything" 
-            desc="Toronto concrete curbing near me: s l"
+            desc="Toronto concrete curbing near me: a o"
             canonical={`${props.website}/toronto-concrete-curbing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto concrete curbing near me" //KW
-            subtitle="s l"
+            subtitle="a o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="e m"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="o l"
+            image="/window-installation.jpg"
             alt="Toronto concrete curbing near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Toronto concrete curbing near me" //KW
-            desc="a n r d"
+            desc="a n    "
             image="/contractor.jpg"
-            alt="Window Installations"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="s"
+            subtitle="Affordable Window Repair" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="e"
-            cardDesc3="e"
+            cardDesc1="i"
+            cardDesc2="r"
+            cardDesc3="h"
             />
             <Approach
             title="Toronto concrete curbing near me" //KW
-            desc="c m n  "
+            desc="w a r  "
             />
             <Intro
             subtitle="Exceptional Toronto concrete curbing near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="t m"
-            cardDesc3="w"
+            cardDesc1=" "
+            cardDesc2="o e"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="d"
+            desc="," //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

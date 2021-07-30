@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto vinyl window installation | We'll Take Care Of Everything" 
-            desc="Toronto vinyl window installation: i i"
+            desc="Toronto vinyl window installation: e o"
             canonical={`${props.website}/toronto-vinyl-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto vinyl window installation" //KW
-            subtitle="i i"
+            subtitle="e o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="f e"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="o l"
+            image="/window-installation.jpg"
             alt="Toronto vinyl window installation"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Toronto vinyl window installation" //KW
-            desc="s a o e"
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="  c    "
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc=" "
+            subtitle="Affordable Window Cleaning" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
-            cardDesc2="a"
-            cardDesc3="t"
+            cardDesc1="n"
+            cardDesc2="l"
+            cardDesc3="o"
             />
             <Approach
             title="Toronto vinyl window installation" //KW
-            desc="t h n ."
+            desc="t u o o"
             />
             <Intro
             subtitle="Exceptional Toronto vinyl window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="e  "
-            cardDesc3="o"
+            cardDesc1="h"
+            cardDesc2="y o"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="o" //KW
-            desc2="l"
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa landscaping companies near me | We'll Take Care Of Everything" 
-            desc="Ottowa landscaping companies near me: r u"
+            desc="Ottowa landscaping companies near me: , s"
             canonical={`${props.website}/ottowa-landscaping-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa landscaping companies near me" //KW
-            subtitle="r u"
+            subtitle=", s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="a m"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="d e"
+            image="/contractor.jpg"
             alt="Ottowa landscaping companies near me"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Ottowa landscaping companies near me" //KW
-            desc="w v e a"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="w e r w"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="w"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="r"
-            cardDesc3="l"
+            cardDesc1="h"
+            cardDesc2="w"
+            cardDesc3="r"
             />
             <Approach
             title="Ottowa landscaping companies near me" //KW
-            desc="n u   r"
+            desc="o e a ."
             />
             <Intro
             subtitle="Exceptional Ottowa landscaping companies near me" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="t  "
-            cardDesc3=" "
+            cardDesc1="t"
+            cardDesc2="   "
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
+            desc="e" //KW
             desc2=" "
             />
             <Footer 

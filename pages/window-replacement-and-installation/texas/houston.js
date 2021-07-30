@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston window replacement and installation | We'll Take Care Of Everything" 
-            desc="Houston window replacement and installation: o s"
+            desc="Houston window replacement and installation: t w"
             canonical={`${props.website}/houston-window-replacement-and-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston window replacement and installation" //KW
-            subtitle="o s"
+            subtitle="t w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="t t"
+            subtitle="High-Quality Window Replacement"
+            desc="i a"
             image="/window-washing.jpg"
             alt="Houston window replacement and installation"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Houston window replacement and installation" //KW
-            desc="i o   l"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="i c s t"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
+            cardDesc1="n"
             cardDesc2=" "
-            cardDesc3="k"
+            cardDesc3="l"
             />
             <Approach
             title="Houston window replacement and installation" //KW
-            desc="    h e"
+            desc="n l e t"
             />
             <Intro
             subtitle="Exceptional Houston window replacement and installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="o i"
-            cardDesc3="i"
+            cardDesc1=" "
+            cardDesc2="o v"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="s"
+            desc=" " //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

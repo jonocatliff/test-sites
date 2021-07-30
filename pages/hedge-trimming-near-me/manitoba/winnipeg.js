@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg hedge trimming near me | We'll Take Care Of Everything" 
-            desc="Winnipeg hedge trimming near me:    "
+            desc="Winnipeg hedge trimming near me: a n"
             canonical={`${props.website}/winnipeg-hedge-trimming-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg hedge trimming near me" //KW
-            subtitle="   "
+            subtitle="a n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="   "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="  t"
+            image="/window-washing.jpg"
             alt="Winnipeg hedge trimming near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Winnipeg hedge trimming near me" //KW
-            desc="v r s r"
+            desc="  s i  "
             image="/window-installation.jpg"
-            alt="Window Cleaning"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc=" "
+            subtitle="Affordable Window Installations" //KW
+            desc="q"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="W"
-            cardDesc3="t"
+            cardDesc1="a"
+            cardDesc2="e"
+            cardDesc3=" "
             />
             <Approach
             title="Winnipeg hedge trimming near me" //KW
-            desc="y e e c"
+            desc="  e   v"
             />
             <Intro
             subtitle="Exceptional Winnipeg hedge trimming near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="r e"
-            cardDesc3="a"
+            cardDesc1="a"
+            cardDesc2="A o"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="s"
+            desc="a" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

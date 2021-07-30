@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver lawn spray service | We'll Take Care Of Everything" 
-            desc="Vancouver lawn spray service: a w"
+            desc="Vancouver lawn spray service: a O"
             canonical={`${props.website}/vancouver-lawn-spray-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver lawn spray service" //KW
-            subtitle="a w"
+            subtitle="a O"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="r e"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="r W"
+            image="/window-washing.jpg"
             alt="Vancouver lawn spray service"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Vancouver lawn spray service" //KW
-            desc="e g s r"
-            image="/window-washing.jpg"
-            alt="Window Replacement"
+            desc="m      "
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc=","
+            subtitle="Affordable Window Repair" //KW
+            desc="O"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="x"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="o"
+            cardDesc3="o"
             />
             <Approach
             title="Vancouver lawn spray service" //KW
-            desc="t e O y"
+            desc="u   y o"
             />
             <Intro
             subtitle="Exceptional Vancouver lawn spray service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="i o"
-            cardDesc3="r"
+            cardDesc1=" "
+            cardDesc2="w p"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
-            desc2="r"
+            desc="t" //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

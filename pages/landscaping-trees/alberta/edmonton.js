@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton landscaping trees | We'll Take Care Of Everything" 
-            desc="Edmonton landscaping trees: l  "
+            desc="Edmonton landscaping trees: b n"
             canonical={`${props.website}/edmonton-landscaping-trees`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton landscaping trees" //KW
-            subtitle="l  "
+            subtitle="b n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="o t"
+            subtitle="High-Quality Window Replacement"
+            desc="o n"
             image="/window-installations.jpg"
             alt="Edmonton landscaping trees"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Edmonton landscaping trees" //KW
-            desc="d l d  "
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="s o   r"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc=" "
+            subtitle="Affordable Window Replacement" //KW
+            desc="d"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="s"
-            cardDesc3="w"
+            cardDesc1="s"
+            cardDesc2="r"
+            cardDesc3="P"
             />
             <Approach
             title="Edmonton landscaping trees" //KW
-            desc="s e s i"
+            desc="e n p  "
             />
             <Intro
             subtitle="Exceptional Edmonton landscaping trees" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="r e"
+            cardDesc1="d"
+            cardDesc2="y ’"
             cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="r"
+            desc="e" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton landscape installation | We'll Take Care Of Everything" 
-            desc="Hamilton landscape installation: s p"
+            desc="Hamilton landscape installation: w a"
             canonical={`${props.website}/hamilton-landscape-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton landscape installation" //KW
-            subtitle="s p"
+            subtitle="w a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc=", o"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="s l"
+            image="/window-washing.jpg"
             alt="Hamilton landscape installation"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Hamilton landscape installation" //KW
-            desc="n w o l"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="n t m o"
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="p"
+            subtitle="Affordable Window Cleaning" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="s"
-            cardDesc3="o"
+            cardDesc1="i"
+            cardDesc2="y"
+            cardDesc3="l"
             />
             <Approach
             title="Hamilton landscape installation" //KW
-            desc="u e e e"
+            desc="u o u r"
             />
             <Intro
             subtitle="Exceptional Hamilton landscape installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="w"
-            cardDesc2="  w"
-            cardDesc3="a"
+            cardDesc1="o"
+            cardDesc2="  r"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="l" //KW
-            desc2=" "
+            desc="o" //KW
+            desc2=","
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

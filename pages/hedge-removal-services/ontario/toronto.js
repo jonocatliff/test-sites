@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto hedge removal services | We'll Take Care Of Everything" 
-            desc="Toronto hedge removal services: e u"
+            desc="Toronto hedge removal services: p u"
             canonical={`${props.website}/toronto-hedge-removal-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto hedge removal services" //KW
-            subtitle="e u"
+            subtitle="p u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="e W"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="d e"
+            image="/window-washing.jpg"
             alt="Toronto hedge removal services"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Toronto hedge removal services" //KW
-            desc="       "
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="e l l t"
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="l"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="f"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="s"
-            cardDesc3="t"
+            cardDesc1="n"
+            cardDesc2="w"
+            cardDesc3="P"
             />
             <Approach
             title="Toronto hedge removal services" //KW
-            desc="c n p r"
+            desc="w a e h"
             />
             <Intro
             subtitle="Exceptional Toronto hedge removal services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="i  "
-            cardDesc3="n"
+            cardDesc1="s"
+            cardDesc2="d s"
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2="o"
+            desc="d" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

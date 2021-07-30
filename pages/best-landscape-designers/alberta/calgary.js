@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary best landscape designers | We'll Take Care Of Everything" 
-            desc="Calgary best landscape designers: a v"
+            desc="Calgary best landscape designers: r o"
             canonical={`${props.website}/calgary-best-landscape-designers`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary best landscape designers" //KW
-            subtitle="a v"
+            subtitle="r o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="e o"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="r i"
+            image="/contractor.jpg"
             alt="Calgary best landscape designers"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Calgary best landscape designers" //KW
-            desc="h s s u"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="s   e i"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="."
+            subtitle="Affordable Window Services" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="u"
-            cardDesc2="n"
-            cardDesc3="i"
+            cardDesc1="s"
+            cardDesc2="w"
+            cardDesc3="n"
             />
             <Approach
             title="Calgary best landscape designers" //KW
-            desc="o . r  "
+            desc="t t s i"
             />
             <Intro
             subtitle="Exceptional Calgary best landscape designers" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="w"
-            cardDesc2="t r"
-            cardDesc3=" "
+            cardDesc1="r"
+            cardDesc2="i  "
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc=" " //KW
-            desc2="y"
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton backyard landscaping | We'll Take Care Of Everything" 
-            desc="Edmonton backyard landscaping: o s"
+            desc="Edmonton backyard landscaping: r a"
             canonical={`${props.website}/edmonton-backyard-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton backyard landscaping" //KW
-            subtitle="o s"
+            subtitle="r a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="  o"
-            image="/window-installations.jpg"
+            desc="  a"
+            image="/window-installation.jpg"
             alt="Edmonton backyard landscaping"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Edmonton backyard landscaping" //KW
-            desc="n e   a"
-            image="/contractor.jpg"
+            desc="n w r e"
+            image="/window-washing.jpg"
             alt="Window Cleaning"
             />
             <Savings
             subtitle="Affordable Window Cleaning" //KW
-            desc="y"
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="c"
-            cardDesc2="c"
-            cardDesc3=" "
+            cardDesc2=" "
+            cardDesc3="e"
             />
             <Approach
             title="Edmonton backyard landscaping" //KW
-            desc="s f w  "
+            desc="o i y a"
             />
             <Intro
             subtitle="Exceptional Edmonton backyard landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="r o"
-            cardDesc3="i"
+            cardDesc1=" "
+            cardDesc2="a d"
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="m"
+            desc=" " //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

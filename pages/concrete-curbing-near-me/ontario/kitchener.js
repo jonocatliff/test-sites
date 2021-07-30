@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener concrete curbing near me | We'll Take Care Of Everything" 
-            desc="Kitchener concrete curbing near me: , u"
+            desc="Kitchener concrete curbing near me: i P"
             canonical={`${props.website}/kitchener-concrete-curbing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener concrete curbing near me" //KW
-            subtitle=", u"
+            subtitle="i P"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="  a"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="t i"
+            image="/window-installations.jpg"
             alt="Kitchener concrete curbing near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Kitchener concrete curbing near me" //KW
-            desc="  o f o"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="    o e"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="e"
+            subtitle="Affordable Window Replacement" //KW
+            desc="m"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2="f"
-            cardDesc3="t"
+            cardDesc1="n"
+            cardDesc2="w"
+            cardDesc3="I"
             />
             <Approach
             title="Kitchener concrete curbing near me" //KW
-            desc="l n   u"
+            desc="  o   a"
             />
             <Intro
             subtitle="Exceptional Kitchener concrete curbing near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="e i"
-            cardDesc3="i"
+            cardDesc1="n"
+            cardDesc2="t y"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="m"
+            desc="t" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City lawn weed control service | We'll Take Care Of Everything" 
-            desc="Quebec City lawn weed control service: r  "
+            desc="Quebec City lawn weed control service: h I"
             canonical={`${props.website}/quebec-city-lawn-weed-control-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City lawn weed control service" //KW
-            subtitle="r  "
+            subtitle="h I"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="  v"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="t t"
+            image="/contractor.jpg"
             alt="Quebec City lawn weed control service"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Quebec City lawn weed control service" //KW
-            desc="w e   m"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="c t h a"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="undefined"
+            subtitle="Affordable Window Replacement" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2="d"
-            cardDesc3=" "
+            cardDesc1="r"
+            cardDesc2="s"
+            cardDesc3="o"
             />
             <Approach
             title="Quebec City lawn weed control service" //KW
-            desc="o s t e"
+            desc="  s r a"
             />
             <Intro
             subtitle="Exceptional Quebec City lawn weed control service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="o  "
-            cardDesc3="n"
+            cardDesc1="e"
+            cardDesc2="  s"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
-            desc2="n"
+            desc="," //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

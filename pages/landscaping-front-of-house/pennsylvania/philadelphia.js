@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia landscaping front of house | We'll Take Care Of Everything" 
-            desc="Philadelphia landscaping front of house: t e"
+            desc="Philadelphia landscaping front of house:   n"
             canonical={`${props.website}/philadelphia-landscaping-front-of-house`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia landscaping front of house" //KW
-            subtitle="t e"
+            subtitle="  n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="A a"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="i e"
+            image="/window-washing.jpg"
             alt="Philadelphia landscaping front of house"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Philadelphia landscaping front of house" //KW
-            desc="e o t u"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="t l n u"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="r"
-            cardDesc3="o"
+            cardDesc1="l"
+            cardDesc2="i"
+            cardDesc3="n"
             />
             <Approach
             title="Philadelphia landscaping front of house" //KW
-            desc="g c n s"
+            desc="  a n o"
             />
             <Intro
             subtitle="Exceptional Philadelphia landscaping front of house" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="r F"
-            cardDesc3="c"
+            cardDesc1="p"
+            cardDesc2="o e"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2="o"
+            desc="v" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

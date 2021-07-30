@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary lawn care companies near me | We'll Take Care Of Everything" 
-            desc="Calgary lawn care companies near me: s o"
+            desc="Calgary lawn care companies near me: a r"
             canonical={`${props.website}/calgary-lawn-care-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary lawn care companies near me" //KW
-            subtitle="s o"
+            subtitle="a r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="t e"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="i i"
+            image="/window-washing.jpg"
             alt="Calgary lawn care companies near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Calgary lawn care companies near me" //KW
-            desc="  A i  "
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="      t"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="c"
+            subtitle="Affordable Window Installations" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="g"
-            cardDesc2="s"
-            cardDesc3="l"
+            cardDesc1="s"
+            cardDesc2="o"
+            cardDesc3=" "
             />
             <Approach
             title="Calgary lawn care companies near me" //KW
-            desc="c o    "
+            desc="i a a r"
             />
             <Intro
             subtitle="Exceptional Calgary lawn care companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="l r"
-            cardDesc3="t"
+            cardDesc1="r"
+            cardDesc2="o r"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="i"
+            desc=" " //KW
+            desc2="P"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

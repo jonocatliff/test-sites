@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa concrete curbing | We'll Take Care Of Everything" 
-            desc="Ottowa concrete curbing: i a"
+            desc="Ottowa concrete curbing: a  "
             canonical={`${props.website}/ottowa-concrete-curbing`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa concrete curbing" //KW
-            subtitle="i a"
+            subtitle="a  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="o t"
+            desc="  e"
             image="/window-installations.jpg"
             alt="Ottowa concrete curbing"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Ottowa concrete curbing" //KW
-            desc="r     n"
-            image="/window-installation.jpg"
+            desc="t i d O"
+            image="/window-washing.jpg"
             alt="Window Cleaning"
             />
             <Savings
             subtitle="Affordable Window Cleaning" //KW
-            desc="w"
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="u"
-            cardDesc2="s"
-            cardDesc3="i"
+            cardDesc1="o"
+            cardDesc2="g"
+            cardDesc3="l"
             />
             <Approach
             title="Ottowa concrete curbing" //KW
-            desc="t y o h"
+            desc="  i   n"
             />
             <Intro
             subtitle="Exceptional Ottowa concrete curbing" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="a l"
-            cardDesc3="r"
+            cardDesc1="o"
+            cardDesc2="p u"
+            cardDesc3="P"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="l"
+            desc="e" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}

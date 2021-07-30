@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg hedge trimming | We'll Take Care Of Everything" 
-            desc="Winnipeg hedge trimming:   o"
+            desc="Winnipeg hedge trimming: f  "
             canonical={`${props.website}/winnipeg-hedge-trimming`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg hedge trimming" //KW
-            subtitle="  o"
+            subtitle="f  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="h g"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="b  "
+            image="/window-installation.jpg"
             alt="Winnipeg hedge trimming"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Winnipeg hedge trimming" //KW
-            desc=". s   a"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="a   r t"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="n"
+            subtitle="Affordable Window Installations" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="a"
-            cardDesc2="w"
-            cardDesc3="A"
+            cardDesc2="i"
+            cardDesc3="t"
             />
             <Approach
             title="Winnipeg hedge trimming" //KW
-            desc="d      "
+            desc="f r e  "
             />
             <Intro
             subtitle="Exceptional Winnipeg hedge trimming" //KW
@@ -65,9 +65,9 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="r f"
-            cardDesc3="r"
+            cardDesc1="t"
+            cardDesc2="s a"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

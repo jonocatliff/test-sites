@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City sod installation near me | We'll Take Care Of Everything" 
-            desc="Quebec City sod installation near me: , m"
+            desc="Quebec City sod installation near me: o d"
             canonical={`${props.website}/quebec-city-sod-installation-near-me`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Quebec City sod installation near me" //KW
-            subtitle=", m"
+            subtitle="o d"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="f  "
-            image="/contractor.jpg"
+            desc="w c"
+            image="/window-installations.jpg"
             alt="Quebec City sod installation near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Quebec City sod installation near me" //KW
-            desc="o f   undefined"
-            image="/window-washing.jpg"
+            desc="n   r undefined"
+            image="/window-installation.jpg"
             alt="Window Services"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="g"
-            cardDesc2="r"
-            cardDesc3="y"
+            cardDesc1="h"
+            cardDesc2="e"
+            cardDesc3="e"
             />
             <Approach
             title="Quebec City sod installation near me" //KW
-            desc="m   i y"
+            desc="n   a o"
             />
             <Intro
             subtitle="Exceptional Quebec City sod installation near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="h undefined"
-            cardDesc3="s"
+            cardDesc1="u"
+            cardDesc2="d undefined"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc=" " //KW
-            desc2="e"
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

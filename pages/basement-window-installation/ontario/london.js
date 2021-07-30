@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London basement window installation | We'll Take Care Of Everything" 
-            desc="London basement window installation: c r"
+            desc="London basement window installation: e h"
             canonical={`${props.website}/london-basement-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London basement window installation" //KW
-            subtitle="c r"
+            subtitle="e h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="f e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="o t"
+            image="/window-installation.jpg"
             alt="London basement window installation"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional London basement window installation" //KW
-            desc="  t m n"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="i   e o"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="l"
+            subtitle="Affordable Window Replacement" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="s"
-            cardDesc2="i"
-            cardDesc3="o"
+            cardDesc2="e"
+            cardDesc3="u"
             />
             <Approach
             title="London basement window installation" //KW
-            desc="s c e  "
+            desc="a i l b"
             />
             <Intro
             subtitle="Exceptional London basement window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2="p s"
-            cardDesc3="a"
+            cardDesc1=" "
+            cardDesc2="p  "
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="a"
+            desc="a" //KW
+            desc2="h"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

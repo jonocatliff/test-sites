@@ -33,31 +33,31 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="  t"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="y g"
+            image="/window-installation.jpg"
             alt="Calgary lawn service"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Calgary lawn service" //KW
-            desc="o   t r"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="o s   e"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="t"
+            subtitle="Affordable Window Services" //KW
+            desc="d"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="g"
+            cardDesc1="f"
+            cardDesc2="."
             cardDesc3="e"
             />
             <Approach
             title="Calgary lawn service" //KW
-            desc="c c d w"
+            desc="h a e s"
             />
             <Intro
             subtitle="Exceptional Calgary lawn service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="d  "
-            cardDesc3=" "
+            cardDesc1="u"
+            cardDesc2="d s"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="r"
+            desc="e" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

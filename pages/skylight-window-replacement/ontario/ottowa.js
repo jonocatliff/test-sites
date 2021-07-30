@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa skylight window replacement | We'll Take Care Of Everything" 
-            desc="Ottowa skylight window replacement: i o"
+            desc="Ottowa skylight window replacement: y o"
             canonical={`${props.website}/ottowa-skylight-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa skylight window replacement" //KW
-            subtitle="i o"
+            subtitle="y o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="t o"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="t e"
+            image="/window-installation.jpg"
             alt="Ottowa skylight window replacement"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Ottowa skylight window replacement" //KW
-            desc="a u i o"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="t l e  "
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="d"
-            cardDesc3="n"
+            cardDesc1="o"
+            cardDesc2="e"
+            cardDesc3="h"
             />
             <Approach
             title="Ottowa skylight window replacement" //KW
-            desc="r l o i"
+            desc="l v T e"
             />
             <Intro
             subtitle="Exceptional Ottowa skylight window replacement" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="e"
-            cardDesc2="r s"
-            cardDesc3="v"
+            cardDesc2="y r"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
-            desc2="c"
+            desc="o" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

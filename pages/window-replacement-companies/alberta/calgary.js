@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary window replacement companies | We'll Take Care Of Everything" 
-            desc="Calgary window replacement companies: i i"
+            desc="Calgary window replacement companies:    "
             canonical={`${props.website}/calgary-window-replacement-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary window replacement companies" //KW
-            subtitle="i i"
+            subtitle="   "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="w n"
+            subtitle="High-Quality Window Services"
+            desc="a i"
             image="/contractor.jpg"
             alt="Calgary window replacement companies"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Calgary window replacement companies" //KW
-            desc="s i u f"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="l n o o"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="u"
+            subtitle="Affordable Window Services" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="v"
-            cardDesc3="v"
+            cardDesc1="y"
+            cardDesc2="a"
+            cardDesc3="a"
             />
             <Approach
             title="Calgary window replacement companies" //KW
-            desc="i   u y"
+            desc="w y n s"
             />
             <Intro
             subtitle="Exceptional Calgary window replacement companies" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="s t"
-            cardDesc3="e"
+            cardDesc1="u"
+            cardDesc2="  r"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
+            desc=" " //KW
             desc2="o"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

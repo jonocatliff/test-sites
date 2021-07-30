@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City lawn care companies | We'll Take Care Of Everything" 
-            desc="New York City lawn care companies: , a"
+            desc="New York City lawn care companies: a u"
             canonical={`${props.website}/new-york-city-lawn-care-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City lawn care companies" //KW
-            subtitle=", a"
+            subtitle="a u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="d d"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="  o"
+            image="/contractor.jpg"
             alt="New York City lawn care companies"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional New York City lawn care companies" //KW
-            desc="  c c i"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="  s x d"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            subtitle="Affordable Window Installations" //KW
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="o"
-            cardDesc3="t"
+            cardDesc1="l"
+            cardDesc2="b"
+            cardDesc3="n"
             />
             <Approach
             title="New York City lawn care companies" //KW
-            desc="r e s n"
+            desc="  e d u"
             />
             <Intro
             subtitle="Exceptional New York City lawn care companies" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="i t"
-            cardDesc3="e"
+            cardDesc1="m"
+            cardDesc2="y u"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="o"
+            desc="l" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

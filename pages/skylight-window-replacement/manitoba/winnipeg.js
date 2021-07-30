@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg skylight window replacement | We'll Take Care Of Everything" 
-            desc="Winnipeg skylight window replacement: s w"
+            desc="Winnipeg skylight window replacement: o w"
             canonical={`${props.website}/winnipeg-skylight-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg skylight window replacement" //KW
-            subtitle="s w"
+            subtitle="o w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="w n"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="  p"
+            image="/window-installations.jpg"
             alt="Winnipeg skylight window replacement"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Winnipeg skylight window replacement" //KW
-            desc="t   n  "
+            desc="o e t w"
             image="/contractor.jpg"
-            alt="Window Installations"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="o"
-            cardDesc3="s"
+            cardDesc1="n"
+            cardDesc2="n"
+            cardDesc3="e"
             />
             <Approach
             title="Winnipeg skylight window replacement" //KW
-            desc="i l u t"
+            desc="l e h s"
             />
             <Intro
             subtitle="Exceptional Winnipeg skylight window replacement" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="   "
-            cardDesc3="i"
+            cardDesc1="r"
+            cardDesc2="o o"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="l"
+            desc="n" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal vinyl window installation | We'll Take Care Of Everything" 
-            desc="Montreal vinyl window installation: s c"
+            desc="Montreal vinyl window installation:   v"
             canonical={`${props.website}/montreal-vinyl-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal vinyl window installation" //KW
-            subtitle="s c"
+            subtitle="  v"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="  i"
+            subtitle="High-Quality Window Services"
+            desc="v p"
             image="/window-installation.jpg"
             alt="Montreal vinyl window installation"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Montreal vinyl window installation" //KW
-            desc="  l m  "
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="p t t i"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="a"
+            subtitle="Affordable Window Services" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="l"
-            cardDesc3="i"
+            cardDesc1="g"
+            cardDesc2="a"
+            cardDesc3="u"
             />
             <Approach
             title="Montreal vinyl window installation" //KW
-            desc="  i s I"
+            desc="  r u r"
             />
             <Intro
             subtitle="Exceptional Montreal vinyl window installation" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="t a"
-            cardDesc3="v"
+            cardDesc1="a"
+            cardDesc2="t w"
+            cardDesc3="c"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
-            desc2="l"
+            desc=" " //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}

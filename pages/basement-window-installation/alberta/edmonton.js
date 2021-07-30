@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton basement window installation | We'll Take Care Of Everything" 
-            desc="Edmonton basement window installation:    "
+            desc="Edmonton basement window installation: s m"
             canonical={`${props.website}/edmonton-basement-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton basement window installation" //KW
-            subtitle="   "
+            subtitle="s m"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  h"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="w r"
+            image="/window-installations.jpg"
             alt="Edmonton basement window installation"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Edmonton basement window installation" //KW
-            desc="a c s i"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="s   n w"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="u"
+            subtitle="Affordable Window Replacement" //KW
+            desc="."
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="s"
-            cardDesc3=" "
+            cardDesc1="n"
+            cardDesc2="i"
+            cardDesc3="c"
             />
             <Approach
             title="Edmonton basement window installation" //KW
-            desc="h u t n"
+            desc="e      "
             />
             <Intro
             subtitle="Exceptional Edmonton basement window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="t i"
-            cardDesc3=" "
+            cardDesc1="g"
+            cardDesc2="O e"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2=" "
+            desc="e" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

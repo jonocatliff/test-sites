@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia window installation contractor | We'll Take Care Of Everything" 
-            desc="Philadelphia window installation contractor: i r"
+            desc="Philadelphia window installation contractor: n ’"
             canonical={`${props.website}/philadelphia-window-installation-contractor`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia window installation contractor" //KW
-            subtitle="i r"
+            subtitle="n ’"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="d e"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="t i"
+            image="/window-installations.jpg"
             alt="Philadelphia window installation contractor"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Philadelphia window installation contractor" //KW
-            desc="h u o u"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="h   a r"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="s"
+            subtitle="Affordable Window Repair" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="g"
-            cardDesc2="a"
-            cardDesc3="."
+            cardDesc1="n"
+            cardDesc2="o"
+            cardDesc3="f"
             />
             <Approach
             title="Philadelphia window installation contractor" //KW
-            desc="d u h f"
+            desc="i e u s"
             />
             <Intro
             subtitle="Exceptional Philadelphia window installation contractor" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="o t"
-            cardDesc3=" "
+            cardDesc1="r"
+            cardDesc2="g e"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="i"
+            desc="s" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

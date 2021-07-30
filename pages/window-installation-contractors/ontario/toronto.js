@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto window installation contractors | We'll Take Care Of Everything" 
-            desc="Toronto window installation contractors:   i"
+            desc="Toronto window installation contractors: o o"
             canonical={`${props.website}/toronto-window-installation-contractors`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto window installation contractors" //KW
-            subtitle="  i"
+            subtitle="o o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="l  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="s i"
+            image="/contractor.jpg"
             alt="Toronto window installation contractors"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Toronto window installation contractors" //KW
-            desc="  k n f"
+            desc="i i n o"
             image="/window-installations.jpg"
-            alt="Window Services"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2=" "
-            cardDesc3="w"
+            cardDesc1="t"
+            cardDesc2="e"
+            cardDesc3=" "
             />
             <Approach
             title="Toronto window installation contractors" //KW
-            desc="  w p o"
+            desc="  r a r"
             />
             <Intro
             subtitle="Exceptional Toronto window installation contractors" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="i i"
-            cardDesc3="a"
+            cardDesc1="n"
+            cardDesc2="l t"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
+            desc="d" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

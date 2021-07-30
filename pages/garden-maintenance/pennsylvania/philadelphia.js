@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia garden maintenance | We'll Take Care Of Everything" 
-            desc="Philadelphia garden maintenance: n f"
+            desc="Philadelphia garden maintenance: y w"
             canonical={`${props.website}/philadelphia-garden-maintenance`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia garden maintenance" //KW
-            subtitle="n f"
+            subtitle="y w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
-            desc="  r"
-            image="/window-installation.jpg"
+            desc="m e"
+            image="/window-washing.jpg"
             alt="Philadelphia garden maintenance"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Philadelphia garden maintenance" //KW
-            desc="w o l i"
-            image="/window-washing.jpg"
+            desc="s r r x"
+            image="/window-installation.jpg"
             alt="Window Replacement"
             />
             <Savings
             subtitle="Affordable Window Replacement" //KW
-            desc="l"
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="O"
-            cardDesc2=" "
-            cardDesc3="r"
+            cardDesc1="e"
+            cardDesc2="a"
+            cardDesc3="d"
             />
             <Approach
             title="Philadelphia garden maintenance" //KW
-            desc="s t   s"
+            desc="e u , t"
             />
             <Intro
             subtitle="Exceptional Philadelphia garden maintenance" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="  o"
-            cardDesc3="o"
+            cardDesc1="w"
+            cardDesc2="  e"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="g"
+            desc=" " //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

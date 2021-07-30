@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton backyard landscape design | We'll Take Care Of Everything" 
-            desc="Edmonton backyard landscape design: r o"
+            desc="Edmonton backyard landscape design:   n"
             canonical={`${props.website}/edmonton-backyard-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton backyard landscape design" //KW
-            subtitle="r o"
+            subtitle="  n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="a e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Services"
+            desc="t n"
+            image="/window-installations.jpg"
             alt="Edmonton backyard landscape design"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Edmonton backyard landscape design" //KW
-            desc="h e d  "
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="h   p p"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="w"
+            subtitle="Affordable Window Services" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="c"
-            cardDesc3=" "
+            cardDesc1="e"
+            cardDesc2="l"
+            cardDesc3="n"
             />
             <Approach
             title="Edmonton backyard landscape design" //KW
-            desc="y i s s"
+            desc="h . u k"
             />
             <Intro
             subtitle="Exceptional Edmonton backyard landscape design" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="n  "
-            cardDesc3="e"
+            cardDesc1="d"
+            cardDesc2="r d"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="d"
+            desc="u" //KW
+            desc2="p"
             />
             <Footer 
             companyName={props.companyName}

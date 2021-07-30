@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg landscaping front of house | We'll Take Care Of Everything" 
-            desc="Winnipeg landscaping front of house: t r"
+            desc="Winnipeg landscaping front of house: a w"
             canonical={`${props.website}/winnipeg-landscaping-front-of-house`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg landscaping front of house" //KW
-            subtitle="t r"
+            subtitle="a w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="W o"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="o f"
+            image="/window-installations.jpg"
             alt="Winnipeg landscaping front of house"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Winnipeg landscaping front of house" //KW
-            desc="i n r n"
+            desc="e e c r"
             image="/window-washing.jpg"
-            alt="Window Repair"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc=" "
+            subtitle="Affordable Window Installations" //KW
+            desc=","
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="u"
-            cardDesc2=" "
-            cardDesc3="h"
+            cardDesc1="i"
+            cardDesc2="o"
+            cardDesc3="w"
             />
             <Approach
             title="Winnipeg landscaping front of house" //KW
-            desc="    w t"
+            desc="b t r d"
             />
             <Intro
             subtitle="Exceptional Winnipeg landscaping front of house" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="x m"
-            cardDesc3="p"
+            cardDesc1="v"
+            cardDesc2="r e"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="l"
+            desc="e" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

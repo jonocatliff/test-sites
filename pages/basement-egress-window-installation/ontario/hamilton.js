@@ -35,14 +35,14 @@
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
             desc="l t"
-            image="/window-installations.jpg"
+            image="/window-washing.jpg"
             alt="Hamilton basement egress window installation"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Hamilton basement egress window installation" //KW
             desc="t o   n"
-            image="/window-washing.jpg"
+            image="/window-installations.jpg"
             alt="Window Repair"
             />
             <Savings
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

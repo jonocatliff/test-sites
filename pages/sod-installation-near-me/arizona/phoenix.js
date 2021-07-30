@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix sod installation near me | We'll Take Care Of Everything" 
-            desc="Phoenix sod installation near me: b f"
+            desc="Phoenix sod installation near me:    "
             canonical={`${props.website}/phoenix-sod-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix sod installation near me" //KW
-            subtitle="b f"
+            subtitle="   "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="k e"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="n r"
+            image="/contractor.jpg"
             alt="Phoenix sod installation near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Phoenix sod installation near me" //KW
-            desc="n p i undefined"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="  A   undefined"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
+            cardDesc1="t"
             cardDesc2="s"
-            cardDesc3="t"
+            cardDesc3=" "
             />
             <Approach
             title="Phoenix sod installation near me" //KW
-            desc="  e y h"
+            desc="t c u d"
             />
             <Intro
             subtitle="Exceptional Phoenix sod installation near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="r undefined"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="o undefined"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="s"
+            desc="l" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener house window replacement near me | We'll Take Care Of Everything" 
-            desc="Kitchener house window replacement near me: i e"
+            desc="Kitchener house window replacement near me: , f"
             canonical={`${props.website}/kitchener-house-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener house window replacement near me" //KW
-            subtitle="i e"
+            subtitle=", f"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="r f"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="n  "
+            image="/window-installations.jpg"
             alt="Kitchener house window replacement near me"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Kitchener house window replacement near me" //KW
-            desc="c e r y"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="  i r m"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="n"
+            subtitle="Affordable Window Installations" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=","
-            cardDesc2="i"
-            cardDesc3="u"
+            cardDesc1="n"
+            cardDesc2="s"
+            cardDesc3="i"
             />
             <Approach
             title="Kitchener house window replacement near me" //KW
-            desc="r   i  "
+            desc="e h e t"
             />
             <Intro
             subtitle="Exceptional Kitchener house window replacement near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="m"
-            cardDesc2="d e"
-            cardDesc3="i"
+            cardDesc1="y"
+            cardDesc2="v i"
+            cardDesc3="y"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2=" "
+            desc="n" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}

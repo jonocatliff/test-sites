@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal hedge trimming near me | We'll Take Care Of Everything" 
-            desc="Montreal hedge trimming near me: a O"
+            desc="Montreal hedge trimming near me: d r"
             canonical={`${props.website}/montreal-hedge-trimming-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal hedge trimming near me" //KW
-            subtitle="a O"
+            subtitle="d r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="  f"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="r n"
+            image="/window-installations.jpg"
             alt="Montreal hedge trimming near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Montreal hedge trimming near me" //KW
-            desc="e i i d"
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="o e t c"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="O"
+            subtitle="Affordable Window Repair" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="a"
-            cardDesc3="o"
+            cardDesc1=" "
+            cardDesc2="n"
+            cardDesc3=" "
             />
             <Approach
             title="Montreal hedge trimming near me" //KW
-            desc="d a r n"
+            desc="o e   w"
             />
             <Intro
             subtitle="Exceptional Montreal hedge trimming near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="t y"
-            cardDesc3="r"
+            cardDesc1="k"
+            cardDesc2="e r"
+            cardDesc3="v"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="n"
+            desc="o" //KW
+            desc2="w"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg window replacement near me | We'll Take Care Of Everything" 
-            desc="Winnipeg window replacement near me: r u"
+            desc="Winnipeg window replacement near me: l  "
             canonical={`${props.website}/winnipeg-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg window replacement near me" //KW
-            subtitle="r u"
+            subtitle="l  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="  t"
+            subtitle="High-Quality Window Services"
+            desc="o f"
             image="/window-installation.jpg"
             alt="Winnipeg window replacement near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Winnipeg window replacement near me" //KW
-            desc="e e a ."
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="y i   a"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="s"
+            subtitle="Affordable Window Services" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="s"
-            cardDesc3="c"
+            cardDesc1="n"
+            cardDesc2="e"
+            cardDesc3="e"
             />
             <Approach
             title="Winnipeg window replacement near me" //KW
-            desc="  r w u"
+            desc="e      "
             />
             <Intro
             subtitle="Exceptional Winnipeg window replacement near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="y"
-            cardDesc2="n s"
-            cardDesc3="e"
+            cardDesc1="e"
+            cardDesc2="d l"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="c"
+            desc="d" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

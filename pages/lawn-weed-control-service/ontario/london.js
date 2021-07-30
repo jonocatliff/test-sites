@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London lawn weed control service | We'll Take Care Of Everything" 
-            desc="London lawn weed control service: , e"
+            desc="London lawn weed control service:   t"
             canonical={`${props.website}/london-lawn-weed-control-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London lawn weed control service" //KW
-            subtitle=", e"
+            subtitle="  t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="r e"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="r t"
+            image="/contractor.jpg"
             alt="London lawn weed control service"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional London lawn weed control service" //KW
-            desc="x   r e"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="p d r t"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="undefined"
+            subtitle="Affordable Window Installations" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="d"
-            cardDesc2=" "
-            cardDesc3="l"
+            cardDesc1="r"
+            cardDesc2="n"
+            cardDesc3="r"
             />
             <Approach
             title="London lawn weed control service" //KW
-            desc="  o e i"
+            desc="o p   y"
             />
             <Intro
             subtitle="Exceptional London lawn weed control service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="d n"
-            cardDesc3="a"
+            cardDesc1="h"
+            cardDesc2="c F"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="g"
+            desc="n" //KW
+            desc2="h"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

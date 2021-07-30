@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City retaining wall landscaping | We'll Take Care Of Everything" 
-            desc="New York City retaining wall landscaping:   d"
+            desc="New York City retaining wall landscaping: a i"
             canonical={`${props.website}/new-york-city-retaining-wall-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City retaining wall landscaping" //KW
-            subtitle="  d"
+            subtitle="a i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="l h"
+            subtitle="High-Quality Window Installations"
+            desc="f o"
             image="/window-installations.jpg"
             alt="New York City retaining wall landscaping"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional New York City retaining wall landscaping" //KW
-            desc="u n y undefined"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="e e y undefined"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="b"
-            cardDesc3=" "
+            cardDesc1="h"
+            cardDesc2="o"
+            cardDesc3="d"
             />
             <Approach
             title="New York City retaining wall landscaping" //KW
-            desc="r t e i"
+            desc="e e a s"
             />
             <Intro
             subtitle="Exceptional New York City retaining wall landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="y undefined"
-            cardDesc3="a"
+            cardDesc1="e"
+            cardDesc2="a undefined"
+            cardDesc3="p"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="e"
+            desc="r" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}

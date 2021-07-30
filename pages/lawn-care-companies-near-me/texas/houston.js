@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston lawn care companies near me | We'll Take Care Of Everything" 
-            desc="Houston lawn care companies near me: c o"
+            desc="Houston lawn care companies near me: i  "
             canonical={`${props.website}/houston-lawn-care-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston lawn care companies near me" //KW
-            subtitle="c o"
+            subtitle="i  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="   "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="o n"
+            image="/window-installation.jpg"
             alt="Houston lawn care companies near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Houston lawn care companies near me" //KW
-            desc="e o a i"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="i o r k"
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="e"
+            subtitle="Affordable Window Installations" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="c"
-            cardDesc3="r"
+            cardDesc1="a"
+            cardDesc2="n"
+            cardDesc3="o"
             />
             <Approach
             title="Houston lawn care companies near me" //KW
-            desc="  o t  "
+            desc="I l h  "
             />
             <Intro
             subtitle="Exceptional Houston lawn care companies near me" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="s w"
-            cardDesc3="t"
+            cardDesc1="s"
+            cardDesc2="l  "
+            cardDesc3="c"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
+            desc="e" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton front garden landscaping | We'll Take Care Of Everything" 
-            desc="Hamilton front garden landscaping: d l"
+            desc="Hamilton front garden landscaping:   v"
             canonical={`${props.website}/hamilton-front-garden-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Hamilton front garden landscaping" //KW
-            subtitle="d l"
+            subtitle="  v"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="e p"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="r i"
+            image="/window-washing.jpg"
             alt="Hamilton front garden landscaping"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Hamilton front garden landscaping" //KW
-            desc="v e s a"
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="h i , r"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc=" "
+            subtitle="Affordable Window Services" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="o"
-            cardDesc3="k"
+            cardDesc1="n"
+            cardDesc2="."
+            cardDesc3="r"
             />
             <Approach
             title="Hamilton front garden landscaping" //KW
-            desc="h s u i"
+            desc="t . r e"
             />
             <Intro
             subtitle="Exceptional Hamilton front garden landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="i ’"
+            cardDesc1="g"
+            cardDesc2="  l"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="d"
+            desc="s" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles patio installation | We'll Take Care Of Everything" 
-            desc="Los Angeles patio installation: l P"
+            desc="Los Angeles patio installation: o c"
             canonical={`${props.website}/los-angeles-patio-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles patio installation" //KW
-            subtitle="l P"
+            subtitle="o c"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="l p"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="t n"
+            image="/window-installations.jpg"
             alt="Los Angeles patio installation"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Los Angeles patio installation" //KW
-            desc="  i h undefined"
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="r e r undefined"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="i"
-            cardDesc3="w"
+            cardDesc1="r"
+            cardDesc2="e"
+            cardDesc3="n"
             />
             <Approach
             title="Los Angeles patio installation" //KW
-            desc="  h h t"
+            desc="w - t a"
             />
             <Intro
             subtitle="Exceptional Los Angeles patio installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="l undefined"
-            cardDesc3="a"
+            cardDesc1=" "
+            cardDesc2="s undefined"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="t"
+            desc="n" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

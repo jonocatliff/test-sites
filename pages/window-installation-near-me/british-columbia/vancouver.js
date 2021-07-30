@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver window installation near me | We'll Take Care Of Everything" 
-            desc="Vancouver window installation near me: w o"
+            desc="Vancouver window installation near me: d i"
             canonical={`${props.website}/vancouver-window-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver window installation near me" //KW
-            subtitle="w o"
+            subtitle="d i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="s  "
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="a n"
+            image="/window-installation.jpg"
             alt="Vancouver window installation near me"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Vancouver window installation near me" //KW
-            desc="e e f  "
-            image="/window-installation.jpg"
-            alt="Window Repair"
+            desc="W   p  "
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Installations" //KW
             desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="i"
-            cardDesc3="s"
+            cardDesc1="r"
+            cardDesc2="P"
+            cardDesc3="o"
             />
             <Approach
             title="Vancouver window installation near me" //KW
-            desc="A f   o"
+            desc="e s e r"
             />
             <Intro
             subtitle="Exceptional Vancouver window installation near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="i r"
-            cardDesc3="l"
+            cardDesc1="e"
+            cardDesc2="  l"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2=" "
+            desc="l" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

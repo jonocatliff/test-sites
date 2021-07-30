@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City hedge trimming services | We'll Take Care Of Everything" 
-            desc="New York City hedge trimming services: s r"
+            desc="New York City hedge trimming services: t m"
             canonical={`${props.website}/new-york-city-hedge-trimming-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City hedge trimming services" //KW
-            subtitle="s r"
+            subtitle="t m"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="  g"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="e e"
+            image="/window-washing.jpg"
             alt="New York City hedge trimming services"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional New York City hedge trimming services" //KW
-            desc="  i e o"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="  r v f"
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="r"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="o"
-            cardDesc2="a"
-            cardDesc3="o"
+            cardDesc2="n"
+            cardDesc3="e"
             />
             <Approach
             title="New York City hedge trimming services" //KW
-            desc=", o r r"
+            desc="l d d  "
             />
             <Intro
             subtitle="Exceptional New York City hedge trimming services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="i r"
-            cardDesc3=","
+            cardDesc1="i"
+            cardDesc2="i x"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="v" //KW
-            desc2="w"
+            desc="f" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

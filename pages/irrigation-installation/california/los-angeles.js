@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles irrigation installation | We'll Take Care Of Everything" 
-            desc="Los Angeles irrigation installation: n v"
+            desc="Los Angeles irrigation installation: d r"
             canonical={`${props.website}/los-angeles-irrigation-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles irrigation installation" //KW
-            subtitle="n v"
+            subtitle="d r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="s e"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="l v"
+            image="/window-installation.jpg"
             alt="Los Angeles irrigation installation"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Los Angeles irrigation installation" //KW
-            desc="o     o"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="e w t w"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="o"
+            subtitle="Affordable Window Repair" //KW
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="n"
-            cardDesc3="e"
+            cardDesc1=" "
+            cardDesc2="i"
+            cardDesc3="i"
             />
             <Approach
             title="Los Angeles irrigation installation" //KW
-            desc="t f    "
+            desc="r e y  "
             />
             <Intro
             subtitle="Exceptional Los Angeles irrigation installation" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="t y"
-            cardDesc3="p"
+            cardDesc2="t o"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="h"
+            desc="c" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

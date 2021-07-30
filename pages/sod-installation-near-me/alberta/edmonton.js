@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton sod installation near me | We'll Take Care Of Everything" 
-            desc="Edmonton sod installation near me: f  "
+            desc="Edmonton sod installation near me: a m"
             canonical={`${props.website}/edmonton-sod-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton sod installation near me" //KW
-            subtitle="f  "
+            subtitle="a m"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="n  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="e n"
+            image="/window-installation.jpg"
             alt="Edmonton sod installation near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Edmonton sod installation near me" //KW
-            desc="l i c undefined"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="p n s undefined"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="w"
-            cardDesc3="w"
+            cardDesc1=" "
+            cardDesc2="p"
+            cardDesc3="s"
             />
             <Approach
             title="Edmonton sod installation near me" //KW
-            desc="c e o o"
+            desc="s   o f"
             />
             <Intro
             subtitle="Exceptional Edmonton sod installation near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="n undefined"
-            cardDesc3="r"
+            cardDesc1="z"
+            cardDesc2="i undefined"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="n"
+            desc="r" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

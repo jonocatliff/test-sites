@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Hamilton sod installation near me | We'll Take Care Of Everything" 
-            desc="Hamilton sod installation near me:    "
+            desc="Hamilton sod installation near me: v  "
             canonical={`${props.website}/hamilton-sod-installation-near-me`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Hamilton sod installation near me" //KW
-            subtitle="   "
+            subtitle="v  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="  a"
-            image="/window-installation.jpg"
+            desc="s o"
+            image="/contractor.jpg"
             alt="Hamilton sod installation near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Hamilton sod installation near me" //KW
-            desc="s e o undefined"
-            image="/contractor.jpg"
+            desc="d y v undefined"
+            image="/window-installation.jpg"
             alt="Window Cleaning"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="o"
-            cardDesc3=" "
+            cardDesc1="e"
+            cardDesc2=" "
+            cardDesc3="m"
             />
             <Approach
             title="Hamilton sod installation near me" //KW
-            desc="p T l e"
+            desc="P a n  "
             />
             <Intro
             subtitle="Exceptional Hamilton sod installation near me" //KW
@@ -66,12 +66,12 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="r"
-            cardDesc2="i undefined"
-            cardDesc3="t"
+            cardDesc2="e undefined"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
+            desc="a" //KW
             desc2="n"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

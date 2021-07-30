@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia patio construction | We'll Take Care Of Everything" 
-            desc="Philadelphia patio construction: r o"
+            desc="Philadelphia patio construction: o r"
             canonical={`${props.website}/philadelphia-patio-construction`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia patio construction" //KW
-            subtitle="r o"
+            subtitle="o r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="m a"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="s i"
+            image="/contractor.jpg"
             alt="Philadelphia patio construction"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Philadelphia patio construction" //KW
-            desc="l n f undefined"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="p l c undefined"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2=" "
-            cardDesc3=" "
+            cardDesc1="l"
+            cardDesc2="u"
+            cardDesc3="o"
             />
             <Approach
             title="Philadelphia patio construction" //KW
-            desc="e f s a"
+            desc="e u a  "
             />
             <Intro
             subtitle="Exceptional Philadelphia patio construction" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="t undefined"
-            cardDesc3="i"
+            cardDesc1=" "
+            cardDesc2="i undefined"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2=" "
+            desc="t" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

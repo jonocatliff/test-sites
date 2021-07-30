@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City swimming pool landscaping | We'll Take Care Of Everything" 
-            desc="New York City swimming pool landscaping: t u"
+            desc="New York City swimming pool landscaping: a e"
             canonical={`${props.website}/new-york-city-swimming-pool-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City swimming pool landscaping" //KW
-            subtitle="t u"
+            subtitle="a e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r u"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="f g"
+            image="/window-washing.jpg"
             alt="New York City swimming pool landscaping"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional New York City swimming pool landscaping" //KW
-            desc="  i n undefined"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="g t f undefined"
+            image="/contractor.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2=" "
-            cardDesc3="l"
+            cardDesc1="e"
+            cardDesc2="d"
+            cardDesc3="k"
             />
             <Approach
             title="New York City swimming pool landscaping" //KW
-            desc="e h e u"
+            desc="s , s p"
             />
             <Intro
             subtitle="Exceptional New York City swimming pool landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="x undefined"
-            cardDesc3=" "
+            cardDesc1=" "
+            cardDesc2="  undefined"
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
-            desc2="i"
+            desc="y" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

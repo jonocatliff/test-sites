@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City landscaping services near me | We'll Take Care Of Everything" 
-            desc="New York City landscaping services near me: h e"
+            desc="New York City landscaping services near me:   t"
             canonical={`${props.website}/new-york-city-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City landscaping services near me" //KW
-            subtitle="h e"
+            subtitle="  t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="s e"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="i e"
+            image="/window-installations.jpg"
             alt="New York City landscaping services near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional New York City landscaping services near me" //KW
-            desc="y s t i"
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="o s t w"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="n"
+            subtitle="Affordable Window Services" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="w"
-            cardDesc3=" "
+            cardDesc1="a"
+            cardDesc2=" "
+            cardDesc3="t"
             />
             <Approach
             title="New York City landscaping services near me" //KW
-            desc="o   l d"
+            desc="n o h s"
             />
             <Intro
             subtitle="Exceptional New York City landscaping services near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="a e"
-            cardDesc3="d"
+            cardDesc1="r"
+            cardDesc2="i f"
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="w"
+            desc="c" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

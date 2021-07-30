@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City window and door installation | We'll Take Care Of Everything" 
-            desc="Quebec City window and door installation: o o"
+            desc="Quebec City window and door installation: n  "
             canonical={`${props.website}/quebec-city-window-and-door-installation`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Quebec City window and door installation" //KW
-            subtitle="o o"
+            subtitle="n  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="a n"
+            desc="t o"
             image="/window-washing.jpg"
             alt="Quebec City window and door installation"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Quebec City window and door installation" //KW
-            desc="h   s d"
-            image="/contractor.jpg"
+            desc="s n a r"
+            image="/window-installations.jpg"
             alt="Window Cleaning"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="i"
-            cardDesc3="o"
+            cardDesc1=" "
+            cardDesc2="n"
+            cardDesc3="f"
             />
             <Approach
             title="Quebec City window and door installation" //KW
-            desc="  y s  "
+            desc="o a   e"
             />
             <Intro
             subtitle="Exceptional Quebec City window and door installation" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="r  "
-            cardDesc3="a"
+            cardDesc1=" "
+            cardDesc2="W s"
+            cardDesc3="y"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
+            desc="g" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

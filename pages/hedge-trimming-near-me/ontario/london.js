@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London hedge trimming near me | We'll Take Care Of Everything" 
-            desc="London hedge trimming near me: d v"
+            desc="London hedge trimming near me: n h"
             canonical={`${props.website}/london-hedge-trimming-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London hedge trimming near me" //KW
-            subtitle="d v"
+            subtitle="n h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="i h"
-            image="/window-installation.jpg"
+            desc="d b"
+            image="/contractor.jpg"
             alt="London hedge trimming near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional London hedge trimming near me" //KW
-            desc="r     w"
-            image="/contractor.jpg"
+            desc="h u w i"
+            image="/window-washing.jpg"
             alt="Window Services"
             />
             <Savings
             subtitle="Affordable Window Services" //KW
-            desc="v"
+            desc="k"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="o"
-            cardDesc3="P"
+            cardDesc1="o"
+            cardDesc2="c"
+            cardDesc3="a"
             />
             <Approach
             title="London hedge trimming near me" //KW
-            desc="  o b r"
+            desc="  c t  "
             />
             <Intro
             subtitle="Exceptional London hedge trimming near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="e o"
-            cardDesc3="n"
+            cardDesc1="o"
+            cardDesc2="i t"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2=" "
+            desc="s" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

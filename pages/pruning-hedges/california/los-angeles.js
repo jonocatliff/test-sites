@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles pruning hedges | We'll Take Care Of Everything" 
-            desc="Los Angeles pruning hedges: o Y"
+            desc="Los Angeles pruning hedges: c n"
             canonical={`${props.website}/los-angeles-pruning-hedges`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles pruning hedges" //KW
-            subtitle="o Y"
+            subtitle="c n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="i e"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="a v"
+            image="/window-installation.jpg"
             alt="Los Angeles pruning hedges"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles pruning hedges" //KW
-            desc="e b s undefined"
+            desc="l e p undefined"
             image="/window-washing.jpg"
-            alt="Window Repair"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="o"
-            cardDesc3=" "
+            cardDesc1="p"
+            cardDesc2="r"
+            cardDesc3="e"
             />
             <Approach
             title="Los Angeles pruning hedges" //KW
-            desc="d O   a"
+            desc="A e r d"
             />
             <Intro
             subtitle="Exceptional Los Angeles pruning hedges" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="t undefined"
-            cardDesc3="i"
+            cardDesc1="u"
+            cardDesc2="  undefined"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
+            desc="g" //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

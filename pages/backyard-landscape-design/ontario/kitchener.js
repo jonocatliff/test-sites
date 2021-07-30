@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener backyard landscape design | We'll Take Care Of Everything" 
-            desc="Kitchener backyard landscape design: s i"
+            desc="Kitchener backyard landscape design: e a"
             canonical={`${props.website}/kitchener-backyard-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener backyard landscape design" //KW
-            subtitle="s i"
+            subtitle="e a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="e p"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="  m"
+            image="/contractor.jpg"
             alt="Kitchener backyard landscape design"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Kitchener backyard landscape design" //KW
-            desc="i o o t"
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="t f i i"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="e"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="l"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="c"
+            cardDesc1=" "
+            cardDesc2=" "
             cardDesc3="e"
             />
             <Approach
             title="Kitchener backyard landscape design" //KW
-            desc="r s t v"
+            desc="w   i o"
             />
             <Intro
             subtitle="Exceptional Kitchener backyard landscape design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="a  "
-            cardDesc3="i"
+            cardDesc1="e"
+            cardDesc2="l  "
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2=","
+            desc="o" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

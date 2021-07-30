@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London backyard landscaping | We'll Take Care Of Everything" 
-            desc="London backyard landscaping: i  "
+            desc="London backyard landscaping: w t"
             canonical={`${props.website}/london-backyard-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London backyard landscaping" //KW
-            subtitle="i  "
+            subtitle="w t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  o"
+            subtitle="High-Quality Window Installations"
+            desc="n t"
             image="/contractor.jpg"
             alt="London backyard landscaping"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional London backyard landscaping" //KW
-            desc="  o a h"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="e l n d"
+            image="/window-installation.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="m"
+            subtitle="Affordable Window Installations" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="d"
+            cardDesc1="i"
+            cardDesc2="i"
             cardDesc3="l"
             />
             <Approach
             title="London backyard landscaping" //KW
-            desc="h i c d"
+            desc="i o f h"
             />
             <Intro
             subtitle="Exceptional London backyard landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="d y"
-            cardDesc3="d"
+            cardDesc1="h"
+            cardDesc2="u l"
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2=","
+            desc=" " //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

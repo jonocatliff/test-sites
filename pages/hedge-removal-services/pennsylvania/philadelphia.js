@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia hedge removal services | We'll Take Care Of Everything" 
-            desc="Philadelphia hedge removal services: w r"
+            desc="Philadelphia hedge removal services: t w"
             canonical={`${props.website}/philadelphia-hedge-removal-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia hedge removal services" //KW
-            subtitle="w r"
+            subtitle="t w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="l a"
+            subtitle="High-Quality Window Cleaning"
+            desc="f e"
             image="/window-installations.jpg"
             alt="Philadelphia hedge removal services"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Philadelphia hedge removal services" //KW
-            desc="  h u y"
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="d w t i"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc=" "
+            subtitle="Affordable Window Cleaning" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="u"
-            cardDesc3="w"
+            cardDesc1="c"
+            cardDesc2="o"
+            cardDesc3="r"
             />
             <Approach
             title="Philadelphia hedge removal services" //KW
-            desc="s     s"
+            desc="e v s r"
             />
             <Intro
             subtitle="Exceptional Philadelphia hedge removal services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="m f"
-            cardDesc3="a"
+            cardDesc1=" "
+            cardDesc2="u s"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="c"
+            desc="n" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

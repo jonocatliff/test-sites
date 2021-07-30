@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston landscaping services near me | We'll Take Care Of Everything" 
-            desc="Houston landscaping services near me:   r"
+            desc="Houston landscaping services near me: s o"
             canonical={`${props.website}/houston-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston landscaping services near me" //KW
-            subtitle="  r"
+            subtitle="s o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="f i"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="  i"
+            image="/window-installation.jpg"
             alt="Houston landscaping services near me"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Houston landscaping services near me" //KW
-            desc="  o n t"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="i A n i"
+            image="/window-installations.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="a"
+            subtitle="Affordable Window Cleaning" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="u"
-            cardDesc2="s"
-            cardDesc3="r"
+            cardDesc1="s"
+            cardDesc2=" "
+            cardDesc3="m"
             />
             <Approach
             title="Houston landscaping services near me" //KW
-            desc="a t f  "
+            desc="r   f c"
             />
             <Intro
             subtitle="Exceptional Houston landscaping services near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="p"
-            cardDesc2="a s"
-            cardDesc3="b"
+            cardDesc1="i"
+            cardDesc2="  i"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="c" //KW
-            desc2=" "
+            desc="m" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}

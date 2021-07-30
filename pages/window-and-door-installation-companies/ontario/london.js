@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London window and door installation companies | We'll Take Care Of Everything" 
-            desc="London window and door installation companies: r t"
+            desc="London window and door installation companies: s t"
             canonical={`${props.website}/london-window-and-door-installation-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London window and door installation companies" //KW
-            subtitle="r t"
+            subtitle="s t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="s i"
+            subtitle="High-Quality Window Services"
+            desc="d t"
             image="/window-installations.jpg"
             alt="London window and door installation companies"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional London window and door installation companies" //KW
-            desc="e n t o"
+            desc="w w   r"
             image="/contractor.jpg"
-            alt="Window Replacement"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="w"
+            subtitle="Affordable Window Services" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="e"
-            cardDesc3="k"
+            cardDesc1="w"
+            cardDesc2="o"
+            cardDesc3="J"
             />
             <Approach
             title="London window and door installation companies" //KW
-            desc="s a , h"
+            desc="g i r a"
             />
             <Intro
             subtitle="Exceptional London window and door installation companies" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="m F"
-            cardDesc3="u"
+            cardDesc1="d"
+            cardDesc2="e s"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="n"
+            desc="o" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

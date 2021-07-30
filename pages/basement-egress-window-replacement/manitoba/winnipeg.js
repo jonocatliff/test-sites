@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Winnipeg basement egress window replacement | We'll Take Care Of Everything" 
-            desc="Winnipeg basement egress window replacement: r w"
+            desc="Winnipeg basement egress window replacement: a  "
             canonical={`${props.website}/winnipeg-basement-egress-window-replacement`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Winnipeg basement egress window replacement" //KW
-            subtitle="r w"
+            subtitle="a  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="r  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="f e"
+            image="/window-washing.jpg"
             alt="Winnipeg basement egress window replacement"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Winnipeg basement egress window replacement" //KW
-            desc="o t e k"
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="  i i e"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="o"
+            subtitle="Affordable Window Repair" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="r"
-            cardDesc3="r"
+            cardDesc1="i"
+            cardDesc2="e"
+            cardDesc3="l"
             />
             <Approach
             title="Winnipeg basement egress window replacement" //KW
-            desc="r f a h"
+            desc="s d y  "
             />
             <Intro
             subtitle="Exceptional Winnipeg basement egress window replacement" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="r w"
+            cardDesc1="o"
+            cardDesc2="a v"
             cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
+            desc="a" //KW
             desc2="r"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

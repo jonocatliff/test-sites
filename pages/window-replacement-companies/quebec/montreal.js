@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal window replacement companies | We'll Take Care Of Everything" 
-            desc="Montreal window replacement companies: t n"
+            desc="Montreal window replacement companies: s r"
             canonical={`${props.website}/montreal-window-replacement-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal window replacement companies" //KW
-            subtitle="t n"
+            subtitle="s r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="o i"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="v p"
+            image="/window-washing.jpg"
             alt="Montreal window replacement companies"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Montreal window replacement companies" //KW
-            desc="r t c s"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="y i   y"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="o"
+            subtitle="Affordable Window Services" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2="a"
-            cardDesc3="e"
+            cardDesc1="r"
+            cardDesc2="r"
+            cardDesc3="t"
             />
             <Approach
             title="Montreal window replacement companies" //KW
-            desc="v o s  "
+            desc="  t e s"
             />
             <Intro
             subtitle="Exceptional Montreal window replacement companies" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="i ’"
-            cardDesc3="c"
+            cardDesc1="o"
+            cardDesc2="g F"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="r"
+            desc="e" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

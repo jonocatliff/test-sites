@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston window contractors near me | We'll Take Care Of Everything" 
-            desc="Houston window contractors near me: e e"
+            desc="Houston window contractors near me: l  "
             canonical={`${props.website}/houston-window-contractors-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston window contractors near me" //KW
-            subtitle="e e"
+            subtitle="l  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="a h"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="r e"
+            image="/window-washing.jpg"
             alt="Houston window contractors near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Houston window contractors near me" //KW
-            desc="  i l r"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="a u T  "
+            image="/window-installations.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="i"
+            subtitle="Affordable Window Installations" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2="v"
-            cardDesc3="l"
+            cardDesc1="t"
+            cardDesc2="s"
+            cardDesc3="o"
             />
             <Approach
             title="Houston window contractors near me" //KW
-            desc="i o d t"
+            desc="  u y o"
             />
             <Intro
             subtitle="Exceptional Houston window contractors near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="v"
-            cardDesc2="W  "
-            cardDesc3="h"
+            cardDesc1="i"
+            cardDesc2="r  "
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="u"
+            desc="o" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

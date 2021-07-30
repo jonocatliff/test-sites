@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia hydrangea landscaping | We'll Take Care Of Everything" 
-            desc="Philadelphia hydrangea landscaping: f i"
+            desc="Philadelphia hydrangea landscaping: c u"
             canonical={`${props.website}/philadelphia-hydrangea-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia hydrangea landscaping" //KW
-            subtitle="f i"
+            subtitle="c u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="n r"
+            subtitle="High-Quality Window Services"
+            desc="t o"
             image="/window-installation.jpg"
             alt="Philadelphia hydrangea landscaping"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Philadelphia hydrangea landscaping" //KW
-            desc="i i a s"
-            image="/window-installations.jpg"
-            alt="Window Installations"
+            desc="o e   o"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc=" "
+            subtitle="Affordable Window Services" //KW
+            desc="d"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="u"
-            cardDesc3="t"
+            cardDesc1="g"
+            cardDesc2="g"
+            cardDesc3=" "
             />
             <Approach
             title="Philadelphia hydrangea landscaping" //KW
-            desc="  d a  "
+            desc="h n e i"
             />
             <Intro
             subtitle="Exceptional Philadelphia hydrangea landscaping" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="h e"
-            cardDesc3="i"
+            cardDesc1=" "
+            cardDesc2="o n"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="u" //KW
+            desc="," //KW
             desc2=" "
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

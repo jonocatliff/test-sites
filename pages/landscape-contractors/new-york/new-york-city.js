@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City landscape contractors | We'll Take Care Of Everything" 
-            desc="New York City landscape contractors:   w"
+            desc="New York City landscape contractors: o f"
             canonical={`${props.website}/new-york-city-landscape-contractors`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City landscape contractors" //KW
-            subtitle="  w"
+            subtitle="o f"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="r i"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="w o"
+            image="/window-washing.jpg"
             alt="New York City landscape contractors"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional New York City landscape contractors" //KW
-            desc="  l n  "
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="e i w e"
+            image="/window-installations.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="e"
+            subtitle="Affordable Window Services" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="h"
-            cardDesc3="n"
+            cardDesc1=" "
+            cardDesc2="e"
+            cardDesc3="g"
             />
             <Approach
             title="New York City landscape contractors" //KW
-            desc="c d t t"
+            desc="  o w c"
             />
             <Intro
             subtitle="Exceptional New York City landscape contractors" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="k"
-            cardDesc2="e  "
-            cardDesc3=" "
+            cardDesc1="h"
+            cardDesc2="v e"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
+            desc="u" //KW
             desc2=" "
             />
             <Footer 

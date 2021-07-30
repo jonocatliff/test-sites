@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston commercial landscaping | We'll Take Care Of Everything" 
-            desc="Houston commercial landscaping: e m"
+            desc="Houston commercial landscaping:    "
             canonical={`${props.website}/houston-commercial-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston commercial landscaping" //KW
-            subtitle="e m"
+            subtitle="   "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="r e"
+            subtitle="High-Quality Window Replacement"
+            desc="o e"
             image="/window-installations.jpg"
             alt="Houston commercial landscaping"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Houston commercial landscaping" //KW
-            desc=". t i s"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc=". o i e"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="o"
+            subtitle="Affordable Window Replacement" //KW
+            desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="b"
-            cardDesc3="u"
+            cardDesc1="d"
+            cardDesc2=" "
+            cardDesc3="y"
             />
             <Approach
             title="Houston commercial landscaping" //KW
-            desc="n d h p"
+            desc="g c   r"
             />
             <Intro
             subtitle="Exceptional Houston commercial landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="s o"
-            cardDesc3="i"
+            cardDesc1="t"
+            cardDesc2="   "
+            cardDesc3="m"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="i"
+            desc="s" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

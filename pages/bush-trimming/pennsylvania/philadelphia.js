@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia bush trimming | We'll Take Care Of Everything" 
-            desc="Philadelphia bush trimming: o  "
+            desc="Philadelphia bush trimming: o p"
             canonical={`${props.website}/philadelphia-bush-trimming`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia bush trimming" //KW
-            subtitle="o  "
+            subtitle="o p"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="a d"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="  g"
+            image="/window-installation.jpg"
             alt="Philadelphia bush trimming"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Philadelphia bush trimming" //KW
-            desc=",   n  "
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="u n c i"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="y"
+            subtitle="Affordable Window Installations" //KW
+            desc="b"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="y"
-            cardDesc2="w"
-            cardDesc3="m"
+            cardDesc1="l"
+            cardDesc2="d"
+            cardDesc3="e"
             />
             <Approach
             title="Philadelphia bush trimming" //KW
-            desc="s l p ,"
+            desc="n   o a"
             />
             <Intro
             subtitle="Exceptional Philadelphia bush trimming" //KW
@@ -65,9 +65,9 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="i o"
-            cardDesc3="n"
+            cardDesc1="a"
+            cardDesc2="e e"
+            cardDesc3="w"
             />
             <CTABottom
             title="Ready To Get Started?"
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

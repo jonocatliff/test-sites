@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London window replacement and installation | We'll Take Care Of Everything" 
-            desc="London window replacement and installation: l  "
+            desc="London window replacement and installation:    "
             canonical={`${props.website}/london-window-replacement-and-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London window replacement and installation" //KW
-            subtitle="l  "
+            subtitle="   "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="i t"
+            subtitle="High-Quality Window Replacement"
+            desc="a t"
             image="/window-installation.jpg"
             alt="London window replacement and installation"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional London window replacement and installation" //KW
-            desc="i l n a"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="i d t e"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="u"
-            cardDesc3="o"
+            cardDesc1="f"
+            cardDesc2="o"
+            cardDesc3=" "
             />
             <Approach
             title="London window replacement and installation" //KW
-            desc="s d   t"
+            desc="u s r y"
             />
             <Intro
             subtitle="Exceptional London window replacement and installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="s w"
-            cardDesc3="r"
+            cardDesc1=" "
+            cardDesc2="l e"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="p" //KW
-            desc2="o"
+            desc="n" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

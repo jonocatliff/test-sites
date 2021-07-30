@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles sod installation near me | We'll Take Care Of Everything" 
-            desc="Los Angeles sod installation near me: o i"
+            desc="Los Angeles sod installation near me:   n"
             canonical={`${props.website}/los-angeles-sod-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles sod installation near me" //KW
-            subtitle="o i"
+            subtitle="  n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="t h"
+            subtitle="High-Quality Window Replacement"
+            desc="n  "
             image="/window-washing.jpg"
             alt="Los Angeles sod installation near me"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Los Angeles sod installation near me" //KW
-            desc="a d m undefined"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="  e o undefined"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="c"
-            cardDesc2="n"
-            cardDesc3="h"
+            cardDesc1="l"
+            cardDesc2="y"
+            cardDesc3=" "
             />
             <Approach
             title="Los Angeles sod installation near me" //KW
-            desc="s p   e"
+            desc="a r s r"
             />
             <Intro
             subtitle="Exceptional Los Angeles sod installation near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="  undefined"
-            cardDesc3=" "
+            cardDesc1="d"
+            cardDesc2="e undefined"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc=" " //KW
-            desc2=","
+            desc2="v"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

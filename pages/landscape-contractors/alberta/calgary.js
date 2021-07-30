@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary landscape contractors | We'll Take Care Of Everything" 
-            desc="Calgary landscape contractors: o s"
+            desc="Calgary landscape contractors: P e"
             canonical={`${props.website}/calgary-landscape-contractors`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary landscape contractors" //KW
-            subtitle="o s"
+            subtitle="P e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="v t"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="n g"
+            image="/contractor.jpg"
             alt="Calgary landscape contractors"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Calgary landscape contractors" //KW
-            desc="o t s e"
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="n a e  "
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="i"
+            subtitle="Affordable Window Repair" //KW
+            desc="d"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2=" "
-            cardDesc3="f"
+            cardDesc1="o"
+            cardDesc2="a"
+            cardDesc3="o"
             />
             <Approach
             title="Calgary landscape contractors" //KW
-            desc="e o d h"
+            desc="l   d s"
             />
             <Intro
             subtitle="Exceptional Calgary landscape contractors" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="m"
-            cardDesc2="x o"
-            cardDesc3="a"
+            cardDesc1="r"
+            cardDesc2="e  "
+            cardDesc3="f"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="o"
+            desc="y" //KW
+            desc2="y"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles yard service | We'll Take Care Of Everything" 
-            desc="Los Angeles yard service: d w"
+            desc="Los Angeles yard service: t r"
             canonical={`${props.website}/los-angeles-yard-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles yard service" //KW
-            subtitle="d w"
+            subtitle="t r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="w  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="p v"
+            image="/window-washing.jpg"
             alt="Los Angeles yard service"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles yard service" //KW
-            desc="P A d undefined"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="f y i undefined"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="r"
-            cardDesc3="h"
+            cardDesc1=" "
+            cardDesc2="o"
+            cardDesc3="l"
             />
             <Approach
             title="Los Angeles yard service" //KW
-            desc="t     w"
+            desc="  i d e"
             />
             <Intro
             subtitle="Exceptional Los Angeles yard service" //KW
@@ -66,12 +66,12 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="s"
-            cardDesc2="r undefined"
-            cardDesc3="a"
+            cardDesc2="i undefined"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
+            desc="o" //KW
             desc2="o"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

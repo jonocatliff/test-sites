@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Houston best window installers | We'll Take Care Of Everything" 
-            desc="Houston best window installers: t r"
+            desc="Houston best window installers: e i"
             canonical={`${props.website}/houston-best-window-installers`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Houston best window installers" //KW
-            subtitle="t r"
+            subtitle="e i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="  o"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="w n"
+            image="/contractor.jpg"
             alt="Houston best window installers"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Houston best window installers" //KW
-            desc="d   v  "
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="d h t s"
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="e"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="a"
-            cardDesc2="l"
-            cardDesc3="w"
+            cardDesc1="u"
+            cardDesc2="c"
+            cardDesc3="o"
             />
             <Approach
             title="Houston best window installers" //KW
-            desc="i f t t"
+            desc=", h e k"
             />
             <Intro
             subtitle="Exceptional Houston best window installers" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="a  "
-            cardDesc3="l"
+            cardDesc1="p"
+            cardDesc2="n o"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="d" //KW
-            desc2="l"
+            desc="h" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

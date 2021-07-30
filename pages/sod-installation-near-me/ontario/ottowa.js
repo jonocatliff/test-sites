@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa sod installation near me | We'll Take Care Of Everything" 
-            desc="Ottowa sod installation near me: l r"
+            desc="Ottowa sod installation near me: p a"
             canonical={`${props.website}/ottowa-sod-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa sod installation near me" //KW
-            subtitle="l r"
+            subtitle="p a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="  s"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="d e"
+            image="/contractor.jpg"
             alt="Ottowa sod installation near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Ottowa sod installation near me" //KW
-            desc="P r e undefined"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc="f l s undefined"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2=" "
-            cardDesc3="h"
+            cardDesc1="o"
+            cardDesc2="a"
+            cardDesc3="t"
             />
             <Approach
             title="Ottowa sod installation near me" //KW
-            desc="s s   e"
+            desc="i t    "
             />
             <Intro
             subtitle="Exceptional Ottowa sod installation near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="y undefined"
-            cardDesc3="i"
+            cardDesc1="y"
+            cardDesc2="v undefined"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
-            desc2="e"
+            desc="e" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

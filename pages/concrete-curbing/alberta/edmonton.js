@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton concrete curbing | We'll Take Care Of Everything" 
-            desc="Edmonton concrete curbing: n a"
+            desc="Edmonton concrete curbing: i  "
             canonical={`${props.website}/edmonton-concrete-curbing`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton concrete curbing" //KW
-            subtitle="n a"
+            subtitle="i  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="v  "
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="e a"
+            image="/contractor.jpg"
             alt="Edmonton concrete curbing"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Edmonton concrete curbing" //KW
-            desc="l p e h"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="d s o i"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="n"
+            subtitle="Affordable Window Repair" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2=" "
-            cardDesc3="o"
+            cardDesc1="o"
+            cardDesc2="y"
+            cardDesc3="f"
             />
             <Approach
             title="Edmonton concrete curbing" //KW
-            desc="h m   i"
+            desc="o o   s"
             />
             <Intro
             subtitle="Exceptional Edmonton concrete curbing" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="p w"
-            cardDesc3="a"
+            cardDesc1=" "
+            cardDesc2="o n"
+            cardDesc3="l"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2=" "
+            desc="e" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

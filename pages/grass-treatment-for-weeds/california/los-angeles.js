@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles grass treatment for weeds | We'll Take Care Of Everything" 
-            desc="Los Angeles grass treatment for weeds: c v"
+            desc="Los Angeles grass treatment for weeds:   r"
             canonical={`${props.website}/los-angeles-grass-treatment-for-weeds`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles grass treatment for weeds" //KW
-            subtitle="c v"
+            subtitle="  r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="l t"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="  a"
+            image="/window-installations.jpg"
             alt="Los Angeles grass treatment for weeds"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles grass treatment for weeds" //KW
-            desc="a t t u"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="I W e e"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc=" "
+            subtitle="Affordable Window Replacement" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="i"
-            cardDesc3="n"
+            cardDesc1="r"
+            cardDesc2="o"
+            cardDesc3="i"
             />
             <Approach
             title="Los Angeles grass treatment for weeds" //KW
-            desc="d f   I"
+            desc="l s f s"
             />
             <Intro
             subtitle="Exceptional Los Angeles grass treatment for weeds" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="e  "
-            cardDesc3="h"
+            cardDesc1=" "
+            cardDesc2="f ,"
+            cardDesc3="d"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="e" //KW
-            desc2="i"
+            desc="l" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

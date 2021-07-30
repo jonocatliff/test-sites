@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal grass cutting service | We'll Take Care Of Everything" 
-            desc="Montreal grass cutting service: i o"
+            desc="Montreal grass cutting service:   u"
             canonical={`${props.website}/montreal-grass-cutting-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal grass cutting service" //KW
-            subtitle="i o"
+            subtitle="  u"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="a  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="o  "
+            image="/window-installations.jpg"
             alt="Montreal grass cutting service"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Montreal grass cutting service" //KW
-            desc="w s n  "
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="n i   e"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="i"
+            subtitle="Affordable Window Repair" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2=" "
-            cardDesc3="."
+            cardDesc1="d"
+            cardDesc2="m"
+            cardDesc3="l"
             />
             <Approach
             title="Montreal grass cutting service" //KW
-            desc="d ’ r d"
+            desc="a e    "
             />
             <Intro
             subtitle="Exceptional Montreal grass cutting service" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="e  "
-            cardDesc3="s"
+            cardDesc1=" "
+            cardDesc2="r o"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
+            desc="t" //KW
             desc2="r"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

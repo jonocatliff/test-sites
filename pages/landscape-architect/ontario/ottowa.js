@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa landscape architect | We'll Take Care Of Everything" 
-            desc="Ottowa landscape architect: o a"
+            desc="Ottowa landscape architect: l y"
             canonical={`${props.website}/ottowa-landscape-architect`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa landscape architect" //KW
-            subtitle="o a"
+            subtitle="l y"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
-            desc="r d"
-            image="/window-washing.jpg"
+            desc="c g"
+            image="/window-installations.jpg"
             alt="Ottowa landscape architect"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Ottowa landscape architect" //KW
-            desc="f W s t"
-            image="/window-installations.jpg"
+            desc="f w s u"
+            image="/window-installation.jpg"
             alt="Window Repair"
             />
             <Savings
             subtitle="Affordable Window Repair" //KW
-            desc="n"
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="i"
-            cardDesc3="h"
+            cardDesc1="i"
+            cardDesc2="r"
+            cardDesc3=" "
             />
             <Approach
             title="Ottowa landscape architect" //KW
-            desc="s t a s"
+            desc="  t e t"
             />
             <Intro
             subtitle="Exceptional Ottowa landscape architect" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="n"
-            cardDesc2="o e"
-            cardDesc3="t"
+            cardDesc1="t"
+            cardDesc2="  n"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
+            desc="u" //KW
             desc2="e"
             />
             <Footer 

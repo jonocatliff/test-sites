@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles mulch companies near me | We'll Take Care Of Everything" 
-            desc="Los Angeles mulch companies near me: e i"
+            desc="Los Angeles mulch companies near me: i s"
             canonical={`${props.website}/los-angeles-mulch-companies-near-me`}
             />
             <Navigationbar
@@ -29,19 +29,19 @@
             />
             <Header
             title="Los Angeles mulch companies near me" //KW
-            subtitle="e i"
+            subtitle="i s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="i e"
-            image="/window-installation.jpg"
+            desc="b  "
+            image="/window-washing.jpg"
             alt="Los Angeles mulch companies near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Los Angeles mulch companies near me" //KW
-            desc="y n c r"
+            desc="  u f k"
             image="/contractor.jpg"
             alt="Window Cleaning"
             />
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="p"
-            cardDesc2="h"
-            cardDesc3="n"
+            cardDesc1="n"
+            cardDesc2="r"
+            cardDesc3="t"
             />
             <Approach
             title="Los Angeles mulch companies near me" //KW
-            desc="d t   r"
+            desc="s i o a"
             />
             <Intro
             subtitle="Exceptional Los Angeles mulch companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="e undefined"
-            cardDesc3="e"
+            cardDesc1="r"
+            cardDesc2="n d"
+            cardDesc3="m"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="W"
+            desc="y" //KW
+            desc2="d"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

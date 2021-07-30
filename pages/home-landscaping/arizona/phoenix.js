@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Phoenix home landscaping | We'll Take Care Of Everything" 
-            desc="Phoenix home landscaping: , r"
+            desc="Phoenix home landscaping: e Y"
             canonical={`${props.website}/phoenix-home-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Phoenix home landscaping" //KW
-            subtitle=", r"
+            subtitle="e Y"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="m  "
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="a r"
+            image="/window-installation.jpg"
             alt="Phoenix home landscaping"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Phoenix home landscaping" //KW
-            desc=". t u t"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="p i    "
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            subtitle="Affordable Window Repair" //KW
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
             cardDesc1="t"
-            cardDesc2="e"
-            cardDesc3="k"
+            cardDesc2="l"
+            cardDesc3="s"
             />
             <Approach
             title="Phoenix home landscaping" //KW
-            desc="n . y t"
+            desc="w o d o"
             />
             <Intro
             subtitle="Exceptional Phoenix home landscaping" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="  e"
-            cardDesc3="a"
+            cardDesc1="y"
+            cardDesc2="a e"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="i"
+            desc="e" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

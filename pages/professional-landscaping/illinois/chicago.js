@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago professional landscaping | We'll Take Care Of Everything" 
-            desc="Chicago professional landscaping:   t"
+            desc="Chicago professional landscaping: t e"
             canonical={`${props.website}/chicago-professional-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago professional landscaping" //KW
-            subtitle="  t"
+            subtitle="t e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="o n"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="s p"
+            image="/contractor.jpg"
             alt="Chicago professional landscaping"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Chicago professional landscaping" //KW
-            desc="e e e undefined"
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="c n n undefined"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="d"
-            cardDesc3="e"
+            cardDesc1="p"
+            cardDesc2="s"
+            cardDesc3=" "
             />
             <Approach
             title="Chicago professional landscaping" //KW
-            desc="a a d v"
+            desc="d w   f"
             />
             <Intro
             subtitle="Exceptional Chicago professional landscaping" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="  undefined"
-            cardDesc3="r"
+            cardDesc2="i undefined"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="c"
+            desc="d" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

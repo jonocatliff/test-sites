@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary yard drainage | We'll Take Care Of Everything" 
-            desc="Calgary yard drainage: a w"
+            desc="Calgary yard drainage: e e"
             canonical={`${props.website}/calgary-yard-drainage`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary yard drainage" //KW
-            subtitle="a w"
+            subtitle="e e"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="e n"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="a a"
+            image="/window-installation.jpg"
             alt="Calgary yard drainage"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Calgary yard drainage" //KW
-            desc="o l   undefined"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="e r   undefined"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="w"
-            cardDesc2="s"
-            cardDesc3="f"
+            cardDesc1="e"
+            cardDesc2="d"
+            cardDesc3="e"
             />
             <Approach
             title="Calgary yard drainage" //KW
-            desc="o y d f"
+            desc="o t r d"
             />
             <Intro
             subtitle="Exceptional Calgary yard drainage" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="o undefined"
-            cardDesc3="h"
+            cardDesc1="c"
+            cardDesc2="n undefined"
+            cardDesc3="f"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
+            desc="t" //KW
             desc2="p"
             />
             <Footer 

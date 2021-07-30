@@ -35,14 +35,14 @@
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Replacement"
             desc="o  "
-            image="/window-installations.jpg"
+            image="/window-washing.jpg"
             alt="Chicago basement egress window installation"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Chicago basement egress window installation" //KW
             desc="n   w t"
-            image="/window-washing.jpg"
+            image="/contractor.jpg"
             alt="Window Replacement"
             />
             <Savings

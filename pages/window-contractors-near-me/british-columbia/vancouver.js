@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver window contractors near me | We'll Take Care Of Everything" 
-            desc="Vancouver window contractors near me:   y"
+            desc="Vancouver window contractors near me: d a"
             canonical={`${props.website}/vancouver-window-contractors-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver window contractors near me" //KW
-            subtitle="  y"
+            subtitle="d a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="e e"
+            subtitle="High-Quality Window Replacement"
+            desc=", d"
             image="/window-washing.jpg"
             alt="Vancouver window contractors near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Vancouver window contractors near me" //KW
-            desc="o t a  "
+            desc="m s p m"
             image="/window-installation.jpg"
-            alt="Window Installations"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="i"
+            subtitle="Affordable Window Replacement" //KW
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="e"
-            cardDesc3="s"
+            cardDesc1="u"
+            cardDesc2=" "
+            cardDesc3=" "
             />
             <Approach
             title="Vancouver window contractors near me" //KW
-            desc="t e n r"
+            desc="o e w l"
             />
             <Intro
             subtitle="Exceptional Vancouver window contractors near me" //KW
@@ -65,13 +65,13 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="i f"
-            cardDesc3="i"
+            cardDesc1="p"
+            cardDesc2="o o"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="r" //KW
+            desc=" " //KW
             desc2="e"
             />
             <Footer 
@@ -79,7 +79,7 @@
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

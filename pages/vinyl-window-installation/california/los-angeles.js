@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles vinyl window installation | We'll Take Care Of Everything" 
-            desc="Los Angeles vinyl window installation:   r"
+            desc="Los Angeles vinyl window installation: d r"
             canonical={`${props.website}/los-angeles-vinyl-window-installation`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles vinyl window installation" //KW
-            subtitle="  r"
+            subtitle="d r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="d o"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="r  "
+            image="/window-installation.jpg"
             alt="Los Angeles vinyl window installation"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Los Angeles vinyl window installation" //KW
-            desc="  o i  "
-            image="/window-installations.jpg"
-            alt="Window Replacement"
+            desc="i e m h"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="a"
+            subtitle="Affordable Window Repair" //KW
+            desc="v"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="d"
-            cardDesc2="i"
-            cardDesc3="r"
+            cardDesc1="r"
+            cardDesc2="n"
+            cardDesc3="e"
             />
             <Approach
             title="Los Angeles vinyl window installation" //KW
-            desc="d a   h"
+            desc="  s t d"
             />
             <Intro
             subtitle="Exceptional Los Angeles vinyl window installation" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="y"
-            cardDesc2="a v"
+            cardDesc1="o"
+            cardDesc2="g p"
             cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="p"
+            desc="c" //KW
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary landscaping services near me | We'll Take Care Of Everything" 
-            desc="Calgary landscaping services near me:   i"
+            desc="Calgary landscaping services near me: o h"
             canonical={`${props.website}/calgary-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,20 +29,20 @@
             />
             <Header
             title="Calgary landscaping services near me" //KW
-            subtitle="  i"
+            subtitle="o h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="e p"
+            desc="r t"
             image="/contractor.jpg"
             alt="Calgary landscaping services near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Calgary landscaping services near me" //KW
-            desc="s f o e"
-            image="/window-washing.jpg"
+            desc="P e o n"
+            image="/window-installations.jpg"
             alt="Window Cleaning"
             />
             <Savings
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2="d"
-            cardDesc3="s"
+            cardDesc1="c"
+            cardDesc2="e"
+            cardDesc3="t"
             />
             <Approach
             title="Calgary landscaping services near me" //KW
-            desc="  o c i"
+            desc="      a"
             />
             <Intro
             subtitle="Exceptional Calgary landscaping services near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="s x"
-            cardDesc3="y"
+            cardDesc1=" "
+            cardDesc2="d  "
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="d"
+            desc=" " //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

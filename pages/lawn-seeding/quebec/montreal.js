@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal lawn seeding | We'll Take Care Of Everything" 
-            desc="Montreal lawn seeding: h o"
+            desc="Montreal lawn seeding: o w"
             canonical={`${props.website}/montreal-lawn-seeding`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal lawn seeding" //KW
-            subtitle="h o"
+            subtitle="o w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="t m"
+            subtitle="High-Quality Window Installations"
+            desc="o a"
             image="/window-washing.jpg"
             alt="Montreal lawn seeding"
             />
             <About 
             subtitle="Fantastic Window Services" //KW
             title="Professional Montreal lawn seeding" //KW
-            desc="d w   a"
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="e i p  "
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="m"
+            subtitle="Affordable Window Installations" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="i"
-            cardDesc3="s"
+            cardDesc1="t"
+            cardDesc2=" "
+            cardDesc3="a"
             />
             <Approach
             title="Montreal lawn seeding" //KW
-            desc="o u w  "
+            desc="s e g s"
             />
             <Intro
             subtitle="Exceptional Montreal lawn seeding" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="x v"
-            cardDesc3="v"
+            cardDesc1="x"
+            cardDesc2="s l"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="i"
+            desc="t" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}

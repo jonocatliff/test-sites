@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary mulch companies near me | We'll Take Care Of Everything" 
-            desc="Calgary mulch companies near me: o o"
+            desc="Calgary mulch companies near me: t i"
             canonical={`${props.website}/calgary-mulch-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary mulch companies near me" //KW
-            subtitle="o o"
+            subtitle="t i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="f d"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="h t"
+            image="/window-installations.jpg"
             alt="Calgary mulch companies near me"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Calgary mulch companies near me" //KW
-            desc="t   p y"
-            image="/window-installations.jpg"
-            alt="Window Services"
+            desc="e , e  "
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="h"
-            cardDesc2="l"
-            cardDesc3="t"
+            cardDesc1="e"
+            cardDesc2=" "
+            cardDesc3="l"
             />
             <Approach
             title="Calgary mulch companies near me" //KW
-            desc="o e e r"
+            desc="w t h o"
             />
             <Intro
             subtitle="Exceptional Calgary mulch companies near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="l undefined"
-            cardDesc3="v"
+            cardDesc1=" "
+            cardDesc2="  f"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="s"
+            desc="l" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

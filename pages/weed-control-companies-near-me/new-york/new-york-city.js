@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City weed control companies near me | We'll Take Care Of Everything" 
-            desc="New York City weed control companies near me: i a"
+            desc="New York City weed control companies near me: n t"
             canonical={`${props.website}/new-york-city-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City weed control companies near me" //KW
-            subtitle="i a"
+            subtitle="n t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="n o"
+            subtitle="High-Quality Window Services"
+            desc="w t"
             image="/window-installations.jpg"
             alt="New York City weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional New York City weed control companies near me" //KW
-            desc="o r m undefined"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="o r a undefined"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="d"
-            cardDesc2="P"
-            cardDesc3="c"
+            cardDesc1="l"
+            cardDesc2="w"
+            cardDesc3="h"
             />
             <Approach
             title="New York City weed control companies near me" //KW
-            desc="w h t s"
+            desc=", s h r"
             />
             <Intro
             subtitle="Exceptional New York City weed control companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="y"
-            cardDesc2="W undefined"
-            cardDesc3="i"
+            cardDesc1="o"
+            cardDesc2="i undefined"
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="w" //KW
-            desc2="e"
+            desc="a" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

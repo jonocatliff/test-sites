@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton lawn care companies near me | We'll Take Care Of Everything" 
-            desc="Edmonton lawn care companies near me:   u"
+            desc="Edmonton lawn care companies near me: l v"
             canonical={`${props.website}/edmonton-lawn-care-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton lawn care companies near me" //KW
-            subtitle="  u"
+            subtitle="l v"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="a d"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="o n"
+            image="/window-installations.jpg"
             alt="Edmonton lawn care companies near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Edmonton lawn care companies near me" //KW
-            desc="t l c o"
-            image="/contractor.jpg"
-            alt="Window Services"
+            desc="s n T s"
+            image="/window-washing.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="k"
+            subtitle="Affordable Window Repair" //KW
+            desc="v"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1=" "
-            cardDesc2="e"
-            cardDesc3="t"
+            cardDesc1="t"
+            cardDesc2="w"
+            cardDesc3="w"
             />
             <Approach
             title="Edmonton lawn care companies near me" //KW
-            desc="h v a h"
+            desc="n p n d"
             />
             <Intro
             subtitle="Exceptional Edmonton lawn care companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="c"
-            cardDesc2="i  "
-            cardDesc3="a"
+            cardDesc1="v"
+            cardDesc2="s v"
+            cardDesc3="o"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="d"
+            desc="p" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

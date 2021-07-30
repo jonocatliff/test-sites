@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City yard drainage | We'll Take Care Of Everything" 
-            desc="Quebec City yard drainage:    "
+            desc="Quebec City yard drainage: n  "
             canonical={`${props.website}/quebec-city-yard-drainage`}
             />
             <Navigationbar
@@ -29,19 +29,19 @@
             />
             <Header
             title="Quebec City yard drainage" //KW
-            subtitle="   "
+            subtitle="n  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="e h"
+            desc="  c"
             image="/contractor.jpg"
             alt="Quebec City yard drainage"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Quebec City yard drainage" //KW
-            desc="n e n undefined"
+            desc="  l s undefined"
             image="/window-washing.jpg"
             alt="Window Services"
             />
@@ -51,13 +51,13 @@
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="c"
-            cardDesc2=" "
-            cardDesc3="u"
+            cardDesc1="l"
+            cardDesc2="h"
+            cardDesc3="t"
             />
             <Approach
             title="Quebec City yard drainage" //KW
-            desc="g s g  "
+            desc="g     e"
             />
             <Intro
             subtitle="Exceptional Quebec City yard drainage" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="w"
-            cardDesc2="a undefined"
-            cardDesc3="o"
+            cardDesc1="r"
+            cardDesc2="o undefined"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="c"
+            desc="r" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

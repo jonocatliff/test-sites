@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa flower bed landscaping | We'll Take Care Of Everything" 
-            desc="Ottowa flower bed landscaping: x e"
+            desc="Ottowa flower bed landscaping: l n"
             canonical={`${props.website}/ottowa-flower-bed-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa flower bed landscaping" //KW
-            subtitle="x e"
+            subtitle="l n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
-            desc="w t"
-            image="/window-installation.jpg"
+            desc="s  "
+            image="/window-washing.jpg"
             alt="Ottowa flower bed landscaping"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional Ottowa flower bed landscaping" //KW
-            desc="  a o y"
+            desc="s W   r"
             image="/contractor.jpg"
             alt="Window Repair"
             />
             <Savings
             subtitle="Affordable Window Repair" //KW
-            desc="a"
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="o"
-            cardDesc3="t"
+            cardDesc1="w"
+            cardDesc2="e"
+            cardDesc3=" "
             />
             <Approach
             title="Ottowa flower bed landscaping" //KW
-            desc="g   h f"
+            desc="w p   h"
             />
             <Intro
             subtitle="Exceptional Ottowa flower bed landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="u l"
-            cardDesc3="u"
+            cardDesc1="a"
+            cardDesc2="e t"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="i" //KW
-            desc2="s"
+            desc="t" //KW
+            desc2="c"
             />
             <Footer 
             companyName={props.companyName}

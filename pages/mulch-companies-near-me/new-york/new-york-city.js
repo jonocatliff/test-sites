@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City mulch companies near me | We'll Take Care Of Everything" 
-            desc="New York City mulch companies near me: n f"
+            desc="New York City mulch companies near me: W i"
             canonical={`${props.website}/new-york-city-mulch-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City mulch companies near me" //KW
-            subtitle="n f"
+            subtitle="W i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="w w"
+            subtitle="High-Quality Window Cleaning"
+            desc="  e"
             image="/window-washing.jpg"
             alt="New York City mulch companies near me"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional New York City mulch companies near me" //KW
-            desc="  i i u"
+            desc="s o o a"
             image="/window-installations.jpg"
-            alt="Window Replacement"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
+            subtitle="Affordable Window Cleaning" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="l"
-            cardDesc2=" "
-            cardDesc3="i"
+            cardDesc1="e"
+            cardDesc2="e"
+            cardDesc3=" "
             />
             <Approach
             title="New York City mulch companies near me" //KW
-            desc="    r a"
+            desc="n   y w"
             />
             <Intro
             subtitle="Exceptional New York City mulch companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="t undefined"
-            cardDesc3="c"
+            cardDesc1="e"
+            cardDesc2="a n"
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2=" "
+            desc=" " //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

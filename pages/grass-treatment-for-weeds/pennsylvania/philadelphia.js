@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia grass treatment for weeds | We'll Take Care Of Everything" 
-            desc="Philadelphia grass treatment for weeds:   y"
+            desc="Philadelphia grass treatment for weeds: r t"
             canonical={`${props.website}/philadelphia-grass-treatment-for-weeds`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia grass treatment for weeds" //KW
-            subtitle="  y"
+            subtitle="r t"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="r  "
+            subtitle="High-Quality Window Services"
+            desc="s i"
             image="/window-installation.jpg"
             alt="Philadelphia grass treatment for weeds"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Philadelphia grass treatment for weeds" //KW
-            desc="  e   r"
+            desc="t d a w"
             image="/window-washing.jpg"
-            alt="Window Replacement"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="m"
+            subtitle="Affordable Window Services" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2=" "
-            cardDesc3="s"
+            cardDesc1="t"
+            cardDesc2="d"
+            cardDesc3=","
             />
             <Approach
             title="Philadelphia grass treatment for weeds" //KW
-            desc="I r s t"
+            desc="n o   u"
             />
             <Intro
             subtitle="Exceptional Philadelphia grass treatment for weeds" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="e r"
-            cardDesc3="b"
+            cardDesc1="d"
+            cardDesc2="t u"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="." //KW
-            desc2="r"
+            desc="h" //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

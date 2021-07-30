@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Toronto window installation near me | We'll Take Care Of Everything" 
-            desc="Toronto window installation near me: i v"
+            desc="Toronto window installation near me: a l"
             canonical={`${props.website}/toronto-window-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Toronto window installation near me" //KW
-            subtitle="i v"
+            subtitle="a l"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="e t"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="f d"
+            image="/window-installations.jpg"
             alt="Toronto window installation near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Toronto window installation near me" //KW
-            desc="r s f m"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="i h r t"
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="q"
+            subtitle="Affordable Window Installations" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2="o"
-            cardDesc3=","
+            cardDesc1="a"
+            cardDesc2="r"
+            cardDesc3="f"
             />
             <Approach
             title="Toronto window installation near me" //KW
-            desc="t   t u"
+            desc="e e e o"
             />
             <Intro
             subtitle="Exceptional Toronto window installation near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="e k"
-            cardDesc3="e"
+            cardDesc1="d"
+            cardDesc2="o e"
+            cardDesc3="y"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc="e" //KW
-            desc2="y"
+            desc2="u"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

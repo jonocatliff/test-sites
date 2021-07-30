@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary garden maintenance services | We'll Take Care Of Everything" 
-            desc="Calgary garden maintenance services: t n"
+            desc="Calgary garden maintenance services: n i"
             canonical={`${props.website}/calgary-garden-maintenance-services`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary garden maintenance services" //KW
-            subtitle="t n"
+            subtitle="n i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="a  "
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="  i"
+            image="/window-installation.jpg"
             alt="Calgary garden maintenance services"
             />
             <About 
-            subtitle="Fantastic Window Installations" //KW
+            subtitle="Fantastic Window Repair" //KW
             title="Professional Calgary garden maintenance services" //KW
-            desc="o h T a"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc=", h c c"
+            image="/contractor.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="a"
+            subtitle="Affordable Window Replacement" //KW
+            desc="r"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="y"
-            cardDesc3=" "
+            cardDesc1="d"
+            cardDesc2="i"
+            cardDesc3="f"
             />
             <Approach
             title="Calgary garden maintenance services" //KW
-            desc="e d   t"
+            desc="y   t d"
             />
             <Intro
             subtitle="Exceptional Calgary garden maintenance services" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="o"
-            cardDesc2="e o"
-            cardDesc3=" "
+            cardDesc1="i"
+            cardDesc2="e  "
+            cardDesc3=","
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="g" //KW
-            desc2="n"
+            desc=" " //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Installations!" //KW
+            desc="Experienced Window Repair!" //KW
             />
         </div>
         )

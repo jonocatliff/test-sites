@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary lawn weed control service | We'll Take Care Of Everything" 
-            desc="Calgary lawn weed control service: t k"
+            desc="Calgary lawn weed control service: w r"
             canonical={`${props.website}/calgary-lawn-weed-control-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary lawn weed control service" //KW
-            subtitle="t k"
+            subtitle="w r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  e"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="e i"
+            image="/window-installations.jpg"
             alt="Calgary lawn weed control service"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Calgary lawn weed control service" //KW
-            desc="f d t y"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="P     t"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="o"
+            subtitle="Affordable Window Repair" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="s"
-            cardDesc3=" "
+            cardDesc1="i"
+            cardDesc2="b"
+            cardDesc3="I"
             />
             <Approach
             title="Calgary lawn weed control service" //KW
-            desc="  e   r"
+            desc="h s s s"
             />
             <Intro
             subtitle="Exceptional Calgary lawn weed control service" //KW
@@ -66,20 +66,20 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1="o"
-            cardDesc2="s  "
-            cardDesc3="A"
+            cardDesc2="t n"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="t" //KW
-            desc2="s"
+            desc="l" //KW
+            desc2="r"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

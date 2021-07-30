@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City home glass window replacement near me | We'll Take Care Of Everything" 
-            desc="Quebec City home glass window replacement near me: i r"
+            desc="Quebec City home glass window replacement near me: t i"
             canonical={`${props.website}/quebec-city-home-glass-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City home glass window replacement near me" //KW
-            subtitle="i r"
+            subtitle="t i"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Repair"
-            desc="  e"
-            image="/window-washing.jpg"
+            desc="r h"
+            image="/contractor.jpg"
             alt="Quebec City home glass window replacement near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Quebec City home glass window replacement near me" //KW
-            desc="  c m r"
-            image="/contractor.jpg"
+            desc="t s e a"
+            image="/window-installations.jpg"
             alt="Window Repair"
             />
             <Savings
             subtitle="Affordable Window Repair" //KW
-            desc="p"
+            desc="u"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="u"
-            cardDesc2="o"
-            cardDesc3="P"
+            cardDesc1="a"
+            cardDesc2="n"
+            cardDesc3=" "
             />
             <Approach
             title="Quebec City home glass window replacement near me" //KW
-            desc="a o y a"
+            desc="  w h ."
             />
             <Intro
             subtitle="Exceptional Quebec City home glass window replacement near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="e y"
-            cardDesc3=" "
+            cardDesc1="s"
+            cardDesc2="n  "
+            cardDesc3="a"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="r"
+            desc="m" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

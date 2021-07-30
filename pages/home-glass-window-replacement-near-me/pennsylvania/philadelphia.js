@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia home glass window replacement near me | We'll Take Care Of Everything" 
-            desc="Philadelphia home glass window replacement near me: u c"
+            desc="Philadelphia home glass window replacement near me: u p"
             canonical={`${props.website}/philadelphia-home-glass-window-replacement-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia home glass window replacement near me" //KW
-            subtitle="u c"
+            subtitle="u p"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="b o"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="r o"
+            image="/window-installation.jpg"
             alt="Philadelphia home glass window replacement near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Philadelphia home glass window replacement near me" //KW
-            desc="p   w  "
-            image="/window-installation.jpg"
-            alt="Window Services"
+            desc="x o   t"
+            image="/contractor.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc="r"
+            subtitle="Affordable Window Repair" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="n"
-            cardDesc2="l"
-            cardDesc3="t"
+            cardDesc1="e"
+            cardDesc2="a"
+            cardDesc3="r"
             />
             <Approach
             title="Philadelphia home glass window replacement near me" //KW
-            desc="I c    "
+            desc="t   o  "
             />
             <Intro
             subtitle="Exceptional Philadelphia home glass window replacement near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="a"
-            cardDesc2="  d"
+            cardDesc1="v"
+            cardDesc2="c w"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="h" //KW
-            desc2="o"
+            desc="s" //KW
+            desc2="t"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

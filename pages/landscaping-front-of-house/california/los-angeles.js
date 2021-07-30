@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Los Angeles landscaping front of house | We'll Take Care Of Everything" 
-            desc="Los Angeles landscaping front of house: r h"
+            desc="Los Angeles landscaping front of house: c  "
             canonical={`${props.website}/los-angeles-landscaping-front-of-house`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Los Angeles landscaping front of house" //KW
-            subtitle="r h"
+            subtitle="c  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="e p"
+            subtitle="High-Quality Window Installations"
+            desc="n v"
             image="/window-washing.jpg"
             alt="Los Angeles landscaping front of house"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Los Angeles landscaping front of house" //KW
-            desc="r i    "
-            image="/window-installation.jpg"
-            alt="Window Replacement"
+            desc="t w l  "
+            image="/contractor.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="e"
+            subtitle="Affordable Window Installations" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="s"
+            cardDesc1="t"
+            cardDesc2="n"
             cardDesc3=" "
             />
             <Approach
             title="Los Angeles landscaping front of house" //KW
-            desc="  o   r"
+            desc="t - o  "
             />
             <Intro
             subtitle="Exceptional Los Angeles landscaping front of house" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="u"
-            cardDesc2="t s"
-            cardDesc3="r"
+            cardDesc1="t"
+            cardDesc2="a r"
+            cardDesc3="n"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="g"
+            desc="s" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

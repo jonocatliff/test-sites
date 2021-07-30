@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Calgary lawn service near me | We'll Take Care Of Everything" 
-            desc="Calgary lawn service near me: o i"
+            desc="Calgary lawn service near me: n  "
             canonical={`${props.website}/calgary-lawn-service-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Calgary lawn service near me" //KW
-            subtitle="o i"
+            subtitle="n  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="w g"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Replacement"
+            desc="w a"
+            image="/window-installation.jpg"
             alt="Calgary lawn service near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Calgary lawn service near me" //KW
-            desc=", a i n"
-            image="/contractor.jpg"
-            alt="Window Installations"
+            desc=",   r o"
+            image="/window-washing.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc=" "
+            subtitle="Affordable Window Replacement" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="g"
-            cardDesc2="o"
-            cardDesc3="w"
+            cardDesc1="t"
+            cardDesc2=" "
+            cardDesc3="e"
             />
             <Approach
             title="Calgary lawn service near me" //KW
-            desc="e l d ’"
+            desc="o   a e"
             />
             <Intro
             subtitle="Exceptional Calgary lawn service near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="c r"
-            cardDesc3="b"
+            cardDesc1=" "
+            cardDesc2="p ."
+            cardDesc3="e"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="a" //KW
-            desc2="t"
+            desc="o" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton yard drainage | We'll Take Care Of Everything" 
-            desc="Edmonton yard drainage: n a"
+            desc="Edmonton yard drainage:    "
             canonical={`${props.website}/edmonton-yard-drainage`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton yard drainage" //KW
-            subtitle="n a"
+            subtitle="   "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="  t"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Services"
+            desc="t n"
+            image="/window-installation.jpg"
             alt="Edmonton yard drainage"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Cleaning" //KW
             title="Professional Edmonton yard drainage" //KW
-            desc="m e a undefined"
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="x o c undefined"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="a"
-            cardDesc3="i"
+            cardDesc1="p"
+            cardDesc2="e"
+            cardDesc3="a"
             />
             <Approach
             title="Edmonton yard drainage" //KW
-            desc="b o s o"
+            desc="b o t o"
             />
             <Intro
             subtitle="Exceptional Edmonton yard drainage" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="v undefined"
-            cardDesc3="a"
+            cardDesc1="t"
+            cardDesc2="s undefined"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="n" //KW
-            desc2="r"
+            desc="a" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Cleaning!" //KW
             />
         </div>
         )

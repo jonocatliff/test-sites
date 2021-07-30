@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London grass care | We'll Take Care Of Everything" 
-            desc="London grass care: c r"
+            desc="London grass care: t n"
             canonical={`${props.website}/london-grass-care`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London grass care" //KW
-            subtitle="c r"
+            subtitle="t n"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Installations"
-            desc="  h"
+            desc="n d"
             image="/window-installations.jpg"
             alt="London grass care"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional London grass care" //KW
-            desc="e a d y"
-            image="/contractor.jpg"
+            desc="d e , t"
+            image="/window-washing.jpg"
             alt="Window Installations"
             />
             <Savings
             subtitle="Affordable Window Installations" //KW
-            desc=" "
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="r"
+            cardDesc1="l"
+            cardDesc2="o"
             cardDesc3="o"
             />
             <Approach
             title="London grass care" //KW
-            desc="s t e u"
+            desc="o d y i"
             />
             <Intro
             subtitle="Exceptional London grass care" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="  e"
+            cardDesc1="o"
+            cardDesc2="p r"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="h"
+            desc="e" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Montreal concrete curbing near me | We'll Take Care Of Everything" 
-            desc="Montreal concrete curbing near me: t l"
+            desc="Montreal concrete curbing near me: b w"
             canonical={`${props.website}/montreal-concrete-curbing-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Montreal concrete curbing near me" //KW
-            subtitle="t l"
+            subtitle="b w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="r a"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="w p"
+            image="/window-washing.jpg"
             alt="Montreal concrete curbing near me"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Montreal concrete curbing near me" //KW
-            desc="  g s o"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="  a s g"
+            image="/window-installation.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
-            desc="e"
+            subtitle="Affordable Window Cleaning" //KW
+            desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="x"
-            cardDesc2="s"
-            cardDesc3="a"
+            cardDesc1="c"
+            cardDesc2=" "
+            cardDesc3="e"
             />
             <Approach
             title="Montreal concrete curbing near me" //KW
-            desc="e e s o"
+            desc="e l k i"
             />
             <Intro
             subtitle="Exceptional Montreal concrete curbing near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="i  "
-            cardDesc3=" "
+            cardDesc1="t"
+            cardDesc2="s l"
+            cardDesc3="r"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="W" //KW
-            desc2="i"
+            desc=" " //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}

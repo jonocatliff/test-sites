@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Philadelphia lawn spray service | We'll Take Care Of Everything" 
-            desc="Philadelphia lawn spray service: f t"
+            desc="Philadelphia lawn spray service: e w"
             canonical={`${props.website}/philadelphia-lawn-spray-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Philadelphia lawn spray service" //KW
-            subtitle="f t"
+            subtitle="e w"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="s l"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="i  "
+            image="/window-installation.jpg"
             alt="Philadelphia lawn spray service"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Philadelphia lawn spray service" //KW
-            desc="I l o  "
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            desc="t d o o"
+            image="/contractor.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
-            desc="e"
+            subtitle="Affordable Window Services" //KW
+            desc="w"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="d"
-            cardDesc3="W"
+            cardDesc1=" "
+            cardDesc2="i"
+            cardDesc3="n"
             />
             <Approach
             title="Philadelphia lawn spray service" //KW
-            desc="g d w r"
+            desc="d l r s"
             />
             <Intro
             subtitle="Exceptional Philadelphia lawn spray service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="s"
-            cardDesc2="s r"
-            cardDesc3="p"
+            cardDesc1=" "
+            cardDesc2="i e"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="l"
+            desc="d" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

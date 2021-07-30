@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London outdoor landscape design | We'll Take Care Of Everything" 
-            desc="London outdoor landscape design: t g"
+            desc="London outdoor landscape design: e g"
             canonical={`${props.website}/london-outdoor-landscape-design`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London outdoor landscape design" //KW
-            subtitle="t g"
+            subtitle="e g"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="y n"
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="i k"
+            image="/window-washing.jpg"
             alt="London outdoor landscape design"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional London outdoor landscape design" //KW
-            desc="  l t undefined"
-            image="/window-washing.jpg"
-            alt="Window Cleaning"
+            desc="i h i undefined"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Repair" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2=" "
+            cardDesc1="h"
+            cardDesc2="o"
             cardDesc3=" "
             />
             <Approach
             title="London outdoor landscape design" //KW
-            desc="s y g n"
+            desc="  i d  "
             />
             <Intro
             subtitle="Exceptional London outdoor landscape design" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="d"
-            cardDesc2="  undefined"
+            cardDesc1="e"
+            cardDesc2="x undefined"
             cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="i"
+            desc="c" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

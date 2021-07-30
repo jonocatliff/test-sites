@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="London sod installation near me | We'll Take Care Of Everything" 
-            desc="London sod installation near me: e i"
+            desc="London sod installation near me: d h"
             canonical={`${props.website}/london-sod-installation-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="London sod installation near me" //KW
-            subtitle="e i"
+            subtitle="d h"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="i  "
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Installations"
+            desc="p m"
+            image="/contractor.jpg"
             alt="London sod installation near me"
             />
             <About 
             subtitle="Fantastic Window Replacement" //KW
             title="Professional London sod installation near me" //KW
-            desc="i s f undefined"
-            image="/contractor.jpg"
-            alt="Window Cleaning"
+            desc="w u c undefined"
+            image="/window-washing.jpg"
+            alt="Window Installations"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Installations" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2=" "
-            cardDesc3="a"
+            cardDesc1="p"
+            cardDesc2="o"
+            cardDesc3="k"
             />
             <Approach
             title="London sod installation near me" //KW
-            desc="e e   r"
+            desc="o     o"
             />
             <Intro
             subtitle="Exceptional London sod installation near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="g undefined"
-            cardDesc3="l"
+            cardDesc1="n"
+            cardDesc2="s undefined"
+            cardDesc3="t"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="y" //KW
-            desc2=","
+            desc="d" //KW
+            desc2="o"
             />
             <Footer 
             companyName={props.companyName}

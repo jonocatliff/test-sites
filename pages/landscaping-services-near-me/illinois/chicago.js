@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Chicago landscaping services near me | We'll Take Care Of Everything" 
-            desc="Chicago landscaping services near me: t p"
+            desc="Chicago landscaping services near me: n y"
             canonical={`${props.website}/chicago-landscaping-services-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Chicago landscaping services near me" //KW
-            subtitle="t p"
+            subtitle="n y"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
-            desc="o l"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="e r"
+            image="/window-washing.jpg"
             alt="Chicago landscaping services near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Chicago landscaping services near me" //KW
-            desc="e i i  "
-            image="/window-washing.jpg"
-            alt="Window Services"
+            desc="    i w"
+            image="/window-installations.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
-            desc=" "
+            subtitle="Affordable Window Repair" //KW
+            desc="e"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="o"
-            cardDesc2="n"
-            cardDesc3="u"
+            cardDesc1="i"
+            cardDesc2="y"
+            cardDesc3="e"
             />
             <Approach
             title="Chicago landscaping services near me" //KW
-            desc="  i   w"
+            desc="e r   c"
             />
             <Intro
             subtitle="Exceptional Chicago landscaping services near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1=" "
-            cardDesc2="l t"
-            cardDesc3=" "
+            cardDesc1="v"
+            cardDesc2="g w"
+            cardDesc3="y"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="."
+            desc="e" //KW
+            desc2=" "
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

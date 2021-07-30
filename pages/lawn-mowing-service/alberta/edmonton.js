@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Edmonton lawn mowing service | We'll Take Care Of Everything" 
-            desc="Edmonton lawn mowing service: s e"
+            desc="Edmonton lawn mowing service: e v"
             canonical={`${props.website}/edmonton-lawn-mowing-service`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Edmonton lawn mowing service" //KW
-            subtitle="s e"
+            subtitle="e v"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="l  "
-            image="/window-installation.jpg"
+            subtitle="High-Quality Window Services"
+            desc="t a"
+            image="/window-installations.jpg"
             alt="Edmonton lawn mowing service"
             />
             <About 
-            subtitle="Fantastic Window Cleaning" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Edmonton lawn mowing service" //KW
-            desc="y l m n"
-            image="/contractor.jpg"
-            alt="Window Replacement"
+            desc="t p e e"
+            image="/window-washing.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="e"
+            subtitle="Affordable Window Services" //KW
+            desc="s"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
+            cardDesc1="f"
             cardDesc2="w"
-            cardDesc3=" "
+            cardDesc3="w"
             />
             <Approach
             title="Edmonton lawn mowing service" //KW
-            desc="s o   o"
+            desc="s n w O"
             />
             <Intro
             subtitle="Exceptional Edmonton lawn mowing service" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="m"
-            cardDesc2="e  "
-            cardDesc3="a"
+            cardDesc1="w"
+            cardDesc2="c s"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="e"
+            desc="s" //KW
+            desc2="v"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Cleaning!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

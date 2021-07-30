@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Kitchener mulch companies near me | We'll Take Care Of Everything" 
-            desc="Kitchener mulch companies near me: i u"
+            desc="Kitchener mulch companies near me: a a"
             canonical={`${props.website}/kitchener-mulch-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Kitchener mulch companies near me" //KW
-            subtitle="i u"
+            subtitle="a a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Repair"
-            desc="e i"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Services"
+            desc="r n"
+            image="/window-washing.jpg"
             alt="Kitchener mulch companies near me"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Kitchener mulch companies near me" //KW
-            desc="s l r d"
-            image="/window-washing.jpg"
-            alt="Window Repair"
+            desc="m k t i"
+            image="/window-installation.jpg"
+            alt="Window Services"
             />
             <Savings
-            subtitle="Affordable Window Repair" //KW
+            subtitle="Affordable Window Services" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="s"
-            cardDesc3="t"
+            cardDesc1="s"
+            cardDesc2="v"
+            cardDesc3="o"
             />
             <Approach
             title="Kitchener mulch companies near me" //KW
-            desc="t t r k"
+            desc="n o u r"
             />
             <Intro
             subtitle="Exceptional Kitchener mulch companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="e"
-            cardDesc2="c undefined"
-            cardDesc3="r"
+            cardDesc1="t"
+            cardDesc2="u e"
+            cardDesc3=" "
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="o"
+            desc=" " //KW
+            desc2="i"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

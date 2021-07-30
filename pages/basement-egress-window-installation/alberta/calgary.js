@@ -33,20 +33,20 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
+            subtitle="High-Quality Window Replacement"
             desc="W h"
-            image="/window-installations.jpg"
+            image="/window-washing.jpg"
             alt="Calgary basement egress window installation"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional Calgary basement egress window installation" //KW
             desc="d      "
-            image="/window-installation.jpg"
-            alt="Window Cleaning"
+            image="/window-installations.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc=" "
             cardTitle1="Save Time"
             cardTitle2="Save Money"

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="New York City concrete landscaping | We'll Take Care Of Everything" 
-            desc="New York City concrete landscaping: i f"
+            desc="New York City concrete landscaping: i a"
             canonical={`${props.website}/new-york-city-concrete-landscaping`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="New York City concrete landscaping" //KW
-            subtitle="i f"
+            subtitle="i a"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="o u"
-            image="/contractor.jpg"
+            subtitle="High-Quality Window Cleaning"
+            desc="n o"
+            image="/window-installation.jpg"
             alt="New York City concrete landscaping"
             />
             <About 
             subtitle="Fantastic Window Repair" //KW
             title="Professional New York City concrete landscaping" //KW
-            desc="y   r o"
-            image="/window-installation.jpg"
-            alt="Window Installations"
+            desc="o r m  "
+            image="/window-washing.jpg"
+            alt="Window Cleaning"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="e"
+            subtitle="Affordable Window Cleaning" //KW
+            desc="a"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="i"
-            cardDesc2="r"
-            cardDesc3="k"
+            cardDesc1="d"
+            cardDesc2="P"
+            cardDesc3="c"
             />
             <Approach
             title="New York City concrete landscaping" //KW
-            desc="w   e n"
+            desc="w h t s"
             />
             <Intro
             subtitle="Exceptional New York City concrete landscaping" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="r"
-            cardDesc2="i r"
-            cardDesc3="r"
+            cardDesc1="y"
+            cardDesc2="W t"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="o" //KW
-            desc2="o"
+            desc="w" //KW
+            desc2="e"
             />
             <Footer 
             companyName={props.companyName}

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver lawn cutting near me | We'll Take Care Of Everything" 
-            desc="Vancouver lawn cutting near me: r o"
+            desc="Vancouver lawn cutting near me: t o"
             canonical={`${props.website}/vancouver-lawn-cutting-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver lawn cutting near me" //KW
-            subtitle="r o"
+            subtitle="t o"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Installations"
-            desc="l r"
-            image="/window-installations.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="  n"
+            image="/window-washing.jpg"
             alt="Vancouver lawn cutting near me"
             />
             <About 
-            subtitle="Fantastic Window Services" //KW
+            subtitle="Fantastic Window Replacement" //KW
             title="Professional Vancouver lawn cutting near me" //KW
-            desc="    o s"
-            image="/window-washing.jpg"
-            alt="Window Installations"
+            desc="  w f a"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Installations" //KW
-            desc="o"
+            subtitle="Affordable Window Repair" //KW
+            desc="c"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="t"
-            cardDesc2=" "
-            cardDesc3="r"
+            cardDesc1="n"
+            cardDesc2="s"
+            cardDesc3="a"
             />
             <Approach
             title="Vancouver lawn cutting near me" //KW
-            desc="A s r  "
+            desc="e O r h"
             />
             <Intro
             subtitle="Exceptional Vancouver lawn cutting near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="i"
-            cardDesc2="l  "
-            cardDesc3=" "
+            cardDesc1="y"
+            cardDesc2="o y"
+            cardDesc3="v"
             />
             <CTABottom
             title="Ready To Get Started?"
             desc=" " //KW
-            desc2="d"
+            desc2="’"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Services!" //KW
+            desc="Experienced Window Replacement!" //KW
             />
         </div>
         )

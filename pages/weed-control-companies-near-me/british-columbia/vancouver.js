@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver weed control companies near me | We'll Take Care Of Everything" 
-            desc="Vancouver weed control companies near me:   i"
+            desc="Vancouver weed control companies near me: l s"
             canonical={`${props.website}/vancouver-weed-control-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver weed control companies near me" //KW
-            subtitle="  i"
+            subtitle="l s"
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Cleaning"
-            desc="e c"
+            subtitle="High-Quality Window Repair"
+            desc="w  "
             image="/contractor.jpg"
             alt="Vancouver weed control companies near me"
             />
             <About 
-            subtitle="Fantastic Window Repair" //KW
+            subtitle="Fantastic Window Installations" //KW
             title="Professional Vancouver weed control companies near me" //KW
-            desc="e i c undefined"
-            image="/window-installations.jpg"
-            alt="Window Cleaning"
+            desc="e r f undefined"
+            image="/window-installation.jpg"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Cleaning" //KW
+            subtitle="Affordable Window Repair" //KW
             desc="undefined"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="r"
-            cardDesc2="a"
-            cardDesc3="n"
+            cardDesc1="u"
+            cardDesc2="y"
+            cardDesc3="h"
             />
             <Approach
             title="Vancouver weed control companies near me" //KW
-            desc="    u u"
+            desc="n x k t"
             />
             <Intro
             subtitle="Exceptional Vancouver weed control companies near me" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="t"
-            cardDesc2="s undefined"
-            cardDesc3="O"
+            cardDesc1="h"
+            cardDesc2="  undefined"
+            cardDesc3="u"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="W" //KW
-            desc2=" "
+            desc="e" //KW
+            desc2="n"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Repair!" //KW
+            desc="Experienced Window Installations!" //KW
             />
         </div>
         )

@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Vancouver window replacement companies | We'll Take Care Of Everything" 
-            desc="Vancouver window replacement companies: l f"
+            desc="Vancouver window replacement companies: c O"
             canonical={`${props.website}/vancouver-window-replacement-companies`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Vancouver window replacement companies" //KW
-            subtitle="l f"
+            subtitle="c O"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Cleaning"
-            desc="n  "
-            image="/window-washing.jpg"
+            desc="  e"
+            image="/contractor.jpg"
             alt="Vancouver window replacement companies"
             />
             <About 
-            subtitle="Fantastic Window Replacement" //KW
+            subtitle="Fantastic Window Services" //KW
             title="Professional Vancouver window replacement companies" //KW
-            desc="d l t t"
+            desc="s   m h"
             image="/window-installations.jpg"
             alt="Window Cleaning"
             />
             <Savings
             subtitle="Affordable Window Cleaning" //KW
-            desc=" "
+            desc="i"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="f"
-            cardDesc2=" "
-            cardDesc3="f"
+            cardDesc1="t"
+            cardDesc2="n"
+            cardDesc3="n"
             />
             <Approach
             title="Vancouver window replacement companies" //KW
-            desc="e   e h"
+            desc="l l o c"
             />
             <Intro
             subtitle="Exceptional Vancouver window replacement companies" //KW
@@ -65,21 +65,21 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="v"
-            cardDesc2="a o"
-            cardDesc3="v"
+            cardDesc1=" "
+            cardDesc2="i e"
+            cardDesc3="i"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="n"
+            desc="o" //KW
+            desc2="s"
             />
             <Footer 
             companyName={props.companyName}
             email={props.email}
             address={props.address}
             phone={props.phone}
-            desc="Experienced Window Replacement!" //KW
+            desc="Experienced Window Services!" //KW
             />
         </div>
         )

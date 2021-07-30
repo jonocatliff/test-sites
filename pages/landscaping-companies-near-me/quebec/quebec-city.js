@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Quebec City landscaping companies near me | We'll Take Care Of Everything" 
-            desc="Quebec City landscaping companies near me: m  "
+            desc="Quebec City landscaping companies near me: r r"
             canonical={`${props.website}/quebec-city-landscaping-companies-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Quebec City landscaping companies near me" //KW
-            subtitle="m  "
+            subtitle="r r"
             />
             <Testimonial
             title="Let's Create Your Dream House"
             subtitle="High-Quality Window Services"
-            desc="l t"
+            desc="w c"
             image="/window-installation.jpg"
             alt="Quebec City landscaping companies near me"
             />
             <About 
             subtitle="Fantastic Window Installations" //KW
             title="Professional Quebec City landscaping companies near me" //KW
-            desc="n c v  "
-            image="/window-installations.jpg"
+            desc="n s a e"
+            image="/contractor.jpg"
             alt="Window Services"
             />
             <Savings
             subtitle="Affordable Window Services" //KW
-            desc="y"
+            desc="t"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="e"
-            cardDesc2="i"
+            cardDesc1="r"
+            cardDesc2="c"
             cardDesc3=" "
             />
             <Approach
             title="Quebec City landscaping companies near me" //KW
-            desc="o   i e"
+            desc=", e d f"
             />
             <Intro
             subtitle="Exceptional Quebec City landscaping companies near me" //KW
@@ -66,13 +66,13 @@
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
             cardDesc1=" "
-            cardDesc2="s  "
-            cardDesc3="l"
+            cardDesc2="u e"
+            cardDesc3="s"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc="s" //KW
-            desc2="e"
+            desc="o" //KW
+            desc2="l"
             />
             <Footer 
             companyName={props.companyName}

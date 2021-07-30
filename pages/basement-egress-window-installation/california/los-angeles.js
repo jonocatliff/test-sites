@@ -33,7 +33,7 @@
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Services"
+            subtitle="High-Quality Window Replacement"
             desc="d e"
             image="/contractor.jpg"
             alt="Los Angeles basement egress window installation"
@@ -42,11 +42,11 @@
             subtitle="Fantastic Window Repair" //KW
             title="Professional Los Angeles basement egress window installation" //KW
             desc="I u t s"
-            image="/window-washing.jpg"
-            alt="Window Services"
+            image="/window-installation.jpg"
+            alt="Window Replacement"
             />
             <Savings
-            subtitle="Affordable Window Services" //KW
+            subtitle="Affordable Window Replacement" //KW
             desc="n"
             cardTitle1="Save Time"
             cardTitle2="Save Money"

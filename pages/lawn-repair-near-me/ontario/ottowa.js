@@ -19,7 +19,7 @@
         <div>
             <Meta 
             title="Ottowa lawn repair near me | We'll Take Care Of Everything" 
-            desc="Ottowa lawn repair near me:    "
+            desc="Ottowa lawn repair near me: a  "
             canonical={`${props.website}/ottowa-lawn-repair-near-me`}
             />
             <Navigationbar
@@ -29,35 +29,35 @@
             />
             <Header
             title="Ottowa lawn repair near me" //KW
-            subtitle="   "
+            subtitle="a  "
             />
             <Testimonial
             title="Let's Create Your Dream House"
-            subtitle="High-Quality Window Replacement"
-            desc="a t"
-            image="/window-washing.jpg"
+            subtitle="High-Quality Window Repair"
+            desc="t  "
+            image="/window-installation.jpg"
             alt="Ottowa lawn repair near me"
             />
             <About 
             subtitle="Fantastic Window Cleaning" //KW
             title="Professional Ottowa lawn repair near me" //KW
-            desc="y s s t"
+            desc="  p x e"
             image="/window-installations.jpg"
-            alt="Window Replacement"
+            alt="Window Repair"
             />
             <Savings
-            subtitle="Affordable Window Replacement" //KW
-            desc="y"
+            subtitle="Affordable Window Repair" //KW
+            desc="o"
             cardTitle1="Save Time"
             cardTitle2="Save Money"
             cardTitle3="Save Effort"
-            cardDesc1="s"
-            cardDesc2="n"
-            cardDesc3="i"
+            cardDesc1="e"
+            cardDesc2="o"
+            cardDesc3="m"
             />
             <Approach
             title="Ottowa lawn repair near me" //KW
-            desc="s o o I"
+            desc="e f e r"
             />
             <Intro
             subtitle="Exceptional Ottowa lawn repair near me" //KW
@@ -65,14 +65,14 @@
             cardTitle1="Personalized Approach"
             cardTitle2="Fantastic Customer Service"
             cardTitle3="All Types"
-            cardDesc1="h"
-            cardDesc2="f f"
-            cardDesc3="n"
+            cardDesc1=" "
+            cardDesc2="r h"
+            cardDesc3="h"
             />
             <CTABottom
             title="Ready To Get Started?"
-            desc=" " //KW
-            desc2="e"
+            desc="t" //KW
+            desc2="a"
             />
             <Footer 
             companyName={props.companyName}
